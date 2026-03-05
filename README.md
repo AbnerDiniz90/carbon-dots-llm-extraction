@@ -1,12 +1,12 @@
-🧪 ## Carbon Dots LLM Extraction Pipeline
+# 🧪 Carbon Dots LLM Extraction Pipeline
 
 This repository contains the source code and documentation for an automated pipeline designed for data mining complex scientific literature. The project focuses on the structured extraction of synthesis parameters, morphology, and optical properties of Carbon Dots (CDs) using Large Language Models (LLMs).
 
-🎯 ## Project Objective
+## 🎯 Project Objective
 
 The literature on nanomaterials is growing exponentially, making manual review unsustainable. This project solves this bottleneck through a pipeline that reads original scientific articles (in .xml format) and extracts precise data into a structured format (JSON), paving the way for the construction of Knowledge Graphs.
 
-⚙️ ## Architecture and Methodology
+## ⚙️ Architecture and Methodology
 
 The pipeline was architected into independent and specialized modules:
 
@@ -18,7 +18,7 @@ Structured Extraction (JSON Schema): API requests utilizing response_format to f
 
 Auditing with LLM-as-a-Judge: Rigorous evaluation of the generated extractions using the Evidently AI framework. High-context models (e.g., Grok-4.1-fast) cross-reference the extraction with the original article using Few-Shot Learning and a "Prime Directive" (Quote-Before-Criticize) to mitigate hallucinations.
 
-📂 ## Repository Structure  
+## 📂 Repository Structure  
 
 API-teste.py: Main script containing all the logic for XML processing, API communication (OpenRouter), extraction, and evaluation via Evidently.
 
@@ -28,7 +28,7 @@ imgs/: Directory containing the generated graphs for metrics analysis (Benchmark
 
 .gitignore: Filter for temporary LaTeX compiler files and Python cache.
 
-🚀 ## Getting Started
+## 🚀 Getting Started
 
 Prerequisites
 
