@@ -1,0 +1,2304 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0924424719318473</prism:url><dc:identifier>doi:10.1016/j.sna.2019.111794</dc:identifier><eid>1-s2.0-S0924424719318473</eid><prism:doi>10.1016/j.sna.2019.111794</prism:doi><pii>S0924-4247(19)31847-3</pii><dc:title>Enzyme-triggered inner filter effect on the fluorescence of gold nanoclusters for ratiometric detection of mercury(II) ions via a dual-signal responsive logic </dc:title><prism:publicationName>Sensors and Actuators A: Physical</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09244247</prism:issn><prism:volume>302</prism:volume><prism:startingPage>111794</prism:startingPage><prism:pageRange>111794</prism:pageRange><articleNumber>111794</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2020-02-01</prism:coverDate><prism:coverDisplayDate>1 February 2020</prism:coverDisplayDate><prism:copyright>© 2019 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Li, Wenjia</dc:creator><dc:creator>Liu, Dong</dc:creator><dc:creator>Bi, Xiaoya</dc:creator><dc:creator>You, Tianyan</dc:creator><dc:description>
+                  Herein a novel ratiometric fluorescence strategy based on enzyme-triggered inner filter effect (IFE) was described to sensitively detect mercury ions (Hg2+) for the first time by using l-proline-protected gold nanoclusters (AuNCs) and 2,3-diaminophenazine (DAP) as IFE fluorophore and absorber. The IFE was derived from the overlap between the emission band of AuNCs and absorption band of DAP and confirmed by fluorescence lifetime decay tests. Based on IFE principle and ratiometric strategy, laccase (LACC)-catalyzed o-phenylenediamine (OPD) oxidation was utilized to produce DAP, whereas the activity of LACC can be monitored by Hg2+. In this way, the existence of Hg2+ could depress the emission of DAP while restore that of AuNCs, achieving the dual signal response of Hg2+, and their emission intensity ratio was dependent on the concentration of Hg2+. Under the optimized detection conditions, the linear range for Hg2+ determination was from 0.8 to 35 μM with a detection limit of 0.27 μM. Besides, it was successfully applied to the analysis of tap water and Yangtze river water. Our strategy can be used to assess the activity of LACC, and it also provided a novel way to construct other enzyme-based biosensors.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Ratiometric fluorescence</dcterms:subject><dcterms:subject>Gold nanocluster</dcterms:subject><dcterms:subject>Enzyme inhibition</dcterms:subject><dcterms:subject>Inner filter effect</dcterms:subject><dcterms:subject>Mercury(II) ions analysis</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0924424719318473" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0924424719318473" rel="scidir"/></coredata><objects><object ref="ga1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="228" size="19563">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-ga1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="562" height="452" size="60023">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="562" height="433" size="68259">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="566" height="224" size="32143">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="566" height="229" size="33086">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="566" height="531" size="56252">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-sc1.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="216" height="163" size="11215">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-ga1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="204" height="164" size="10416">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="213" height="164" size="11944">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="87" size="7891">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="88" size="6159">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="sc1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="175" height="164" size="8633">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-sc1.sml?httpAccept=%2A%2F%2A</object><object ref="ga1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1333" height="1009" size="135800">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-ga1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2490" height="2003" size="652882">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2491" height="1920" size="564729">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2506" height="993" size="240801">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2505" height="1012" size="273394">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2506" height="2351" size="491913">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-sc1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="612860">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="856190">https://api.elsevier.com/content/object/eid/1-s2.0-S0924424719318473-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85076887690</scopus-id><scopus-eid>2-s2.0-85076887690</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85076887690" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271352</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291718</xocs:ssid>
+         <xocs:ssid type="subj">291787</xocs:ssid>
+         <xocs:ssid type="subj">291827</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Sensors and Actuators A: Physical</xocs:srctitle>
+      <xocs:normalized-srctitle>SENSORSACTUATORSAPHYSICAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20191223">2019-12-23</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20191223">2019-12-23</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20191228">2019-12-28</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20191228">2019-12-28</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-01-30T18:04:42</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0924424719318473</xocs:eid>
+      <xocs:pii-formatted>S0924-4247(19)31847-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0924424719318473</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.sna.2019.111794</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0924424719X00175</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20200405">2020-04-05T01:05:31.700606Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20200201</xocs:date-search-begin>
+      <xocs:year-nav>2020</xocs:year-nav>
+      <xocs:indexeddate epoch="1577123094">2019-12-23T17:44:54.062823Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst primabst ref specialabst vitae</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0924-4247</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09244247</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>302</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>302</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 302</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>5</xocs:sort-order>
+      <xocs:first-fp>111794</xocs:first-fp>
+      <xocs:article-number>111794</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>111794</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20200201</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 February 2020</xocs:cover-date-text>
+      <xocs:cover-date-start>2020-02-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2020</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2019 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ENZYMETRIGGEREDINNERFILTEREFFECTFLUORESCENCEGOLDNANOCLUSTERSFORRATIOMETRICDETECTIONMERCURYIIIONSVIAADUALSIGNALRESPONSIVELOGIC</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>LI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>W</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials and reagents</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Apparatus</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of AuNCs</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Inner filter effect of DAP on the fluorescent AuNCs</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Ratiometric fluorescent sensing of Hg<ce:sup loc="post">2+</ce:sup> ions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Detection of Hg<ce:sup loc="post">2+</ce:sup> ions in water samples</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization of AuNCs</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Inner filter effect of DAP on the fluorescent AuNCs</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Principle of the Hg<ce:sup loc="post">2+</ce:sup> determination based on IFE</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Optimization of detection conditions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Analytical performance of IFE based fluorescent assay for Hg<ce:sup loc="post">2+</ce:sup> ions sensing</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Detection of Hg<ce:sup loc="post">2+</ce:sup> ions in water samples</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>HADI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>37</xocs:ref-first-fp>
+            <xocs:ref-last-lp>55</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>ERXLEBEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5124</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5128</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>ZOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>186</xocs:ref-first-fp>
+            <xocs:ref-last-lp>193</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1282</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1287</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6188</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6195</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4071</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4079</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>SAIKIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>149</xocs:ref-first-fp>
+            <xocs:ref-last-lp>156</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0040">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>263</xocs:ref-first-fp>
+            <xocs:ref-last-lp>269</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0045">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0050">
+            <xocs:ref-normalized-surname>DAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0055">
+            <xocs:ref-normalized-surname>SHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4155</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4160</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0060">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>734</xocs:ref-first-fp>
+            <xocs:ref-last-lp>740</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0065">
+            <xocs:ref-normalized-surname>FAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>29</xocs:ref-first-fp>
+            <xocs:ref-last-lp>43</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0070">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8427</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8442</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0075">
+            <xocs:ref-normalized-surname>JIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10778</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10781</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0080">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>82</xocs:ref-first-fp>
+            <xocs:ref-last-lp>87</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0085">
+            <xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2088</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2096</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0090">
+            <xocs:ref-normalized-surname>JIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>523</xocs:ref-first-fp>
+            <xocs:ref-last-lp>537</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0095">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5853</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5862</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0100">
+            <xocs:ref-normalized-surname>CHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>971</xocs:ref-first-fp>
+            <xocs:ref-last-lp>977</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0105">
+            <xocs:ref-normalized-surname>MU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>249</xocs:ref-first-fp>
+            <xocs:ref-last-lp>255</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0110">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2596</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2601</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0115">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>477</xocs:ref-first-fp>
+            <xocs:ref-last-lp>482</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0120">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1894</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1900</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0125">
+            <xocs:ref-normalized-surname>LORENZO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1124</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1128</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0130">
+            <xocs:ref-normalized-surname>SHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>208</xocs:ref-first-fp>
+            <xocs:ref-last-lp>214</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0135">
+            <xocs:ref-normalized-surname>TENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4897</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4902</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>LIX2020X111794</xocs:refkey3>
+         <xocs:refkey4ai>LIX2020X111794XW</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2021-12-28T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2021-12-28T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2019 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2019-12-25T08:30:12.004Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/eoas</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency>Natural Science Foundation of Jiangsu Province</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100004608</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-acronym>NSFC</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Natural Science Foundation of China</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100001809</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991</xocs:funding-agency-country>
+         </xocs:funding>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0924-4247(19)31847-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0924424719318473</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0924424719318473</xocs:eid>
+         <xocs:doi>10.1016/j.sna.2019.111794</xocs:doi>
+         <xocs:cid>271352</xocs:cid>
+         <xocs:timestamp>2020-04-05T01:05:31.700606Z</xocs:timestamp>
+         <xocs:cover-date-start>2020-02-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/MAIN/application/pdf/665573bd2e7b374525850bc8bc1005ef/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1844693</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0924424719318473-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/PREVIEW/image/png/7028cba8e6ce2a6ca4f928915512c40b/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>59461</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-ga1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/ga1/DOWNSAMPLED/image/jpeg/dcd05f47c0fd57860898dc0f364a0dc2/ga1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>19563</xocs:filesize>
+               <xocs:pixel-height>228</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/gr1/DOWNSAMPLED/image/jpeg/ead1d3bfe1791d4b66d3cc79e8a3a404/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>60023</xocs:filesize>
+               <xocs:pixel-height>452</xocs:pixel-height>
+               <xocs:pixel-width>562</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/gr2/DOWNSAMPLED/image/jpeg/481ce3d28185430c822271652e4e5e5a/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>68259</xocs:filesize>
+               <xocs:pixel-height>433</xocs:pixel-height>
+               <xocs:pixel-width>562</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/gr3/DOWNSAMPLED/image/jpeg/114a697c7a5bc02692488170d0a4e66c/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32143</xocs:filesize>
+               <xocs:pixel-height>224</xocs:pixel-height>
+               <xocs:pixel-width>566</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/gr4/DOWNSAMPLED/image/jpeg/f497353bb7a51e773d02be6e0b277c22/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33086</xocs:filesize>
+               <xocs:pixel-height>229</xocs:pixel-height>
+               <xocs:pixel-width>566</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-sc1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/sc1/DOWNSAMPLED/image/jpeg/582b0f637c9f07870bbce397e2472ea1/sc1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>56252</xocs:filesize>
+               <xocs:pixel-height>531</xocs:pixel-height>
+               <xocs:pixel-width>566</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-ga1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/ga1/THUMBNAIL/image/gif/ecf786a1e9f81ad9038148ba7b8b3bc7/ga1.sml</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11215</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>216</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/gr1/THUMBNAIL/image/gif/adbe7bcd13a456ce2b00f033021a51e5/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10416</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>204</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/gr2/THUMBNAIL/image/gif/60b21993fd168f0387ada293d8a6fe9f/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11944</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>213</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/gr3/THUMBNAIL/image/gif/94af33d11684713fc2958af6e0f77699/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7891</xocs:filesize>
+               <xocs:pixel-height>87</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/gr4/THUMBNAIL/image/gif/e41da72c93b3466e3b070d1a1b749881/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6159</xocs:filesize>
+               <xocs:pixel-height>88</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-sc1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/sc1/THUMBNAIL/image/gif/8aef131744ab16d9f9a54625b4bcf15c/sc1.sml</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8633</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>175</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-ga1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/ga1/HIGHRES/image/jpeg/2a63dfd8e1ba7975663a2d8a9b1dd6fa/ga1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>135800</xocs:filesize>
+               <xocs:pixel-height>1009</xocs:pixel-height>
+               <xocs:pixel-width>1333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/gr1/HIGHRES/image/jpeg/a5ebc5506c556f7b39629fe02a13dde8/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>652882</xocs:filesize>
+               <xocs:pixel-height>2003</xocs:pixel-height>
+               <xocs:pixel-width>2490</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/gr2/HIGHRES/image/jpeg/4b879036dad2b6ce9a9e7fbbfd5e21a8/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>564729</xocs:filesize>
+               <xocs:pixel-height>1920</xocs:pixel-height>
+               <xocs:pixel-width>2491</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/gr3/HIGHRES/image/jpeg/52c0927112db3ebeb4198a6e1cc5da6d/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>240801</xocs:filesize>
+               <xocs:pixel-height>993</xocs:pixel-height>
+               <xocs:pixel-width>2506</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/gr4/HIGHRES/image/jpeg/9e22cdf5c0cc629a742db5475af4cd56/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>273394</xocs:filesize>
+               <xocs:pixel-height>1012</xocs:pixel-height>
+               <xocs:pixel-width>2505</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-sc1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/sc1/HIGHRES/image/jpeg/4e7c63cb4b799c39bf2d9ddd2a4bc5a6/sc1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>491913</xocs:filesize>
+               <xocs:pixel-height>2351</xocs:pixel-height>
+               <xocs:pixel-width>2506</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924424719318473/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/a9e2fde2ad0c34657d574f0d7df85d85/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>612860</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924424719318473-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>856190</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10LC6CBVT1F/MAIN/application/pdf/f338f0dce4b5f61648d23d38fcbce171/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.5" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>SNA</jid>
+            <aid>111794</aid>
+            <ce:article-number>111794</ce:article-number>
+            <ce:pii>S0924-4247(19)31847-3</ce:pii>
+            <ce:doi>10.1016/j.sna.2019.111794</ce:doi>
+            <ce:copyright type="full-transfer" year="2019">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0005">
+               <ce:label>Scheme 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="spar0005" view="all">Schematic illustration of (A) the LACC catalyzed oxidation of OPD and (B) AuNCs/LACC/OPD sensing system based on IFE for Hg<ce:sup loc="post">2+</ce:sup> determination.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0005" role="short">Scheme 1</ce:alt-text>
+               <ce:link locator="sc1" xlink:href="pii:S0924424719318473/sc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0010">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="spar0010" view="all">(A) UV/vis absorbance spectra of AuNCs, HAuCl<ce:inf loc="post">4</ce:inf> and <ce:small-caps>l</ce:small-caps>-proline. (B) Fluorescence spectra, (C) TEM image and (D) fluorescence stability of AuNCs. Excitation wavelength: 340 nm. Inset of B: photograph of AuNCs under ambient and UV light (365 nm); inset of C: size distribution of Au NCs.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0010" role="short">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:href="pii:S0924424719318473/gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0015">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="spar0015" view="all">(A) Absorbance spectra of DAP and emission spectrum of AuNCs. (B) Emission spectra of AuNCs with various amounts of DAP (0, 2, 5, 8, 10, 15, 20, 25, 30, 35, 40, 50 μM). (C) The fluorescence lifetimes and (D) absorbance spectra of AuNCs with DAP and without DAP.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0015" role="short">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:href="pii:S0924424719318473/gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0020">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="spar0020" view="all">(A) Principle of the Hg<ce:sup loc="post">2+</ce:sup> determination; (B) Fluorescence emission spectra of AuNCs (1), AuNCs + OPD (2), AuNCs + LACC (3), AuNCs + Hg<ce:sup loc="post">2+</ce:sup> (4), AuNCs + OPD + Hg<ce:sup loc="post">2+</ce:sup> (5), AuNCs + LACC + Hg<ce:sup loc="post">2+</ce:sup> (6), OPD + LACC (7), AuNCs + OPD + LACC (8), AuNCs + OPD + LACC + Hg<ce:sup loc="post">2+</ce:sup> (9) ; [OPD] = 80 μM, [LACC] = 90 mU mL<ce:sup loc="post">−1</ce:sup>, [Hg<ce:sup loc="post">2+</ce:sup>] = 20 μM, pH = 7.0.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0020" role="short">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:href="pii:S0924424719318473/gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0025">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="spar0025" view="all">(A) Fluorescence spectra of AuNCs/OPD/LACC system in the presence of Hg<ce:sup loc="post">2+</ce:sup> with different concentrations (from bottom to top: 0, 0.8, 1, 1.5, 2, 3.5, 5, 6.5, 8, 10, 15, 20, 35 μM); (B) linear relationship between I<ce:inf loc="post">576</ce:inf>/I<ce:inf loc="post">419</ce:inf> and the logarithm of Hg<ce:sup loc="post">2+</ce:sup> concentration.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0025" role="short">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:href="pii:S0924424719318473/gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="spar0030" view="all">Analytical results for Hg<ce:sup loc="post">2+</ce:sup> ions in water samples (n = 3).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0030" role="short">Table 1</ce:alt-text>
+               <tgroup cols="5">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <thead valign="top">
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Sample</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Added (μmol/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Found (μmol/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Recovery (%, n = 3)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">RSD (%, n = 3)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" valign="middle" morerows="3" role="rowhead rowgroup">Tap water</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">1.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.98</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">98</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.97</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">5.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.59</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">112</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2.08</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">10.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">10.80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">108</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2.42</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" valign="middle" morerows="3" role="rowhead rowgroup">Yangtze river water</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">1.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.98</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">98</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">4.01</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">5.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.07</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">101</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">4.07</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">10.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">9.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">98</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3.15</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">Enzyme-triggered inner filter effect on the fluorescence of gold nanoclusters for ratiometric detection of mercury(II) ions via a dual-signal responsive logic</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" biographyid="vt0005" author-id="S0924424719318473-91c0a47e7bc8de856ae0d3823f717513">
+                  <ce:given-name>Wenjia</ce:given-name>
+                  <ce:surname>Li</ce:surname>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Data_curation">Data curation</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_original_draft">Writing - original draft</ce:contributor-role>
+               </ce:author>
+               <ce:author id="aut0010" biographyid="vt0010" author-id="S0924424719318473-03ec9334a229376ee60e442908ecf134">
+                  <ce:given-name>Dong</ce:given-name>
+                  <ce:surname>Liu</ce:surname>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_review_%26_editing">Writing - review &amp; editing</ce:contributor-role>
+                  <ce:cross-ref id="crf0005" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="aut0015" biographyid="vt0015" author-id="S0924424719318473-d58c6102c7986cca054763448b44e936">
+                  <ce:given-name>Xiaoya</ce:given-name>
+                  <ce:surname>Bi</ce:surname>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Resources">Resources</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Software">Software</ce:contributor-role>
+               </ce:author>
+               <ce:author id="aut0020" biographyid="vt0020" author-id="S0924424719318473-4b9b941407974f0e84232f4964bc4edb">
+                  <ce:given-name>Tianyan</ce:given-name>
+                  <ce:surname>You</ce:surname>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Supervision">Supervision</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_review_%26_editing">Writing - review &amp; editing</ce:contributor-role>
+                  <ce:cross-ref id="crf0010" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S0924424719318473-5540b20341f052d85bee8a80916f6042">
+                  <ce:textfn>Key Laboratory of Modern Agricultural Equipment and Technology, Ministry of Education, School of Agricultural Equipment Engineering, Jiangsu University, Zhenjiang 212013, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Key Laboratory of Modern Agricultural Equipment and Technology</sa:organization>
+                     <sa:organization>Ministry of Education</sa:organization>
+                     <sa:organization>School of Agricultural Equipment Engineering</sa:organization>
+                     <sa:organization>Jiangsu University</sa:organization>
+                     <sa:city>Zhenjiang</sa:city>
+                     <sa:postal-code>212013</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding authors.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="7" month="10" year="2019"/>
+            <ce:date-revised day="4" month="12" year="2019"/>
+            <ce:date-accepted day="9" month="12" year="2019"/>
+            <ce:abstract id="abs0005" class="graphical" view="all">
+               <ce:section-title id="sect0005">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0035" view="all">
+                     <ce:display>
+                        <ce:figure id="fig0030">
+                           <ce:link xlink:href="pii:S0924424719318473/ga1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" locator="ga1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:abstract id="abs0015" view="all" class="author"><ce:abstract-sec id="abst0015" view="all">
+                  <ce:simple-para id="spar0045" view="all">Herein a novel ratiometric fluorescence strategy based on enzyme-triggered inner filter effect (IFE) was described to sensitively detect mercury ions (Hg<ce:sup loc="post">2+</ce:sup>) for the first time by using <ce:small-caps>l</ce:small-caps>-proline-protected gold nanoclusters (AuNCs) and 2,3-diaminophenazine (DAP) as IFE fluorophore and absorber. The IFE was derived from the overlap between the emission band of AuNCs and absorption band of DAP and confirmed by fluorescence lifetime decay tests. Based on IFE principle and ratiometric strategy, laccase (LACC)-catalyzed o-phenylenediamine (OPD) oxidation was utilized to produce DAP, whereas the activity of LACC can be monitored by Hg<ce:sup loc="post">2+</ce:sup>. In this way, the existence of Hg<ce:sup loc="post">2+</ce:sup> could depress the emission of DAP while restore that of AuNCs, achieving the dual signal response of Hg<ce:sup loc="post">2+</ce:sup>, and their emission intensity ratio was dependent on the concentration of Hg<ce:sup loc="post">2+</ce:sup>. Under the optimized detection conditions, the linear range for Hg<ce:sup loc="post">2+</ce:sup> determination was from 0.8 to 35 μM with a detection limit of 0.27 μM. Besides, it was successfully applied to the analysis of tap water and Yangtze river water. Our strategy can be used to assess the activity of LACC, and it also provided a novel way to construct other enzyme-based biosensors.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0020">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Ratiometric fluorescence</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>Gold nanocluster</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>Enzyme inhibition</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Inner filter effect</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text>Mercury(II) ions analysis</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0005" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0025">Introduction</ce:section-title>
+                  <ce:para id="par0020" view="all">Mercury (Hg) has been classified as the most harmful heavy metal for its toxicity, and accumulated Hg<ce:sup loc="post">2+</ce:sup> in human could seriously damage the central nervous system [<ce:cross-ref id="crf0015" refid="bib0005">1</ce:cross-ref>]. The sensitive analysis of Hg<ce:sup loc="post">2+</ce:sup> has become essential to avoid Hg<ce:sup loc="post">2+</ce:sup> poisoning and guarantee human healthy. Therebefore, many analytical techniques for Hg<ce:sup loc="post">2+</ce:sup> have been developed, e.g. atomic absorption spectrometry [<ce:cross-ref id="crf0020" refid="bib0010">2</ce:cross-ref>], electrochemical [<ce:cross-ref id="crf0025" refid="bib0015">3</ce:cross-ref>], inductively coupled plasma-mass spectrometry [<ce:cross-ref id="crf0030" refid="bib0020">4</ce:cross-ref>] and fluorometry sensors [<ce:cross-ref id="crf0035" refid="bib0025">5</ce:cross-ref>]. Among these methods, fluorometry has the advantages of high sensitivity, rapid responsiveness and easy to use, allowing it highly useful for on-site testing [<ce:cross-ref id="crf0040" refid="bib0030">6</ce:cross-ref>]. Multiple fluorescent nanomaterials have been applied for Hg<ce:sup loc="post">2+</ce:sup> detection, such as quantum dot (QDs), carbon dot (CDs) and noble metal clusters [<ce:cross-refs id="crfs0005" refid="bib0035 bib0040 bib0045">7–9</ce:cross-refs>]. Recently, the fluorescent gold nanoclusters (AuNCs) have attracted special interest due to their molecule-like properties, high stability and facile synthesis. In terms of monitoring Hg<ce:sup loc="post">2+</ce:sup>, its metallophilic interaction with Au<ce:sup loc="post">+</ce:sup> could alter the electronic structure of AuNCs and induce the fluorescence quenching [<ce:cross-ref id="crf0045" refid="bib0050">10</ce:cross-ref>]. Shang et al. proposed a novel fluorescence assay for Hg<ce:sup loc="post">2+</ce:sup> based on dihydrolipoic acid-capped AuNCs with a detection limit down to 0.5 nM, showing the excellent availability of AuNCs for analysis [<ce:cross-ref id="crf0050" refid="bib0055">11</ce:cross-ref>]. Accordingly, various AuNCs with different capping ligands have been explored for the precise examination of Hg<ce:sup loc="post">2+</ce:sup>. Nevertheless, available AuNCs-based sensing systems mainly depend on the fluorescence quenching directly triggered by the target analyte, and such a single-signal responsive logic has some deficiencies in the further enhancement of analysis reliability and accuracy [<ce:cross-ref id="crf0055" refid="bib0060">12</ce:cross-ref>].</ce:para>
+                  <ce:para id="par0025" view="all">In this regard, particular interest has been devoted to ratiometric fluorescence assay in recent years for the attracting analytical properties relative to that of single emission fluorimetry [<ce:cross-ref id="crf0060" refid="bib0065">13</ce:cross-ref>,<ce:cross-ref id="crf0065" refid="bib0070">14</ce:cross-ref>]. Ratiometric fluorescence sensors collect the changes of two separated wavelengths and eliminate environmental interferences via self-calibration to improve the sensitivity and accuracy [<ce:cross-ref id="crf0070" refid="bib0075">15</ce:cross-ref>]. For fluorescent AuNCs, common strategies to achieve ratiometric sensing include synthesizing dual-emitting AuNCs and hybridizing AuNCs with other specie (QDs, CDs). Yang et al. synthesized dual-emitting AuNCs by using glutathione as reductant, and the two emissions served as reporter and reference signal for ratiometric sensing of Hg<ce:sup loc="post">2+</ce:sup> [<ce:cross-ref id="crf0075" refid="bib0080">16</ce:cross-ref>]. Unfortunately, relatively few types of AuNCs satisfied both the dual emission and high feasibility for Hg<ce:sup loc="post">2+</ce:sup> detection. On the contrary, AuNCs-based hybrids are extremely attracting in the construction of ratiometric sensors owing to the simple fabrication and easy regulation. Yan et al. proposed an ultrasensitive ratiometric fluorescence assay for Hg<ce:sup loc="post">2+</ce:sup> analysis based on nanohybrid of CDs and AuNCs with a detection limit of 28 nM [<ce:cross-ref id="crf0080" refid="bib0085">17</ce:cross-ref>]. Currently, most of these ratiometric fluorescence assays are based on Hg<ce:sup loc="post">2+</ce:sup>-dependent single signal logic by using the other emission as reference signal, yet such detection mode generally suffers from analyte-independent interferences [<ce:cross-ref id="crf0085" refid="bib0090">18</ce:cross-ref>]. Despite dual-signal detection mode can conquer the above issue, achieving dual signal responses to Hg<ce:sup loc="post">2+</ce:sup> remains a challenge in sensing system based on fluorescent nanomaterials.</ce:para>
+                  <ce:para id="par0030" view="all">Herein, we designed a novel AuNCs-based ratiometric fluorescent assay for the detection of Hg<ce:sup loc="post">2+</ce:sup> via dual-signal response logic. Inspired by inner-filter effect (IFE), a sensing system consisting of <ce:small-caps>l</ce:small-caps>-proline protected AuNCs and 2,3-diaminophenazine (DAP) was proposed. Although there have been many reports on the detection of targets based on enzymatic reactions [<ce:cross-ref id="crf0090" refid="bib0095">19</ce:cross-ref>,<ce:cross-ref id="crf0095" refid="bib0100">20</ce:cross-ref>], but building a ratio sensor based on laccase inhibition to detect mercury has not been reported. To achieve the dual-signal response, laccase (LACC)-catalyzed oxidation of o-phenylenediamine (OPD) was applied to generate DAP, whereas Hg<ce:sup loc="post">2+</ce:sup> could efficiently inhibit the activity of LACC and in turn depress the IFE-induced fluorescence quenching of AuNCs. In this way, the AuNCs/OPD/LACC system could be utilized as a novel enzyme-triggered ratiometric fluorescence sensor for Hg<ce:sup loc="post">2+</ce:sup> analysis. Based on this principle, the concept-of-proof experiment was performed as illustrated in <ce:cross-ref id="crf0100" refid="fig0005">Scheme 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig0005"/>. Briefly, the addition of OPD presented no influence on AuNCs. After the addition of LACC, two separated emissions could be observed from AuNCs and DAP. However, the presence of Hg<ce:sup loc="post">2+</ce:sup> inhibited the activity of LACC and further depressed IFE; as a result, the emission intensity of AuNCs restored while that of DAP showed a decrease. By recording relative changes of the two emissions, their intensity ratio was used as the yardstick for Hg<ce:sup loc="post">2+</ce:sup> concentration. Consequently, our proposed assay for the determination of Hg<ce:sup loc="post">2+</ce:sup> showed a linear range from 0.8 to 35 μM with a detection limit of 0.27 μM, and its feasibility in practical analysis was also confirmed.</ce:para>
+               </ce:section>
+               <ce:section id="sec0010" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0030">Experimental</ce:section-title>
+                  <ce:section id="sec0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sect0035">Materials and reagents</ce:section-title>
+                     <ce:para id="par0035" view="all">Tetrachloroauric (III) acid trihydrate (HAuCl<ce:inf loc="post">4</ce:inf>·3H<ce:inf loc="post">2</ce:inf>O, 99.9 %, ACROS Organics), <ce:small-caps>l</ce:small-caps>-proline (≥99 %, Sigma-Aldrich), laccase from Trametes versicolor (LACC, ≥0.5 U/mg, Sigma-Aldrich), <ce:italic>o</ce:italic>-phenylenediamine (OPD, 99.5 %, Aladdin), 2,3-diaminophenazine (DAP, ≥90 %, Aladdin), and mercury (II) nitrate monohydrate (Hg(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">2</ce:inf>·H<ce:inf loc="post">2</ce:inf>O, AR, SCRC) were utilized for the experiment. Both of Yangtze river water and tape water sample were collected locally in Zhenjiang. Millipore-Q water was used to prepare solutions, and all the reagents were used as received.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sect0040">Apparatus</ce:section-title>
+                     <ce:para id="par0040" view="all">Morphological characterization was performed using a transmission electron microscope (FEI TECNAI F20, USA). Fluorescence spectra were obtained with a spectrophotometer (Edinburgh FS5, UK). UV–vis absorption spectra were measured on a Shimadzu UV-2450 spectrophotometer (Japan). Malvern Nano-ZS Zeta Sizer (Malvern, UK) was employed to measure the Zeta potentials.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sect0045">Preparation of AuNCs</ce:section-title>
+                     <ce:para id="par0045" view="all">The fluorescent AuNCs were synthesized via a “heated method” [<ce:cross-ref id="crf0105" refid="bib0105">21</ce:cross-ref>]. Briefly, 8.0 mL of 10 M <ce:small-caps>l</ce:small-caps>-proline solution was rapidly dropped into a boiling solution of HAuCl<ce:inf loc="post">4</ce:inf> (32.0 mL, 3.0 mM). The mixture was stirred for an additional 10 min and then it was removed from heating and cooled down to room temperature. Then the centrifugation (10,000 rpm, 15 min) was followed and the supernatant containing fluorescent AuNCs was collected. Finally, the product was stored at 4 °C before use. The concentration of AuNCs was calculated to be 0.34 mM based on the molar concentration of HAuCl<ce:inf loc="post">4</ce:inf>.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sect0050">Inner filter effect of DAP on the fluorescent AuNCs</ce:section-title>
+                     <ce:para id="par0050" view="all">To investigate the interaction between DAP and AuNCs, 450 μL of their mixture consisting of 50 μL AuNCs stock solution and DAP with different concentrations (0, 2, 5, 8, 10, 15, 20, 25, 30, 35, 40 and 50 μM) were prepared with PBS solution (10 mM, pH 7.0).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0035" view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title id="sect0055">Ratiometric fluorescent sensing of Hg<ce:sup loc="post">2+</ce:sup> ions</ce:section-title>
+                     <ce:para id="par0055" view="all">To estimate the analytical properties of proposed system toward Hg<ce:sup loc="post">2+</ce:sup>, the mixture containing LACC (18 μL, 2.25 U/mL) and Hg<ce:sup loc="post">2+</ce:sup> with certain concentration was incubated at 37 °C for 60 min. Subsequently, 15 μL of OPD (2.4 mM) was added to react for another 70 min. After the addition of AuNCs (50 μL), the solution was diluted to 450 μL with PBS (10 mM, pH 7.0). All the fluorescence spectra in this work were tested with an excitation wavelength of 340 nm.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0040" view="all">
+                     <ce:label>2.6</ce:label>
+                     <ce:section-title id="sect0060">Detection of Hg<ce:sup loc="post">2+</ce:sup> ions in water samples</ce:section-title>
+                     <ce:para id="par0060" view="all">Tap water and Yangtze River water samples were obtained locally (Zhenjiang, China). Before testing, the samples were carefully filtered with a 0.45 μm membrane, and then spiked with the standard Hg<ce:sup loc="post">2+</ce:sup> stock solution.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0045" role="discussion" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0065">Results and discussion</ce:section-title>
+                  <ce:section id="sec0050" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sect0070">Characterization of AuNCs</ce:section-title>
+                     <ce:para id="par0065" view="all">The UV/Vis spectra of AuNCs exhibits significant absorption in the range of 247–415 nm, whereas no absorption is observed for <ce:small-caps>l</ce:small-caps>-proline, indicating the presence of gold nanoparticle with dimension below 2 nm (<ce:cross-ref id="crf0110" refid="fig0010">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig0010"/>A) [<ce:cross-ref id="crf0115" refid="bib0110">22</ce:cross-ref>]. AuNCs has strong fluorescence emission intensity at 340 nm excitation wavelength, but HAuCl<ce:inf loc="post">4</ce:inf> and <ce:small-caps>l</ce:small-caps>-proline have no fluorescence emission (Fig. S1A). The results suggested that the AuNCs is successfully synthesized. Fig. S1B shows that the emission wavelength of AuNCs changes at different excitation wavelengths. The excitation and emission fluorescence maximum of AuNCs locates at 340 and 419 nm, respectively (<ce:cross-ref id="crf0120" refid="fig0010">Fig. 1</ce:cross-ref>B). The AuNCs solution produces the light blue fluorescence under 365 nm UV irradiation (inset of <ce:cross-ref id="crf0125" refid="fig0010">Fig. 1</ce:cross-ref>B). As evidenced by TEM images, AuNCs shows the uniform and well-dispersed morphology with narrow size distribution, and the average diameter is 1.3 nm (<ce:cross-ref id="crf0130" refid="fig0010">Fig. 1</ce:cross-ref>C). ESI mass spectrometry was applied to characterize the defined chemical composition of the generated Au NCs. Fig. S2A is the enlarged mass spectrum in the range of <ce:italic>m/z</ce:italic> = 800–1000. Fig. S2B and C show the peaks at <ce:italic>m/z</ce:italic> = 817.4 and 875.0 were assigned to [Au<ce:inf loc="post">7</ce:inf>P<ce:inf loc="post">2</ce:inf>+Na+H]<ce:sup loc="post">2+</ce:sup> and [Au<ce:inf loc="post">7</ce:inf>P<ce:inf loc="post">3</ce:inf>+Na+H]<ce:sup loc="post">2+</ce:sup>, respectively. The results suggested that the synthesized clusters consisted of seven gold atoms. Its room-temperature fluorescence QY was estimated to be 1.4 %. After storage for 30 days, the fluorescence intensity of AuNCs displays no obvious change, revealing the satisfactory long-term stability (<ce:cross-ref id="crf0135" refid="fig0010">Fig. 1</ce:cross-ref>D).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0055" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sect0075">Inner filter effect of DAP on the fluorescent AuNCs</ce:section-title>
+                     <ce:para id="par0070" view="all">Typically, the absorption of absorber overlaps with the emission of fluorophore can induce the IFE [<ce:cross-ref id="crf0140" refid="bib0115">23</ce:cross-ref>]. Based on this principle, we designed a ratiometric fluorescent assay based on the enzyme-triggered IFE for the detection of Hg<ce:sup loc="post">2+</ce:sup>.</ce:para>
+                     <ce:para id="par0075" view="all">As shown in <ce:cross-ref id="crf0145" refid="fig0015">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig0015"/>A, the absorbance spectrum of DAP significantly overlaps with the emission of AuNCs, allowing the efficient IFE between AuNCs and DAP. Along with higher concentration of DAP, the emission intensity of AuNCs at 419 nm (I<ce:inf loc="post">419</ce:inf>) decreases while that at 576 nm (I<ce:inf loc="post">576</ce:inf>) assigned to DAP gradually increases (<ce:cross-ref id="crf0150" refid="fig0015">Fig. 2</ce:cross-ref>B). Moreover, Fig. S3 reveals that the intensity ratio of I<ce:inf loc="post">576</ce:inf>/I<ce:inf loc="post">419</ce:inf> increases linearly with the concentration of DAP raising. The linear function is I<ce:inf loc="post">576</ce:inf>/I<ce:inf loc="post">419</ce:inf> = 0.0078 + 0.026 C<ce:inf loc="post">(DAP)</ce:inf> with a correlation coefficient of 0.98, and the detection limit is 0.67 μM (S/N = 3). It further confirms that DAP can quench the fluorescence of AuNCs. The fluorescence lifetime decay curve of AuNCs before and after the addition of DAP is shown in <ce:cross-ref id="crf0155" refid="fig0015">Fig. 2</ce:cross-ref>C. The calculated average lifetime of AuNCs was 6.771 ns and 6.772 ns, respectively, suggesting no complex formed [<ce:cross-ref id="crf0160" refid="bib0120">24</ce:cross-ref>]. On the other hand, the absorption spectrum of AuNCs have no obvious change in the presence and absence of DAP (<ce:cross-ref id="crf0165" refid="fig0015">Fig. 2</ce:cross-ref>D), which can conclude the complex have not formed between AuNCs and DAP. The zeta potential measurements revealed that DAP could not be adsorbed by AuNCs via electrostatic interaction because both of them are negatively charged (Fig. S4). Thus, the Förster resonance energy transfer between AuNCs and DAP could hardly occur, and it was IFE inducing the fluorescence quenching of AuNCs.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0060" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sect0080">Principle of the Hg<ce:sup loc="post">2+</ce:sup> determination based on IFE</ce:section-title>
+                     <ce:para id="par0080" view="all">Based on the above observation, a ratiometric fluorescence strategy to detect Hg<ce:sup loc="post">2+</ce:sup> was established, and the principle was schematically represented in <ce:cross-ref id="crf0170" refid="fig0020">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig0020"/>A. Briefly, AuNCs and DAP generated from OPD oxidation could provide two fluorescence emissions at 419 nm and 576 nm, respectively. However, the addition of Hg<ce:sup loc="post">2+</ce:sup> inhibits the activity of LACC and leads the relative changes of their emissions. Its feasibility was evaluated in detail. The fluorescent intensity of AuNCs shows no obvious change after incubated with OPD, LACC, Hg<ce:sup loc="post">2+</ce:sup>, OPD + Hg<ce:sup loc="post">2+</ce:sup> or LACC + Hg<ce:sup loc="post">2+</ce:sup> (<ce:cross-ref id="crf0175" refid="fig0020">Fig. 3</ce:cross-ref>B). After the addition of OPD and LACC, LACC oxidizes OPD to produce DAP, so the emission of AuNCs is strongly quenched along with a new emission assigned to DAP observed at 576 nm. When Hg<ce:sup loc="post">2+</ce:sup> ions were added into the reaction system, the activity of LACC was inhibited and the amount of DAP was decreased, thus the fluorescence of AuNCs was recovered. Therefore, the proposed ratiometric fluorescence system can be used for Hg<ce:sup loc="post">2+</ce:sup> monitoring.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0065" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="sect0085">Optimization of detection conditions</ce:section-title>
+                     <ce:para id="par0085" view="all">In order to achieve satisfactory analysis properties toward Hg<ce:sup loc="post">2+</ce:sup>, the optimization of critical experimental conditions was carried out via variable-controlling approach. The influences of following issues on the analytical performance were assessed in detail, including OPD concentration, LACC concentration, incubation temperature, pH value of solution, incubation time of OPD with LACC, incubation time of AuNCs with mixture.</ce:para>
+                     <ce:para id="par0090" view="all">Fig. S5A shows that the fluorescence intensity ratio of I<ce:inf loc="post">576</ce:inf>/I<ce:inf loc="post">419</ce:inf> raised substantially with concentration of OPD (C<ce:inf loc="post">OPD</ce:inf>) increasing. To avoid excessive difference between I<ce:inf loc="post">576</ce:inf> and I<ce:inf loc="post">419</ce:inf>, C<ce:inf loc="post">OPD</ce:inf> was selected to be 80 μM with the I<ce:inf loc="post">576</ce:inf>/I<ce:inf loc="post">419</ce:inf> value of 1.93. Meanwhile, increasing the concentration of LACC (C<ce:inf loc="post">LACC</ce:inf>) can also enlarge I<ce:inf loc="post">576</ce:inf>/I<ce:inf loc="post">419</ce:inf> (Fig. S5B), and 90 mU mL<ce:sup loc="post">−1</ce:sup> of C<ce:inf loc="post">LACC</ce:inf> was chosen to regulate the value of I<ce:inf loc="post">576</ce:inf>/I<ce:inf loc="post">419</ce:inf> around 1.90. As shown in Fig. S5C, the reaction between OPD and LACC reaches equilibrium at 37 ℃ with the maximum reaction rate. 37 ℃ was chosen as the optimal incubation temperature. Fig. S5D shows that the fluorescence intensity ratios of I<ce:inf loc="post">576</ce:inf>/I<ce:inf loc="post">419</ce:inf> firstly increased with the increasing pH values and then decreased gradually with the largest ratios at the pH 7.0. LACC activity was inhibited under acidic or alkaline conditions. The stronger the acidity or alkalinity, the stronger the inhibition. Therefore, the buffer solution with pH value of 7.0 was selected. The value of I<ce:inf loc="post">576</ce:inf>/I<ce:inf loc="post">419</ce:inf> reached a maximum at 70 min for the incubation of OPD and LACC, and 70 min was the optimal time for the incubation (Fig. S5E). As shown in Fig. S5F, the value of I<ce:inf loc="post">576</ce:inf>/I<ce:inf loc="post">419</ce:inf> remains unchanged in 10 min for the incubation of AuNCs and generated DAP. As a result, 3 min was chosen for the following experiments.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0070" view="all">
+                     <ce:label>3.5</ce:label>
+                     <ce:section-title id="sect0090">Analytical performance of IFE based fluorescent assay for Hg<ce:sup loc="post">2+</ce:sup> ions sensing</ce:section-title>
+                     <ce:para id="par0095" view="all">Under optimal conditions, Hg<ce:sup loc="post">2+</ce:sup> ions were detected with the as-developed AuNCs-DAP system. The fluorescent spectra of AuNCs/OPD/LACC system upon the addition of Hg<ce:sup loc="post">2+</ce:sup> with different concentrations were shown in <ce:cross-ref id="crf0180" refid="fig0025">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig0025"/>A. The value of I<ce:inf loc="post">419</ce:inf> increased while that of I<ce:inf loc="post">576</ce:inf> decreased continuously with the growth of C<ce:inf loc="post">Hg2+</ce:inf>. A linear response between I<ce:inf loc="post">576</ce:inf>/I<ce:inf loc="post">419</ce:inf> and the logarithmic C<ce:inf loc="post">Hg2+</ce:inf> was obtained in the range of 0.8–35 μM, and the linear regression equation was I<ce:inf loc="post">576</ce:inf>/I<ce:inf loc="post">419</ce:inf> = −2.9671 − 0.6981 Log C<ce:inf loc="post">Hg2+</ce:inf> (R<ce:sup loc="post">2</ce:sup> = 0.9973) (<ce:cross-ref id="crf0185" refid="fig0025">Fig. 4</ce:cross-ref>B). The detection limit for Hg<ce:sup loc="post">2+</ce:sup> was 0.27 μM (S/N = 3). Table S1 lists some recent reports focused on the detection of Hg<ce:sup loc="post">2+</ce:sup>. Compared with these sensors, the proposed assay is not among the best sensing ones in terms of linear range and detection limit, which was ascribed to the limited inhibition ability of Hg<ce:sup loc="post">2+</ce:sup> toward LACC [<ce:cross-ref id="crf0190" refid="bib0125">25</ce:cross-ref>]. Nevertheless, such an assay can be employed to monitor the C<ce:inf loc="post">Hg2+</ce:inf> in sewage discharge; moreover, it also provides a new way to assess the enzyme activity of LACC with high accuracy and convenience [<ce:cross-ref id="crf0195" refid="bib0130">26</ce:cross-ref>,<ce:cross-ref id="crf0200" refid="bib0135">27</ce:cross-ref>].</ce:para>
+                     <ce:para id="par0100" view="all">Subsequently, the selectivity was examined by measuring the affection of Hg<ce:sup loc="post">2+</ce:sup> and foreign metal ions (K<ce:sup loc="post">+</ce:sup>, Ca<ce:sup loc="post">2+</ce:sup>, Fe<ce:sup loc="post">2+</ce:sup>, Fe<ce:sup loc="post">3+</ce:sup>, Pb<ce:sup loc="post">2+</ce:sup>, Cu<ce:sup loc="post">2+</ce:sup>, Ni<ce:sup loc="post">2+</ce:sup>, Mn<ce:sup loc="post">2+</ce:sup>, Cd<ce:sup loc="post">2+</ce:sup>) with the same concentration of 5 μM on the ratiometric signal (I<ce:inf loc="post">576</ce:inf>/I<ce:inf loc="post">419</ce:inf>). As shown in Fig. S6, the addition of Hg<ce:sup loc="post">2+</ce:sup> induces the largest change of I<ce:inf loc="post">576</ce:inf>/I<ce:inf loc="post">419</ce:inf>, whereas other metal ions except Cu<ce:sup loc="post">2+</ce:sup> and Cd<ce:sup loc="post">2+</ce:sup> shows negligible effect on Hg<ce:sup loc="post">2+</ce:sup> detection. The slight change of the ratiometric signal induced by Cu<ce:sup loc="post">2+</ce:sup> and Cd<ce:sup loc="post">2+</ce:sup> were due to their inhibition toward LACC.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0075" view="all">
+                     <ce:label>3.6</ce:label>
+                     <ce:section-title id="sect0095">Detection of Hg<ce:sup loc="post">2+</ce:sup> ions in water samples</ce:section-title>
+                     <ce:para id="par0105" view="all">The application feasibility of the IFE-based ratiometric fluorescence strategy was evaluated by standard addition method to determine Hg<ce:sup loc="post">2+</ce:sup> in tap water and Yangtze River water. As shown in <ce:cross-ref id="crf0205" refid="tbl0005">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl0005"/>, the resultant recoveries in tap water samples ranges from 98 % to 112 % with the RSD below 2.42 %, while that values for Yangtze river water samples ranges from 98 % to 101 % with the RSD less than 4.07 %, revealing the satisfactory reliability and accuracy. The proposed method possessed the potential in the practical applications to determine Hg<ce:sup loc="post">2+</ce:sup>.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0080" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0100">Conclusions</ce:section-title>
+                  <ce:para id="par0110" view="all">A novel AuNCs/OPD/LACC-based ratiometric fluorescent assay was proposed for sensitive detection of Hg<ce:sup loc="post">2+</ce:sup>. In such a sensing system, dual-signal response mode, namely the simultaneous fluorescent switch-off of DAP and switch-on of AuNCs, was evidently achieved by taking advantage of self-designed enzyme-triggered IFE. Consequently, the developed assay displayed a linear range from 0.8 to 35 μM with a detection limit down to 0.27 μM for Hg<ce:sup loc="post">2+</ce:sup> detection. Satisfactory recoveries were obtained in practical analysis of tap water and Yangtze river water samples, demonstrating its feasibility and reliability for analytical applications. Despite its insufficient sensitivity relative to other state-of-the-art fluorescent sensors, our proposed assay provided a new enzyme-triggered IFE strategy to settle the dual-signal detection mode of ratiometric fluorescent sensors. We believed that such a strategy and sensing assay described here could inspire more investigations and boost the development of fluorescent sensors for high-accuracy monitoring of Hg<ce:sup loc="post">2+</ce:sup>.</ce:para>
+               </ce:section>
+               <ce:section id="sec00005" view="all">
+                  <ce:section-title id="sect00005">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="par00005" view="all">
+                     <ce:bold>Wenjia Li:</ce:bold> Investigation, Data curation, Writing - original draft. <ce:bold>Dong Liu:</ce:bold> Methodology, Conceptualization, Formal analysis, Writing - review &amp; editing. <ce:bold>Xiaoya Bi:</ce:bold> Resources, Software. <ce:bold>Tianyan You:</ce:bold> Supervision, Conceptualization, Writing - review &amp; editing.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0105">Acknowledgments</ce:section-title>
+               <ce:para id="par0115" view="all">We would like to thank the supports from the <ce:grant-sponsor id="gs0005" sponsor-id="https://doi.org/10.13039/501100001809" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Natural Science Foundation of China</ce:grant-sponsor> (No. <ce:grant-number refid="gs0005">21675065</ce:grant-number>, <ce:grant-number refid="gs0005">61901193</ce:grant-number>), the Innovation/Entrepreneurship Program of Jiangsu Province, <ce:grant-sponsor id="gs0010" sponsor-id="https://doi.org/10.13039/501100004608" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Natural Science Foundation of Jiangsu Province</ce:grant-sponsor> (No. <ce:grant-number refid="gs0010">BK20160490</ce:grant-number>), and <ce:grant-sponsor id="gs0015" sponsor-id="https://doi.org/10.13039/501100012246" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Priority Academic Program Development of Jiangsu Higher Education Institutions</ce:grant-sponsor>.</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="sec0085" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sect0110">Supplementary data</ce:section-title>
+                  <ce:para id="par0120" view="all">Supplementary material related to this article can be found, in the online version, at doi:<ce:inter-ref id="intr0005" xlink:href="https://doi.org/10.1016/j.sna.2019.111794" xlink:type="simple">https://doi.org/10.1016/j.sna.2019.111794</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="sec0090" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sect0115">Supplementary data</ce:section-title>
+                  <ce:para id="par0125" view="all">The following is Supplementary data to this article:<ce:display>
+                        <ce:e-component id="upi0005">
+                           <ce:link xlink:href="pii:S0924424719318473/mmc1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" locator="mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0120">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Hadi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>To</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Hui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>McKay</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Aqueous mercury adsorption by activated carbons</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>37</sb:first-page>
+                              <sb:last-page>55</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Erxleben</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ruzicka</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Atomic absorption spectroscopy for mercury, automated by sequential injection and miniaturized in lab-on-valve system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5124</sb:first-page>
+                              <sb:last-page>5128</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Zou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Z.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.M.</ce:given-name>
+                                 <ce:surname>Zeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.Z.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.K.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Q.</ce:given-name>
+                                 <ce:surname>Tian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Improved sensitivity and reproducibility in electrochemical detection of trace mercury(II) by bromide ion &amp; electrochemical oxidation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Talanta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>203</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>186</sb:first-page>
+                              <sb:last-page>193</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.T.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Z.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.Y.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Determination of trace mercury species by high performance liquid chromatography–inductively coupled plasma mass spectrometry after cloud point extraction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Hazard. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>172</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1282</sb:first-page>
+                              <sb:last-page>1287</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Ouyang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Z.</ce:given-name>
+                                 <ce:surname>Zhan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.S.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Turn-on fluoresence sensor for Hg<ce:sup loc="post">2+</ce:sup> in food based on fret between aptamers-functionalized upconversion nanoparticles and gold nanoparticles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Agric. Food Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6188</sb:first-page>
+                              <sb:last-page>6195</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Hassan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.M.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Z.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.S.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabricating an acetylcholinesterase modulated UCNPs-Cu<ce:sup loc="post">2+</ce:sup> fluorescence biosensor for ultrasensitive detection of organophosphorus pesticides-diazinon in food</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Agric. Food Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>14</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4071</sb:first-page>
+                              <sb:last-page>4079</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Saikia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dutta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.S.</ce:given-name>
+                                 <ce:surname>Sarma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.C.</ce:given-name>
+                                 <ce:surname>Adhikary</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>CdTe/ZnS core/shell quantum dot-based ultrasensitive PET sensor for selective detection of Hg(II) in aqueous media</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sens. Actuators B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>230</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>149</sb:first-page>
+                              <sb:last-page>156</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.B.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.Y.</ce:given-name>
+                                 <ce:surname>You</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nitrogen and sulfur co-doped carbon dots for highly selective and sensitive detection of Hg(II) ions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>74</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>263</sb:first-page>
+                              <sb:last-page>269</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.M.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cytidine-stabilized gold nanocluster as a fluorescence turn-on and turn-off probe for dual functional detection of Ag<ce:sup loc="post">+</ce:sup> and Hg<ce:sup loc="post">2+</ce:sup>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>870</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>7</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.W.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.Y.</ce:given-name>
+                                 <ce:surname>Hua</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>You</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.L.</ce:given-name>
+                                 <ce:surname>Xiong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>One-pot synthesis of bovine serum albumin protected gold/silver bimetallic nanoclusters for ratiometric and visual detection of mercury</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microchem. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>139</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>8</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Shang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Stockmar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Popescu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Trouillet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bruns</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Gerthsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.U.</ce:given-name>
+                                 <ce:surname>Nienhaus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microwave-assisted rapid synthesis of luminescent gold nanoclusters for sensing Hg<ce:sup loc="post">2+</ce:sup> in living cells using fluorescence imaging</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4155</sb:first-page>
+                              <sb:last-page>4160</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Gold nanoclusters as switch-off fluorescent probe for detection of uric acid based on the inner filter effect of hydrogen peroxide-mediated enlargement of gold nanoparticles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>734</sb:first-page>
+                              <sb:last-page>740</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Zhan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.J.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Energy transfer cassettes based on organic fluorophores: construction and applications in ratiometric sensing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Soc. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>29</sb:first-page>
+                              <sb:last-page>43</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Hou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ratiometric fluorescence, electrochemiluminescence, and photoelectrochemical chemo/biosensing based on semiconductor quantum dots</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8427</sb:first-page>
+                              <sb:last-page>8442</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.T.</ce:given-name>
+                                 <ce:surname>Jia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.Q.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.F.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.F.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.P.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.H.</ce:given-name>
+                                 <ce:surname>Qian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>FRET-based mito-specific fluorescent probe for ratiometric detection and imaging of endogenous peroxynitrite: dyad of Cy3 and Cy5</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>138</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10778</sb:first-page>
+                              <sb:last-page>10781</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.Q.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.K.</ce:given-name>
+                                 <ce:surname>Tian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Nie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.X.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ratiometric fluorescence detection of mercuric ions by sole intrinsic dual emitting gold nanoclusters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sens. Actuators B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>278</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>82</sb:first-page>
+                              <sb:last-page>87</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.T.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.K.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dual-emissive nanohybrid of carbon dots and gold nanoclusters for sensitive determination of mercuric ions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2088</sb:first-page>
+                              <sb:last-page>2096</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Gui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Lv</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabrication strategies, sensing modes and analytical applications of ratiometric electrochemical biosensors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>523</sb:first-page>
+                              <sb:last-page>537</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.F.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.N.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Q.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>
+                                 <ce:italic>N</ce:italic>,<ce:italic>N</ce:italic>′-Di-carboxymethyl perylene diimide functionalized magnetic nanocomposites with enhanced peroxidase-like activity for colorimetric sensing of H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> and glucose</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>New J. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5853</sb:first-page>
+                              <sb:last-page>5862</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Paper-based fluorescent sensor for rapid naked-eye detection of acetylcholinesterase activity and organophosphorus pesticides with high sensitivity and selectivity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>971</sb:first-page>
+                              <sb:last-page>977</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Mu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Qi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Qiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.X.</ce:given-name>
+                                 <ce:surname>Nie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Facile one-pot synthesis of <ce:small-caps>l</ce:small-caps>-proline-stabilized fluorescent gold nanoclusters and its application as sensing probes for serum iron</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>249</sb:first-page>
+                              <sb:last-page>255</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Q.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Z.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Blending of HAuCl<ce:inf loc="post">4</ce:inf> and histidine in aqueous solution: a simple approach to the Au<ce:inf loc="post">10</ce:inf> cluster</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2596</sb:first-page>
+                              <sb:last-page>2601</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.W.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A sensitive enzyme biosensor for catecholics detection via the inner filter effect on fluorescence of CdTe quantum dots</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sens. Actuators B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>173</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>477</sb:first-page>
+                              <sb:last-page>482</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.W.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Cao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.K.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.R.</ce:given-name>
+                                 <ce:surname>Guan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Y.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.G.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sensitive fluorescent detection of melamine in raw milk based on the inner filter effect of Au nanoparticles on the fluorescence of CdTe quantum dots</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Food Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>135</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1894</sb:first-page>
+                              <sb:last-page>1900</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lorenzo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Moldes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Rodrıguez Couto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ma A.</ce:given-name>
+                                 <ce:surname>Sanroman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Inhibition of laccase activity from Trametes versicolor by heavy metals and organic compounds</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chemosphere</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1124</sb:first-page>
+                              <sb:last-page>1128</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.F.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Rosenzweig</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Rosenzweig</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Luminescent quantum dots fluorescence resonance energy transfer-based probes for enzymatic activity and enzyme inhibitors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>208</sb:first-page>
+                              <sb:last-page>214</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sbref0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Teng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.F.</ce:given-name>
+                                 <ce:surname>Jia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.K.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ratiometric fluorescence detection of tyrosinase activity and dopamine using thiolate-protected gold nanoclusters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4897</sb:first-page>
+                              <sb:last-page>4902</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+            <ce:biography id="vt0005" view="all">
+               <ce:simple-para id="spar0050" view="all">
+                  <ce:bold>Wenjia Li</ce:bold> is currently studying for doctor degree under the supervision of Prof. Tianyan You in school of Agricultural Equipment Engineering, Jiangsu University, China. Her research interest is the fabrication of biosensors for agriculture analysis.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt0010" view="all">
+               <ce:simple-para id="spar0055" view="all">
+                  <ce:bold>Dong Liu</ce:bold> obtained his Ph.D. degree from Changchun Institute of Applied Chemistry (CIAC), Chinese Academy of Sciences (CAS) in 2013. Currently, he is an associate professor at School of Agricultural Equipment Engineering, Jiangsu University, China. His current research interests are focused on the synthesis of functional nanomaterials and their applications in analysis and catalysis.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt0015" view="all">
+               <ce:simple-para id="spar0060" view="all">
+                  <ce:bold>Xiaoya Bi</ce:bold> is studying for M.S. degree under the supervision of Prof. Tianyan You in school of Agricultural Equipment Engineering, Jiangsu University, China. Her research interest is agricultural biosensing.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt0020" view="all">
+               <ce:simple-para id="spar0065" view="all">
+                  <ce:bold>Prof. Tianyan You</ce:bold>, received her Ph.D. degree in analytical chemistry from CIAC, CAS in 1999. Since Dec. 2003, she has been working in CIAC as a professor. Now, she is working in School of Agricultural Equipment Engineering, Jiangsu University as a professor. Her research interests are the functional nanomaterials and their applications in biosensing.</ce:simple-para>
+            </ce:biography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

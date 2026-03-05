@@ -1,0 +1,897 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0167577X24006281</prism:url><dc:identifier>doi:10.1016/j.matlet.2024.136490</dc:identifier><eid>1-s2.0-S0167577X24006281</eid><prism:doi>10.1016/j.matlet.2024.136490</prism:doi><pii>S0167-577X(24)00628-1</pii><dc:title>Ratiometric fluorescence sensor prepared by silica-based fluorescent surface molecularly imprinted polymer for efficient detection of bisphenol A </dc:title><prism:publicationName>Materials Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>0167577X</prism:issn><prism:volume>365</prism:volume><prism:startingPage>136490</prism:startingPage><prism:pageRange>136490</prism:pageRange><articleNumber>136490</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2024-06-15</prism:coverDate><prism:coverDisplayDate>15 June 2024</prism:coverDisplayDate><prism:copyright>© 2024 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Feng, Huanran</dc:creator><dc:creator>Wang, Peng</dc:creator><dc:creator>Bai, Hao</dc:creator><dc:creator>Shao, Yanming</dc:creator><dc:description>
+                  Rapid and accurate bisphenol A (BPA) detection is becoming increasingly important in many sectors. We developed a simple molecularly imprinted polymer (MIP) ratiometric fluorescence sensor to efficiently detect BPA by combining red fluorescence SiO2@CdTe@MIP with blue fluorescence carbon dots (CDs). The addition of BPA to the sensor will cause a rapid decline in the fluorescence intensity of CdTe at 625 nm, while the signal of CDs at 405 nm remains constant, leading to a change in the fluorescence color. A good linear relationship exists between the fluorescence intensity ratio of [I405/I625]/[I405/I625]0 and concentrations of BPA ranging from 1 to 100 μM with a minimum detection limit of 0.4 μM. Meanwhile, the prepared sensor shows remarkable efficacy in analyzing BPA, with more consistent average recoveries ranging from 95.6 % to 110.9 % and smaller deviations of 4.7 % in water samples.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Bisphenol A</dcterms:subject><dcterms:subject>Molecularly imprinted</dcterms:subject><dcterms:subject>Fluorescence</dcterms:subject><dcterms:subject>Nanoparticles</dcterms:subject><dcterms:subject>Sensors</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0167577X24006281" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0167577X24006281" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="383" height="253" size="23378">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24006281-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="795" height="280" size="68609">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24006281-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="798" height="561" size="104110">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24006281-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="145" size="8468">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24006281-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="77" size="9838">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24006281-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="154" size="12834">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24006281-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1699" height="1124" size="147663">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24006281-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3520" height="1240" size="658031">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24006281-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3535" height="2483" size="930367">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24006281-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="378365">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24006281-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="352526">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24006281-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85190512942</scopus-id><scopus-eid>2-s2.0-85190512942</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85190512942" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271572</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Materials Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>MATERIALSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20240416">2024-04-16</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20240416">2024-04-16</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20240418">2024-04-18</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20240418">2024-04-18</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-04-27T08:44:17</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0167577X24006281</xocs:eid>
+      <xocs:pii-formatted>S0167-577X(24)00628-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0167577X24006281</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.matlet.2024.136490</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0167577X24X00075</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240606">2024-06-06T13:22:33.840313Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20240615</xocs:date-search-begin>
+      <xocs:year-nav>2024</xocs:year-nav>
+      <xocs:indexeddate epoch="1713232389">2024-04-16T01:53:09.519098Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst orcid primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0167-577X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>0167577X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>365</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>365</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 365</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>69</xocs:sort-order>
+      <xocs:first-fp>136490</xocs:first-fp>
+      <xocs:article-number>136490</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>136490</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20240615</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 June 2024</xocs:cover-date-text>
+      <xocs:cover-date-start>2024-06-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2024</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>© 2024 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>RATIOMETRICFLUORESCENCESENSORPREPAREDBYSILICABASEDFLUORESCENTSURFACEMOLECULARLYIMPRINTEDPOLYMERFOREFFICIENTDETECTIONBISPHENOLA</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>FENG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental section</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization of materials</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Sensing performance of the as-prepared sensor</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>MARS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>94</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>TANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-article-number>341174</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>TANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>17223</xocs:ref-first-fp>
+            <xocs:ref-last-lp>17231</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>378</xocs:ref-first-fp>
+            <xocs:ref-last-lp>385</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-article-number>134256</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-article-number>124081</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>FENGX2024X136490</xocs:refkey3>
+         <xocs:refkey4ai>FENGX2024X136490XH</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2026-04-18T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2026-04-18T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2024 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2024-05-03T12:35:55.447Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>National Natural Science Foundation of China</xocs:funding-agency-matched-string>
+            <xocs:funding-id>22005234</xocs:funding-id>
+            <xocs:funding-id>21806097</xocs:funding-id>
+            <xocs:funding-agency-acronym>NSFC</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Natural Science Foundation of China</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100001809</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>This work was supported by the National Natural Science Foundation of China (22005234, 21806097).</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework>
+         <xocs:asf-license>https://doi.org/10.15223/policy-017</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-037</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-012</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-029</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-004</xocs:asf-license>
+      </xocs:article-sharing-framework>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0167-577X(24)00628-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0167577X24006281</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0167577X24006281</xocs:eid>
+         <xocs:doi>10.1016/j.matlet.2024.136490</xocs:doi>
+         <xocs:cid>271572</xocs:cid>
+         <xocs:timestamp>2024-06-06T13:22:33.840313Z</xocs:timestamp>
+         <xocs:cover-date-start>2024-06-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0167577X24006281-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24006281/MAIN/application/pdf/a22ca27df175f82807589910463711ae/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>4240844</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0167577X24006281-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24006281/PREVIEW/image/png/c7accf56aa16d2967c9d89e5371a28d6/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>55047</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24006281-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24006281/gr1/DOWNSAMPLED/image/jpeg/a3d45854eacd1a32527887f67d41444f/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>23378</xocs:filesize>
+               <xocs:pixel-height>253</xocs:pixel-height>
+               <xocs:pixel-width>383</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24006281-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24006281/gr2/DOWNSAMPLED/image/jpeg/436ccf9e1b12a2f5a484787a8e14482b/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>68609</xocs:filesize>
+               <xocs:pixel-height>280</xocs:pixel-height>
+               <xocs:pixel-width>795</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24006281-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24006281/gr3/DOWNSAMPLED/image/jpeg/969853ccea42fb93d3473c591ca5bb60/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>104110</xocs:filesize>
+               <xocs:pixel-height>561</xocs:pixel-height>
+               <xocs:pixel-width>798</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24006281-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24006281/gr1/THUMBNAIL/image/gif/b3e222d9daa59cb033fa076340cc842c/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8468</xocs:filesize>
+               <xocs:pixel-height>145</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24006281-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24006281/gr2/THUMBNAIL/image/gif/2c0fccc6722eff4dc8dbbad25690a8d2/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9838</xocs:filesize>
+               <xocs:pixel-height>77</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24006281-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24006281/gr3/THUMBNAIL/image/gif/ad50e079e9fbfee3724f3440c374e21e/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12834</xocs:filesize>
+               <xocs:pixel-height>154</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24006281-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24006281/HIGHRES/image/jpeg/599ab130c66682d0b2550b08975f1f20/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>147663</xocs:filesize>
+               <xocs:pixel-height>1124</xocs:pixel-height>
+               <xocs:pixel-width>1699</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24006281-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24006281/HIGHRES/image/jpeg/e006200eb4bcbbd346cfcecd03312ce8/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>658031</xocs:filesize>
+               <xocs:pixel-height>1240</xocs:pixel-height>
+               <xocs:pixel-width>3520</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24006281-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24006281/HIGHRES/image/jpeg/5ff3fa4dbf3c8e2f574a04f1e13456ad/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>930367</xocs:filesize>
+               <xocs:pixel-height>2483</xocs:pixel-height>
+               <xocs:pixel-width>3535</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24006281-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24006281/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/7722cde52acf9dbdae527f63d2ff7ea5/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>378365</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24006281-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>352526</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10P1J0C6LM9/MAIN/application/pdf/0e45290959ed6933436ce0e14c6ac2ea/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="sco" xml:lang="en" version="5.6">
+         <item-info>
+            <jid>MLBLUE</jid>
+            <aid>136490</aid>
+            <ce:article-number>136490</ce:article-number>
+            <ce:pii>S0167-577X(24)00628-1</ce:pii>
+            <ce:doi>10.1016/j.matlet.2024.136490</ce:doi>
+            <ce:copyright type="full-transfer" year="2024">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0015" view="all">Preparation of SiO<ce:inf loc="post">2</ce:inf>@CdTe@MIP.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0167577X24006281/gr1" id="lk00005"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0020" view="all">(A) TEM images of SiO<ce:inf loc="post">2</ce:inf> (a, d), SiO<ce:inf loc="post">2</ce:inf>@CdTe@MIP (b, e), and SiO<ce:inf loc="post">2</ce:inf>@CdTe@NIP (c, f). (B) FT-IR spectra of CdTe (a), SiO<ce:inf loc="post">2</ce:inf> (b), and SiO<ce:inf loc="post">2</ce:inf>@CdTe@MIP (c).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0167577X24006281/gr2" id="lk00010"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0025" view="all">(A) The effect of incubation time. (B) Fluorescence analysis of BPA by CDs/SiO<ce:inf loc="post">2</ce:inf>@CdTe@MIP (a), CDs/SiO<ce:inf loc="post">2</ce:inf>@CdTe@NIP (b), and SiO<ce:inf loc="post">2</ce:inf>@CdTe@MIP (c). Linear relationship between [I<ce:inf loc="post">405</ce:inf>/I<ce:inf loc="post">625</ce:inf>]/[I<ce:inf loc="post">405</ce:inf>/I<ce:inf loc="post">625</ce:inf>]<ce:inf loc="post">0</ce:inf> and BPA concentrations (d). (C) Selectivity of the sensor. (D) Fluorescence quenching based on electron transfer (a) and molecular orbital theory (b).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0167577X24006281/gr3" id="lk00015"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Ratiometric fluorescence sensor prepared by silica-based fluorescent surface molecularly imprinted polymer for efficient detection of bisphenol A</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author orcid="0000-0002-9594-4316" id="au005" author-id="S0167577X24006281-cbb3e22d8c126bc76326670aadbcfb2f">
+                  <ce:given-name>Huanran</ce:given-name>
+                  <ce:surname>Feng</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:cross-ref refid="af005" id="c0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author orcid="0009-0006-0622-7240" id="au010" author-id="S0167577X24006281-b8489bdb2d47e2055f2a8f7e86d4a589">
+                  <ce:given-name>Peng</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:cross-ref refid="af010" id="c0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author orcid="0009-0001-0856-2919" id="au015" author-id="S0167577X24006281-fa1de7712b4e8b5c10ba75b49ea5600e">
+                  <ce:given-name>Hao</ce:given-name>
+                  <ce:surname>Bai</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:cross-ref refid="af010" id="c0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author orcid="0000-0002-9397-9080" id="au020" author-id="S0167577X24006281-d974df771148d7a4a02c23d41c63ff70">
+                  <ce:given-name>Yanming</ce:given-name>
+                  <ce:surname>Shao</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:cross-ref refid="af010" id="c0020">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0025">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af005" affiliation-id="S0167577X24006281-82fec15b4f77bd70ea00260ea8ef13dc">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Interdisciplinary Research Center of Smart Sensors, Shaanxi Key Laboratory of High-Orbits-Electron Materials and Protection Technology for Aerospace, School of Advanced Materials and Nanotechnology, Xidian University, Shaanxi 710126, People’s Republic of China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Interdisciplinary Research Center of Smart Sensors</sa:organization>
+                     <sa:organization>Shaanxi Key Laboratory of High-Orbits-Electron Materials and Protection Technology for Aerospace</sa:organization>
+                     <sa:organization>School of Advanced Materials and Nanotechnology</sa:organization>
+                     <sa:organization>Xidian University</sa:organization>
+                     <sa:state>Shaanxi</sa:state>
+                     <sa:postal-code>710126</sa:postal-code>
+                     <sa:country>People’s Republic of China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx005">Interdisciplinary Research Center of Smart Sensors, Shaanxi Key Laboratory of High-Orbits-Electron Materials and Protection Technology for Aerospace, School of Advanced Materials and Nanotechnology, Xidian University, Shaanxi 710126, People’s Republic of China</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af010" affiliation-id="S0167577X24006281-7945ea527aaf4f20180c22424139c6a5">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>College of Chemistry and Chemical Engineering, Shaanxi University of Science and Technology, Xi’an, Shaanxi 710021, People’s Republic of China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>College of Chemistry and Chemical Engineering</sa:organization>
+                     <sa:organization>Shaanxi University of Science and Technology</sa:organization>
+                     <sa:city>Xi’an</sa:city>
+                     <sa:state>Shaanxi</sa:state>
+                     <sa:postal-code>710021</sa:postal-code>
+                     <sa:country>People’s Republic of China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx010">College of Chemistry and Chemical Engineering, Shaanxi University of Science and Technology, Xi’an, Shaanxi 710021, People’s Republic of China</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="13" month="1" year="2024"/>
+            <ce:date-revised day="5" month="4" year="2024"/>
+            <ce:date-accepted day="14" month="4" year="2024"/>
+            
+            <ce:abstract class="author" id="ab010" view="all"><ce:abstract-sec id="as010" view="all">
+                  <ce:simple-para id="sp0010" view="all">Rapid and accurate bisphenol A (BPA) detection is becoming increasingly important in many sectors. We developed a simple molecularly imprinted polymer (MIP) ratiometric fluorescence sensor to efficiently detect BPA by combining red fluorescence SiO<ce:inf loc="post">2</ce:inf>@CdTe@MIP with blue fluorescence carbon dots (CDs). The addition of BPA to the sensor will cause a rapid decline in the fluorescence intensity of CdTe at 625 nm, while the signal of CDs at 405 nm remains constant, leading to a change in the fluorescence color. A good linear relationship exists between the fluorescence intensity ratio of [I<ce:inf loc="post">405</ce:inf>/I<ce:inf loc="post">625</ce:inf>]/[I<ce:inf loc="post">405</ce:inf>/I<ce:inf loc="post">625</ce:inf>]<ce:inf loc="post">0</ce:inf> and concentrations of BPA ranging from 1 to 100 μM with a minimum detection limit of 0.4 μM. Meanwhile, the prepared sensor shows remarkable efficacy in analyzing BPA, with more consistent average recoveries ranging from 95.6 % to 110.9 % and smaller deviations of 4.7 % in water samples.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st015">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Bisphenol A</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Molecularly imprinted</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>Fluorescence</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Nanoparticles</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0025">
+                  <ce:text>Sensors</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:data-availability id="da005" view="all">
+               <ce:section-title id="st020">Data availability</ce:section-title>
+               <ce:para id="p0030" view="all">Data will be made available on request.</ce:para>
+            </ce:data-availability>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st025">Introduction</ce:section-title>
+                  <ce:para id="p0035" view="all">Bisphenol A (BPA) is an industrial chemical commonly used in epoxy resins and polycarbonate plastics. However, ubiquitous BPA exposure from the widespread use of BPA-containing products causes irreparable damage to the environment and human health. Additionally, BPA is an endocrine disruptor with substantial adverse effects on human reproductive health <ce:cross-ref refid="b0005" id="c0030">[1]</ce:cross-ref>. Therefore, developing a rapid and accurate detection technique is essential for detecting BPA in real samples. Fluorescence analysis for compound detection has become common because of its low cost and simple operation. Consequently, quantum dots (QDs) have been extensively applied in fluorescence analysis due to their exceptional optical properties and chemical stability <ce:cross-ref refid="b0010" id="c0035">[2]</ce:cross-ref>. Additionally, the molecularly imprinted fluorescence sensors can accurately detect the target molecule based on the fluorescence signal of QDs, combined with molecularly imprinted polymers (MIPs), which can selectively bind target molecules in a complex matrix. Furthermore, ratiometric fluorescence sensing can be used by changing the ratio of two kinds of fluorescence signals to eliminate the interference of environmental factors and achieve the visual detection effect <ce:cross-ref refid="b0015" id="c0040">[3]</ce:cross-ref>. On the other hand, a mixing strategy was used to construct a hybrid sensor to streamline fluorescence color regulation, bypass the tedious preparation process of traditional core–shell ratiometric fluorescence sensors <ce:cross-ref refid="b0020" id="c0045">[4]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0040" view="all">Herein, we developed a molecularly imprinted ratiometric fluorescence sensor by mixing CDs and SiO<ce:inf loc="post">2</ce:inf>@CdTe@MIP to detect BPA efficiently. The CDs were used as a reference signal in the ratiometric fluorescent system. The results of the fluorescence experiment indicated that the sensor exhibited exceptional detection capabilities and successfully identified BPA in water samples.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st030">Experimental section</ce:section-title>
+                  <ce:para id="p0045" view="all">
+                     <ce:cross-ref refid="f0005" id="c0050">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/> displays the preparation procedure for the sensor. Silicon dioxide (SiO<ce:inf loc="post">2</ce:inf>) was initially prepared as a carrier for MIPs. Next, CdTe, BPA, and (3-aminopropyl)triethoxysilane (APTES) were stirred to form a ligand complex, and SiO<ce:inf loc="post">2</ce:inf> was subsequently dispersed. Then, TEOS was cross-linked on the surface of SiO<ce:inf loc="post">2</ce:inf> to obtain MIPs (SiO<ce:inf loc="post">2</ce:inf>@CdTe@MIP). The non-imprinted polymer (SiO<ce:inf loc="post">2</ce:inf>@CdTe@NIP) was prepared using the same procedure without adding BPA. A certain amount of CDs was mixed with the MIPs to construct a ratiometric fluorescence sensor.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st035">Results and discussion</ce:section-title>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="st040">Characterization of materials</ce:section-title>
+                     <ce:para id="p0050" view="all">The TEM images (<ce:cross-ref refid="f0010" id="c0055">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/>A a and d) show that SiO<ce:inf loc="post">2</ce:inf> has good monodispersity with a regular spherical shape and a diameter of 180 nm. After the imprinted layer was formed, the particle size of SiO<ce:inf loc="post">2</ce:inf>@CdTe@MIP increased to approximately 220 nm (<ce:cross-ref refid="f0010" id="c0060">Fig. 2</ce:cross-ref>A b and e). Furthermore, the SiO<ce:inf loc="post">2</ce:inf>@CdTe@MIP and SiO<ce:inf loc="post">2</ce:inf>@CdTe@NIP (<ce:cross-ref refid="f0010" id="c0065">Fig. 2</ce:cross-ref>A e and f) had similar morphologies. <ce:cross-ref refid="f0010" id="c0070">Fig. 2</ce:cross-ref>B displays the FT-IR spectra of materials. The absorption peaks at 1,557 and 1,338 cm<ce:sup loc="post">−1</ce:sup> can be ascribed to the symmetrical and asymmetric stretching vibration of COO<ce:sup loc="post">–</ce:sup> in thioglycolic acid (TGA), indicating the successful preparation of TGA-modified CdTe (<ce:cross-ref refid="f0010" id="c0075">Fig. 2</ce:cross-ref>B a). The peaks at 801 and 1,091 cm<ce:sup loc="post">−1</ce:sup> were attributed to the stretching vibrations of Si-O, confirming the successful preparation of SiO<ce:inf loc="post">2</ce:inf> (<ce:cross-ref refid="f0010" id="c0080">Fig. 2</ce:cross-ref>B b). After imprited, the peaks of benzene rings in BPA appeared at 1,600 and 1,460 cm<ce:sup loc="post">−1</ce:sup>, and the peaks at 2,925 and 2,855 cm<ce:sup loc="post">−1</ce:sup> corresponded to the stretching vibration peak of –CH<ce:inf loc="post">2</ce:inf> in APTES (<ce:cross-ref refid="f0010" id="c0085">Fig. 2</ce:cross-ref>B c) <ce:cross-ref refid="b0025" id="c0090">[5]</ce:cross-ref>. In the XRD pattern of the CdTe, the peaks at 2θ = 24°, 41°, and 47°- demonstrate that the CdTe have a typical cubic sphalerite crystal structure (<ce:cross-ref refid="s0045" id="c0095">Fig.S1</ce:cross-ref>).</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="st045">Sensing performance of the as-prepared sensor</ce:section-title>
+                     <ce:para id="p0055" view="all">The fluorescence of CDs in the presence of BPA and its structural analogs was measured to investigate if CDs could be used as reference signals. The fluorescence intensity of the solution remained constant after incubation with BPA and its analogs (<ce:cross-ref refid="s0045" id="c0100">Fig. S2</ce:cross-ref>). The as-prepared CDs and CdTe revealed single fluorescence emission peaks at 405 and 605 nm, respectively (<ce:cross-ref refid="s0045" id="c0105">Fig. S3</ce:cross-ref>). When CDs were blended with MIPs in a particular proportion, a novel ratiometric fluorescence sensor was obtained, indicating CDs could be used as a reference signal in detecting BPA. Meanwhile, good sensor stability was demonstrated by the well-maintained relative fluorescence intensity after being stored for seven days (<ce:cross-ref refid="s0045" id="c0110">Fig. S4</ce:cross-ref>). Additionally, the incubation period was optimized. When MIPs bound to BPA, the fluorescence intensity of CdTe decreased rapidly within 1 min, followed by a gradual decline until it remained relatively stable at 10 min (<ce:cross-ref refid="f0015" id="c0115">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/>A). This can be attributed to the change in the number of imprinted sites on the surface of MIPs. Initially, the uptake of BPA led to a rapid reduction in the number of imprinted sites, which stabilized after 10 min.</ce:para>
+                     <ce:para id="p0060" view="all">The sensitivity of the sensor was investigated by comparing the quenching degree of MIPs and NIPs with various concentrations of BPA. When no BPA was added, two independent emission peaks attributed to CDs and CdTe appeared (<ce:cross-ref refid="f0015" id="c0120">Fig. 3</ce:cross-ref>B a). The red fluorescence of CdTe was gradually quenched as BPA concentrations increased. However, the blue fluorescence of CDs remained unchanged, increasing the fluorescence intensity ratio [I<ce:inf loc="post">405</ce:inf>/I<ce:inf loc="post">625</ce:inf>]/[I<ce:inf loc="post">405</ce:inf>/I<ce:inf loc="post">625</ce:inf>]<ce:inf loc="post">0</ce:inf>. The fluorescent color of the detection solution changed gradually with the increase in the concentration of BPA (inset of <ce:cross-ref refid="f0015" id="c0125">Fig. 3</ce:cross-ref>Ba). A linear relationship was observed between the concentrations of BPA and [I<ce:inf loc="post">405</ce:inf>/I<ce:inf loc="post">625</ce:inf>]/[I<ce:inf loc="post">405</ce:inf>/I<ce:inf loc="post">625</ce:inf>]<ce:inf loc="post">0</ce:inf>, which satisfied the linear equation of y = 0.02181x + 1.0337 (R<ce:sup loc="post">2</ce:sup> = 0.9960) (<ce:cross-ref refid="f0015" id="c0130">Fig. 3</ce:cross-ref>B d). Furthermore, the detection limit was 0.4 μM. For CDs/SiO<ce:inf loc="post">2</ce:inf>@CdTe@NIP, the fluorescence intensity at 625 nm was just slightly decreased as the concentration of BPA increased (<ce:cross-ref refid="f0015" id="c0135">Fig. 3</ce:cross-ref>B b). The change of [I<ce:inf loc="post">405</ce:inf>/I<ce:inf loc="post">625</ce:inf>]/[I<ce:inf loc="post">405</ce:inf>/I<ce:inf loc="post">625</ce:inf>]<ce:inf loc="post">0</ce:inf> was inconspicuous, and the color change of the mixed solution was difficult to distinguish with the naked eye (inset of <ce:cross-ref refid="f0015" id="c0140">Fig. 3</ce:cross-ref>B b). Additionally, BPA was detected by MIPs in the absence of CDs. The fluorescence intensity at 625 nm decreased gradually as the BPA concentration increased (<ce:cross-ref refid="f0015" id="c0145">Fig. 3</ce:cross-ref>B c). However, the color changes of the detection mixture are difficult to observe because of the absence of a reference signal. Furthermore, TBBPA, BIP, and BP were selected as structural analogs of BPA to investigate the specific recognition ability of the sensor. In comparison to the slight fluorescence quenching observed in the presence of TBBPA, BIP, and BP, considerable quenching was found in the presence of BPA (<ce:cross-ref refid="f0015" id="c0150">Fig. 3</ce:cross-ref>C). The selectivity was caused by the presence of imprinted sites, whose size and interaction closely matched with the BPA.</ce:para>
+                     <ce:para id="p0065" view="all">
+                        <ce:cross-ref refid="f0015" id="c0155">Fig. 3</ce:cross-ref>D depicts the quenching mechanism of the sensor. When BPA was combined with the MIPs, a complex was formed between the electron-rich –OH connected to the aromatic ring and the electron-deficient amino group on the surface of CdTe due to a strong hydrogen bonding interaction. Therefore, the energy excited by CdTe was transferred to the complex, causing fluorescence quenching. Notably, there is no spectra overlap between the UV absorption spectra of BPA and the fluorescence spectra of MIPs <ce:cross-ref refid="b0030" id="c0160">[6]</ce:cross-ref>. The quenching mechanism can be explained based on molecular orbital theory. A fluorescent signal was generated when CdTe was excited by UV light. When BPA bound with the MIPs, an interaction was observed between the amino group on the surface of the CdTe and the hydroxyl group of the BPA due to hydrogen bonding, which resulted in the electron transfer between the BPA and the CdTe. Due to the higher energy level of the formed complex than that of BPA, the electrons of the CdTe, which were excited again, could be directly transferred from the conduction band of MIPs to the lowest unoccupied molecular orbital of the formed complex. Therefore, no fluorescent signal was generated by CdTe after BPA was bounded with MIPs. Based on the analysis mentioned above, the quenching mechanism of the prepared sensor is photo-induced electron transfer.</ce:para>
+                     <ce:para id="p0070" view="all">The feasibility of this sensor in practical applications was also investigated. Three different concentrations of BPA were added to water samples for spiked experiments. <ce:cross-ref refid="s0045" id="c0165">Table S1</ce:cross-ref> demonstrates that the recoveries of BPA in tap and lake water ranged from 96.0 %–110.9 % and 95.6 %–108.2 %, respectively, with RSDs &lt; 4.7 % (n = 3). These results suggest that the method can be used to analyze BPA water samples. Furthermore, the established method was compared with previously reported methods for BPA (<ce:cross-ref refid="s0045" id="c0170">Table S2</ce:cross-ref>). Although our method has a relatively high LOD for BPA, the simple preparation process and easy regulation of the fluorescent color endow this hybrid sensor with substantial potential for utilizing it to detect low-concentration pollutants.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0030" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st050">Conclusion</ce:section-title>
+                  <ce:para id="p0075" view="all">A hybrid molecularly imprinted ratiometric fluorescence sensor was developed using a simple mixed method to detect BPA. This time-saving strategy can significantly shorten and simplify the preparation processes compared to the traditional molecularly imprinted ratiometric fluorescence sensors, which were prepared using the multi-step coating method. The sensor exhibits the selectivity of MIPs and the sensitivity of QDs. Additionally, fluorescence experiments show that the prepared sensor has a good fluorescence response for BPA.</ce:para>
+               </ce:section>
+               <ce:section id="s0035" view="all">
+                  <ce:section-title id="st055">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p0080" view="all">
+                     <ce:bold>Huanran Feng:</ce:bold> Writing – review &amp; editing, Validation, Data curation. <ce:bold>Peng Wang:</ce:bold> Methodology, Formal analysis. <ce:bold>Hao Bai:</ce:bold> Investigation, Data curation. <ce:bold>Yanming Shao:</ce:bold> Writing – original draft, Supervision, Methodology, Investigation.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi005" view="all">
+               <ce:section-title id="st060">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0085" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st065">Acknowledgments</ce:section-title>
+               <ce:para id="p0090" view="all">This work was supported by the <ce:grant-sponsor sponsor-id="https://doi.org/10.13039/501100001809" xlink:type="simple" id="gp005" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Natural Science Foundation of China</ce:grant-sponsor> (<ce:grant-number refid="gp005">22005234</ce:grant-number>, <ce:grant-number refid="gp005">21806097</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section view="compact-standard" id="s0040">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st070">Supplementary data</ce:section-title>
+                  <ce:para id="p0095" view="all">Supplementary data to this article can be found online at <ce:inter-ref xlink:href="https://doi.org/10.1016/j.matlet.2024.136490" xlink:type="simple" id="ir005">https://doi.org/10.1016/j.matlet.2024.136490</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section view="extended" id="s0045">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st075">Supplementary data</ce:section-title>
+                  <ce:para id="p0100" view="all">The following are the Supplementary data to this article:<ce:display>
+                        <ce:e-component id="m0005">
+                           <ce:label>Supplementary Data 1</ce:label>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S0167577X24006281/mmc1" id="lk00020"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st080">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mars</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mejri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Hamzaoui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Elfil</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Molecularly imprinted curcumin nanoparticles decorated paper for electrochemical and fluorescence dual-mode sensing of bisphenol A</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microchim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>188</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>94</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx015">A. Mars, A. Mejri, A.H. Hamzaoui, H. Elfil, Molecularly imprinted curcumin nanoparticles decorated paper for electrochemical and fluorescence dual-mode sensing of bisphenol A, Microchim. Acta 188(3) (2021) 94.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Smartphone-integrated tri-color fluorescence sensing platform based on acid-sensitive fluorescence imprinted polymers for dual-mode visual intelligent detection of ibuprofen, chloramphenicol and florfenicol</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1260</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:article-number>341174</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx020">K. Tang, Y. Chen, X. Wang, Q. Zhou, H. Lei, Z. Yang, Z. Zhang, Smartphone-integrated tri-color fluorescence sensing platform based on acid-sensitive fluorescence imprinted polymers for dual-mode visual intelligent detection of ibuprofen, chloramphenicol and florfenicol, Anal. Chim. Acta 1260 (2023) 341174.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ratiometric Fluorescence Capillary Sensor-Integrated Molecular Imprinting for Simultaneous Detection of Two Biological Indicators of Parkinson’s Disease</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>49</sb:issue-nr>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>17223</sb:first-page>
+                              <sb:last-page>17231</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx025">S. Tang, X. Wu, P. Zhao, K. Tang, Y. Chen, J. Fu, H. Lei, Z. Yang, Z. Zhang, Ratiometric Fluorescence Capillary Sensor-Integrated Molecular Imprinting for Simultaneous Detection of Two Biological Indicators of Parkinson’s Disease, Anal. Chem. 94(49) (2022) 17223-17231.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Molecular Imprinting Based Hybrid Ratiometric Fluorescence Sensor for the Visual Determination of Bovine Hemoglobin</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Sensors</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>378</sb:first-page>
+                              <sb:last-page>385</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx030">X. Wang, S. Yu, W. Liu, L. Fu, Y. Wang, J. Li, L. Chen, Molecular Imprinting Based Hybrid Ratiometric Fluorescence Sensor for the Visual Determination of Bovine Hemoglobin, ACS Sensors 3(2) (2018) 378-385.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>One-pot synthesis of ternary-emission molecularly imprinted fluorescence sensor based on metal–organic framework for visual detection of chloramphenicol</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Food Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>402</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:article-number>134256</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx035">X. Wu, S. Tang, P. Zhao, K. Tang, Y. Chen, J. Fu, S. Zhou, Z. Yang, Z. Zhang, One-pot synthesis of ternary-emission molecularly imprinted fluorescence sensor based on metal–organic framework for visual detection of chloramphenicol, Food Chem. 402 (2023) 134256.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Imprinted ratiometric fluorescence capillary sensor based on UiO-66-NH<ce:inf loc="post">2</ce:inf> for rapid determination of sialic acid</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Talanta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>253</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:article-number>124081</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx040">P. Zhao, S. Tang, X. Wu, Y. Chen, K. Tang, J. Fu, H. Lei, Z. Yang, Z. Zhang, Imprinted ratiometric fluorescence capillary sensor based on UiO-66-NH2 for rapid determination of sialic acid, Talanta 253 (2023) 124081.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

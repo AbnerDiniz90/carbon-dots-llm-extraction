@@ -1,0 +1,2537 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1386142524008370</prism:url><dc:identifier>doi:10.1016/j.saa.2024.124671</dc:identifier><eid>1-s2.0-S1386142524008370</eid><prism:doi>10.1016/j.saa.2024.124671</prism:doi><pii>S1386-1425(24)00837-0</pii><dc:title>A novel strategy for ratiometric determination of o-phenylenediamine via in-situ fluorogenic reaction and generation of metal nanoparticles </dc:title><prism:publicationName>Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>13861425</prism:issn><prism:volume>320</prism:volume><prism:startingPage>124671</prism:startingPage><prism:pageRange>124671</prism:pageRange><articleNumber>124671</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2024-11-05</prism:coverDate><prism:coverDisplayDate>5 November 2024</prism:coverDisplayDate><prism:copyright>© 2024 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.</prism:copyright><prism:publisher>Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.</prism:publisher><dc:creator>Shen, Jingxiang</dc:creator><dc:creator>Huang, Yongfei</dc:creator><dc:creator>Wang, Jiajia</dc:creator><dc:description>
+                  Herein, a novel ratiometric strategy for ultra-sensitive detection of o-phenylenediamine (OPD) was proposed based on combinatorial reactions of in-situ fluorogenic reaction and in-situ formation of red fluorescent dithiothreitol-copper nanoparticles (DTT-CuNPs). Here, Cu2+ is used both as an oxidant and as a precursor. Dehydroascorbic acid (DHAA) is formed via redox reaction of AA and Cu2+. Then, DHAA reacts with OPD to yield blue fluorescent quinoxaline (OXD) with emission peak at 434 nm through in-situ fluorogenic reaction. Red emitting DTT-CuNPs with emission peak at 666 nm is instantly generated due to the coordination reaction between DTT and the residual Cu2+ which is not consumed by AA. The fluorescence intensity (FI) of OXD at 434 nm is closely relied on the concentration of OPD, which can be used as a response signal for OPD detection. Meanwhile, FI of DTT-CuNPs at 666 nm has no significant change, which can be used as a reference signal for OPD detection. Thus, the ratio (F434/F666) of the Cu2+/AA/DTT sensing system is successfully employed to quantify OPD, exhibiting a wide linear range from 0.2 µM to 60 µM, with LOD of 0.09 µM.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>O-phenylenediamine (OPD)</dcterms:subject><dcterms:subject>In-situ fluorogenic reaction</dcterms:subject><dcterms:subject>Ratiometric</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1386142524008370" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1386142524008370" rel="scidir"/></coredata><objects><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="622" height="258" size="42379">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="645" height="236" size="35576">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="604" height="211" size="21909">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="560" height="217" size="28997">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="619" height="229" size="37919">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="613" height="454" size="69341">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="500" height="193" size="24426">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-ga1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="625" height="434" size="67421">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="314" height="222" size="22452">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="756" height="190" size="35093">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="91" size="7950">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="80" size="6795">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="76" size="4307">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="85" size="12955">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="81" size="6352">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="162" size="12771">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="ga1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="85" size="12214">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-ga1.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="152" size="14146">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="155" size="10140">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="55" size="5025">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2756" height="1142" size="264531">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2854" height="1043" size="224497">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2673" height="933" size="145504">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr9_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2480" height="962" size="180117">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr8_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2742" height="1014" size="280750">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2714" height="2010" size="638142">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2213" height="854" size="145150">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-ga1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2769" height="1924" size="477699">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1390" height="982" size="278754">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3347" height="842" size="212956">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="548156">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="1302732">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142524008370-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85196142053</scopus-id><scopus-eid>2-s2.0-85196142053</scopus-eid><pubmed-id>38906060</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85196142053" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271973</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291685</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy</xocs:srctitle>
+      <xocs:normalized-srctitle>SPECTROCHIMICAACTAPARTAMOLECULARBIOMOLECULARSPECTROSCOPY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20240617">2024-06-17</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20240617">2024-06-17</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20240620">2024-06-20</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20240620">2024-06-20</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-07-04T10:56:48</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1386142524008370</xocs:eid>
+      <xocs:pii-formatted>S1386-1425(24)00837-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1386142524008370</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.saa.2024.124671</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1386142524X00128</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240820">2024-08-20T11:51:20.444704Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20241105</xocs:date-search-begin>
+      <xocs:year-nav>2024</xocs:year-nav>
+      <xocs:indexeddate epoch="1718666967">2024-06-17T23:29:27.096528Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body affil appendices articletitle auth authfirstini authfull authkeywords authlast highlightsabst primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1386-1425</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>13861425</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>320</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>320</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 320</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>69</xocs:sort-order>
+      <xocs:first-fp>124671</xocs:first-fp>
+      <xocs:article-number>124671</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>124671</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20241105</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>5 November 2024</xocs:cover-date-text>
+      <xocs:cover-date-start>2024-11-05</xocs:cover-date-start>
+      <xocs:cover-date-year>2024</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Analytical Spectroscopy and New Methods</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2024 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.</xocs:copyright-line>
+      <xocs:normalized-article-title>ANOVELSTRATEGYFORRATIOMETRICDETERMINATIONOPHENYLENEDIAMINEVIAINSITUFLUOROGENICREACTIONGENERATIONMETALNANOPARTICLES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SHEN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental sections</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of DTT-CuNPs</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Procedure for ratiometric detection of OPD</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>In-situ fluorogenic reaction of OPD</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Reaction of Cu<ce:sup loc="post">2+</ce:sup> and DTT</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Construction ratiometric probe for detection OPD</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Optimization and ratiometric detection OPD</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Assessment of selectivity and anti-interference</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Detection of OPD in water samples</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>WEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>340414</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4639</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4646</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7754</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7760</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7828</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7834</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4177</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4187</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>95</xocs:ref-first-fp>
+            <xocs:ref-last-lp>99</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>LV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7989</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7998</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2978</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2984</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>DENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9421</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9428</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>HAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>120768</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>MIAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>34525</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>246</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>JING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4188</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4194</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>215</xocs:ref-first-fp>
+            <xocs:ref-last-lp>221</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>YE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>20698</xocs:ref-first-fp>
+            <xocs:ref-last-lp>20706</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>239</xocs:ref-first-fp>
+            <xocs:ref-last-lp>246</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>160</xocs:ref-first-fp>
+            <xocs:ref-last-lp>168</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0090">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>983</xocs:ref-first-fp>
+            <xocs:ref-last-lp>988</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>SPEEK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>53</xocs:ref-first-fp>
+            <xocs:ref-last-lp>60</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1864</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1870</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>LAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>112101</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0110">
+            <xocs:ref-normalized-surname>MA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>206</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0115">
+            <xocs:ref-normalized-surname>LV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9</xocs:ref-first-fp>
+            <xocs:ref-last-lp>12</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>328</xocs:ref-first-fp>
+            <xocs:ref-last-lp>333</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0125">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>829</xocs:ref-first-fp>
+            <xocs:ref-last-lp>834</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0130">
+            <xocs:ref-normalized-surname>YE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>107978</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0135">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>312</xocs:ref-first-fp>
+            <xocs:ref-last-lp>318</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0140">
+            <xocs:ref-normalized-surname>CLELAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-first-fp>480</xocs:ref-first-fp>
+            <xocs:ref-last-lp>482</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0145">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>810</xocs:ref-first-fp>
+            <xocs:ref-last-lp>817</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SHENX2024X124671</xocs:refkey3>
+         <xocs:refkey4ai>SHENX2024X124671XJ</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2026-06-20T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2026-06-20T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2024 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2024-06-21T04:22:07.550Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency>Shanxi Provincial Education Department</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100013794</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991</xocs:funding-agency-country>
+         </xocs:funding>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework>
+         <xocs:asf-license>https://doi.org/10.15223/policy-017</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-037</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-012</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-029</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-004</xocs:asf-license>
+      </xocs:article-sharing-framework>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1386-1425(24)00837-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1386142524008370</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1386142524008370</xocs:eid>
+         <xocs:doi>10.1016/j.saa.2024.124671</xocs:doi>
+         <xocs:cid>271973</xocs:cid>
+         <xocs:timestamp>2024-08-20T11:51:20.444704Z</xocs:timestamp>
+         <xocs:cover-date-start>2024-11-05</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/MAIN/application/pdf/09fa8dff0245bad4142406802115344e/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>8117086</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1386142524008370-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/PREVIEW/image/png/2ffd21530897a8fa2f34a9c39c3dcc1b/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>51124</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/gr7/DOWNSAMPLED/image/jpeg/67750c76f0e29841cccd817d96c5c098/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>42379</xocs:filesize>
+               <xocs:pixel-height>258</xocs:pixel-height>
+               <xocs:pixel-width>622</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/gr6/DOWNSAMPLED/image/jpeg/c62e941893d85f4fd5c92d35155b877f/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>35576</xocs:filesize>
+               <xocs:pixel-height>236</xocs:pixel-height>
+               <xocs:pixel-width>645</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/gr9/DOWNSAMPLED/image/jpeg/e03bb2c0a927d1545124e32b91e50e2c/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>21909</xocs:filesize>
+               <xocs:pixel-height>211</xocs:pixel-height>
+               <xocs:pixel-width>604</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/gr8/DOWNSAMPLED/image/jpeg/bbabe091bf25fa9a9f19c2fc84f8431b/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>28997</xocs:filesize>
+               <xocs:pixel-height>217</xocs:pixel-height>
+               <xocs:pixel-width>560</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/gr3/DOWNSAMPLED/image/jpeg/92db90d379b75a88b653b2817753fa20/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>37919</xocs:filesize>
+               <xocs:pixel-height>229</xocs:pixel-height>
+               <xocs:pixel-width>619</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/gr2/DOWNSAMPLED/image/jpeg/8a6c45c74c33f47f5383e6691f4768da/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>69341</xocs:filesize>
+               <xocs:pixel-height>454</xocs:pixel-height>
+               <xocs:pixel-width>613</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-ga1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/ga1/DOWNSAMPLED/image/jpeg/a01d7a7fc9e006c3f31a5c063b64c35e/ga1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>24426</xocs:filesize>
+               <xocs:pixel-height>193</xocs:pixel-height>
+               <xocs:pixel-width>500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/gr5/DOWNSAMPLED/image/jpeg/b12db9b3eed5bc62ec91b3484c8001d1/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>67421</xocs:filesize>
+               <xocs:pixel-height>434</xocs:pixel-height>
+               <xocs:pixel-width>625</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/gr4/DOWNSAMPLED/image/jpeg/fe55b90e82cb43c0b4bc8fc702271f3d/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22452</xocs:filesize>
+               <xocs:pixel-height>222</xocs:pixel-height>
+               <xocs:pixel-width>314</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/gr1/DOWNSAMPLED/image/jpeg/51c4611ed807b5b8005331f8b88162cc/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>35093</xocs:filesize>
+               <xocs:pixel-height>190</xocs:pixel-height>
+               <xocs:pixel-width>756</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/gr7/THUMBNAIL/image/gif/5c6b725537017918d064ce2c38a2e712/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7950</xocs:filesize>
+               <xocs:pixel-height>91</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/gr6/THUMBNAIL/image/gif/b7175f701547fb266216018cc57269ec/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6795</xocs:filesize>
+               <xocs:pixel-height>80</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/gr9/THUMBNAIL/image/gif/4091c3fe58de0d44b6d67c2d9302bc4e/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4307</xocs:filesize>
+               <xocs:pixel-height>76</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/gr8/THUMBNAIL/image/gif/e1430e0b73927b112fb564a4c26f96e5/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12955</xocs:filesize>
+               <xocs:pixel-height>85</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/gr3/THUMBNAIL/image/gif/849911d09be315cca49205eca9d67857/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6352</xocs:filesize>
+               <xocs:pixel-height>81</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/gr2/THUMBNAIL/image/gif/b0b478d1df9075e5514f06b985382910/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12771</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-ga1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/ga1/THUMBNAIL/image/gif/7b502719c21305100feff83d4d3bae54/ga1.sml</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12214</xocs:filesize>
+               <xocs:pixel-height>85</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S138614252400790X/gr5/THUMBNAIL/image/gif/d130d798065f2e40912bc5fed3e1970e/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14146</xocs:filesize>
+               <xocs:pixel-height>152</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/gr4/THUMBNAIL/image/gif/1614d1f5bd0e1665886cadcacf8bce4c/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10140</xocs:filesize>
+               <xocs:pixel-height>155</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S138614252400790X/gr1/THUMBNAIL/image/gif/02c85bb9d67a2586120cc2cf72b9f957/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5025</xocs:filesize>
+               <xocs:pixel-height>55</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/HIGHRES/image/jpeg/fc85a0ab8e90b4b6dd0302e02ee7c833/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>264531</xocs:filesize>
+               <xocs:pixel-height>1142</xocs:pixel-height>
+               <xocs:pixel-width>2756</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/HIGHRES/image/jpeg/5c324db1ae7736d05319ea09505979d7/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>224497</xocs:filesize>
+               <xocs:pixel-height>1043</xocs:pixel-height>
+               <xocs:pixel-width>2854</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr9_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/HIGHRES/image/jpeg/a29d656377322af8a32d781b3b4e0b4d/gr9_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>145504</xocs:filesize>
+               <xocs:pixel-height>933</xocs:pixel-height>
+               <xocs:pixel-width>2673</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr8_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/HIGHRES/image/jpeg/d1e4a4573270da7aa1f4b44707fadde2/gr8_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>180117</xocs:filesize>
+               <xocs:pixel-height>962</xocs:pixel-height>
+               <xocs:pixel-width>2480</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/HIGHRES/image/jpeg/d2f5641872d274cc09aa109a3cf52d4a/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>280750</xocs:filesize>
+               <xocs:pixel-height>1014</xocs:pixel-height>
+               <xocs:pixel-width>2742</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/HIGHRES/image/jpeg/2b6100781f2e8e12b223e50dacc3af7a/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>638142</xocs:filesize>
+               <xocs:pixel-height>2010</xocs:pixel-height>
+               <xocs:pixel-width>2714</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-ga1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/HIGHRES/image/jpeg/8b7fe7f069b2ab001f8d2223761d4bda/ga1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>145150</xocs:filesize>
+               <xocs:pixel-height>854</xocs:pixel-height>
+               <xocs:pixel-width>2213</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S138614252400790X/HIGHRES/image/jpeg/d086a330f67ae25bcfa22cd324b05dc0/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>477699</xocs:filesize>
+               <xocs:pixel-height>1924</xocs:pixel-height>
+               <xocs:pixel-width>2769</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S138614252400790X/HIGHRES/image/jpeg/4f29c2d99ab4655423a1ae43d21cab99/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>278754</xocs:filesize>
+               <xocs:pixel-height>982</xocs:pixel-height>
+               <xocs:pixel-width>1390</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S138614252400790X/HIGHRES/image/jpeg/c918c970ca925a9e69f4773dfbbad764/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>212956</xocs:filesize>
+               <xocs:pixel-height>842</xocs:pixel-height>
+               <xocs:pixel-width>3347</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142524008370/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/a40987d8af94b5d9b3b9230f2e97a72f/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>548156</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142524008370-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>1302732</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:101B9RRLSQZ/MAIN/application/pdf/f582be24e5e853ed6c879867bb8419f7/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.6">
+         <item-info>
+            <jid>SAA</jid>
+            <aid>124671</aid>
+            <ce:article-number>124671</ce:article-number>
+            <ce:pii>S1386-1425(24)00837-0</ce:pii>
+            <ce:doi>10.1016/j.saa.2024.124671</ce:doi>
+            <ce:copyright type="full-transfer" year="2024">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0020" view="all">The UV–Vis spectra of (a) Cu<ce:sup loc="post">2+</ce:sup>, AA and Cu<ce:sup loc="post">2+</ce:sup>+AA and (b) OPD, AA + OPD, Cu<ce:sup loc="post">2+</ce:sup>+AA + OPD (c) Fluorescence emission spectra of AA, Cu<ce:sup loc="post">2+</ce:sup>, OPD, Cu<ce:sup loc="post">2+</ce:sup>+AA and Cu<ce:sup loc="post">2+</ce:sup>+AA + OPD.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1386142524008370/gr1" id="lk00005"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0025" view="all">(a) Zeta potential of DTT and DTT-CuNPs (b) FT-IR spectra of DTT before and after addition of Cu<ce:sup loc="post">2+</ce:sup> (c) HRTEM image of DTT-CuNPs with scale of 20 nm (d) Size distribution histogram of DTT-CuNPs.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1386142524008370/gr2" id="lk00010"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0030" view="all">(a) Fluorescence emission spectra of DTT and DTT-CuNPs (inset of the a: 1-DTT, 2-DTT-CuNPs) (b) Fluorescence excitation and emission spectra of DTT-CuNPs.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1386142524008370/gr3" id="lk00015"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cn0020">
+                  <ce:simple-para id="sp0035" view="all">Fluorescence emission spectra of Cu<ce:sup loc="post">2+</ce:sup>+AA, Cu<ce:sup loc="post">2+</ce:sup>+AA + OPD, DTT, Cu<ce:sup loc="post">2+</ce:sup>+AA + DTT and Cu<ce:sup loc="post">2+</ce:sup>+AA + OPD + DTT.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1386142524008370/gr4" id="lk00020"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cn0025">
+                  <ce:simple-para id="sp0040" view="all">(a) Impact of reagent order on the fluorescence emission spectra of the sensing system (b) The UV–Vis absorption spectra of Cu<ce:sup loc="post">2+</ce:sup> and AA dependence of time from 0 min to 15 min at an interval of 1.5 min (c) The time-fluorescence course spectra of DHAA and OPD from 0 min to 20 min (d) Fluorescence emission spectra of the sensor against solution pH from 4.0 to 10.0.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1386142524008370/gr5" id="lk00025"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cn0030">
+                  <ce:simple-para id="sp0045" view="all">(a) Fluorescence emission spectra of the sensing system towards different concentration of OPD from 0 µM to 60 µM (b) The linear curve of F<ce:inf loc="post">434</ce:inf>/F<ce:inf loc="post">666</ce:inf> versus OPD concentration over the range 0.2 µM to 60 µM.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1386142524008370/gr6" id="lk00030"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cn0035">
+                  <ce:simple-para id="sp0050" view="all">(a) Selectivity of the probe towards OPD detection in the presence of various interferents (F and F<ce:inf loc="post">0</ce:inf> was FI of the probe with and without interferents) (b) Anti-interference ability of the probe for OPD (30 µM) detection with different interferents (60 µM).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1386142524008370/gr7" id="lk00035"/>
+            </ce:figure>
+            <ce:figure id="f0040">
+               <ce:label>Scheme 1</ce:label>
+               <ce:caption id="cn0040">
+                  <ce:simple-para id="sp0055" view="all">Diagram of ratiometric detection OPD by the sensing system of Cu<ce:sup loc="post">2+</ce:sup>/AA/DTT.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1386142524008370/gr8" id="lk00040"/>
+            </ce:figure>
+            <ce:figure id="f0045">
+               <ce:label>Scheme 2</ce:label>
+               <ce:caption id="cn0045">
+                  <ce:simple-para id="sp0060" view="all">Chemical reaction between Cu<ce:sup loc="post">2+</ce:sup>, AA and OPD.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr9" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1386142524008370/gr9" id="lk00045"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0005" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cn0050">
+                  <ce:simple-para id="sp0065" view="all">Results for detection of OPD in practical samples.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <colspec colname="col5" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sample</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Add</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Found</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Recovery</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">RSD(n = 3)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(µM)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(µM)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(%)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4.78 ± 0.21</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">95.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4.39</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Lake water</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12.67 ± 0.09</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">105.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.71</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20.04 ± 0.23</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.15</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <br/>Laboratory tap water</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5<br/>12<br/>20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4.88 ± 0.19<br/>11.79 ± 0.24<br/>21.35 ± 0.23</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">97.6<br/>98.2<br/>106.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.80<br/>2.04<br/>1.08</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">A novel strategy for ratiometric determination of o-phenylenediamine via in-situ fluorogenic reaction and generation of metal nanoparticles</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005" author-id="S1386142524008370-bb1611bad43ca80d130382af2f266a23">
+                  <ce:given-name>Jingxiang</ce:given-name>
+                  <ce:surname>Shen</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:cross-ref refid="af005" id="c0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0010">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au010" author-id="S1386142524008370-6a1ebd6f033cf9713b6c82d9265516fe">
+                  <ce:given-name>Yongfei</ce:given-name>
+                  <ce:surname>Huang</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+                  <ce:cross-ref refid="af010" id="c0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au015" author-id="S1386142524008370-5e3538f25b604d2daf1b6a671cffb91a">
+                  <ce:given-name>Jiajia</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+                  <ce:cross-ref refid="af005" id="c0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af005" affiliation-id="S1386142524008370-040793f4d2a46de9d8cb02f65c9540e7">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Chemistry, Changzhi University, Changzhi 046011, People’s Republic of China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemistry</sa:organization>
+                     <sa:organization>Changzhi University</sa:organization>
+                     <sa:city>Changzhi</sa:city>
+                     <sa:postal-code>046011</sa:postal-code>
+                     <sa:country>People’s Republic of China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx005">Department of Chemistry, Changzhi University, Changzhi 046011, People’s Republic of China</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af010" affiliation-id="S1386142524008370-cf194f3223f81628b264a13a172b4213">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>School of Chemistry and Material Science, Shanxi Normal University, Taiyuan 030006, People’s Republic of China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Chemistry and Material Science</sa:organization>
+                     <sa:organization>Shanxi Normal University</sa:organization>
+                     <sa:city>Taiyuan</sa:city>
+                     <sa:postal-code>030006</sa:postal-code>
+                     <sa:country>People’s Republic of China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx010">School of Chemistry and Material Science, Shanxi Normal University, Taiyuan 030006, People’s Republic of China</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="29" month="2" year="2024"/>
+            <ce:date-revised day="22" month="5" year="2024"/>
+            <ce:date-accepted day="16" month="6" year="2024"/>
+            <ce:abstract class="graphical" xml:lang="en" id="ab005" view="all">
+               <ce:section-title id="st005">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="as005" view="all">
+                  <ce:simple-para id="sp0005" view="all">
+                     <ce:display>
+                        <ce:figure id="f0050">
+                           <ce:link locator="ga1" id="lk00050" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1386142524008370/ga1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:abstract class="author" id="ab015" view="all"><ce:abstract-sec id="as015" view="all">
+                  <ce:simple-para id="sp0015" view="all">Herein, a novel ratiometric strategy for ultra-sensitive detection of o-phenylenediamine (OPD) was proposed based on combinatorial reactions of in-situ fluorogenic reaction and in-situ formation of red fluorescent dithiothreitol-copper nanoparticles (DTT-CuNPs). Here, Cu<ce:sup loc="post">2+</ce:sup> is used both as an oxidant and as a precursor. Dehydroascorbic acid (DHAA) is formed via redox reaction of AA and Cu<ce:sup loc="post">2+</ce:sup>. Then, DHAA reacts with OPD to yield blue fluorescent quinoxaline (OXD) with emission peak at 434 nm through in-situ fluorogenic reaction. Red emitting DTT-CuNPs with emission peak at 666 nm is instantly generated due to the coordination reaction between DTT and the residual Cu<ce:sup loc="post">2+</ce:sup> which is not consumed by AA. The fluorescence intensity (FI) of OXD at 434 nm is closely relied on the concentration of OPD, which can be used as a response signal for OPD detection. Meanwhile, FI of DTT-CuNPs at 666 nm has no significant change, which can be used as a reference signal for OPD detection. Thus, the ratio (F<ce:inf loc="post">434</ce:inf>/F<ce:inf loc="post">666</ce:inf>) of the Cu<ce:sup loc="post">2+</ce:sup>/AA/DTT sensing system is successfully employed to quantify OPD, exhibiting a wide linear range from 0.2 µM to 60 µM, with LOD of 0.09 µM.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st020">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>O-phenylenediamine (OPD)</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>In-situ fluorogenic reaction</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>Ratiometric</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:data-availability id="da005" view="all">
+               <ce:section-title id="st025">Data availability</ce:section-title>
+               <ce:para id="p0020" view="all">Data will be made available on request.</ce:para>
+            </ce:data-availability>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st030">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">Recently, construction of fluorescent sensors on the basis of in-situ fluorogenic reactions has sparked significant research interest and displayed the advantages of simplicity and convenience for practical application <ce:cross-refs refid="b0005 b0010 b0015 b0020" id="r0005">[1–4]</ce:cross-refs>. Among this type strategy, o-phenylenediamine (OPD) has particularly received overwhelming attention in designing versatile fluorescent sensors to detect a vast majority of targets, such as metal ions <ce:cross-ref refid="b0025" id="c0025">[5]</ce:cross-ref>, enzymes <ce:cross-refs refid="b0030 b0035 b0040 b0045 b0050" id="r0010">[6–10]</ce:cross-refs>, drugs <ce:cross-ref refid="b0055" id="c0030">[11]</ce:cross-ref>, ascorbic acid (AA) <ce:cross-refs refid="b0030 b0060" id="r0015">[6,12]</ce:cross-refs>, and so on. So far, most of these probes were explored based on two types of in-situ fluorogenic reaction of OPD. The first type is that the colorless and non-emissive OPD can be easily oxidized in the presence of various oxidants like H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> 
+                     <ce:cross-ref refid="b0065" id="c0035">[13]</ce:cross-ref> and metal ions <ce:cross-refs refid="b0045 b0070" id="r0020">[9,14]</ce:cross-refs>, thereby producing a yellow fluorescent substance of 2,3-diaminophenazine <ce:cross-ref refid="b0075" id="c0040">[15]</ce:cross-ref>
+                     <ce:sup loc="post">.</ce:sup> For instance, Zhao et al <ce:cross-ref refid="b0080" id="c0045">[16]</ce:cross-ref> have developed a ratiometric fluorescence probe to sense Ag<ce:sup loc="post">+</ce:sup> based on GQDs and OPD. And the second type is that OPD can react with dehydroascorbic acid (DHAA) to yield blue emissive quinoxaline fluorophore 3-(1,2-dihydroxyethyl) furo[3,4b]-quinoxaline (OXD) <ce:cross-refs refid="b0085 b0090 b0095" id="r0025">[17–19]</ce:cross-refs>. In the second type, AA is firstly converted to DHAA by some oxidants, such as Cu<ce:sup loc="post">2+</ce:sup>, Fe<ce:sup loc="post">3+</ce:sup>, norit, iodone and 2,6-dichloroindoindophenol <ce:cross-refs refid="b0035 b0050" id="r0030">[7,10]</ce:cross-refs>, then the resultant DHAA interact with OPD to generate blue emitting OXD. For example, Lv et al <ce:cross-ref refid="b0035" id="c0050">[7]</ce:cross-ref> constructed yellow fluorescent N-CDs coupling with fluorogenic reaction between Cu<ce:sup loc="post">2+</ce:sup>, AA and OPD to detect alkaline phosphatase (ALP).</ce:para>
+                  <ce:para id="p0030" view="all">Despite so many probes based on the peculiar fluorogenic reaction of OPD have been built up to recognize various analytes, however, constructing fluorescent probe to detect OPD itself is also urgently desirable. In China, it has been blacklisted as one of 14 kinds of environmental pollutants <ce:cross-ref refid="b0100" id="c0060">[20]</ce:cross-ref>. As a vital chemical intermediate for the fabrication of medicine and pesticides, it has been extensively used for the production of surfactants and fur dyes <ce:cross-refs refid="b0105 b0110 b0115" id="r0035">[21–23]</ce:cross-refs>. It can easily enter water via sewage discharge and garbage disposal, thereby posing serious harm to the environment and human body owing to its high toxicity and carcinogenicity <ce:cross-refs refid="b0120 b0125" id="r0040">[24,25]</ce:cross-refs>. To the best of our knowledge, some literatures has reported fluorescence detection of OPD based on the first type of in-situ fluorogenic reaction. For example, Ye et al <ce:cross-ref refid="b0130" id="c0065">[26]</ce:cross-ref> fabricated sulfur quantum dots (SQDs@CMC) with the addition of Cu<ce:sup loc="post">2+</ce:sup>as sensor materials for ratiometric determination of OPD. A similar method was adopted by Ma et al <ce:cross-ref refid="b0110" id="c0070">[22]</ce:cross-ref> via using CuNCs in the presence of Cu<ce:sup loc="post">2+</ce:sup> as senor materials for ratiometric detection of OPD. However, ratiometric detection of OPD only by in-situ fluorescence reaction without the step of synthesizing sensor materials were scarcely reported.</ce:para>
+                  <ce:para id="p0035" view="all">Intrigued by these investigations, herein, we devised Cu<ce:sup loc="post">2+</ce:sup>/AA/DTT as a sensor for ratiometric detection OPD using Cu<ce:sup loc="post">2+</ce:sup> as dual functions, as illustrated in Schem.1. On one hand, Cu<ce:sup loc="post">2+</ce:sup> was used as the oxidant for OPD to generate blue emissive OXD. On the other hand, Cu<ce:sup loc="post">2+</ce:sup> was used as the precursor to in-situ produce red-emitting DTT-CuNPs via highly coordination interaction between Cu<ce:sup loc="post">2+</ce:sup> and DTT <ce:cross-refs refid="b0135 b0140" id="r0045">[27,28]</ce:cross-refs>. Moreover, two other isomers of OPD including m-phenylenediamine (mPD) and p-phenylenediamine (pPD) are not able to trigger the similar fluorogenic reaction, which is very advantageous to be detected specifically. It opens up a brand new ratiometric sensing platform by coupling in-situ fluorogenic reaction with in-situ generation of luminescent CuNPs. Obviously, utilization of this type sensing methodology is free of synthesizing probe materials (<ce:cross-ref refid="f0040" id="c0055">Scheme 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0040"/>).</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st035">Experimental sections</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="st040">Preparation of DTT-CuNPs</ce:section-title>
+                     <ce:para id="p0040" view="all">After mixing of Cu<ce:sup loc="post">2+</ce:sup> and DTT, DTT-CuNPs can be instantly obtained via one-pot reduction method. After 1.0 mL of 0.1 M DTT solution was mixed with 3.0 mL of 10 mM CuSO<ce:inf loc="post">4</ce:inf> solution at atmospheric temperature, white precipitation was immediately formed, suggesting the successful formation of DTT-CuNPs. Finally, the resultant DTT-CuNPs was characterized.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="st045">Procedure for ratiometric detection of OPD</ce:section-title>
+                     <ce:para id="p0045" view="all">100 μM CuSO<ce:inf loc="post">4</ce:inf> solution and 40 μM AA solution were added to the PBS buffer solution (pH = 9.0) for well reaction of 12 min. Then, various concentrations of OPD solutions from 0 μM to 60 μM were added in and reacted at room temperature for 19 min. DTT solution was finally introduced in and diluted to 5.0 mL with ultrapure-water. After incubation of 2 min, the fluorescence emission spectra were recorded under excitation wavelength at 330 nm. Thus, the calibration plot was easily carried out by using the fluorescence intensity ratio of F<ce:inf loc="post">434</ce:inf>/F<ce:inf loc="post">666</ce:inf> versus the concentration of OPD.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0025" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st050">Results and discussion</ce:section-title>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="st055">In-situ fluorogenic reaction of OPD</ce:section-title>
+                     <ce:para id="p0050" view="all">In-situ fluorogenic reaction of OPD and AA in the presence of Cu<ce:sup loc="post">2+</ce:sup> was a two-step procedure, as revealed in <ce:cross-ref refid="f0045" id="c0075">Scheme.2</ce:cross-ref>
+                        <ce:float-anchor refid="f0045"/>. Firstly, Cu<ce:sup loc="post">2+</ce:sup> reacted with AA to form DHAA via redox reaction. Secondly, the generated DHAA was consumed by OPD via condensation reaction to yield blue emissive OXD. To investigate the reactions between Cu<ce:sup loc="post">2+</ce:sup> and AA, Cu<ce:sup loc="post">2+</ce:sup>, AA and OPD, the UV–Vis absorption spectra of Cu<ce:sup loc="post">2+</ce:sup>, AA, Cu<ce:sup loc="post">2+</ce:sup>+AA, OPD, AA + OPD and Cu<ce:sup loc="post">2+</ce:sup>+AA + OPD were compared (<ce:cross-ref refid="f0005" id="c0080">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="f0005"/>a and <ce:cross-ref refid="f0005" id="c9000">Fig. 1</ce:cross-ref>b). Individual Cu<ce:sup loc="post">2+</ce:sup> and AA showed absorption peaks at about 200 nm and 265 nm respectively. However, when Cu<ce:sup loc="post">2+</ce:sup> and AA mixed together, the absorption peak of AA at 265 nm decreased notably, indicating the chemical reaction of AA and Cu<ce:sup loc="post">2+</ce:sup> with the formation of DHAA (<ce:cross-ref refid="f0005" id="c0085">Fig. 1</ce:cross-ref>a). Subsequently, OPD was introduced into the Cu<ce:sup loc="post">2+</ce:sup>+AA system, a new absorption peak at about 340 nm appeared which was belonged to OXD (<ce:cross-ref refid="f0005" id="c0090">Fig. 1</ce:cross-ref>b). However, this peak was nonexistent in the absence of Cu<ce:sup loc="post">2+</ce:sup>. All these results were in accordance with previous report <ce:cross-ref refid="b0035" id="c0095">[7]</ce:cross-ref>, which strongly indicated that Cu<ce:sup loc="post">2+</ce:sup> can react with AA to produce DHAA followed by generating OXD via further interaction with OPD. To further study the fluorescence feature of OXD, Fluorescence emission spectra of AA, Cu<ce:sup loc="post">2+</ce:sup>, OPD, Cu<ce:sup loc="post">2+</ce:sup>+AA and Cu<ce:sup loc="post">2+</ce:sup>+AA + OPD were done in <ce:cross-ref refid="f0005" id="c0100">Fig. 1</ce:cross-ref>c, and their photograph under a UV light were shown in the inset of <ce:cross-ref refid="f0005" id="c0105">Fig. 1</ce:cross-ref>c (1-AA, 2-Cu<ce:sup loc="post">2+</ce:sup>, 3-OPD, 4-Cu<ce:sup loc="post">2+</ce:sup>+AA, 5-Cu<ce:sup loc="post">2+</ce:sup>+AA + OPD). It was obviously to see that only the system of Cu<ce:sup loc="post">2+</ce:sup>+AA + OPD showed a strong blue emission peak at about 434 nm, strongly suggesting that this blue fluorescence was originated from the product of OXD. Besides, fluorescence emission spectra of OXD under different excitation wavelength from 290 nm to 340 nm were also tested in <ce:cross-ref refid="s0075" id="c0110">Fig.S1</ce:cross-ref>, indicating its fluorescence property without excitation wavelength dependence.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="st060">Reaction of Cu<ce:sup loc="post">2+</ce:sup> and DTT</ce:section-title>
+                     <ce:para id="p0055" view="all">Dithiothreitol (DTT) exhibited high affinity for Cu<ce:sup loc="post">2+</ce:sup> due to the existence of two thiol groups (−SH) at both ends <ce:cross-ref refid="b0145" id="c0115">[29]</ce:cross-ref>. To further research the reaction of DTT and Cu<ce:sup loc="post">2+</ce:sup>, Cu<ce:sup loc="post">2+</ce:sup> was added into the DTT solution. White precipitate immediately appeared when they were mixed together, revealing the formation of copper nanoparticles (DTT-CuNPs). To study the interaction of DTT and Cu<ce:sup loc="post">2+</ce:sup>, Zeta potential and FT-IR spectra of DTT in the absence and presence of Cu<ce:sup loc="post">2+</ce:sup> were compared. As seen in <ce:cross-ref refid="f0010" id="c0120">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/>a, the zeta potential of DTT changed from −12.3 mV to 6.23 mV after adding Cu<ce:sup loc="post">2+</ce:sup>, suggesting electrostatic attraction of DTT and Cu<ce:sup loc="post">2+</ce:sup>. To investigate the mode of bonding between DTT and Cu<ce:sup loc="post">2+</ce:sup>, thereafter, FT-IR spectra of DTT in the absence and presence of Cu<ce:sup loc="post">2+</ce:sup> were conducted in <ce:cross-ref refid="f0010" id="c0125">Fig. 2</ce:cross-ref>b. By comparison, the stretching vibration peak of S-H bonding at 2554 cm<ce:sup loc="post">−1</ce:sup> of DTT disappears after the addition of Cu<ce:sup loc="post">2+</ce:sup>, suggesting the successful formation of new S-Cu bonds. Furthermore, TEM characterization was monitored to observe the morphology of DTT-CuNPs. As seen in <ce:cross-ref refid="f0010" id="c0130">Fig. 2</ce:cross-ref>c and <ce:cross-ref refid="f0010" id="c0135">Fig. 2</ce:cross-ref>d, the as-obtained DTT-CuNPs were distributed with mean diameter of 5.6 ± 0.3 nm. All the above results demonstrated the successful synthesis of DTT-CuNPs.</ce:para>
+                     <ce:para id="p0060" view="all">With the aim of studying the optical properties of DTT-CuNPs, the photos of DTT and DTT-CuNPs were taken under the room-light and a 365 nm UV light, as shown in the inset of <ce:cross-ref refid="f0015" id="c0140">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/>a (1-DTT, 2-DTT-CuNPs), respectively. It was interestingly to see that DTT emitted no fluorescence but DTT-CuNPs emitted strong red fluorescence when they were put under the 365 nm UV-lamp. In addition, DTT-CuNPs appeared as white milk precipitate in the room-light. Then, the fluorescence emission spectra of DTT and DTT-CuNPs were also detected in <ce:cross-ref refid="f0015" id="c0145">Fig. 3</ce:cross-ref>. Obviously, a remarkable near infrared emission peak at 666 nm was observed when excited at 330 nm, with a large stokes shift about 336 nm (<ce:cross-ref refid="f0015" id="c0150">Fig. 3</ce:cross-ref>b), which is in favour of practical application. In the meantime, fluorescence emission wavelength of DTT-CuNPs maintained unchanged under different excitation wavelengths varying from 300 nm to 360 nm (<ce:cross-ref refid="s0075" id="c0155">Fig.S2</ce:cross-ref>), suggesting no dependence of emission wavelength on excitation wavelength.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0040" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="st065">Construction ratiometric probe for detection OPD</ce:section-title>
+                     <ce:para id="p0065" view="all">Based on the foregoing investigations, a probe for ratiometric detection of OPD was constructed. As revealed in Schem.1, determination of OPD was a three-step procedure. In the first step, Cu<ce:sup loc="post">2+</ce:sup> was used as an oxidant to interact with AA for the generation of DHAA. In the second step, OPD was introduced in and reacted with DHAA to produce blue emissive OXD. In the final step, a fixed amount of DTT solution was added in to the Cu<ce:sup loc="post">2+</ce:sup>+AA + OPD system. Instantly, red-emitting DTT-CuNPs in-situ generated via reacting with the residual Cu<ce:sup loc="post">2+</ce:sup> which was not consumed by AA. Since the concentration of Cu<ce:sup loc="post">2+</ce:sup> and AA were fixed, FI of OXD changed upon addition of OPD, while FI of DTT-CuNPs had no significant change. Thus, a ratiometric strategy for detection of OPD was naturally proposed. To verify the feasibility of this method, fluorescence emission spectra of various reaction system (Cu<ce:sup loc="post">2+</ce:sup>+AA, Cu<ce:sup loc="post">2+</ce:sup>+AA + OPD, DTT, Cu<ce:sup loc="post">2+</ce:sup>+AA + DTT and Cu<ce:sup loc="post">2+</ce:sup>+AA + OPD + DTT) were further performed in <ce:cross-ref refid="f0020" id="c0160">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="f0020"/>. As can be seen, fluorescence emission peak at 666 nm belonged to DTT-CuNPs was observed after the addition of DTT to the Cu<ce:sup loc="post">2+</ce:sup>+AA system. When OPD was added to the probe system, the emission peak at 666 nm remained nearly unchanged, but a new emission peak at 434 nm originated from OXD was generated. Therefore, ratiometric detection of OPD can be realized by using 666 nm as the reference signal and 434 nm as the response signal.</ce:para>
+                     <ce:para id="p0070" view="all">Given that OPD has two other isomers of pPD and mPD, the UV–Vis absorption spectra and fluorescence emission spectra of Cu<ce:sup loc="post">2+</ce:sup> + AA + pPD and Cu<ce:sup loc="post">2+</ce:sup> + AA + mPD were further explored (<ce:cross-ref refid="f0015" id="c0165">Fig. S3</ce:cross-ref>a and <ce:cross-ref refid="f0015" id="c0170">Fig. S3</ce:cross-ref>b). Notably, the absorption peak at 340 nm attributed to OXD appeared neither in the spectrum of Cu<ce:sup loc="post">2+</ce:sup> + AA + pPD nor in the spectrum of Cu<ce:sup loc="post">2+</ce:sup> + AA + mPD, which was different from that of Cu<ce:sup loc="post">2+</ce:sup> + AA + OPD, showing only OPD can react specifically with AA among the three isomers. Additionally, no fluorescence emission peak was observed both in the system of Cu<ce:sup loc="post">2+</ce:sup> + AA + pPD and Cu<ce:sup loc="post">2+</ce:sup> + AA + mPD in <ce:cross-ref refid="s0075" id="c0175">Fig.S4</ce:cross-ref>. In contrast, strong blue emission was produced in the system of Cu<ce:sup loc="post">2+</ce:sup> + AA + OPD. All these dates strongly demonstrated highly specificity of the reaction between Cu<ce:sup loc="post">2+</ce:sup>, AA and OPD, which was beneficial for selective and sensitive determination of OPD.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0045" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="st070">Optimization and ratiometric detection OPD</ce:section-title>
+                     <ce:para id="p0075" view="all">To gain the best sensing performance, some critical experimental parameters including order of adding reagent, reaction time, solution pH, concentrations of Cu<ce:sup loc="post">2+</ce:sup> and AA were optimized before detecting, as shown in <ce:cross-ref refid="f0025" id="c0180">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="f0025"/>. Reagent addition order had significant impact on sensing work, as described in <ce:cross-ref refid="f0025" id="c0185">Fig. 5</ce:cross-ref>a. No blue emission was found when Cu<ce:sup loc="post">2+</ce:sup>, DTT, AA and OPD were added in turn. Thus, reagent adding order was determined as Cu<ce:sup loc="post">2+</ce:sup>, AA, OPD and DTT successively, involving three-step reaction. Then, reaction time between Cu<ce:sup loc="post">2+</ce:sup> and AA, DHAA and OPD, Cu<ce:sup loc="post">2+</ce:sup> and DTT were successively optimized. Optimal reaction time between Cu<ce:sup loc="post">2+</ce:sup> and AA were selected to be 12 min according to the UV–Vis absorption spectra dependence of time when Cu<ce:sup loc="post">2+</ce:sup> and AA were mixed (<ce:cross-ref refid="f0025" id="c0190">Fig. 5</ce:cross-ref>b). After this, reaction proceeding between the generated DHAA and OPD were explored by time-fluorescence course spectra (<ce:cross-ref refid="f0025" id="c0195">Fig. 5</ce:cross-ref>c). As can be seen, FI of the OXD was not enhanced any longer after 19 min, indicating the reaction was well-balanced at 19 min. Consequently, 19 min was chosen as the optimal reaction time between DHAA and OPD. Next, DTT was introduced to interact with the residual Cu<ce:sup loc="post">2+</ce:sup>, and their reaction time was optimized to be 2 min. <ce:cross-ref refid="f0020" id="c0200">Fig. 4</ce:cross-ref>d showed fluorescence emission spectra of the sensing system under different solution pH (4.0–10.0), and the relative ratio of F<ce:inf loc="post">434</ce:inf>/F<ce:inf loc="post">666</ce:inf> versus pH was plotted in <ce:cross-ref refid="s0075" id="c0205">Fig.S5</ce:cross-ref>. It was found that the ratio of F<ce:inf loc="post">434</ce:inf>/F<ce:inf loc="post">666</ce:inf> levelled off when pH was in the range of 4.0–7.0 and increased above 7.0, but reached its maximum up to 9.0. Hence, pH = 9.0 was rationally ensured as the optimal pH. Under the above optimal conditions, concentrations of Cu<ce:sup loc="post">2+</ce:sup> and AA were further decided according to <ce:cross-ref refid="s0075" id="c0210">Fig.S6</ce:cross-ref>. F<ce:inf loc="post">434</ce:inf>/F<ce:inf loc="post">666</ce:inf> was stable when Cu<ce:sup loc="post">2+</ce:sup> concentration was in the range of 100 µM-120 µM, and F<ce:inf loc="post">434</ce:inf>/F<ce:inf loc="post">666</ce:inf> barely changed when AA concentration was above 40 µM. Thus, optimal concentrations of Cu<ce:sup loc="post">2+</ce:sup> and AA were opted to be 100 µM and 40 µM respectively.</ce:para>
+                     <ce:para id="p0080" view="all">Under the best sensing conditions, a stepwise increasing concentration of OPD solutions were added into the sensing system and the relative fluorescence emission spectra were recorded in <ce:cross-ref refid="f0030" id="c0215">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="f0030"/>a. It was obviously to find that FI at 434 nm increased monotonically along with the increasing concentration of OPD, while the change of FI at 666 nm was neglectful. Thus, the ratio of F<ce:inf loc="post">434</ce:inf>/F<ce:inf loc="post">666</ce:inf> was employed to analyse OPD and presented a good linear relationship range from 0.2 to 60 µM, as depicted in <ce:cross-ref refid="f0030" id="c0220">Fig. 6</ce:cross-ref>b. The linear equation was described as: y = 0.12482x + 0.17727 (R<ce:sup loc="post">2</ce:sup> = 0.993), and the LOD was calculated to be as low as 0.09 µM. Compared with the previously reported methods for OPD detection, This sensor showcased comparable detection limit with other methods, besides, this ratiometric strategy can avoid interference from the external environment via built-in self-calibration, as summarized in <ce:cross-ref refid="s0075" id="c0225">Table.S1</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0050" view="all">
+                     <ce:label>3.5</ce:label>
+                     <ce:section-title id="st075">Assessment of selectivity and anti-interference</ce:section-title>
+                     <ce:para id="p0085" view="all">To further assess the selectivity and anti-interference ability of this as-designed sensor, the influence of some common metal ions (K<ce:sup loc="post">+</ce:sup>, Na<ce:sup loc="post">+</ce:sup>, Mg<ce:sup loc="post">2+</ce:sup>, Ba<ce:sup loc="post">2+</ce:sup>, Ca<ce:sup loc="post">2+</ce:sup>, Zn<ce:sup loc="post">2+</ce:sup>, Mn<ce:sup loc="post">2+</ce:sup> and Al<ce:sup loc="post">3+</ce:sup>), analogues (m-phenylenediamine and p-phenylenediamine), and other potential coexisting organics (citric acid −CA, aniline and nitrobenzene) were studied under the identical experimental conditions, as demonstrated in <ce:cross-ref refid="f0035" id="c0230">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="f0035"/>. <ce:cross-ref refid="f0035" id="c0235">Fig. 7</ce:cross-ref>a exhibited fluorescence emission performance of the sensing system in the presence of various interferents and only Cu<ce:sup loc="post">2+</ce:sup> induced fluorescence enhancement under the same conditions, suggesting excellent selectivity of the sensor. <ce:cross-ref refid="f0035" id="c0240">Fig. 7</ce:cross-ref>b presented anti-interference ability of the probe against OPD (30 µM) detection in the presence of different coexisting chemicals (60 µM). No notable change of F<ce:inf loc="post">434</ce:inf>/F<ce:inf loc="post">666</ce:inf> was found in the presence of interferents, proving the sensing system was free from interference and was suitable for practical application to detect OPD.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0055" view="all">
+                     <ce:label>3.6</ce:label>
+                     <ce:section-title id="st080">Detection of OPD in water samples</ce:section-title>
+                     <ce:para id="p0090" view="all">The practicability of the established method for ratiometric sensing OPD was applied in genuine water samples. The practical water samples were collected from the lake water in Zhangze reservoir and the laboratory tap water. Before detecting OPD, each water sample was filtered by a syringe filter (0.22 µm). Subsequently, OPD was determined by the the standard addition method and the results were demonstrated in <ce:cross-ref refid="t0005" id="c0245">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="t0005"/>.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0060" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st085">Conclusions</ce:section-title>
+                  <ce:para id="p0095" view="all">In conclusion, a ratiometric fluorimetric sensor for selective detection of OPD was rationally designed via combination of in-situ fluorescence reaction of OPD and in-situ formation of red-emitting CuNPs. Here, Cu<ce:sup loc="post">2+</ce:sup> played a dual function both as oxidant and as precursor, resulting in formation of DHAA and CuNPs, respectively. The resultant DHAA could undergo condensation reaction with OPD to yield blue fluorescence material of OXD. Thus, ratiometric detection of OPD was simply and conveniently realized. Moreover, a wide linear relationship from 0.2 µM to 60 µM was gained, with LOD of 0.09 µM. Besides, practical application for detection of OPD in water samples suggested the excellent feasibility of this designed method.</ce:para>
+               </ce:section>
+               <ce:section id="s0065" view="all">
+                  <ce:section-title id="st090">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p0100" view="all">
+                     <ce:bold>Jingxiang Shen:</ce:bold> Writing – original draft, Methodology, Investigation. <ce:bold>Yongfei Huang:</ce:bold> Visualization, Software. <ce:bold>Jiajia Wang:</ce:bold> Software.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi005" view="all">
+               <ce:section-title id="st095">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0105" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:appendices view="all">
+               <ce:section view="compact-standard" id="s0070">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st100">Supplementary data</ce:section-title>
+                  <ce:para id="p0110" view="all">Supplementary data to this article can be found online at <ce:inter-ref xlink:href="https://doi.org/10.1016/j.saa.2024.124671" xlink:type="simple" id="ir005">https://doi.org/10.1016/j.saa.2024.124671</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section view="extended" id="s0075">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st105">Supplementary data</ce:section-title>
+                  <ce:para id="p0115" view="all">The following are the Supplementary data to this article:<ce:display>
+                        <ce:e-component id="m0005">
+                           <ce:label>Supplementary Data 1</ce:label>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S1386142524008370/mmc1" id="lk00055"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st110">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Shui</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>In situ fluorogenic reaction for ratiometric fluorescent detection of alkaline phosphatase activity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chim. Acta.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1230</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>340414</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx015">Wen J, Hu Y, Li N, Li D, Zheng G, Zou Y, Zhang M, Shui L. In situ fluorogenic reaction for ratiometric fluorescent detection of alkaline phosphatase activity. Anal. Chim. Acta. 2022, 1230: 340414.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Ni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Alkaline phosphatase-triggered in situ formation of silicon-containing nanoparticles for a fluorometric and colorimetric dual-channel immunoassay</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4639</sb:first-page>
+                              <sb:last-page>4646</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx020">Chen C, Zhao D, Wang B, Ni P, Jiang Y, Zhang C, Yang F, Lu Y, Sun J. Alkaline phosphatase-triggered in situ formation of silicon-containing nanoparticles for a fluorometric and colorimetric dual-channel immunoassay. Anal. Chem. 2020, 92: 4639-4646.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Bao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An enzyme cascade-triggered fluorogenic and chromogenic reaction applied in enzyme activity assay and immunoassay</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>90</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7754</sb:first-page>
+                              <sb:last-page>7760</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx025">Zhao J, Wang S, Lu S, Bao X, Sun J, Yang X. An enzyme cascade-triggered fluorogenic and chromogenic reaction applied in enzyme activity assay and immunoassay. Anal. Chem. 2018, 90: 7754-7760.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fluorometric and colorimetric dualreadout immunoassay based on an alkaline phosphatase-triggered reaction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7828</sb:first-page>
+                              <sb:last-page>7834</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx030">Zhao J, Wang S, Lu S, Liu G, Sun J, Yang X. Fluorometric and colorimetric dualreadout immunoassay based on an alkaline phosphatase-triggered reaction. Anal. Chem. 2019, 91: 7828-7834.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Ni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Preparation of the ratio-fluorescence probe based on o-phenylenediamine for selective and sensitive detection of Cu<ce:sup loc="post">2+</ce:sup>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Inorg Organomet. P</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4177</sb:first-page>
+                              <sb:last-page>4187</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx903">Yang W, Wu C, Wang N, Song G, Ni X, Huang W. Preparation of the ratio-fluorescence probe based on o-phenylenediamine for selective and sensitive detection of Cu2+. J Inorg Organomet. P, 2021, 31, 4177–4187.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Diao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fluorimetric determination of ascorbic acid with o-phenylenediamine</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Talanta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>95</sb:first-page>
+                              <sb:last-page>99</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx035">Wu X, Diao Y, Sun C, Yang J, Wang Y, Sun S. Fluorimetric determination of ascorbic acid with o-phenylenediamine. Talanta. 2003, 59: 95-99.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lv</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A ratiometric fuorescence method based on nitrogen-doped carbon quantum dots for the determination of the activity of alkaline phosphatase</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal Bioanal Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>414</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7989</sb:first-page>
+                              <sb:last-page>7998</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx040">Lv Y, Chen J, Zhou X, Su X. A ratiometric fuorescence method based on nitrogen-doped carbon quantum dots for the determination of the activity of alkaline phosphatase. Anal Bioanal Chem. 2022, 414: 7989-7998.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fluorescence immunoassay based on the alkaline phosphatase triggered in situ fluorogenic reaction of o-phenylenediamine and ascorbic acid</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2978</sb:first-page>
+                              <sb:last-page>2984</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx045">Zhao D, Li J, Peng C, Zhu S, Sun J, Yang X. Fluorescence immunoassay based on the alkaline phosphatase triggered in situ fluorogenic reaction of o-phenylenediamine and ascorbic acid. Anal. Chem. 2019, 91: 2978-2984.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Lei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Nie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fluorometric and colorimetric dual-readout assay for histone demethylase activity based on formaldehyde inhibition of Ag<ce:sup loc="post">+</ce:sup>-triggered oxidation of o-phenylenediamine</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9421</sb:first-page>
+                              <sb:last-page>9428</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx050">Deng L, Liu Q, Lei C, Zhang Y, Huang Y, Nie Z, Yao S. Fluorometric and colorimetric dual-readout assay for histone demethylase activity based on formaldehyde inhibition of Ag+-triggered oxidation of o-phenylenediamine. Anal. Chem. 2020, 92: 9421−9428.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>o-Phenylenediamine/gold nanocluster-based nanoplatform for ratiometric fluorescence detection of alkaline phosphatase activity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Talanta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>212</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>120768</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx055">Han X, Meng Z, Xia L, Qu F, Kong R. o-Phenylenediamine/gold nanocluster-based nanoplatform for ratiometric fluorescence detection of alkaline phosphatase activity. Talanta. 2020, 212: 120768.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Miao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Weng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ratiometric fluorescence assay based on carbon dots and Cu<ce:sup loc="post">2+</ce:sup>-catalyzed oxidation of o-phenylenediamine for the effective detection of deferasirox</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>RSC Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>34525</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx060">Miao C, Guo X, Zhang X, Lin Y, Han W, Huang Z, Weng S. Ratiometric fluorescence assay based on carbon dots and Cu2+-catalyzed oxidation of o-phenylenediamine for the effective detection of deferasirox. RSC Adv. 2021, 11: 34525.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Zou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Rao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A carbon dot-based ratiometric fluorometric and colorimetric method for determination of ascorbic acid and of the activity of ascorbic acid oxidase</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microchim Acta.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>186</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>246</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx065">Wang Y, Yang Y, Liu W, Ding F, Zou P, Wang X, Zhao Q, Rao H. A carbon dot-based ratiometric fluorometric and colorimetric method for determination of ascorbic acid and of the activity of ascorbic acid oxidase. Microchim Acta. 2019, 186: 246.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Jing</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Tian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Glucose oxidase decorated fluorescent metal-organic frameworks as biomimetic cascade nanozymes for glucose detection through the inner filter effect</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>146</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4188</sb:first-page>
+                              <sb:last-page>4194</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx070">Jing W, Kong F, Tian S, Yu M, Li Y, Fan L, Li X. Glucose oxidase decorated fluorescent metal-organic frameworks as biomimetic cascade nanozymes for glucose detection through the inner filter effect. Anal. 2021, 146: 4188-4194.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A ratiometric fluorescent and colorimetric dual-signal sensing platform based on N-doped carbon dots for selective and sensitive detection of copper (II) and pyrophosphate ion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sensor. Actuator. B Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>283</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>215</sb:first-page>
+                              <sb:last-page>221</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx075">Zhang W, Liu S, Han L, Luo H, Li N. A ratiometric fluorescent and colorimetric dual-signal sensing platform based on N-doped carbon dots for selective and sensitive detection of copper (II) and pyrophosphate ion. Sensor. Actuator. B Chem. 2019, 283: 215-221.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Duan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fluorescent and colorimetric sensors based on the oxidation of o-phenylenediamine</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Omega</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>20698</sb:first-page>
+                              <sb:last-page>20706</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx080">Ye Q, Ren S, Huang H, Duan G, Liu K, Liu J B. Fluorescent and colorimetric sensors based on the oxidation of o-phenylenediamine. ACS Omega. 2020, 5: 20698-20706.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Lei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>You</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A ratiometric fluorescent nanosensor for the detection of silver ions using graphene quantum dots</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sens. Actuators, B.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>253</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>239</sb:first-page>
+                              <sb:last-page>246</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx085">Zhao X, Lei C, Gao Y, Gao H, Zhu S, Yang X, You J, Wang H. A ratiometric fluorescent nanosensor for the detection of silver ions using graphene quantum dots. Sens. Actuators, B. 2017, 253: 239-246.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Molecular structure regulation and enzyme cascade signal amplification strategy for upconversion ratiometric luminescent and colorimetric alkaline phosphatase detection</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chim. Acta.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1051</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>160</sb:first-page>
+                              <sb:last-page>168</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx090">Chen H, Zhou Z, Lu Q, Wu C, Liu, Zhang Y, Yao S. Molecular structure regulation and enzyme cascade signal amplification strategy for upconversion ratiometric luminescent and colorimetric alkaline phosphatase detection. Anal. Chim. Acta. 2019, 1051: 160-168.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="h0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Non-oxidation reduction strategy for highly selective detection of ascorbic acid with dual-ratio fluorescence and colorimetric signals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sensor. Actuator. B Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>281</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>983</sb:first-page>
+                              <sb:last-page>988</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx095">Chen H, Liu Y, Li H, Zhang Y, Yao S. Non-oxidation reduction strategy for highly selective detection of ascorbic acid with dual-ratio fluorescence and colorimetric signals. Sensor. Actuator. B Chem. 2019, 281: 983-988.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Speek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Schrijver</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.P.</ce:given-name>
+                                 <ce:surname>Schreurs</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fluorometric determination of total vitamin C in whole blood by high-performance liquid chromatography with precolumn derivatization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chromatogr.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>305</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>53</sb:first-page>
+                              <sb:last-page>60</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx100">Speek A, Schrijver J, Schreurs W H P. Fluorometric determination of total vitamin C in whole blood by high-performance liquid chromatography with precolumn derivatization. J. Chromatogr. 1984, 305: 53-60.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="h0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kuang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Voltammetric determination of o-phenylenediamine in industrial wastewater by TiO<ce:inf loc="post">2</ce:inf>/HAP/MWCNT nanocomposite film modified electrode</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chin. J. Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1864</sb:first-page>
+                              <sb:last-page>1870</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx105">Li J, Kuang D, Feng Y, Liu M. Voltammetric determination of o-phenylenediamine in industrial wastewater by TiO2/HAP/MWCNT nanocomposite film modified electrode. Chin. J. Anal. Chem. 2011, 39: 1864-1870.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Lai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Qiu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A reaction-based fluorescent probe for detecting o-phenylenediamine in water and lateritic soil samples</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Photoch &amp; Photobio A: Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>386</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>112101</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx110">Lai X, Qiu G, Ye Q, Wang R, Liu J B. A reaction-based fluorescent probe for detecting o-phenylenediamine in water and lateritic soil samples. J Photoch &amp; Photobio A: Chem. 2020, 386: 112101.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="h0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Cao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A novel signal amplification strategy based on the use of copper nanoclusters for ratiometric fluorimetric determination of o-phenylenediamine</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microchim Acta.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>186</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>206</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx115">Ma Y, Yu Y, Lin B, Zhang L, Cao Y, Guo M. A novel signal amplification strategy based on the use of copper nanoclusters for ratiometric fluorimetric determination of o-phenylenediamine. Microchim Acta. 2019, 186: 206.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="h0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lv</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Technical progress and market analysis of o-phenylenediamine production</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Modern. Agrochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9</sb:first-page>
+                              <sb:last-page>12</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx120">Lv Y. Technical progress and market analysis of o-phenylenediamine production. Modern. Agrochem. 2004, 3: 9-12.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Gu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Xiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Colorimetric determination of o-phenylenediamine in water samples based on the formation of silver nanoparticles as a colorimetric probe</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Spectrochim Acta A: Mol. and Biomol. Spectrosc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>140</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>328</sb:first-page>
+                              <sb:last-page>333</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx125">Li N, Gu Y, Gao M, Wang Z, Xiao D, Li Y, Lin R, He H. Colorimetric determination of o-phenylenediamine in water samples based on the formation of silver nanoparticles as a colorimetric probe. Spectrochim Acta A: Mol. and Biomol. Spectrosc. 2015, 140: 328-333.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="h0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Indirect biamperometric determination of o-phenylenediamine in lab-on-valve format using reversible indicating redox system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>136</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>829</sb:first-page>
+                              <sb:last-page>834</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx130">Wang Y, Yao G, Zhu P, Hu X. Indirect biamperometric determination of o-phenylenediamine in lab-on-valve format using reversible indicating redox system. Anal. 2011, 136: 829-834.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="h0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabrication of sulfur quantum dots via a bottom-up strategy and its application for enhanced fluorescence monitoring of o-phenylenediamine</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microchem J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>183</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>107978</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx135">Ye C, Yu M, Wang Z. Fabrication of sulfur quantum dots via a bottom-up strategy and its application for enhanced fluorescence monitoring of o-phenylenediamine. Microchem J. 2022, 183: 107978.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="h0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Mao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>One-step synthesis of orange fluorescent copper nanoclusters for sensitive and selective sensing of Al<ce:sup loc="post">3+</ce:sup> ions in food samples</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sensor. Actuator. B Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>247</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>312</sb:first-page>
+                              <sb:last-page>318</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx140">Hu X, Mao X, Zhang X, Huang Y. One-step synthesis of orange fluorescent copper nanoclusters for sensitive and selective sensing of Al3+ ions in food samples. Sensor. Actuator. B Chem. 2017, 247: 312-318.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="h0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.W.</ce:given-name>
+                                 <ce:surname>Cleland</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dithiothreitol, a new protective reagent for SH groups</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1964</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>480</sb:first-page>
+                              <sb:last-page>482</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx145">Cleland WW. Dithiothreitol, a new protective reagent for SH groups. Biochem. 1964, 3: 480-482.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="h0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ratiometric fluorescence sensor based on dithiothreitol modified carbon dots-gold nanoclusters for the sensitive detection of mercury ions in water samples</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sensor. Actuator. B Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>262</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>810</sb:first-page>
+                              <sb:last-page>817</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx150">Liu W, Wang X, Wang Y, Li J, Shen D, Kang Q, Chen L. Ratiometric fluorescence sensor based on dithiothreitol modified carbon dots-gold nanoclusters for the sensitive detection of mercury ions in water samples. Sensor. Actuator. B Chem. 2018, 262: 810-817.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

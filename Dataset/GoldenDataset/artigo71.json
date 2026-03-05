@@ -1,0 +1,43 @@
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition": "Nitrogen-doped carbon dots (NCDs) as novel fluorescence probe for the quantitative detection of cysteamine synthesized by a rapid one-pot microwave assisted pyrolysis method using tartaric acid as the source of carbon and urea as N-dopant",
+            "iupac_name": null,
+            "alternative_names": ["NCDs", "Nitrogen-doped carbon dots"]
+        },
+        "synthesis": {
+            "method": {"type": "one-pot microwave assisted pyrolysis", "conditions": "Stirred 1g Tartaric Acid, 1g urea and 10mL milli-Q water to get a transparent solution. Then heated in a microwave oven at 800W for 3min", "catalysts": "array | null"},
+            "precursors": {"source": ["1g Tartaric acid"], "dopants": ["Nitrogen (from Urea)"]},
+            "post_treatment": ["Dissolution in water", "Dialysis for 24 h", "Solvent evaporation for concentration"]
+        },
+        "properties": {
+            "optical": {
+                "quantum_yield": {"value": "7%", "reference_material": "Quinine sulphate in 0.1 M H2SO4"},
+                "excitation_max": "[MISSING]",
+                "emission_max": "[MISSING]",
+                "fluorescence_lifetime": "2.9ns"
+            },
+            "structural": {
+                "size": {"avg": "diameter 3nm", "distribution": "[MISSING]"},
+                "morphology": "Fairly spherical in shape and exhibits a homogeneous distribution in a polymeric matrix.",
+                "crystallinity": "Highly intense diffraction peak centered at 27.2°(2θ value) corresponding to the (002) lattice planeas. The interlayer spacing distance of (002) plane is found to be around 3.28Å, which is analogous to the (002) lattice spacing (3.34 Å) of graphite"
+            },
+            "chemical": {
+                "surface_groups": ["-OH", "-C=O", "-COOH", "-C=N", "-NH₂", "-CONR (amide)"],
+                "elemental_composition": {"C": "[MISSING]", "N": "[MISSING]", "O": "[MISSING]"}
+            }
+        },
+        "applications": [
+            {
+                "domain": "Bioimaging",
+                "performance": "The cellular uptake study and cytotoxicity assay of NCDs showed its high biocompatibility and minimum cell toxicity.",
+                "comparative_advantage": "High biocompatibility: Cell viability remains ~83% even at high concentration (250 µg/mL)."
+            },
+            {
+                "domain": "Sensing (Cysteamine detection)",
+                "performance": "It can be used as a fluorescent probe for the quantitative estimation of cysteamine with a wide range of 10–210μM and detection limit of 75.6nM in optimum conditions",
+                "comparative_advantage": "High selectivity and sensitivity for cysteamine over interfering metal ions and amino acids. Simple, rapid fluorescence-based method."
+            }
+        ]
+    }
+}

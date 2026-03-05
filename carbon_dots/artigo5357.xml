@@ -1,0 +1,2775 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S092596352300821X</prism:url><dc:identifier>doi:10.1016/j.diamond.2023.110496</dc:identifier><eid>1-s2.0-S092596352300821X</eid><prism:doi>10.1016/j.diamond.2023.110496</prism:doi><pii>S0925-9635(23)00821-X</pii><dc:title>pH-responsive green fluorescent nitrogen-doped carbon dots for visualization of intracellular pH with intuitive color changes </dc:title><prism:publicationName>Diamond and Related Materials</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09259635</prism:issn><prism:volume>140</prism:volume><prism:startingPage>110496</prism:startingPage><prism:pageRange>110496</prism:pageRange><articleNumber>110496</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2023-12-31</prism:coverDate><prism:coverDisplayDate>December 2023</prism:coverDisplayDate><prism:copyright>© 2023 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Liu, Yuanyuan</dc:creator><dc:creator>Jiang, Tianyi</dc:creator><dc:creator>Zhong, Chuanqing</dc:creator><dc:creator>Zhao, Tingting</dc:creator><dc:description>
+                  Designing pH-sensitive nanoprobes for visualization of intracellular pH with intuitive color change is of high significance for better understanding the pathogenesis of diseases. However, most of the reported intracellular pH imaging strategies are the single intensity-based strategies, which are susceptible to interferences from background effects. In this work, pH-responsive green fluorescent nitrogen-doped carbon dots were synthesized for visualization of intracellular pH with intuitive color change. The as-prepared green fluorescent N-CDs exhibited obvious red fluorescence when the pH value was less than 7, while only the green fluorescence intensity changed under neutral or alkaline conditions, which can be visually observed by the naked eye. In addition, the mechanism of the green fluorescence of the N-CDs was systematically investigated by density-functional theory (DFT) theoretical calculation together with X-ray photoelectron spectroscopy (XPS) and Fourier transform-infrared spectrophotometer (FT-IR), as well as the mechanism of the response of N-CDs to pH was systematically investigated by absorption spectrum and transmission electron microscope (TEM). Furthermore, the as-prepared green fluorescent N-CDs were used to visualize intracellular pH with intuitive color changes, demonstrating its promising potential in visual bio-imaging.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Carbon dots</dcterms:subject><dcterms:subject>Nitrogen doping</dcterms:subject><dcterms:subject>Mechanism investigation</dcterms:subject><dcterms:subject>Multicolor</dcterms:subject><dcterms:subject>Intracellular pH sensing</dcterms:subject><dcterms:subject>Visualization</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S092596352300821X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S092596352300821X" rel="scidir"/></coredata><objects><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="589" height="439" size="66606">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="796" height="528" size="121993">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="577" height="634" size="88900">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="266" height="245" size="19471">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-ga1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="703" height="311" size="67834">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="358" height="329" size="30786">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-sc1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="533" height="648" size="74262">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="533" height="565" size="132111">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="163" size="12109">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="145" size="14034">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="149" height="164" size="10267">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="ga1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="178" height="164" size="12153">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-ga1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="97" size="11808">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="sc1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="178" height="163" size="12240">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-sc1.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="135" height="164" size="12664">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="155" height="164" size="17408">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2608" height="1943" size="388498">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3523" height="2336" size="597138">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2557" height="2809" size="462126">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1178" height="1085" size="119392">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-ga1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3113" height="1375" size="386435">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="951" height="873" size="88993">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-sc1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1417" height="1723" size="224908">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1417" height="1501" size="479772">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="1358356">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="1018259">https://api.elsevier.com/content/object/eid/1-s2.0-S092596352300821X-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85175056303</scopus-id><scopus-eid>2-s2.0-85175056303</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85175056303" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271601</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291689</xocs:ssid>
+         <xocs:ssid type="subj">291718</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Diamond and Related Materials</xocs:srctitle>
+      <xocs:normalized-srctitle>DIAMONDRELATEDMATERIALS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20231010">2023-10-10</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20231010">2023-10-10</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20231029">2023-10-29</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20231029">2023-10-29</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2023-11-21T20:49:23</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S092596352300821X</xocs:eid>
+      <xocs:pii-formatted>S0925-9635(23)00821-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S092596352300821X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.diamond.2023.110496</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0925963523X00107</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20231121">2023-11-21T23:01:09.710617Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20231201</xocs:date-search-begin>
+      <xocs:date-search-end>20231231</xocs:date-search-end>
+      <xocs:year-nav>2023</xocs:year-nav>
+      <xocs:indexeddate epoch="1696959278">2023-10-10T17:34:38.816568Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0925-9635</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09259635</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>140</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>140</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>PB</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 140, Part B</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>48</xocs:sort-order>
+      <xocs:first-fp>110496</xocs:first-fp>
+      <xocs:article-number>110496</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>110496</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202312</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>December 2023</xocs:cover-date-text>
+      <xocs:cover-date-start>2023-12-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2023-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2023</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Regular Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2023 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>PHRESPONSIVEGREENFLUORESCENTNITROGENDOPEDCARBONDOTSFORVISUALIZATIONINTRACELLULARPHINTUITIVECOLORCHANGES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>LIU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of N-CDs</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>MTT assay</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Imaging of pH in living cells</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization of the green emissive N-CDs</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Mechanism investigation of the green emissive N-CDs</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Sensing of pH in aqueous solution and response mechanism investigation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Fluorescence visual imaging of intracellular pH</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>WEBB</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>671</xocs:ref-first-fp>
+            <xocs:ref-last-lp>677</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>HOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2076</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2090</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>YE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1901673</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6753</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6761</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>PRAMANIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4331</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4433</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>DENNIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2917</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2924</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>129513</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>355</xocs:ref-first-fp>
+            <xocs:ref-last-lp>381</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>DAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>273</xocs:ref-first-fp>
+            <xocs:ref-last-lp>286</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>202301618</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>340202</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>KORAH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>108980</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>LAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-article-number>109702</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>JIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7609</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7618</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3053</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3058</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4074</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4077</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>815</xocs:ref-first-fp>
+            <xocs:ref-last-lp>821</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>KURNIAWAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>675</xocs:ref-first-fp>
+            <xocs:ref-last-lp>684</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>YUAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-article-number>110121</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>JIAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>125</xocs:ref-first-fp>
+            <xocs:ref-last-lp>132</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>ZHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>19226</xocs:ref-first-fp>
+            <xocs:ref-last-lp>19230</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0110">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>373</xocs:ref-first-fp>
+            <xocs:ref-last-lp>379</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0115">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2970</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2974</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0120">
+            <xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5360</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5363</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0125">
+            <xocs:ref-normalized-surname>DONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7800</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7804</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0130">
+            <xocs:ref-normalized-surname>DING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>484</xocs:ref-first-fp>
+            <xocs:ref-last-lp>491</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0135">
+            <xocs:ref-normalized-surname>EVGENY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5111</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5116</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0140">
+            <xocs:ref-normalized-surname>SONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>169</xocs:ref-first-fp>
+            <xocs:ref-last-lp>178</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0145">
+            <xocs:ref-normalized-surname>BERA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2260</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2345</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0150">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1902823</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0155">
+            <xocs:ref-normalized-surname>DING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>484</xocs:ref-first-fp>
+            <xocs:ref-last-lp>491</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0160">
+            <xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5450</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5453</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>LIUX2023X110496</xocs:refkey3>
+         <xocs:refkey4ai>LIUX2023X110496XY</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2025-10-29T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2025-10-29T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2023 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2023-11-01T06:56:21.611Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Doctoral Fund of Shandong Jianzhu University</xocs:funding-agency-matched-string>
+            <xocs:funding-id>X21021Z</xocs:funding-id>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Natural Science Foundation of Shandong Province of China</xocs:funding-agency-matched-string>
+            <xocs:funding-agency>Natural Science Foundation of Shandong Province</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100007129</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-id>ZR2021MB099</xocs:funding-id>
+            <xocs:funding-agency>National Natural Science Foundation of China-Shandong Joint Fund for Marine Science Research Centers</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100013143</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>The authors gratefully acknowledge support from the Natural Science Foundation of Shandong Province of China ( ZR2021MB099 ) and the Doctoral Fund of Shandong Jianzhu University ( X21021Z ). </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework>
+         <xocs:asf-license>https://doi.org/10.15223/policy-017</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-037</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-012</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-029</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-004</xocs:asf-license>
+      </xocs:article-sharing-framework>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0925-9635(23)00821-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S092596352300821X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S092596352300821X</xocs:eid>
+         <xocs:doi>10.1016/j.diamond.2023.110496</xocs:doi>
+         <xocs:cid>271601</xocs:cid>
+         <xocs:timestamp>2023-11-21T23:01:09.710617Z</xocs:timestamp>
+         <xocs:cover-date-start>2023-12-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2023-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/MAIN/application/pdf/610c987edeffb1ca4ae22852b054c9c4/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>5712177</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S092596352300821X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/PREVIEW/image/png/f62f8b8bc0dcfbf092947097de555b03/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>58153</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/gr4/DOWNSAMPLED/image/jpeg/1def3e68487bef28fcac244f8dfad803/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>66606</xocs:filesize>
+               <xocs:pixel-height>439</xocs:pixel-height>
+               <xocs:pixel-width>589</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/gr3/DOWNSAMPLED/image/jpeg/e02f3897ed3eb660cae9ce208504c256/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>121993</xocs:filesize>
+               <xocs:pixel-height>528</xocs:pixel-height>
+               <xocs:pixel-width>796</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/gr2/DOWNSAMPLED/image/jpeg/22083a1485f506acc00d12cb477fb2ad/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>88900</xocs:filesize>
+               <xocs:pixel-height>634</xocs:pixel-height>
+               <xocs:pixel-width>577</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-ga1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/ga1/DOWNSAMPLED/image/jpeg/b43a497c42754c7ed3d09d2413cbe900/ga1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>19471</xocs:filesize>
+               <xocs:pixel-height>245</xocs:pixel-height>
+               <xocs:pixel-width>266</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/gr1/DOWNSAMPLED/image/jpeg/9591174b336104bf4df90132f0c503cc/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>67834</xocs:filesize>
+               <xocs:pixel-height>311</xocs:pixel-height>
+               <xocs:pixel-width>703</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-sc1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/sc1/DOWNSAMPLED/image/jpeg/10d82660d06c71334613bcd7890ad6c4/sc1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30786</xocs:filesize>
+               <xocs:pixel-height>329</xocs:pixel-height>
+               <xocs:pixel-width>358</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/gr6/DOWNSAMPLED/image/jpeg/c8f88ad6557a686c489ca492bc017539/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>74262</xocs:filesize>
+               <xocs:pixel-height>648</xocs:pixel-height>
+               <xocs:pixel-width>533</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/gr5/DOWNSAMPLED/image/jpeg/91acc335cf4dc03458ae6af60f3c3ec0/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>132111</xocs:filesize>
+               <xocs:pixel-height>565</xocs:pixel-height>
+               <xocs:pixel-width>533</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/gr4/THUMBNAIL/image/gif/a5232d9d832940c71ed8c03bf18b4065/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12109</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/gr3/THUMBNAIL/image/gif/2db88fbc3d93520baff8737ea9ccb22f/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14034</xocs:filesize>
+               <xocs:pixel-height>145</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/gr2/THUMBNAIL/image/gif/7e941e93398178c56bebf2b96f90507c/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10267</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>149</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-ga1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/ga1/THUMBNAIL/image/gif/2cdac4553f59bc3040ea97b2eb3e7228/ga1.sml</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12153</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>178</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/gr1/THUMBNAIL/image/gif/3b731dbc46b3ae8853fdeccb0841e93c/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11808</xocs:filesize>
+               <xocs:pixel-height>97</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-sc1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/sc1/THUMBNAIL/image/gif/f89db45bc55dae48cc591ee5923271b6/sc1.sml</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12240</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>178</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/gr6/THUMBNAIL/image/gif/bb52901ade72894fdd9f511567b7560e/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12664</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>135</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/gr5/THUMBNAIL/image/gif/7616a300f346ac76b6a934b65bc3ffc9/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17408</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>155</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/HIGHRES/image/jpeg/861a0ca377c506f57cc0435c782df71a/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>388498</xocs:filesize>
+               <xocs:pixel-height>1943</xocs:pixel-height>
+               <xocs:pixel-width>2608</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/HIGHRES/image/jpeg/1ccb306ad8f8af899ef0c677e6d4126c/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>597138</xocs:filesize>
+               <xocs:pixel-height>2336</xocs:pixel-height>
+               <xocs:pixel-width>3523</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/HIGHRES/image/jpeg/b714f294bf8d9f509fc092e16dac34a2/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>462126</xocs:filesize>
+               <xocs:pixel-height>2809</xocs:pixel-height>
+               <xocs:pixel-width>2557</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-ga1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/HIGHRES/image/jpeg/fd39d0454adde3ea4752d6f2b2cd02bd/ga1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>119392</xocs:filesize>
+               <xocs:pixel-height>1085</xocs:pixel-height>
+               <xocs:pixel-width>1178</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/HIGHRES/image/jpeg/4cc4ffc15d15f8e0c8c76e76cac7ee27/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>386435</xocs:filesize>
+               <xocs:pixel-height>1375</xocs:pixel-height>
+               <xocs:pixel-width>3113</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-sc1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/HIGHRES/image/jpeg/490b619b5f61f50a29a0fce0ab408cfa/sc1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>88993</xocs:filesize>
+               <xocs:pixel-height>873</xocs:pixel-height>
+               <xocs:pixel-width>951</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/HIGHRES/image/jpeg/b6eff2530ee92ddf306b7985577a7668/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>224908</xocs:filesize>
+               <xocs:pixel-height>1723</xocs:pixel-height>
+               <xocs:pixel-width>1417</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/HIGHRES/image/jpeg/6543d95ea7796ac82bd9513e0acaf4d2/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>479772</xocs:filesize>
+               <xocs:pixel-height>1501</xocs:pixel-height>
+               <xocs:pixel-width>1417</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092596352300821X/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/5f9820f024e47935a9505e202062e74b/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>1358356</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092596352300821X-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:1047MX0KHJ5/MAIN/application/pdf/3180d54dfea9e3c26b9269f1f2480ada/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>1018259</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.6" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>DIAMAT</jid>
+            <aid>110496</aid>
+            <ce:article-number>110496</ce:article-number>
+            <ce:pii>S0925-9635(23)00821-X</ce:pii>
+            <ce:doi>10.1016/j.diamond.2023.110496</ce:doi>
+            <ce:copyright type="limited-transfer" year="2023">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="ca0005">
+                  <ce:simple-para id="sp0005" view="all">(A) Fluorescence excitation-emission map and (B) UV–vis absorption spectra of CDs (a) without and (b, c, d) with nitrogen dopping. The nitrogen doping amount is increasing from b to d. Dotted lines are the corresponding excitation spectra of the CDs.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0005">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:type="simple" xlink:href="pii:S092596352300821X/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="ca0010">
+                  <ce:simple-para id="sp0010" view="all">High-resolution C1s, N1s and O1s XPS spectra for CDs (A) without and (B, C, D) with nitrogen dopping. The nitrogen doping amount is increasing from B to D.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0010">Fig. 2</ce:alt-text>
+               <ce:link id="lk0010" locator="gr2" xlink:type="simple" xlink:href="pii:S092596352300821X/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="ca0015">
+                  <ce:simple-para id="sp0015" view="all">(A) FT-IR spectra for CDs (a) without and (b, c, d) with nitrogen dopping. The nitrogen doping amount is increasing from b to d. (B) HOMO-LUMO gaps for the nitrogen doped systems. (C) Nitrogen doped models (AN1, AN2, AN3) and nitrogen free system AN0. Carbon (gray), hydrogen (white), nitrogen (red). (D) HOMO and LUMO calculated molecular orbitals for the nitrogen-doped systems.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0015">Fig. 3</ce:alt-text>
+               <ce:link id="lk0015" locator="gr3" xlink:type="simple" xlink:href="pii:S092596352300821X/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="ca0020">
+                  <ce:simple-para id="sp0020" view="all">(A) Fluorescence emission spectra of the N-CDs at different pH values. (B) Variation of excitation wavelengths, (C) variation of fluorescence intensity and (D) absorption spectrum of the N-CDs at different pH values.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0020">Fig. 4</ce:alt-text>
+               <ce:link id="lk0020" locator="gr4" xlink:type="simple" xlink:href="pii:S092596352300821X/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="ca0025">
+                  <ce:simple-para id="sp0025" view="all">TEM images of N-CDs at (A) pH = 2, (B) pH = 7, (C) pH = 9 and (D) pH = 12, respectively (The up and down inset shows the size distribution and HRTEM image, respectively).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0025">Fig. 5</ce:alt-text>
+               <ce:link id="lk0025" locator="gr5" xlink:type="simple" xlink:href="pii:S092596352300821X/gr5" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="ca0030">
+                  <ce:simple-para id="sp0030" view="all">Confocal images of HeLa cells treated with N-CDs (1/1000) at pH 3.0, 5.0, 7.0 and 9.0, respectively.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0030">Fig. 6</ce:alt-text>
+               <ce:link id="lk0030" locator="gr6" xlink:type="simple" xlink:href="pii:S092596352300821X/gr6" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="sch0005">
+               <ce:label>Scheme 1</ce:label>
+               <ce:caption id="ca0035">
+                  <ce:simple-para id="sp0035" view="all">(A, B) Schematic of the synthesis of N-CDs and (C) its visual response to pH.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0035">Scheme 1</ce:alt-text>
+               <ce:link id="lk0035" locator="sc1" xlink:type="simple" xlink:href="pii:S092596352300821X/sc1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="ti0005">pH-responsive green fluorescent nitrogen-doped carbon dots for visualization of intracellular pH with intuitive color changes</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S092596352300821X-fa13fbc0a10cd13fe5354a96e3bdabe7">
+                  <ce:given-name>Yuanyuan</ce:given-name>
+                  <ce:surname>Liu</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:cross-ref refid="af0005" id="cf0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005" id="cf0010">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0010" author-id="S092596352300821X-1ec6bf81bbf4bdea5589765977cea027">
+                  <ce:given-name>Tianyi</ce:given-name>
+                  <ce:surname>Jiang</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:cross-ref refid="af0005" id="cf0015">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0015" author-id="S092596352300821X-cf28a9f5d465fd15d3bf52d1b9f68338">
+                  <ce:given-name>Chuanqing</ce:given-name>
+                  <ce:surname>Zhong</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:cross-ref refid="af0005" id="cf0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0020" author-id="S092596352300821X-03001f76b21abaa74ee3c9af495b429e">
+                  <ce:given-name>Tingting</ce:given-name>
+                  <ce:surname>Zhao</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:cross-ref refid="af0010" id="cf0025">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0015" id="cf0030">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0010" id="cf0035">
+                     <ce:sup loc="post">⁎⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af0005" affiliation-id="S092596352300821X-52cc76c4967968ab3859eff56900bd54">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0005">School of Municipal and Environmental Engineering, Shandong Jianzhu University, Jinan 250101, Shandong, PR China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Municipal and Environmental Engineering</sa:organization>
+                     <sa:organization>Shandong Jianzhu University</sa:organization>
+                     <sa:city>Jinan</sa:city>
+                     <sa:state>Shandong</sa:state>
+                     <sa:postal-code>250101</sa:postal-code>
+                     <sa:country>PR China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0005">School of Municipal and Environmental Engineering, Shandong Jianzhu University, Jinan 250101, Shandong, P. R. China</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af0010" affiliation-id="S092596352300821X-1fa0385140c4a5e556c66bbf296392d6">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0010">CAS Key Laboratory of Chemistry of Northwestern Plant Resources and Key Laboratory for Natural Medicine of Gansu Province, Lanzhou Institute of Chemical Physics, Chinese Academy of Sciences, Lanzhou 730000, Gansu, PR China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>CAS Key Laboratory of Chemistry of Northwestern Plant Resources and Key Laboratory for Natural Medicine of Gansu Province</sa:organization>
+                     <sa:organization>Lanzhou Institute of Chemical Physics</sa:organization>
+                     <sa:organization>Chinese Academy of Sciences</sa:organization>
+                     <sa:city>Lanzhou</sa:city>
+                     <sa:state>Gansu</sa:state>
+                     <sa:postal-code>730000</sa:postal-code>
+                     <sa:country>PR China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0010">CAS Key Laboratory of Chemistry of Northwestern Plant Resources and Key Laboratory for Natural Medicine of Gansu Province, Lanzhou Institute of Chemical Physics, Chinese Academy of Sciences, Lanzhou 730000, Gansu, PR China</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af0015" affiliation-id="S092596352300821X-c6dc287ff36b3ff9b5bb48906f1ffe31">
+                  <ce:label>c</ce:label>
+                  <ce:textfn id="tn0015">Qingdao Center of Resource Chemistry &amp; New Materials, Qingdao 266000, Shandong, PR China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Qingdao Center of Resource Chemistry &amp; New Materials</sa:organization>
+                     <sa:city>Qingdao</sa:city>
+                     <sa:state>Shandong</sa:state>
+                     <sa:postal-code>266000</sa:postal-code>
+                     <sa:country>PR China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0015">Qingdao Center of Resource Chemistry &amp; New Materials, Qingdao 266000, Shandong, PR China</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx0005">Corresponding author.</ce:text>
+               </ce:correspondence>
+               <ce:correspondence id="cr0010">
+                  <ce:label>⁎⁎</ce:label>
+                  <ce:text id="tx0010">Correspondence to: T. Zhao, CAS Key Laboratory of Chemistry of Northwestern Plant Resources and Key Laboratory for Natural Medicine of Gansu Province, Lanzhou Institute of Chemical Physics, Chinese Academy of Sciences, Lanzhou 730000, Gansu, PR China.</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>CAS Key Laboratory of Chemistry of Northwestern Plant Resources and Key Laboratory for Natural Medicine of Gansu Province</sa:organization>
+                     <sa:organization>Lanzhou Institute of Chemical Physics</sa:organization>
+                     <sa:organization>Chinese Academy of Sciences</sa:organization>
+                     <sa:city>Lanzhou</sa:city>
+                     <sa:state>Gansu</sa:state>
+                     <sa:postal-code>730000</sa:postal-code>
+                     <sa:country>PR China</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="1" month="8" year="2023"/>
+            <ce:date-revised day="28" month="9" year="2023"/>
+            <ce:date-accepted day="9" month="10" year="2023"/>
+            <ce:abstract id="ab0005" xml:lang="en" view="all" class="author"><ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0040" view="all">Designing pH-sensitive nanoprobes for visualization of intracellular pH with intuitive color change is of high significance for better understanding the pathogenesis of diseases. However, most of the reported intracellular pH imaging strategies are the single intensity-based strategies, which are susceptible to interferences from background effects. In this work, pH-responsive green fluorescent nitrogen-doped carbon dots were synthesized for visualization of intracellular pH with intuitive color change. The as-prepared green fluorescent N-CDs exhibited obvious red fluorescence when the pH value was less than 7, while only the green fluorescence intensity changed under neutral or alkaline conditions, which can be visually observed by the naked eye. In addition, the mechanism of the green fluorescence of the N-CDs was systematically investigated by density-functional theory (DFT) theoretical calculation together with X-ray photoelectron spectroscopy (XPS) and Fourier transform-infrared spectrophotometer (FT-IR), as well as the mechanism of the response of N-CDs to pH was systematically investigated by absorption spectrum and transmission electron microscope (TEM). Furthermore, the as-prepared green fluorescent N-CDs were used to visualize intracellular pH with intuitive color changes, demonstrating its promising potential in visual bio-imaging.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract id="ab0010" class="graphical" xml:lang="en" view="all">
+               <ce:section-title id="st0010">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="as0010" view="all">
+                  <ce:simple-para id="sp0045" view="all">
+                     <ce:display>
+                        <ce:figure id="f0035">
+                           <ce:alt-text role="short" id="al0040">Unlabelled Image</ce:alt-text>
+                           <ce:link id="lk0040" locator="ga1" xlink:type="simple" xlink:href="pii:S092596352300821X/ga1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:keywords id="ks0005" view="all" class="keyword">
+               <ce:section-title id="st0020">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text id="tx0015">Carbon dots</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0020">Nitrogen doping</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0025">Mechanism investigation</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text id="tx0030">Multicolor</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text id="tx0035">Intracellular pH sensing</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0030">
+                  <ce:text id="tx0040">Visualization</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:data-availability id="da0005" view="all">
+               <ce:section-title id="st0025">Data availability</ce:section-title>
+               <ce:para id="p0020" view="all">Data will be made available on request.</ce:para>
+            </ce:data-availability>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st0030">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">Intracellular pH is closely related with pathological and physiological processes, including cell metabolism, apoptosis, signal transduction and endocytosis [<ce:cross-ref id="cf0040" refid="bb0005">1</ce:cross-ref>,<ce:cross-ref id="cf0045" refid="bb0010">2</ce:cross-ref>]. Abnormal fluctuation of intracellular pH will result in serious diseases such as cancers, rheumatoid arthritis and other autophagy blockage and storage disorders [<ce:cross-ref id="cf0050" refid="bb0015">3</ce:cross-ref>]. Precise detection of intracellular pH can offer crucial information for cell functions and is of high significance for diseases diagnosis and prevention [<ce:cross-ref id="cf0055" refid="bb0020">4</ce:cross-ref>]. Hence, great efforts have been made to develop a series of cost-effective and sensitive approaches for real-time monitoring intracellular pH. Up to now, although numerous conventional organic fluorescent dyes or toxic semiconductor quantum dots based analytical techniques have been used for pH sensing [<ce:cross-refs id="cf0060" refid="bb0025 bb0030 bb0035 bb0040">5–8</ce:cross-refs>], inevitable limitations such as insufficient photo-stability or complex synthesis still limit their application in providing accurate measured results. Therefore, developing new fluorescent materials with pH responsiveness, excellent optical stabilities and environmental compatibility is still of high significance for bio-sensing and bio-imaging applications.</ce:para>
+                  <ce:para id="p0030" view="all">Nitrogen-doped carbon dots (N-CDs), with unique advantages including high biocompatibility, low toxicity, low-cost synthesis process and excellent optical stabilities, have attracted enormous attentions in bio-sensing and bio-imaging applications [<ce:cross-refs id="cf0065" refid="bb0045 bb0050 bb0055 bb0060 bb0065 bb0070 bb0075 bb0080">9–16</ce:cross-refs>]. Previous studies reported that N-CDs have been developed for accurate monitoring intracellular pH [<ce:cross-ref id="cf0070" refid="bb0085">17</ce:cross-ref>]. However, most reported N-CDs-based pH sensing strategies relied on single fluorescence intensity changes, the results of which may be interfered by the probe concentrations, environmental conditions and instrumental efficiency [<ce:cross-refs id="cf0075" refid="bb0090 bb0095 bb0100">18–20</ce:cross-refs>]. As alternatives, strategies that can visually detect intracellular pH based on fluorescence color changes rather than a single change in fluorescence intensity, could provide improved sensitivity by eliminating most of the ambiguities by self-calibration along with obvious color changes, which is benefit for rapid visual identification by the naked eye [<ce:cross-ref id="cf0080" refid="bb0105">21</ce:cross-ref>,<ce:cross-ref id="cf0085" refid="bb0110">22</ce:cross-ref>]. Therefore, it is of great significance to develop N-CDs-based strategies for visual determination of intracellular pH according to fluorescence color changes.</ce:para>
+                  <ce:para id="p0035" view="all">Motivated by this, we synthesized pH-responsive N-CDs with green emission and applied them to the visual measurement and imaging of intracellular pH accompanied by fluorescence color changes (<ce:cross-ref id="cf0090" refid="sch0005">Scheme 1</ce:cross-ref>
+                     <ce:float-anchor refid="sch0005"/>). Mechanism of the green fluorescence of the N-CDs caused by nitrogen doping was in-depth investigated through density functional theory (DFT) and experiments. Importantly, the fluorescence color of the prepared N-CDs changed from green to red at acidic pH, while only the fluorescence intensity changed under alkaline conditions, and the mechanism of such color change has also been preliminarily discussed. Furthermore, the prepared N-CDs was successfully applied for visual determination of pH fluctuations in living cells, indicating their great potential in practical bioanalysis.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st0035">Materials and methods</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="st0040">Preparation of N-CDs</ce:section-title>
+                     <ce:para id="p0040" view="all">1 g of hydroquinone was added to 10 mL of deionized water, followed by the addition of 0.6 mL of EDA, and then reacted at 180 °C without stirring for 10 h. Finally, by centrifuging the crude products at 12,000 rpm for 15 min and removing the larger aggregates, green emissive N-CDs were obtained.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="st0045">MTT assay</ce:section-title>
+                     <ce:para id="p0045" view="all">Hela cells were seeded onto 96-well plates and grown for 24 h at 37 °C at 37 °C under 5 % CO<ce:inf loc="post">2</ce:inf>, and then treated with 10 μL of N-CDs (1/1000) for 24 h. Subsequently, 20 μL of MTT solution was added and incubated for 4 h at 37 °C. Then, 200 μL of DMSO was added to each well and gently shaken for 10 min after removing the supernatants. At last, the absorbance values of the wells at 492 nm were measured.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="st0050">Imaging of pH in living cells</ce:section-title>
+                     <ce:para id="p0050" view="all">Hela cells were treated with N-CDs (1/1000) for 2 h at 37 °C under 5 % CO<ce:inf loc="post">2</ce:inf> atmosphere. Next, cells were washed with serum-free DMEM and then treated with buffer solutions of various pH (3.0, 5.0, 7.0, 9.0) in the presence of KCl (125 × 10<ce:sup loc="post">−3</ce:sup> M), NaCl (20 × 10<ce:sup loc="post">−3</ce:sup> M), CaCl<ce:inf loc="post">2</ce:inf> (0.5 × 10<ce:sup loc="post">−3</ce:sup> M) and MgCl<ce:inf loc="post">2</ce:inf> (0.5 × 10<ce:sup loc="post">−3</ce:sup> M) for 20 min at 37 °C under 5 % CO<ce:inf loc="post">2</ce:inf>. Finally, confocal fluorescence images were obtained using confocal microscope.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0030" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st0055">Results and discussion</ce:section-title>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="st0060">Characterization of the green emissive N-CDs</ce:section-title>
+                     <ce:para id="p0055" view="all">The green emissive N-CDs with an absolute quantum yield of 28.6 % were synthesized by using hydroquinone as carbon source and EDA as nitrogen doping precursors. As shown in <ce:cross-ref id="cf0095" refid="f0005">Fig. 1</ce:cross-ref>A<ce:float-anchor refid="f0005"/>, with the increase of nitrogen doping amount, the optimal excitation/emission field of CDs gradually redshifts (excitation from 310 nm to 405 nm; emission from 360 nm to 510 nm), while the excitation/emission wavelength is no longer redshifted when the nitrogen doping amount reaches saturation. The UV–visible absorption spectra in <ce:cross-ref id="cf0100" refid="f0005">Fig. 1</ce:cross-ref>B indicates that three similar absorption peaks appeared in the high energy region at 260 nm with the increase of nitrogen doping amount as well as three different absorption peaks also appeared in the low energy region at 395 nm, 405 nm and 406 nm, respectively. It is worth noting that the absorption peaks in the low energy region gradually redshifted with the increase of nitrogen doping amount and no longer redshifted when nitrogen doping amount reaches saturation, which may be due to the difference of surface states of CDs caused by the increasing nitrogen doping, resulting in different n-π* transitions [<ce:cross-ref id="cf0105" refid="bb0115">23</ce:cross-ref>]. Since nitrogen doping amount reaches saturation, the surface state of CDs does not change and the absorption peaks no longer redshift, which is consistent with previous report [<ce:cross-ref id="cf0110" refid="bb0120">24</ce:cross-ref>]. In addition, the absorption peaks in the low energy region is close to the corresponding optimal excitation wavelength, indicating that the fluorescence emission of N-CDs originates from the absorption in the low energy region.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0040" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="st0065">Mechanism investigation of the green emissive N-CDs</ce:section-title>
+                     <ce:para id="p0060" view="all">Furthermore, the mechanism of the redshift for the green fluorescence of the N-CDs was investigated. As shown in Fig. S1, the size of CDs does not show significant changes with the increase of nitrogen doping amount, indicating that the fluorescence emission redshift is independent of size effect. It is reported that nitrogen doping (especially amino nitrogen) and enhanced surface oxidation degree are beneficial for reducing the band gap of LUMO-HOMO and leading to fluorescence redshift of CDs [<ce:cross-refs id="cf0115" refid="bb0125 bb0130 bb0135">25–27</ce:cross-refs>]. The high-resolution N1s and O1s XPS spectra shown in <ce:cross-ref id="cf0120" refid="f0010">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/> indicated that the peak at 399 eV and 530.2 eV for amino nitrogen and C<ce:glyph name="dbnd"/>O gradually increased with the increasing nitrogen doping amount, respectively, and no longer increased when nitrogen doping amount reaches saturation.</ce:para>
+                     <ce:para id="p0065" view="all">In addition, the FT-IR analysis shown in <ce:cross-ref id="cf0125" refid="f0015">Fig. 3</ce:cross-ref>A<ce:float-anchor refid="f0015"/> indicated that the intensity of the characteristic stretching vibration peak for O-H/N-H at 3140–3490 cm<ce:sup loc="post">−1</ce:sup> and bending vibration peak for N<ce:glyph name="sbnd"/>H at 1520 cm<ce:sup loc="post">−1</ce:sup> as well as stretching vibration peak for C<ce:glyph name="dbnd"/>O at 1670 cm<ce:sup loc="post">−1</ce:sup> also gradually increased with the increasing nitrogen doping amount, respectively, and no longer increased when nitrogen doping amount reaches saturation. The results of FT-IR and XPS analysis both demonstrated that the increasing nitrogen doping (especially amino nitrogen) and enhanced surface oxidation degree contribute to the fluorescence redshift of CDs.</ce:para>
+                     <ce:para id="p0070" view="all">Moreover, DFT calculation was carried out for in-depth investigation of the influence of amino nitrogen on the fluorescence redshift of CDs. According to the doping amount of amino nitrogen, four models named AN0, AN1, AN2 and AN3 were established (<ce:cross-ref id="cf0130" refid="f0015">Fig. 3</ce:cross-ref>C), respectively. As shown in <ce:cross-ref id="cf0135" refid="f0015">Fig. 3</ce:cross-ref>B, compared with the no nitrogen doped system AN0, the reduced HOMO-LUMO gap can be observed with the increasing doping amount of amino nitrogen from AN0 to AN3 (<ce:cross-ref id="cf0140" refid="f0015">Fig. 3</ce:cross-ref>D shows the corresponding HOMO and LUMO calculated molecular orbitals), the result of which further indicated that the introduction of amino nitrogen into the carbon lattice could lead to the reduced HOMO-LUMO gaps, resulting in the fluorescence redshift of CDs.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0045" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="st0070">Sensing of pH in aqueous solution and response mechanism investigation</ce:section-title>
+                     <ce:para id="p0075" view="all">The response of N-CDs to pH in aqueous solution was subsequently investigated. As shown in <ce:cross-ref id="cf0145" refid="f0020">Fig. 4</ce:cross-ref>A<ce:float-anchor refid="f0020"/>, green fluorescence changed to red fluorescence when the pH value was less than 7, and the red fluorescence intensity gradually enhanced along with the decreased pH value. When the pH values ranged from 7 to 9, the green fluorescence of N-CDs gradually increases, while the fluorescence weakened when the pH value is greater than 10, and the stronger the alkalinity, the weaker the fluorescence. In addition, when the pH value was less than 7, the optimal emission wavelength was obviously redshifted from 510 nm to 600 nm (<ce:cross-ref id="cf0150" refid="f0020">Fig. 4</ce:cross-ref>B), while the optimal excitation wavelength was redshifted from 405 nm to 482 nm (<ce:cross-ref id="cf0155" refid="f0020">Fig. 4</ce:cross-ref>C). When pH value is greater than 7, no obvious changes for the optimal emission and excitation wavelength was observed. Moreover, applications of visual detecting pH in water was also performed using fluorescent test paper prepared by printing N-CDs onto filter paper under UV light. As shown in Fig. S2, when the pH value is less than 7, the test paper shows obvious red fluorescence colors, and the red fluorescence gradually increases as the pH value decreases. Under weak alkalinity (pH: 7–9), the green fluorescence gradually increased, and under strong alkalinity (pH: 10–14), the green fluorescence gradually decreased. That is to say, we can roughly determine the pH value of the water with the naked eye according to the fluorescent color of the test paper.</ce:para>
+                     <ce:para id="p0080" view="all">In view of the response of N-CDs to pH, absorption spectrum of the N-CDs at different pH values were firstly measured for the mechanism investigation. As shown in <ce:cross-ref id="cf0160" refid="f0020">Fig. 4</ce:cross-ref>D, when pH is less than 7, a new absorption peak appeared in the low energy region and gradually redshifted with increasing acidity, indicating that new substances may be formed under acidic conditions and lead to reduced LUMO-HOMO band gap of N-CDs [<ce:cross-ref id="cf0165" refid="bb0140">28</ce:cross-ref>]. When in weak alkalinity (pH from 7 to 9), only the absorption intensity gradually increased and no new absorption peaks appeared. When in strong alkalinity (pH greater than 12), the absorption peak of N-CDs almost disappeared, indicating the disappearance of N-CDs. The above results of absorption spectra were consistent with the changes of fluorescence color and intensity of N-CDs at different pH.</ce:para>
+                     <ce:para id="p0085" view="all">In order to further investigate the mechanism of the response of N-CDs to pH, TEM images of N-CDs at different pH values (taking pH = 2, 7, 9 and 12 as examples) were obtained. As shown in <ce:cross-ref id="cf0170" refid="f0025">Fig. 5</ce:cross-ref>A and B<ce:float-anchor refid="f0025"/>, the N-CDs obviously aggregated into larger particles when pH = 2, which is easy to lose the quantum confinement effect, resulting in the reduced LUMO-HOMO band gap and fluorescence redshift of N-CDs [<ce:cross-ref id="cf0175" refid="bb0145">29</ce:cross-ref>]. In addition, dynamic light scattering (DLS) results shown in Fig. S3 also confirms the aggregation of N-CDs at pH = 2. When pH ranged from 7 to 9, there was no significant change in the particle size of N-CDs (<ce:cross-ref id="cf0180" refid="f0025">Fig. 5</ce:cross-ref>C). It is reported that a “protective shell” with negative charges will be formed when the carboxyl group on the surface of N-CDs is deprotonated, thus reducing the non-radiative decay and contributing to fluorescence enhancement. [<ce:cross-ref id="cf0185" refid="bb0150">30</ce:cross-ref>] When in strong alkalinity (pH = 12), N-CDs will be decomposed (<ce:cross-ref id="cf0190" refid="f0025">Fig. 5</ce:cross-ref>D), resulting in decreased fluorescence. Here, the absorption peaks of the N-CDs in the low-energy region is corresponding to the n–π* transition of C<ce:glyph name="dbnd"/>N, C–N–C or C<ce:glyph name="dbnd"/>O structures. It is worth noting that in acidic or alkaline environment, the surface state of N-CDs will change, resulting in a double peak in the low energy region [<ce:cross-ref id="cf0195" refid="bb0155">31</ce:cross-ref>,<ce:cross-ref id="cf0200" refid="bb0160">32</ce:cross-ref>]. However, in the strong alkaline environment, the N-CDs will decompose and the absorption peak will disappear, which is also consistent with the TEM results.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0050" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="st0075">Fluorescence visual imaging of intracellular pH</ce:section-title>
+                     <ce:para id="p0090" view="all">Prior to visual imaging of intracellular pH, MTT assay was carried out to investigate the cytotoxicity of the N-CDs and showed their low cytotoxicity (Fig. S4). Subsequently, the performance of the N-CDs for visual imaging of intracellular pH was confirmed. Hela cells were firstly treated with N-CDs (1/1000) for 2 h and then incubated with buffer solutions of various pH (3.0, 5.0, 7.0, 9.0) for another 20 min. As shown in <ce:cross-ref id="cf0205" refid="f0030">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="f0030"/>, Compared with green fluorescence in neutral or weakly alkaline environments, red fluorescence can be obviously observed in acidic environments. These results successfully demonstrated that the N-CDs can serve as a promising probe for visual imaging of intracellular pH based on color changes.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0055" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st0080">Conclusions</ce:section-title>
+                  <ce:para id="p0095" view="all">In summary, we synthesized pH-responsive green fluorescent nitrogen-doped carbon dots and applied them for visualization of intracellular pH with intuitive color changes. DFT theoretical calculation together with XPS and FT-IR spectrum clearly demonstrated that enhanced surface oxidation degree and reduced band gap of LUMO-HOMO resulted from amino nitrogen doping mainly contributes to the green fluorescence of the N-CDs. The as-prepared green fluorescent N-CDs exhibited obvious red fluorescence when the pH value was less than 7, while only the green fluorescence intensity changed under neutral or alkaline conditions. Absorption spectrum and TEM were also performed to investigated the mechanism of the response of N-CDs to pH. Most importantly, visualization of intracellular pH with intuitive color changes can be achieved, indicating its promising potential in visual bio-imaging. We expect that this work will expand the study of luminescence mechanism of N-CDs and provide a promising avenue for visual biological imaging.</ce:para>
+               </ce:section>
+               <ce:section id="s0060" view="all">
+                  <ce:section-title id="st0085">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p0100" view="all">
+                     <ce:bold>Yuanyuan Liu:</ce:bold> Investigation, Writing – original draft, Writing – review &amp; editing. <ce:bold>Tianyi Jiang:</ce:bold> Data curation. <ce:bold>Chuanqing Zhong:</ce:bold> Methodology. <ce:bold>Tingting Zhao:</ce:bold> Supervision.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0005" view="all">
+               <ce:section-title id="st0090">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0105" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ac0005" view="all">
+               <ce:section-title id="st0095">Acknowledgments</ce:section-title>
+               <ce:para id="p0110" view="all">The authors gratefully acknowledge support from the <ce:grant-sponsor id="gts0005" sponsor-id="https://doi.org/10.13039/501100007129" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Natural Science Foundation of Shandong Province</ce:grant-sponsor> of China (<ce:grant-number id="gtn0005" refid="gts0005">ZR2021MB099</ce:grant-number>) and the Doctoral Fund of <ce:grant-sponsor id="gts0010" sponsor-id="https://doi.org/10.13039/501100007927" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Shandong Jianzhu University</ce:grant-sponsor> (<ce:grant-number id="gtn0010" refid="gts0010">X21021Z</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section view="extended" id="s0065">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st0100">Supplementary data</ce:section-title>
+                  <ce:para id="p0115" view="all">
+                     <ce:display>
+                        <ce:e-component id="ec0005">
+                           <ce:caption id="ca0040">
+                              <ce:simple-para id="sp0055" view="all">Supplementary material</ce:simple-para>
+                           </ce:caption>
+                           <ce:alt-text role="short" id="al0045">Image 1</ce:alt-text>
+                           <ce:link id="lk0045" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" locator="mmc1" xlink:type="simple" xlink:href="pii:S092596352300821X/mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section view="compact-standard" id="s0070">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st0105">Supplementary data</ce:section-title>
+                  <ce:para id="p0120" view="all">Supplementary data to this article can be found online at <ce:inter-ref xlink:href="https://doi.org/10.1016/j.diamond.2023.110496" id="ir0005" xlink:role="http://www.elsevier.com/xml/linking-roles/text/html" xlink:type="simple">https://doi.org/10.1016/j.diamond.2023.110496</ce:inter-ref>.</ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0110">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Webb</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chimenti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Jacobson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Barber</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dysregulated pH: a perfect storm for cancer progression</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Rev. Cancer</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>671</sb:first-page>
+                              <sb:last-page>677</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/nrc3110</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0020">B.A. Webb, M. Chimenti, M.P. Jacobson, D.L. Barber, Dysregulated pH: a perfect storm for cancer progression, Nature Reviews Cancer 11 (2011) 671-677. doi:10.1038/nrc3110.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Hou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.X.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Seo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sharma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Q.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fluorescent bioimaging of pH: from design to applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Soc. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2076</sb:first-page>
+                              <sb:last-page>2090</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/C6CS00719H</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0025">J.T. Hou, W.X. Ren, K. Li, J. Seo, A. Sharma, X.Q. Yu, J.S. Kim, Fluorescent bioimaging of pH: from design to applications, Chem. Soc. Rev. 46 (2017) 2076-2090. doi:10.1039/C6CS00719H.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.X.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Xiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.R.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A red emissive two-photon fluorescence probe based on carbon dots for intracellular pH detection</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Small</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1901673</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/smll.201901673</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0030">X.X. Ye, Y.H. Xiang, Q.R. Wang, Z. Li, Z.H. Liu, A red emissive two-photon fluorescence probe based on carbon dots for intracellular pH detection, Small 15 (2019) 1901673. doi:10.1002/smll.201901673.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Z.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.J.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.D.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Nie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Smart superstructures with ultrahigh pH-sensitivity for targeting acidic tumor microenvironment: instantaneous size switching and improved tumor penetration</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Nano</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6753</sb:first-page>
+                              <sb:last-page>6761</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acsnano.6b02326</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0035">H.J. Li, J.Z. Du, J. Liu, X.J. Du, S. Shen, Y.H. Zhu, X.Y. Wang, X.D. Ye, S.M. Nie, J. Wang, Smart superstructures with ultrahigh pH-sensitivity for targeting acidic tumor microenvironment: instantaneous size switching and improved tumor penetration, ACS Nano 10 (2016) 6753-6761. doi:10.1021/acsnano.6b02326.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Pramanik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Roy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mondal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bhandari</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A two- target responsive reversible ratiometric pH nanoprobe: a white light emitting quantum dot complex</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4331</sb:first-page>
+                              <sb:last-page>4433</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/C9CC01088B</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0040">S. Pramanik, S. Roy, A. Mondal, S. Bhandari, A two- target responsive reversible ratiometric pH nanoprobe: a white light emitting quantum dot complex, Chem. Commun. 55 (2019) 4331-433. doi:10.1039/C9CC01088B.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Dennis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Rhee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Sotto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.N.</ce:given-name>
+                                 <ce:surname>Dublin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Bao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Quantum dot-fluorescent protein FRET probes for sensing intracellular pH</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Nano</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2917</sb:first-page>
+                              <sb:last-page>2924</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/nn2038077</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0045">A.M. Dennis, W.J. Rhee, D. Sotto, S.N. Dublin, G. Bao, Quantum dot-fluorescent protein FRET probes for sensing intracellular pH, ACS Nano 6 (2012) 2917-2924. doi:10.1021/nn2038077.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.H.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Jia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Eltayeb</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Shuang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Red fluorescent carbon dots for tetracycline antibiotics and pH discrimination from aggregation-induced emission mechanism</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sensors Actuators B Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>332</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>129513</sb:article-number>
+                           <ce:doi>10.1016/j.snb.2021.129513</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0050">L. Li, L.H. Shi, J. jJia, O. Eltayeb, W.J. Lu, Y.H. Tang, C. Dong, S.M. Shuang, Red fluorescent carbon dots for tetracycline antibiotics and pH discrimination from aggregation-induced emission mechanism, Sens. Actuators B Chem. 332 (2021) 129513. doi:10.1016/j.snb.2021.129513.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.B.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The photoluminescence mechanism in carbon dots (graphene quantum dots, carbon nanodots, and polymer dots): current state and future perspective</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>355</sb:first-page>
+                              <sb:last-page>381</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0055">S.J. Zhu, Y.B. Song, X.H. Zhao, J.R. Shao, J.H. Zhan g, B. Yang, The photoluminescence mechanism in carbon dots (graphene quantum dots, carbon nanodots, and polymer dots): Current state and future perspective, Nano Res. 8 (2015) 355-381.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Das</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Parveen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bora</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Giri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Origin of high photoluminescence yield and high SERS sensitivity of nitrogen-doped graphene quantum dots</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>160</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>273</sb:first-page>
+                              <sb:last-page>286</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.carbon.2020.01.030</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0060">R. Das, S. Parveen, A. Bora, P.K. Giri, Origin of High Photoluminescence Yield and High SERS Sensitivity of Nitrogen-Doped Graphene Quantum Dots, Carbon 160 (2020) 273-286. doi:10.1016/j.carbon.2020.01.030.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.J.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.M.</ce:given-name>
+                                 <ce:surname>Man</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.L.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.Y.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Multiscale dot-wire-sheet heterostructured nitrogen-doped carbon dots-Ti<ce:inf loc="post">3</ce:inf>C<ce:inf loc="post">2</ce:inf>T<ce:inf loc="post">x</ce:inf>/silk nanofibers for high-performance fiber-shaped supercapacitors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>202301618</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/ange.202301618</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0065">Z.J. Zhou, P. Li, Z.M. Man, X.L. Zhu, S.Y. Ye, W.Y. Lu, G. Wu, W.X. Chen, Multiscale dot-wire-sheet heterostructured nitrogen-doped carbon dots-Ti3C2Tx/silk nanofibers for high-performance fiber-shaped supercapacitors, Angew. Chem. Int. Ed. 62 (2023) 202301618. doi:10.1002/ange.202301618.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Cai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.T.</ce:given-name>
+                                 <ce:surname>Zeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.T.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Zeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Q.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nitrogen-doped carbon dots with high selectivity for hydrosulfide sensing and their living cells imaging</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1225</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>340202</sb:article-number>
+                           <ce:doi>10.1016/j.aca.2022.340202</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0070">A.K. Liu, H.J. Cai, Y.T. Zeng, Y. Chen, X.T. Yu, J. Song, P.J. Zeng, J.L. Qu, J.Q. Guo, H. Li, Nitrogen-doped carbon dots with high selectivity for hydrosulfide sensing and their living cells imaging, Anal. Chim. Acta. 1225 (2022) 340202. doi:10.1016/j.aca.2022.340202.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.K.</ce:given-name>
+                                 <ce:surname>Korah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Punnoose</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Thara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Abraham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ambady</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Mathew</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Curcuma amada derived nitrogen-doped carbon dots as a dual sensor for tetracycline and mercury ions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Diamond Relat. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>125</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>108980</sb:article-number>
+                           <ce:doi>10.1016/j.diamond.2022.108980</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0075">B.K. Korah, M.S. Punnoose, C.R. Thara, T. Abraham, K. Ambady, B. Mathew. Curcuma amada derived nitrogen-doped carbon dots as a dual sensor for tetracycline and mercury ions, Diam. Relat. Mater. 125 (2022), 108980. doi:10.1016/j.diamond.2022.108980.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Lai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Xiong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.X.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Q.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High quantum yield nitrogen-doped carbon quantum dots: green synthesis and application as “on-off” fluorescent sensors for specific Fe<ce:sup loc="post">3+</ce:sup> ions detection and cell imaging</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Diamond Relat. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>133</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:article-number>109702</sb:article-number>
+                           <ce:doi>10.1016/j.snb.2018.08.089</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0080">C.M. Lai, S.M. Lin, L. Xiong, Y.X. Wu, C. Liu, Y.Q. Jin, High quantum yield nitrogen-doped carbon quantum dots: green synthesis and application as “on-off” fluorescent sensors for specific Fe3+ ions detection and cell imaging, Diam. Relat. Mater. 133 (2023) 109702. doi:10.1016/j.snb.2018.08.089.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.H.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.D.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.M.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.X.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.H.</ce:given-name>
+                                 <ce:surname>Min</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Top-down rational engineering of heteroatom-doped graphene quantum dots for laser desorption/ionization mass spectrometry detection and imaging of small biomolecules</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7609</sb:first-page>
+                              <sb:last-page>7618</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acs.analchem.2c00802</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0085">Z.H. Jin, M. Liu, X.D. Huang, X.M. Zhang, Z.X. Qu, J.J. Zhu, Q.H. Min. Top-down rational engineering of heteroatom-doped graphene quantum dots for laser desorption/ionization mass spectrometry detection and imaging of small biomolecules, Anal. Chem. 94 (2022) 7609-7618. doi:10.1021/acs.analchem.2c00802.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.P.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.P.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.L.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nitrogen doped carbon dots: mechanism investigation and their application for label free CA125 analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3053</sb:first-page>
+                              <sb:last-page>3058</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/C9TB00021F</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0090">Y.Y. Liu, L.P. Jiang, B.J. Li, X.Y. Fan, W. Wang, P.P. Liu, S.H. Xu, X.L. Luo, Nitrogen doped carbon dots: mechanism investigation and their application for label free CA125 analysis, J. Mater. Chem. B 7 (2019) 3053-3058. doi:10.1039/C9TB00021F.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.T.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.L.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Water-soluble carbon dots with blue, yellow and red emissions: mechanism investigation and array-based fast sensing application</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4074</sb:first-page>
+                              <sb:last-page>4077</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/D0CC01156H</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0095">Y.Y. Liu, J. Zhang, X. Zhao, W.T. Li, J. Wang, Y.H. Gao, Y.Y. Cui, S.H. Xu, X.L. Luo, Water-soluble carbon dots with blue, yellow and red emissions: mechanism investigation and array-based fast sensing application, Chem. Commun. 56 (2020) 4074-4077. doi:10.1039/D0CC01156H.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Cai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.W.</ce:given-name>
+                                 <ce:surname>Guan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Cai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Red/orange dual-emissive carbon dots for pH sensing and cell imaging</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>815</sb:first-page>
+                              <sb:last-page>821</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s12274-019-2293-z</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0100">M.R. Zhang, R.G. Su, J. Zhong, L. Fei, W. Cai, Q.W. Guan, W.J. Li, N. Li, Y.S. Chen, L.L. Cai, Q. Xu, Red/orange dual-emissive carbon dots for pH sensing and cell imaging, Nano Res. 12 (2019) 815-821. doi:10.1007/s12274-019-2293-z.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kurniawan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Chiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microplasma-enabled colloidal nitrogen-doped graphene quantum dots for broad-range fluorescent pH sensors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>167</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>675</sb:first-page>
+                              <sb:last-page>684</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.carbon.2020.05.085</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0105">D. Kurniawan, W.H. Chiang, Microplasma-enabled colloidal nitrogen-doped graphene quantum dots for broad-range fluorescent pH sensors, Carbon 167 (2020) 675-684. doi:10.1016/j.carbon.2020.05.085.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.X.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.L.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Poria cocos-derived carbon dots for cellular imaging, free radical scavenging and pH sensing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Diamond Relat. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>137</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:article-number>110121</sb:article-number>
+                           <ce:doi>10.1016/j.diamond.2023.110121</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0110">S. Yuan, Y.P. Luo, Y.X. Jiang, W.J. Xu, B.J. Cheng, Z.L. Peng, Poria cocos-derived carbon dots for cellular imaging, free radical scavenging and pH sensing, Diam. Relat. Mater. 137 (2023) 110121. doi:10.1016/j.diamond.2023.110121.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Jiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Gong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Xian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Shuang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Facile synthesis of orange fluorescence carbon dots with excitation independent emission for pH sensing and cellular imaging</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1042</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>125</sb:first-page>
+                              <sb:last-page>132</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.aca.2018.08.044</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0115">Y. Jiao, X. Gong, H. Han, Y. Gao, W. Lu, Y. Liu, M. Xian, S. Shuang, C. Dong, Facile synthesis of orange fluorescence carbon dots with excitation independent emission for pH sensing and cellular imaging, Anal. Chim. Acta 1042 (2018) 125-132. doi:10.1016/j.aca.2018.08.044.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Xing</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dynamic-reversible photoacoustic probe for continuous ratiometric sensing and imaging of redox status in vivo</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>141</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>19226</sb:first-page>
+                              <sb:last-page>19230</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/jacs.9b10353</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0120">J.D. Zheng, Q. Zeng, R.J. Zhang, D. Xing, T. Zhang, Dynamic-reversible photoacoustic probe for continuous ratiometric sensing and imaging of redox status in vivo, J. Am. Chem. Soc. 141 (2019) 19226-19230. doi:10.1021/jacs.9b10353.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.P.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.L.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ratiometric multicolor analysis of intracellular microRNA using a chain hybrid substitution-triggered self-assembly of silver nanocluster-based label-free sensing platform</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>373</sb:first-page>
+                              <sb:last-page>379</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acsami.9b19709</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0125">S.H. Xu, L.P. Jiang, J. Wang, Y.H. Gao, X.L. Luo, Ratiometric multicolor analysis of intracellular microRNA using a chain hybrid substitution-triggered self-assembly of silver nanocluster-based label-free sensing platform, ACS Appl. Mater. Interfaces 12 (2020) 373-379. doi:10.1021/acsami.9b19709</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Trinchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Atkin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Cole</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tunable photoluminescence across the entire visible spectrum from carbon dots excited by white light</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Edit.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2970</sb:first-page>
+                              <sb:last-page>2974</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/anie.201411004</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0130">S.L. Hu, A. Trinchi, P. Atkin, I. Cole, Tunable photoluminescence across the entire visible spectrum from carbon dots excited by white light, Angew. Chem. Int. Edit. 54 (2015) 2970-2974. doi:10.1002/anie.201411004.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="rf0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Z.</ce:given-name>
+                                 <ce:surname>Cai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.W.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Red, green, and blue luminescence by carbon dots: full-color emission tuning and multicolor cellular imaging</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Edit.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5360</sb:first-page>
+                              <sb:last-page>5363</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/anie.201501193</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0135">K. Jiang, S. Sun, L. Zhang, Y. Lu, A. Wu, C.Z. Cai, H.W. Lin, Red, green, and blue luminescence by carbon dots: full-color emission tuning and multicolor cellular imaging, Angew. Chem. Int. Edit. 54 (2015) 5360-5363. doi:10.1002/anie.201501193.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="rf0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Q.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Pang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.B.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.X.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.W.</ce:given-name>
+                                 <ce:surname>Chi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon-based dots co-doped with nitrogen and sulfur for high quantum yield and excitation-independent emission</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Edit.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7800</sb:first-page>
+                              <sb:last-page>7804</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/anie.201301114</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0140">Y.Q. Dong, H.C. Pang, H.B. Yang, C.X. Guo, J.W. Shao, Y.W. Chi, C.M. Li, T. Yu, Carbon-based dots co-doped with nitrogen and sulfur for high quantum yield and excitation-independent emission, Angew. Chem. Int. Edit. 52 (2013) 7800-7804. doi:10.1002/anie.201301114.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="rf0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>Xiong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Full-color light-emitting carbon dots with a surface-state-controlled luminescence mechanism</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Nano</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>484</sb:first-page>
+                              <sb:last-page>491</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acsnano.5b05406</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0145">H. Ding, S.B. Yu, J.S. Wei, H.M. Xiong, Full-color light-emitting carbon dots with a surface-state-controlled luminescence mechanism. ACS Nano, 10 (2016) 484-491. doi:10.1021/acsnano.5b05406.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="rf0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.K.</ce:given-name>
+                                 <ce:surname>Evgeny</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.T.</ce:given-name>
+                                 <ce:surname>Nikita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Mikhail</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Vladimir</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.B.</ce:given-name>
+                                 <ce:surname>Alexander</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.F.</ce:given-name>
+                                 <ce:surname>Anatoly</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Ivan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.R.</ce:given-name>
+                                 <ce:surname>Andrey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Amino functionalization of carbon dots leads to red emission enhancement</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5111</sb:first-page>
+                              <sb:last-page>5116</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acs.jpclett.9b01724</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0150">V.K. Evgeny, V.T. Nikita, Y.L. Mikhail, G.M. Vladimir, V.B. Alexander, V.F. Anatoly, D.R. Ivan, L.R. Andrey, Amino functionalization of carbon dots leads to red emission enhancement, The Journal of Physical Chemistry Letters 10 (2019) 5111-5116. doi:10.1021/acs.jpclett.9b01724.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="rf0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.Q.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.Y.</ce:given-name>
+                                 <ce:surname>Quan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Q.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Multifunctional N, S co-doped carbon quantum dots with pH- and thermo-dependent switchable fluorescent properties and highly selective detection of glutathione</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>169</sb:first-page>
+                              <sb:last-page>178</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.carbon.2016.04.003</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0155">Z.Q. Song, F.Y. Quan, Y.H. Xu, M.L. Liu, L. Cui, J.Q. Liu, Multifunctional N, S co-doped carbon quantum dots with pH- and thermo-dependent switchable fluorescent properties and highly selective detection of glutathione, Carbon 104 (2016) 169-178. doi:10.1016/j.carbon.2016.04.003.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="rf0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Bera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Qian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.K.</ce:given-name>
+                                 <ce:surname>Tseng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.H.</ce:given-name>
+                                 <ce:surname>Holloway</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Quantum dots and their multimodal applications: a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Materials</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2260</sb:first-page>
+                              <sb:last-page>2345</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.3390/ma3042260</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0160">D. Bera, L. Qian, T.K. Tseng, P.H. Holloway, Quantum dots and their multimodal applications: A Review, Materials 3 (2010) 2260-2345. doi:10.3390/ma3042260.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0150">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="rf0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Q.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Cao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.Z.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Orange-emissive carbon quantum dots: toward application in wound pH monitoring based on colorimetric and fluorescent changing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Small</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1902823</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/smll.201902823</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0165">P. Yang, Z.Q. Zhu, T. Zhang, W. Zhang, W.M. Chen, Y.Z. Cao, M.Z. Chen, X.Y. Zhou, Orange-emissive carbon quantum dots: toward application in wound pH monitoring based on colorimetric and fluorescent changing, Small 15 (2019) 1902823. doi:10.1002/smll.201902823.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0155">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="rf0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>Xiong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Full-color light-emitting carbon dots with a surface-state-controlled luminescence mechanism</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Nano</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>484</sb:first-page>
+                              <sb:last-page>491</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acsnano.5b05406</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0170">H. Ding, S.B. Yu, J.S. Wei, H.M. Xiong, Full-Color Light-Emitting Carbon Dots with a Surface-State-Controlled Luminescence Mechanism, ACS Nano 10 (2016) 484-491. doi:10.1021/acsnano.5b05406</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0160">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="rf0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Z.</ce:given-name>
+                                 <ce:surname>Cai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.W.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Red, green, and blue luminescence by carbon dots: full-color emission tuning and multicolor cellular imaging</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Edit.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>127</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5450</sb:first-page>
+                              <sb:last-page>5453</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/ange.201501193</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0175">K. Jiang, S. Sun, L. Zhang, Y. Lu, A.G. Wu, C.Z. Cai, H.W. Lin, Red, Green, and Blue Luminescence by Carbon Dots: Full-Color Emission Tuning and Multicolor Cellular Imaging, Angew. Chem. Int. Edit. 127 (2015) 5450-5453. doi:10.1002/ange.201501193</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

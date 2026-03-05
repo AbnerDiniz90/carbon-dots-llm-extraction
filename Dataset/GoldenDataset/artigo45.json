@@ -1,0 +1,43 @@
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition": "Metal-free fluorescent quaternized Carbon dots with bacterial contact-enhanced fluorescence emission for bacterial imaging and selective antibacterial activity.",
+            "iupac_name": null,
+            "alternative_names": ["CDs", "Carbon quantum dots", "Quaternized CDs"]
+        },
+        "synthesis": {
+            "method": {"type": "solvothermal", "conditions": "Mixed precursors degassed with nitrogen gas for 5 min then reaction at 260°C for 4 hours. Cooled naturally to room temperature", "catalysts": null},
+            "precursors": {"source":["Glycerol (5.5, 5.0, or 4.0mL)", "quaternary ammonium-carrying organo silane (dimethyloctadecyl[3-(trimethoxysilyl)propy]ammonium chloride, abbreviated as Si-QAC)(0.5,1.0, or 2.0mL)"], "dopants": "[MISSING]"},
+            "post_treatment": ["Dialysis against deionized water using 1 kDa MWCO membrane for 2 days"]
+        },
+        "properties": {
+            "optical": {
+                "quantum_yield": {"value": "3.9%", "reference_material": "quinine sulfate"},
+                "excitation_max": "360nm",
+                "emission_max": "473nm",
+                "fluorescence_lifetime": null
+            },
+            "structural": {
+                "size": {"avg": "~3.5nm", "distribution": "[MISSING]"},
+                "morphology": "varying size distribution with spherical nanoparticles",
+                "crystallinity": "[MISSING]"
+            },
+            "chemical": {
+                "surface_groups": ["OH", "CH2", "C-C/C=C", "C-N/C-O", "C=O", "quaternary N"],
+                "elemental_composition": { "C": "[MISSING]", "N": "[MISSING]", "O": "[MISSING]" }
+            }
+        },
+        "applications": [
+            {
+                "domain": "Bacterial Imaging & Gram-positive selectively",
+                "performance": "Selectively lights up Gram-positive bacteria with multi-color fluorescence after culturing with CDs for 1h. Fluorescence intensity increases upon when bound with Gram-positive bacteria cells. No significant change in fluorescence emission for Gram-negative bacteria.",
+                "comparative_advantage": "rapid and simple alternative than traditional Gram staining; provides rapid and accurate imaging-guided identification and counting of Gram-positive bacteria."
+            },
+            {
+                "domain": "In vivo antibacterial therapy - S. aureus infected mice",
+                "performance": "CD treatment resulted in 98.1% bacterial reduction within 2.5h at 5µg/mL",
+                "comparative_advantage": "CDs are a promising antibacterial agent with low toxicity to mammalian cells. Such a selective cell killing property of the cationic CDs. CDs have the advantages of low-cost and facile synthesis, excellent biocompatibility, and self-traceable capability."
+            }
+        ]
+    }
+}

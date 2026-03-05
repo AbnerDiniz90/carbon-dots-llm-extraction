@@ -1,0 +1,2105 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0956566317300386</prism:url><dc:identifier>doi:10.1016/j.bios.2017.01.038</dc:identifier><eid>1-s2.0-S0956566317300386</eid><prism:doi>10.1016/j.bios.2017.01.038</prism:doi><pii>S0956-5663(17)30038-6</pii><dc:title>Aptamer-molecularly imprinted sensor base on electrogenerated chemiluminescence energy transfer for detection of lincomycin </dc:title><prism:publicationName>Biosensors and Bioelectronics</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09565663</prism:issn><prism:volume>91</prism:volume><prism:startingPage>687</prism:startingPage><prism:endingPage>691</prism:endingPage><prism:pageRange>687-691</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2017-05-15</prism:coverDate><prism:coverDisplayDate>15 May 2017</prism:coverDisplayDate><prism:copyright>© 2017 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Li, Shuhuai</dc:creator><dc:creator>Liu, Chunhua</dc:creator><dc:creator>Yin, Guihao</dc:creator><dc:creator>Zhang, Qun</dc:creator><dc:creator>Luo, Jinhui</dc:creator><dc:creator>Wu, Nanchun</dc:creator><dc:description>
+                  In this study, a biosensor with a dual recognition system comprising a molecularly imprinted polymer (MIP) and aptamers selective for lincomycin was fabricated. The MIP was synthesized by electropolymerization of carbon dots (C-dots)-tagged DNA aptamers combined with lincomycin and o-aminophenol on the gold-nanoparticle-functionalized graphene oxide (Au-GO)-modified electrode. Electrogenerated chemiluminescence (ECL) resonance energy transfer was observed between Au-GO and C-dots. After the C-dots accepted the energy, they acted as a signal indicator and exhibited enhanced signal intensity in the presence of target lincomycin. When lincomycin was competitively bound to DNA aptamers and MIP, it blocked the transfer of energy, and a decreased ECL signal was observed. Hence, a dual recognition method for the detection of lincomycin is realized. Using this strategy, the sensor exhibited a linear ECL response to lincomycin at concentrations from 5.0 × 10 −12 mol/L to 1.0 × 10 −9 mol/L. The detection limit of this assay was found to be 1.6 × 10 −13 mol/L. This method was utilized to determine lincomycin residuals in meat samples with satisfactory results.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Dual recognition</dcterms:subject><dcterms:subject>Aptamer</dcterms:subject><dcterms:subject>Molecularly imprinted</dcterms:subject><dcterms:subject>lincomycin</dcterms:subject><dcterms:subject>Energy transfer</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0956566317300386" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0956566317300386" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="215" height="164" size="17017">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566317300386-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="110" size="10563">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566317300386-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="152" size="8833">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566317300386-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="142" size="10755">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566317300386-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="157" size="12118">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566317300386-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="386" height="294" size="57767">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566317300386-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="678" height="339" size="64664">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566317300386-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="236" size="25216">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566317300386-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="220" size="30058">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566317300386-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="243" size="33784">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566317300386-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1708" height="1303" size="263912">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566317300386-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3000" height="1501" size="374646">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566317300386-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1044" size="113170">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566317300386-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="972" size="117082">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566317300386-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1075" size="205671">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566317300386-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="1174528">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566317300386-mmc1.doc?httpAccept=%2A%2F%2A</object></objects><scopus-id>85010015594</scopus-id><scopus-eid>2-s2.0-85010015594</scopus-eid><pubmed-id>28119249</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85010015594" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271399</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291685</xocs:ssid>
+         <xocs:ssid type="subj">291850</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291880</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Biosensors and Bioelectronics</xocs:srctitle>
+      <xocs:normalized-srctitle>BIOSENSORSBIOELECTRONICS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170119">2017-01-19</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170119">2017-01-19</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170121">2017-01-21</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170121">2017-01-21</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-10-28T15:56:38</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0956566317300386</xocs:eid>
+      <xocs:pii-formatted>S0956-5663(17)30038-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0956566317300386</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.bios.2017.01.038</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.5</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0956566316X00140</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240102">2024-01-02T08:42:42.601906Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170515</xocs:date-search-begin>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1484812747">2017-01-19T07:59:07.384943Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0956-5663</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09565663</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>91</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>91</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 91</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>91</xocs:sort-order>
+      <xocs:first-fp>687</xocs:first-fp>
+      <xocs:last-lp>691</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>687</xocs:first-page>
+         <xocs:last-page>691</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20170515</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 May 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-05-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Full Papers</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>APTAMERMOLECULARLYIMPRINTEDSENSORBASEELECTROGENERATEDCHEMILUMINESCENCEENERGYTRANSFERFORDETECTIONLINCOMYCIN</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>LI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Chemicals, reagents, and electrochemistry</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of the Au-GO modified electrode</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Fabrication of the aptamer-molecularly imprinted sensor</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Electrochemical and ECL measurements</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Sample treatment</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Evaluation of the Au-GO nanocomposite</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Polymerization of the MIP</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Evaluation of the MIP</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Investigation of the ECRET system</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Dual recognition of the aptamer–MIP sensor</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Optimization of experimental conditions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.7</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Calibration curve</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.8</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Selectivity of the sensor</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.9</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Reproducibility and stability of the sensor</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.10</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Detection of lincomycin in real samples</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary material</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref1">
+            <xocs:ref-normalized-surname>ABNOUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>100</xocs:ref-first-fp>
+            <xocs:ref-last-lp>106</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref2">
+            <xocs:ref-normalized-surname>AROMAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1025</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1030</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref3">
+            <xocs:ref-normalized-surname>BALA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>445</xocs:ref-first-fp>
+            <xocs:ref-last-lp>449</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref4">
+            <xocs:ref-normalized-surname>CHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>61</xocs:ref-first-fp>
+            <xocs:ref-last-lp>69</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref5">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>225</xocs:ref-first-fp>
+            <xocs:ref-last-lp>229</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref6">
+            <xocs:ref-normalized-surname>CHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>431</xocs:ref-first-fp>
+            <xocs:ref-last-lp>436</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref7">
+            <xocs:ref-normalized-surname>DARMOSTUK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1141</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1161</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref8">
+            <xocs:ref-normalized-surname>DOUSA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>981</xocs:ref-first-fp>
+            <xocs:ref-last-lp>986</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref9">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>270</xocs:ref-first-fp>
+            <xocs:ref-last-lp>278</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>KATO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4041</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4044</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref11">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>94</xocs:ref-first-fp>
+            <xocs:ref-last-lp>100</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref12">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>203</xocs:ref-first-fp>
+            <xocs:ref-last-lp>208</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref13">
+            <xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref14">
+            <xocs:ref-normalized-surname>PAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8089</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8094</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref15">
+            <xocs:ref-normalized-surname>RAMPEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1123</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1133</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref16">
+            <xocs:ref-normalized-surname>REINEMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1039</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1047</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref17">
+            <xocs:ref-normalized-surname>ROCCO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>598</xocs:ref-first-fp>
+            <xocs:ref-last-lp>604</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref18">
+            <xocs:ref-normalized-surname>SREESHITHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1099</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1102</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref19">
+            <xocs:ref-normalized-surname>STYPULKOWSKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8</xocs:ref-first-fp>
+            <xocs:ref-last-lp>14</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>771</xocs:ref-first-fp>
+            <xocs:ref-last-lp>776</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref21">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8385</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8389</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref22">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4207</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4213</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref23">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>145</xocs:ref-first-fp>
+            <xocs:ref-last-lp>152</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref24">
+            <xocs:ref-normalized-surname>YI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>13</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref25">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8026</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8032</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref26">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4459</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4463</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref27">
+            <xocs:ref-normalized-surname>ZAMORAGALVEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3578</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3584</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>LIX2017X687</xocs:refkey3>
+         <xocs:refkey4lp>LIX2017X687X691</xocs:refkey4lp>
+         <xocs:refkey4ai>LIX2017X687XS</xocs:refkey4ai>
+         <xocs:refkey5>LIX2017X687X691XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2019-01-21T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0956-5663(17)30038-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0956566317300386</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0956566317300386</xocs:eid>
+         <xocs:doi>10.1016/j.bios.2017.01.038</xocs:doi>
+         <xocs:cid>271399</xocs:cid>
+         <xocs:timestamp>2024-01-02T08:42:42.601906Z</xocs:timestamp>
+         <xocs:cover-date-start>2017-05-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0956566317300386-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566317300386/MAIN/application/pdf/7e59d66aa3e0b840f62ecdb540be25b3/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>464897</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0956566317300386-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566317300386/PREVIEW/image/png/28ed165c2fdc993137e2656ba20a612d/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>57424</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566317300386-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566317300386/gr1/THUMBNAIL/image/gif/6679e570e7d542307129855f15537d4f/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17017</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>215</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566317300386-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566317300386/gr2/THUMBNAIL/image/gif/f25fb9a94fce3db48d16ac02cd47254f/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10563</xocs:filesize>
+               <xocs:pixel-height>110</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566317300386-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566317300386/gr3/THUMBNAIL/image/gif/c1e3be930ccd8107fb1178c7f80c02c6/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8833</xocs:filesize>
+               <xocs:pixel-height>152</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566317300386-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566317300386/gr4/THUMBNAIL/image/gif/306db2b93b1cfc05101cec91e1e77cc3/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10755</xocs:filesize>
+               <xocs:pixel-height>142</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566317300386-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566317300386/gr5/THUMBNAIL/image/gif/02cf0e6b7b3eb05c2acb1030d2dab026/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12118</xocs:filesize>
+               <xocs:pixel-height>157</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566317300386-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566317300386/gr1/DOWNSAMPLED/image/jpeg/bd8907b24c0f36d23f77ad58114534e5/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>57767</xocs:filesize>
+               <xocs:pixel-height>294</xocs:pixel-height>
+               <xocs:pixel-width>386</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566317300386-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566317300386/gr2/DOWNSAMPLED/image/jpeg/34e0805f7909a612e1eabaaae4d648bf/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>64664</xocs:filesize>
+               <xocs:pixel-height>339</xocs:pixel-height>
+               <xocs:pixel-width>678</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566317300386-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566317300386/gr3/DOWNSAMPLED/image/jpeg/0240710b530e60d91b981310c20e4738/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25216</xocs:filesize>
+               <xocs:pixel-height>236</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566317300386-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566317300386/gr4/DOWNSAMPLED/image/jpeg/9200eace721f12e40e1db5c419789aa9/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30058</xocs:filesize>
+               <xocs:pixel-height>220</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566317300386-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566317300386/gr5/DOWNSAMPLED/image/jpeg/975b17116aba14e7ca977ead5df45446/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33784</xocs:filesize>
+               <xocs:pixel-height>243</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566317300386-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566317300386/gr1/HIGHRES/image/jpeg/9a4fc41156ee576c7ef828fa148bab66/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>263912</xocs:filesize>
+               <xocs:pixel-height>1303</xocs:pixel-height>
+               <xocs:pixel-width>1708</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566317300386-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566317300386/gr2/HIGHRES/image/jpeg/1b0a4dc5441f660fc05f47707125d86b/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>374646</xocs:filesize>
+               <xocs:pixel-height>1501</xocs:pixel-height>
+               <xocs:pixel-width>3000</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566317300386-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566317300386/gr3/HIGHRES/image/jpeg/4b5eca1c49034596fd07072f548a3ded/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>113170</xocs:filesize>
+               <xocs:pixel-height>1044</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566317300386-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566317300386/gr4/HIGHRES/image/jpeg/5bdaecd5de44655d9d61b59dd23d7595/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>117082</xocs:filesize>
+               <xocs:pixel-height>972</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566317300386-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566317300386/gr5/HIGHRES/image/jpeg/791fd53a4bb63ccd8530278339448a44/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>205671</xocs:filesize>
+               <xocs:pixel-height>1075</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566317300386-mmc1.doc</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566317300386/mmc1/MAIN/application/msword/8ecdd3f32948c48747ec3adc74b4ea3c/mmc1.doc</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.doc</xocs:filename>
+               <xocs:extension>doc</xocs:extension>
+               <xocs:filesize>1174528</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.4" xml:lang="en">
+         <item-info>
+            <jid>BIOS</jid>
+            <aid>9503</aid>
+            <ce:pii>S0956-5663(17)30038-6</ce:pii>
+            <ce:doi>10.1016/j.bios.2017.01.038</ce:doi>
+            <ce:copyright type="full-transfer" year="2017">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="sp0005" view="all">Fabrication of the sensor for the detection of lincomycin.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0005" role="short">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:href="pii:S0956566317300386/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="sp0010" view="all">(A) CV of the MIP and NIP sensors under different conditions: a. bare GCE; b. GO-Au modified GCE; c. MIP-modified GCE; d. MIP-modified GCE after the removal of linco-mycin; e. MIP-modified GCE after the rebinding of lincomycin; f. NIP-modified GCE electrode; g. NIP-modified GCE after washing. (B) AC measurement of MIP films: a. bare GCE; b. GO-Au modified GCE; c. MIP-modified GCE; d. MIP-modified GCE after the removal of lincomycin; e. MIP-modified GCE after rebinding of lincomycin.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0010" role="short">Fig. 2</ce:alt-text>
+               <ce:link id="lk0010" locator="gr2" xlink:href="pii:S0956566317300386/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="sp0015" view="all">ECL of the sensor under different conditions: a. ECL of GO-Au; b. ECL of C-dots; c. ECL of C-dots in the presence of GO-Au; d. ECL of C-dots of the sensor after the adsorption of lincomycin in the presence of GO-Au.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0015" role="short">Fig. 3</ce:alt-text>
+               <ce:link id="lk0015" locator="gr3" xlink:href="pii:S0956566317300386/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="sp0020" view="all">Dual recognition ability for the aptamer–MIP sensor.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0020" role="short">Fig. 4</ce:alt-text>
+               <ce:link id="lk0020" locator="gr4" xlink:href="pii:S0956566317300386/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="sp0025" view="all">Current response of the sensor with re-adsorbed lincomycin at different concentrations. a–i: (0, 5, 15, 30, 60, 100, 200, 350, 500, 600, 800, 1000) × 10<ce:sup loc="post">−12</ce:sup> mol/L lincomycin. Potential range was −0.3 to 0.8<ce:hsp sp="0.25"/>V.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0025" role="short">Fig. 5</ce:alt-text>
+               <ce:link id="lk0025" locator="gr5" xlink:href="pii:S0956566317300386/gr5" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" colsep="0" rowsep="0" frame="top">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="sp0030" view="all">Results of sample assay and recoveries.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0030" role="short">Table 1</ce:alt-text>
+               <tgroup cols="8">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <colspec colnum="8" colname="col8"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Samples</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">This method 10<sup loc="post">−11</sup> mol/L (n=5)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">RSD %</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HPLC-MS method 10<sup loc="post">−11</sup> mol/L (n=5)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Added 10<sup loc="post">−11</sup> mol/L</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total found 10<sup loc="post">−11</sup> mol/L (n=5)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">RSD %</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Recoveries %</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Chicken</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7.82</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7.79</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12.68</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4.33</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">97.2</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Duck</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Not detected</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Not detected</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4.51</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.98</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">90.2</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Crucian</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Not detected</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Not detected</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10.05</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4.08</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100.1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Pork</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Not detected</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Not detected</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">89.90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.58</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">89.9</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Crab</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.22</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.84</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.31</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">26.85</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.24</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">103.1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Beef</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Not detected</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Not detected</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">18.90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.36</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">94.5</entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Mutton</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Not detected</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Not detected</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">25.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">26.12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">104.5</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">Aptamer-molecularly imprinted sensor base on electrogenerated chemiluminescence energy transfer for detection of lincomycin</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S0956566317300386-7e7404da1f4ac71f647904d896690c47">
+                  <ce:given-name>Shuhuai</ce:given-name>
+                  <ce:surname>Li</ce:surname>
+                  <ce:cross-ref id="cr0005" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0010" author-id="S0956566317300386-424909409964bf6e0111a6abae8193d3">
+                  <ce:given-name>Chunhua</ce:given-name>
+                  <ce:surname>Liu</ce:surname>
+               </ce:author>
+               <ce:author id="au0015" author-id="S0956566317300386-eefef5545e5e6097c040519f1a213347">
+                  <ce:given-name>Guihao</ce:given-name>
+                  <ce:surname>Yin</ce:surname>
+               </ce:author>
+               <ce:author id="au0020" author-id="S0956566317300386-679c892bbc429533b72abaf4f97a0d1a">
+                  <ce:given-name>Qun</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+               </ce:author>
+               <ce:author id="au0025" author-id="S0956566317300386-f31629ae532e3ef89d1327b708b40c93">
+                  <ce:given-name>Jinhui</ce:given-name>
+                  <ce:surname>Luo</ce:surname>
+                  <ce:cross-ref id="cr0010" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0030" author-id="S0956566317300386-34932a62a8d744ef139a68a17f456f67">
+                  <ce:given-name>Nanchun</ce:given-name>
+                  <ce:surname>Wu</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:textfn>Analysis and Test Center of Chinese Academy of Tropical Agricultural Sciences, Haikou, 571101, China; Laboratory of Quality &amp; Safety Risk Assessment for Tropical Products (Haikou) Ministry of Agriculture, Haikou, 571101, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Analysis and Test Center of Chinese Academy of Tropical Agricultural Sciences, Haikou, 571101, China; Laboratory of Quality &amp; Safety Risk Assessment for Tropical Products (Haikou) Ministry of Agriculture</sa:organization>
+                     <sa:city>Haikou</sa:city>
+                     <sa:postal-code>571101</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding authors.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="21" month="11" year="2016"/>
+            <ce:date-revised day="16" month="1" year="2017"/>
+            <ce:date-accepted day="18" month="1" year="2017"/>
+            <ce:abstract id="ab0005" class="author" view="all"><ce:abstract-sec id="abs0005" view="all">
+                  <ce:simple-para id="sp0035" view="all">In this study, a biosensor with a dual recognition system comprising a molecularly imprinted polymer (MIP) and aptamers selective for lincomycin was fabricated. The MIP was synthesized by electropolymerization of carbon dots (C-dots)-tagged DNA aptamers combined with lincomycin and <ce:italic>o</ce:italic>-aminophenol on the gold-nanoparticle-functionalized graphene oxide (Au-GO)-modified electrode. Electrogenerated chemiluminescence (ECL) resonance energy transfer was observed between Au-GO and C-dots. After the C-dots accepted the energy, they acted as a signal indicator and exhibited enhanced signal intensity in the presence of target lincomycin. When lincomycin was competitively bound to DNA aptamers and MIP, it blocked the transfer of energy, and a decreased ECL signal was observed. Hence, a dual recognition method for the detection of lincomycin is realized. Using this strategy, the sensor exhibited a linear ECL response to lincomycin at concentrations from 5.0 × 10 <ce:sup loc="post">−12</ce:sup> mol/L to 1.0 × 10 <ce:sup loc="post">−9</ce:sup> mol/L. The detection limit of this assay was found to be 1.6 × 10 <ce:sup loc="post">−13</ce:sup> mol/L. This method was utilized to determine lincomycin residuals in meat samples with satisfactory results.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords id="keys0005" class="keyword" view="all">
+               <ce:section-title id="sect0015">Keywords</ce:section-title>
+               <ce:keyword id="key0005">
+                  <ce:text>Dual recognition</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0010">
+                  <ce:text>Aptamer</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0015">
+                  <ce:text>Molecularly imprinted</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0020">
+                  <ce:text>lincomycin</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0025">
+                  <ce:text>Energy transfer</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0020">Introduction</ce:section-title>
+                  <ce:para id="p0020" view="all">Lincomycin (<ce:cross-ref id="cr0015" refid="bib17">Rocco et al., 2012</ce:cross-ref>) is an antibiotic against bacteria, that is widely used in the feed and animal production industry. Some studies have suggested that the presence of lincomycin in animal-derived food may cause health problems (<ce:cross-ref id="cr0020" refid="bib18">Sreeshitha et al., 2014</ce:cross-ref>). Hence, it is crucial to detect and monitor lincomycin residues in meat products as well as in the environment. Currently, high-performance liquid chromatography (HPLC) (<ce:cross-ref id="cr0025" refid="bib19">Stypulkowska et al., 2015</ce:cross-ref>) or HPLC–mass spectrometry (HPLC–MS) (<ce:cross-refs id="crs0005" refid="bib8 bib24">Dousa et al., 2006; Yi et al., 2015</ce:cross-refs>) are typically employed for the detection of lincomycin. However, both methods require the use of large-scale equipment and complex sample pretreatment. Hence, it is of significance to develop a sensitive, selective, cost-effective, and simple method for detecting lincomycin.</ce:para>
+                  <ce:para id="p0025" view="all">Molecularly imprinted polymers (MIPs) (<ce:cross-refs id="crs0010" refid="bib26 bib27">Yu et al., 2002; Zamoragálvez et al., 2016</ce:cross-refs>) and aptamers (<ce:cross-refs id="crs0015" refid="bib10 bib21">Kato et al., 2016; Wu et al., 2016</ce:cross-refs>) serving as recognition elements that can bind to specific target molecules, exhibit good performance in molecular recognition and separation. MIPs, which have been artificially synthesized, serve as a novel separation technique for precisely recognizing template molecules. Compared to traditional molecular-recognition-based separation techniques, MIPs exhibit the remarkable characteristic of excellent selectivity to substrates. <ce:cross-ref id="cr0030" refid="bib4">Chao et al. (2016)</ce:cross-ref> have fabricated a fluorescence-based sensor combining the advantages of quantum dots (QDs) and MIPs on a glass substrate. After fabricating the sensor on both a 3-aminopropyltriethoxysilane (APS) and a 3-mercaptopropyltriethoxysilane (MPS)-modified glass substrate, APS exhibited significantly better performance than MPS as both the capping reagent of QDs and the functional monomer of tetracycline-templated MIPs. However, to meet the requirements of samples containing complex matrices, it is necessary to enhance the selective recognition of MIPs, attributed to the relatively limited recognition sites in the MIPs and their imprinted capacities (<ce:cross-ref id="cr0035" refid="bib15">Rampey et al., 2004</ce:cross-ref>). With progress of research, aptamers have attracted immense interest; aptamers are single, short nucleic acid sequences (either DNA or RNA), which are typically selected by the systematic evolution of ligands by exponential enrichment (SELEX) (<ce:cross-ref id="cr0040" refid="bib7">Darmostuk et al., 2015</ce:cross-ref>). On account of their remarkable characteristics, including high specificity, facile synthesis in vitro, and facile modification, as well as widely adopted target molecules, aptamers have been widely used for environmental monitoring (<ce:cross-ref id="cr0045" refid="bib16">Reinemann et al., 2015</ce:cross-ref>) and medical examination (<ce:cross-ref id="cr0050" refid="bib1">Abnous et al., 2017</ce:cross-ref>), particularly for the detection of pesticide residues and veterinary drugs (<ce:cross-refs id="crs0020" refid="bib3 bib13">Bala et al., 2016; Lu et al., 2015</ce:cross-refs>). Our research group (<ce:cross-ref id="cr0055" refid="bib11">Li et al., 2016</ce:cross-ref>) has reported an electrogenerated chemiluminescence sensing platform based on carbon dot-tagged aptamers, serving as the recognition element, for the detection of carbofuran. The detection limit of this assay is reported to be 8.8 × 10<ce:sup loc="post">−13</ce:sup> mol/L, which is better than that observed for traditional methods. Thus, the combination of MIPs with DNA aptamers as a recognition technology to achieve enhanced sensitivity and selectivity is worthy of investigation. <ce:cross-ref id="cr0060" refid="bib12">Liu et al. (2016)</ce:cross-ref> have developed upconversion nanoparticles for the detection of enrofloxacin based on molecularly imprinting and biotinylated enrofloxacin aptamers. With the combined characteristics of the specific molecular recognition properties of MIPs and aptamers, the recognition ability of these nanoparticles is further enhanced. However, upconversion nanoparticles are unstable, and an improvement in sensitivity is necessary. Considering all factors, it is hypothesized that an electrogenerated chemiluminescence (ECL) sensor based on an aptamer–MIP is suitable for resolving these issues. ECL (<ce:cross-refs id="crs0025" refid="bib14 bib20">Pan et al., 2015; Wang et al., 2015</ce:cross-refs>) is a type of luminescence produced during electrochemical reactions in solutions. It exhibits advantages of high sensitivity, a wide linear range, and a low detection limit, as well as controllability. With the transfer of energy from an electrochemical donor to ECL reagents, the signal intensity of ECL is significantly enhanced; this phenomenon is referred to as ECL resonance energy transfer (ECRET) (<ce:cross-refs id="crs0030" refid="bib9 bib25">Guo et al., 2015; Yu et al., 2015</ce:cross-refs>). In particular, compared to conventional ECL sensors, ECRET exhibits potential for use in applications, attributed to the advantages of high sensitivity, wide dynamic concentration response range, and good stability. Thus, ECRET-based sensors have been widely utilized for analyzing pesticides (<ce:cross-refs id="crs0035" refid="bib6 bib22">Cheng et al., 2014; Wu et al., 2012</ce:cross-refs>). However, an aptamer-MIP sensor based on ECRET has not been reported.</ce:para>
+                  <ce:para id="p0030" view="all">In this study, an aptamer-MIP sensor based on ECRET was fabricated on a gold-nanoparticle-functionalized graphene oxide (Au-GO) nanocomposite for signal amplification. As shown in <ce:float-anchor refid="f0005"/>
+                     <ce:cross-ref id="cr0065" refid="f0005">Fig. 1</ce:cross-ref>, ECRET was observed between the Au-GO nanocomposite and C-dots; after accepting energy, the C-dots served as a signal indicator and exhibited enhanced signal intensity in the absence of lincomycin. Furthermore, the signal significantly improved because of the amplification effect from the Au-GO nanocomposite. When lincomycin was competitively bound to DNA aptamers and MIPs, it blocked the transfer of energy; hence, the ECL signal decreased. As a result, a new method for detecting lincomycin is established. Because of the dual recognition from the DNA aptamers and MIPs for the target molecule, this sensor exhibited increased selectivity for lincomycin compared to traditional sensors. Moreover, ECRET is an effective approach for improving the sensitivity. Therefore, the developed sensor exhibits high linearity, stability, and sensitivity, as well as good resolution for the detection of lincomycin.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0025">Materials and methods</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sect0030">Chemicals, reagents, and electrochemistry</ce:section-title>
+                     <ce:para id="p0035" view="all">A lincomycin aptamer sequence (5’-C-dot-CGCGTGATGTGGTCGATGCGATACGGTGAGT CGCGCCACGGCTACACACGTCTCAGCGA-3’) and a random DNA sequence (5’-C-dot- GTCGATGCGCCACGCGCTCATAGAGTGCTCAGCTCATGTCTCTCTGTCGACTCCACACGT-3’) was synthesized using the SELEX kit obtained from Sangon Biotech Co. Ltd. (Shanghai, China). o-Aminophenol was purchased from J&amp;K Scientific Ltd. (Beijing, China). Lincomycin and other pesticides were obtained from the Agricultural Environmental Quality Supervision and Testing Center of China. Graphite was obtained from Aladdin Reagent Co., Ltd. (Beijing, China). A 3 × 10<ce:sup loc="post">−4</ce:sup> mol/L K<ce:inf loc="post">3</ce:inf>[Fe(CN)<ce:inf loc="post">6</ce:inf>]/K<ce:inf loc="post">4</ce:inf>[Fe(CN)<ce:inf loc="post">6</ce:inf>] solution was prepared using 0.5<ce:hsp sp="0.25"/>mol/L KCl. All aqueous solutions were prepared using ultrapure water (18.2 MΩ cm, Milli-Q, and Millipore).</ce:para>
+                     <ce:para id="p0040" view="all">ECL measurements were conducted on a Model MPI-E ECL analyzer (Xi’an Remex Instrument Co. Ltd., China) using a three-electrode system, which consisted of a Ag/AgCl electrode containing a saturated KCl solution, a platinum wire electrode, and a modified glassy carbon electrode (d = 3 mm) as the reference, auxiliary, and working electrodes, respectively. Electro-analytical measurements, such as cyclic voltammetry (CV) and alternating current (AC), were performed on a standard three-electrode workstation (CHI660E; Shanghai Chenhua Instrument Co. Ltd., Shanghai, China).</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sect0035">Preparation of the Au-GO modified electrode</ce:section-title>
+                     <ce:para id="p0045" view="all">GO was prepared from graphite by the Hummers method (<ce:cross-ref id="cr0070" refid="bib5">Chen et al., 2013</ce:cross-ref>). First, 1.0<ce:hsp sp="0.25"/>g of graphite was added 50<ce:hsp sp="0.25"/>mL of vitriol, followed by the addition of 0.5<ce:hsp sp="0.25"/>g KNO<ce:inf loc="post">3</ce:inf> and 5.0<ce:hsp sp="0.25"/>g KMnO<ce:inf loc="post">4</ce:inf>. Second, the mixture was placed in an ice-water bath and stirred for 4<ce:hsp sp="0.25"/>h, then transferred to a water bath at 35 °C for 2<ce:hsp sp="0.25"/>h. Third, 300<ce:hsp sp="0.25"/>mL of ultrapure water was slowly added into the reaction mixture at 70 °C over 2<ce:hsp sp="0.25"/>h. After the additional KMnO<ce:inf loc="post">4</ce:inf> was removed using 5% H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>, the suspension was washed using 0.02<ce:hsp sp="0.25"/>mol/L HCl and dried in a vacuum oven at 60 °C for 4<ce:hsp sp="0.25"/>h, affording GO. GO (30<ce:hsp sp="0.25"/>mg) and polyvinylpyrrolidone (0.06<ce:hsp sp="0.25"/>g) were then dissolved in ultrapure water via ultrasonic dispersion. Next, 1.5<ce:hsp sp="0.25"/>mL of HAuCl<ce:inf loc="post">4</ce:inf> was added, and stirred for 20<ce:hsp sp="0.25"/>min. The mixture was heated to 180 °C using a high-temperature, high-pressure autoclave for 24<ce:hsp sp="0.25"/>h. After cooling the mixture to room temperature, the solution was centrifuged, and the precipitate was washed several times with distilled water and ethanol. The final product was dried in vacuum under 50 °C for 10<ce:hsp sp="0.25"/>h, affording the Au-GO nanocomposite. A glassy carbon electrodeelectrode (GCE) was dipped into acetone and ethanol and then ultrasonically cleaned for 5<ce:hsp sp="0.25"/>min. Next, the obtained Au-GO nanocomposite was dispersed in ultrapure water (1<ce:hsp sp="0.25"/>mg/mL), and 10<ce:hsp sp="0.25"/>μL of the suspension was dropped on the GCE surface and dispersed. The electrode was subsequently gently washed with ultrapure water and allowed to dry naturally.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sect0040">Fabrication of the aptamer-molecularly imprinted sensor</ce:section-title>
+                     <ce:para id="p0050" view="all">First, 1 × 10<ce:sup loc="post">−4</ce:sup> mol/L of lincomycin was added to a 0.05<ce:hsp sp="0.25"/>mol/L PBS solution (pH = 7.6) containing 1 × 10<ce:sup loc="post">−6</ce:sup> mol/L of the aptamer to form the lincomycin–aptamer complex. Second, the MIP was prepared on the Au-GO-nanocomposite-film-modified GCE by electropolymerization. <ce:italic>o</ce:italic>-Aminophenol (0.01<ce:hsp sp="0.25"/>g) was dissolved in 6<ce:hsp sp="0.25"/>mL of 0.05<ce:hsp sp="0.25"/>mol/L Tris-HCl buffer (pH = 8.0), and 4<ce:hsp sp="0.25"/>mL of the lincomycin–aptamer complex prepared above was added and mixed for 2<ce:hsp sp="0.25"/>min. CV was performed over a potential range of 0 – 1.2<ce:hsp sp="0.25"/>V for 20 cycles. After washing to remove the lincomycin templates, the aptamer-molecularly imprinted sensor was obtained with the imprinting cavities. Non-molecularly imprinted polymer (NIP) was fabricated by the same method, but without the lincomycin template. A random DNA sequence was used instead of the aptamer to prepare the aptamer-molecularly imprinted sensor in the contrast test.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sect0045">Electrochemical and ECL measurements</ce:section-title>
+                     <ce:para id="p0055" view="all">Electrochemical experiments were performed in a 2 × 10<ce:sup loc="post">−4</ce:sup> mol/L K<ce:inf loc="post">3</ce:inf>[Fe(CN)<ce:inf loc="post">6</ce:inf>]/K<ce:inf loc="post">4</ce:inf>[Fe(CN)<ce:inf loc="post">6</ce:inf>] solution containing 0.02<ce:hsp sp="0.25"/>mol/L of KCl. CV measurements were performed over a potential range from 0.2 to 0.6<ce:hsp sp="0.25"/>V at a scan rate of 50 mV/s. AC measurements were performed at a potential of 0.19<ce:hsp sp="0.25"/>V over a frequency range of 100 mHz – 100<ce:hsp sp="0.25"/>kHz with an alternating voltage of 5 mV. ECL measurements were conducted in 10<ce:hsp sp="0.25"/>mL of 0.01<ce:hsp sp="0.25"/>mol/L Tris-HCl buffer (pH 8.0). CV measurements were conducted from −0.2<ce:hsp sp="0.25"/>V to 0.8<ce:hsp sp="0.25"/>V at a scan rate of 100 mV/s. The voltage of the photomultiplier tube was set to 800<ce:hsp sp="0.25"/>V. The ECL signal-time curve was obtained by continuous potential scanning for five cycles at a magnification of 4. ECL signals were recorded for various lincomycin concentrations.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title id="sect0050">Sample treatment</ce:section-title>
+                     <ce:para id="p0060" view="all">Meat samples (5.00<ce:hsp sp="0.25"/>g) were added to 20<ce:hsp sp="0.25"/>mL of acetonitrile and ultrasonicated for 20<ce:hsp sp="0.25"/>min, then transferred into a 50<ce:hsp sp="0.25"/>mL flask for evaporation and drying on a rotary evaporator. The final residue was dissolved in 1.0<ce:hsp sp="0.25"/>mL of methanol.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0040" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0055">Results and discussion</ce:section-title>
+                  <ce:section id="s0045" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sect0060">Evaluation of the Au-GO nanocomposite</ce:section-title>
+                     <ce:para id="p0065" view="all">Transmission electron microscopy (TEM), ultraviolet–visible (UV- Vis) absorption spectroscopy, Fourier transform infrared spectroscopy (FTIR), and X-ray photoelectron spectroscopy (XPS) were employed to characterize the Au-GO nanocomposite. As shown in <ce:cross-ref id="cr0075" refid="s0105">Fig. S1A</ce:cross-ref>, GO was observed as a thin, transparent slice, with a smooth, flat surface. The edge of the slice was wrinkled, indicating that GO comprises few layers. Spherical Au nanoparticles with an average diameter of 8<ce:hsp sp="0.25"/>nm were scattered on the GO surface. <ce:cross-ref id="cr0080" refid="s0105">Fig. S1B</ce:cross-ref> shows the UV–Vis spectrum of the GO-Au composite. Strong absorption was observed near 240<ce:hsp sp="0.25"/>nm for GO and Au-GO (curves a and b, respectively), attributed to the π–π* transition of C–C in GO. On the other hand, additional absorption was observed near 520<ce:hsp sp="0.25"/>nm (curve b) for Au-GO, attributed to the surface plasma resonance absorption peak of Au nanoparticles. From the XPS spectrum shown in <ce:cross-ref id="cr0085" refid="s0105">Fig. S1C</ce:cross-ref>, intense signals were observed at 285.5<ce:hsp sp="0.25"/>eV, 401.0<ce:hsp sp="0.25"/>eV, and 532.5<ce:hsp sp="0.25"/>eV, corresponding to C 1<ce:hsp sp="0.25"/>s, N 1<ce:hsp sp="0.25"/>s, and O 1<ce:hsp sp="0.25"/>s, respectively. In particular, Au 4<ce:hsp sp="0.25"/>f was observed at 84.0<ce:hsp sp="0.25"/>eV and 87.7<ce:hsp sp="0.25"/>eV. From the XRD pattern of the Au-GO composite in <ce:cross-ref id="cr0090" refid="s0105">Fig. S1D</ce:cross-ref>, clear well-defined peaks corresponding to highly crystalline nanoparticles were observed. The XRD reflection at 11.5 was attributed to GO (curve a) (<ce:cross-ref id="cr0095" refid="bib23">Yang et al., 2009</ce:cross-ref>). On the other hand, in Au-GO (curve b), the characteristic reflection for GO at 10.8 was not observed. Four major reflections were observed at 38.1, 43.4, 64.8, and 77.6, attributed to the (111), (200), (220), and (311) crystal planes of Au (<ce:cross-ref id="cr0100" refid="bib2">Aromal et al., 2012</ce:cross-ref>), respectively. The results indicated that Au-GO was successfully prepared.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0050" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sect0065">Polymerization of the MIP</ce:section-title>
+                     <ce:para id="p0070" view="all">The electropolymerization of <ce:italic>o</ce:italic>-aminophenol and the lincomycin–aptamer complex in Tris-HCl buffer (pH = 8.0) was investigated by CV over the potential range of 0 to +1.2<ce:hsp sp="0.25"/>V. As shown in <ce:cross-ref id="cr0105" refid="s0105">Fig. S2</ce:cross-ref>, a distinct, irreversible oxidation peak was observed for <ce:italic>o</ce:italic>-aminophenol at 0.78<ce:hsp sp="0.25"/>V. With increasing number of cycles, the oxidation peak current for <ce:italic>o</ce:italic>-aminophenol continuously decreased because of the formation of the compact nonconducting polymer film, which covered the Au-GO-modified GCE surface. Nevertheless, by increasing the number of cycles to 20, the current density of the oxidation peak became smaller, indicating that the MIP film had formed on the electrode surface.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0055" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sect0070">Evaluation of the MIP</ce:section-title>
+                     <ce:para id="p0075" view="all">Because of the absence of lincomycin redox peaks in the potential range from −0.2 to +0.8<ce:hsp sp="0.25"/>V, K<ce:inf loc="post">3</ce:inf>[Fe(CN)<ce:inf loc="post">6</ce:inf>]/K<ce:inf loc="post">4</ce:inf>[Fe(CN)<ce:inf loc="post">6</ce:inf>] was used as a redox probe to investigate the formation of the MIP film on the GCE electrode via CV and AC measurements. As shown in <ce:float-anchor refid="f0010"/>
+                        <ce:cross-ref id="cr0110" refid="f0010">Fig. 2</ce:cross-ref>A, the current response for Au-GO/GCE (curve b) was significantly reduced compared with that for GCE (curve a), attributed to the fact that Au-GO prevented the redox probe from reaching the GCE surface. With the assembly of <ce:italic>o</ce:italic>-aminophenol and the lincomycin–aptamer complex on the modified electrode, the blockade was further strengthened, resulting in the continued decrease of the current response (curve c). However, after the removal of lincomycin from the MIP, the blockade receded, and the current response increased again (curve d). When lincomycin from the sample was re-adsorbed onto the MIP, the blockade was strengthened again, and the current response decreased (curve e). The inset map in <ce:cross-ref id="cr0115" refid="f0010">Fig. 2</ce:cross-ref>A shows the CVs of the NIP. With the formation of the NIP film on the electrode surface, the current response decreased (curve f). After elution, the peak current was nearly unchanged (curve g). Hence, the template molecule doped in the MIP film and non-cavities did not serve as channels for the transport of electrons. Meanwhile, the resistance of the modified electrode gradually increased with the modification of the GCE surface with Au-GO and MIP (<ce:cross-ref id="cr0120" refid="f0010">Fig. 2</ce:cross-ref>B, curves a–c). The resistance of the modified electrode decreased with the removal of lincomycin from the MIP (<ce:cross-ref id="cr0125" refid="f0010">Fig. 2</ce:cross-ref>B, curve d), but it increased again with the re-adsorption of lincomycin onto the MIP (<ce:cross-ref id="cr0130" refid="f0010">Fig. 2</ce:cross-ref>B, curve e).</ce:para>
+                  </ce:section>
+                  <ce:section id="s0060" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="sect0075">Investigation of the ECRET system</ce:section-title>
+                     <ce:para id="p0080" view="all">The ECRET system between Au-GO and C-dots on the DNA aptamer was investigated. As shown in <ce:float-anchor refid="f0015"/>
+                        <ce:cross-ref id="cr0135" refid="f0015">Fig. 3</ce:cross-ref>, an ECL response was not observed for Au-GO (curve a). However, a clear ECL signal was observed for C-dots at a specific voltage (curve b), attributed to the stimulation of the C-dots. The ECL signal for C-dots was clearly enhanced by Au-GO (curve c). The ECRET mechanism possibly involves the activation of Au-GO to the excited state, thereby making it an efficient electron donor. C-dots accept energy from Au-GO, which improves the efficiency of excitation and results in high photostability and strong ECL. With the re-adsorption of lincomycin onto the MIP, the ECL intensity for C-dots obviously decreased (curve d), attributed to the binding of aptamers to lincomycin and the subsequent structural change; these effects attenuated the transfer of energy from GO-Au to C-dots; hence, effective ECRET occurred between GO-Au and C-dots.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0065" view="all">
+                     <ce:label>3.5</ce:label>
+                     <ce:section-title id="sect0080">Dual recognition of the aptamer–MIP sensor</ce:section-title>
+                     <ce:para id="p0085" view="all">The identification ability of the aptamer–MIP sensor was compared with those of the aptamer sensor, MIP sensor, NIP sensor, and aptamer–NIP sensor. The ECL intensity was measured before and after the re-adsorption of 2.0 × 10<ce:sup loc="post">−10</ce:sup> mol/L lincomycin onto each of the above-mentioned sensors. As shown in <ce:float-anchor refid="f0020"/>
+                        <ce:cross-ref id="cr0140" refid="f0020">Fig. 4</ce:cross-ref>, the ECL intensity for the NIP sensor exhibited almost no change, caused by the absence of specific recognition sites for lincomycin. Hence, lincomycin is not re-adsorbed onto the sensor. On the contrary, the ECL intensity for the aptamer and MIP sensors significantly decreased because both these sensors contain specific recognition sites for lincomycin. Meanwhile, the ECL intensity for the aptamer–NIP sensor, in which aptamers were randomly polymerized within the polymer layer, did not significantly change, indicating that the specific aptamer recognition sites are covered. However, the aptamer–MIP sensor exhibited a more significant reduction of ECL intensity compared with those observed for the other sensors, indicative of the dual recognition ability. Further tests showed that the ECL intensity for the random DNA–MIP sensor significantly decreased like that for the MIP sensors, because the recognition sites relied mostly on MIP. This indicated that lincomycin was not recognized by the random DNA.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0070" view="all">
+                     <ce:label>3.6</ce:label>
+                     <ce:section-title id="sect0085">Optimization of experimental conditions</ce:section-title>
+                     <ce:para id="p0090" view="all">Experimental conditions, i.e., times for template removal and re-adsorption, buffer solution, and pH, were optimized for the detection of lincomycin. The removal of the lincomycin template was performed in formic10 mL 0.01<ce:hsp sp="0.25"/>mol/L NaOH solution. The current intensity was measured every 2<ce:hsp sp="0.25"/>min (<ce:cross-ref id="cr0145" refid="s0105">Fig. S3</ce:cross-ref>); the current intensity gradually increased and then remained constant after 8<ce:hsp sp="0.25"/>min. Thus, the optimum time for the removal of lincomycin was 8<ce:hsp sp="0.25"/>min (curve a). The re-adsorption of the template was performed using 2.0 ×10<ce:sup loc="post">−10</ce:sup> mol/L lincomycin. As more and more lincomycin was re-adsorbed, the inhibitory effect for ECRET was enhanced, and the current intensity gradually decreased. The minimum current intensity was obtained after 10<ce:hsp sp="0.25"/>min. Thus, the optimum time for the re-adsorption of lincomycin was 8<ce:hsp sp="0.25"/>min, which was utilized in the following assays (curve b). Effects of different buffers and pH were also evaluated. Three buffer solutions—0.01<ce:hsp sp="0.25"/>mol/L of a borax buffer solution, 0.01<ce:hsp sp="0.25"/>mol/L of a Tris-HCl buffer solution and 0.01<ce:hsp sp="0.25"/>mol/L of a PBS solution (pH 8.0)—were investigated. The maximum current intensity was observed for the Tris-HCl buffer solution. The effect of pH using the Tris-HCl buffer solution was also investigated using the sensor for the re-adsorption of 2.0 × 10<ce:sup loc="post">−10</ce:sup> mol/L lincomycin, and <ce:cross-ref id="cr0150" refid="s0105">Fig. S4</ce:cross-ref> shows the results. The current intensity increased with pH until it reached a maximum at pH 8.0; hence, pH 8.0 was selected as the optimum pH.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0075" view="all">
+                     <ce:label>3.7</ce:label>
+                     <ce:section-title id="sect0090">Calibration curve</ce:section-title>
+                     <ce:para id="p0095" view="all">The developed sensor was applied to the quantitative determination of lincomycin. <ce:float-anchor refid="f0025"/>
+                        <ce:cross-ref id="cr0155" refid="f0025">Fig. 5</ce:cross-ref> shows the ECL responses of the proposed aptamer–MIP sensor to different concentrations of lincomycin. From the experimental results, the relationship between the lincomycin concentration c and the increase in the current intensity ΔI was in the range from 5.0 × 10<ce:sup loc="post">−12</ce:sup> to 1.0 × 10<ce:sup loc="post">−9</ce:sup> mol/L. The linear regression fit was <ce:italic>∆I</ce:italic> = 3.09 <ce:italic>c</ce:italic> (10<ce:sup loc="post">−12</ce:sup> mol/L) + 50.1, with a correlation coefficient r of 0.999. The detection limit (<ce:italic>DL</ce:italic>) was 1.6 × 10<ce:sup loc="post">−13</ce:sup> mol/L (<ce:italic>DL</ce:italic> = <ce:italic>KSb</ce:italic> / <ce:italic>a</ce:italic>, <ce:italic>K</ce:italic> = 3). Compared with previously published studies, the MIP sensor with a dual catalytic effect is more sensitive and has a low detection limit (<ce:cross-ref id="cr0160" refid="s0105">Table S1</ce:cross-ref>).</ce:para>
+                  </ce:section>
+                  <ce:section id="s0080" view="all">
+                     <ce:label>3.8</ce:label>
+                     <ce:section-title id="sect0095">Selectivity of the sensor</ce:section-title>
+                     <ce:para id="p0100" view="all">The selectivity of the aptamer–MIP sensor for lincomycin was analyzed using several common veterinary drugs, including tetracycline, clindamycin, illotycin, chloromycetin, enrofloxacin, ciprofloxacin, oxytetracycline, streptomycin, ephedrine, and vibramycin, with either similar or different chemical structures. Detection was performed as described above using 2.0 × 10<ce:sup loc="post">−8</ce:sup> mol/L of each commercial veterinary drug in 1.0 × 10<ce:sup loc="post">−10</ce:sup> mol/L lincomycin. As shown in <ce:cross-ref id="cr0165" refid="s0105">Fig. S5</ce:cross-ref>, the ECL tests exhibited only minor changes (relative deviation &lt; 5.0%) with or without addition of the above-mentioned drugs. Thus, drugs with structures similar to that of lincomycin are not identified by the aptamer, strongly suggesting that the aptamer sensor exhibits good selectivity for lincomycin.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0085" view="all">
+                     <ce:label>3.9</ce:label>
+                     <ce:section-title id="sect0100">Reproducibility and stability of the sensor</ce:section-title>
+                     <ce:para id="p0105" view="all">The reproducibility and stability of the sensor were studied. A relative standard deviation (RSD) of 3.4% was obtained by measurement of the ECL intensities for five different sensors, which indicated good sensor-to-sensor reproducibility. Additionally, an RSD of 4.5% was obtained by measurement of the ECL intensities using the same sensor in five measurements. The sensors were stored in the shade when not in use. The ECL response detected every two days was nearly unchanged. This indicated that the sensor exhibited good reproducibility and stability.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0090" view="all">
+                     <ce:label>3.10</ce:label>
+                     <ce:section-title id="sect0105">Detection of lincomycin in real samples</ce:section-title>
+                     <ce:para id="p0110" view="all">The proposed method was applied to the detection of lincomycin in actual meat samples. Sample pretreatment was performed as outlined in <ce:cross-ref id="cr0170" refid="s0035">Section 2.5</ce:cross-ref>. The detection results from our sensor were compared with the results obtained from HPLC–MS analysis using the same samples. As shown in <ce:float-anchor refid="t0005"/>
+                        <ce:cross-ref id="cr0175" refid="t0005">Table 1</ce:cross-ref>, recoveries between 89.9% and 104.5% were observed. The detection results with our sensor were consistent with those obtained from HPLC-MS. These analyses indicated that the developed sensor can be used to analyze the amount of lincomycin in actual samples.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0095" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0110">Conclusions</ce:section-title>
+                  <ce:para id="p0115" view="all">In summary, this work combined an MIP and aptamer to introduce an aptamer-MIP sensor. The sensor showed high sensitivity and selectivity for lincomycin detection due to dual recognition, and is a potential new strategy for pesticide and veterinary drug detection. However, the stability of the DNA aptamer and the imprinted capacity in the sensor need further improvement; these will be the key problems to solve in future studies.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0115">Acknowledgements</ce:section-title>
+               <ce:para id="p0120" view="all">The authors gratefully acknowledge the financial support received from the Fundamental Scientific Research Funds of the Chinese Academy of Tropical Agricultural Sciences (No. 1630042015011 and 1630042015009).</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="s0100" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sect0120">Supporting information</ce:section-title>
+                  <ce:para id="p0125" view="all">Supplementary data associated with this article can be found in the online version at <ce:inter-ref id="ir0005" xlink:href="http://doi:10.1016/j.bios.2017.01.038" xlink:type="simple">doi:10.1016/j.bios.2017.01.038</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="s0105" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sect0125">Supplementary material</ce:section-title>
+                  <ce:para id="p0130" view="all">
+                     <ce:display>
+                        <ce:e-component id="ec0005">
+                           <ce:caption id="cap0035">
+                              <ce:simple-para id="sp0045" view="all">Supplementary material</ce:simple-para>
+                           </ce:caption>
+                           <ce:link id="lk0030" locator="mmc1" xlink:href="pii:S0956566317300386/mmc1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibliog0005" view="all">
+               <ce:section-title id="sect0130">References</ce:section-title>
+               <ce:bibliography-sec id="bb0005" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>Abnous et al., 2017</ce:label>
+                     <sb:reference id="sbref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Abnous</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.M.</ce:given-name>
+                                 <ce:surname>Danesh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Alibolandi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ramezani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Taghdisi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Emrani</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sens. Actuators: B. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>240</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>100</sb:first-page>
+                              <sb:last-page>106</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>Aromal et al., 2012</ce:label>
+                     <sb:reference id="sbref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Aromal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.V.D.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Philip</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Spectrochim. Acta A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>96</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1025</sb:first-page>
+                              <sb:last-page>1030</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>Bala et al., 2016</ce:label>
+                     <sb:reference id="sbref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Bala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Bansal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Sharma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Wangoo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>445</sb:first-page>
+                              <sb:last-page>449</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>Chao et al., 2016</ce:label>
+                     <sb:reference id="sbref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Chao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>925</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>61</sb:first-page>
+                              <sb:last-page>69</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>Chen et al., 2013</ce:label>
+                     <sb:reference id="sbref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>225</sb:first-page>
+                              <sb:last-page>229</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>Cheng et al., 2014</ce:label>
+                     <sb:reference id="sbref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ju</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>431</sb:first-page>
+                              <sb:last-page>436</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>Darmostuk et al., 2015</ce:label>
+                     <sb:reference id="sbref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Darmostuk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Rimpelova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Gbelcova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ruml</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1141</sb:first-page>
+                              <sb:last-page>1161</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>Dousa et al., 2006</ce:label>
+                     <sb:reference id="sbref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Dousa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Sikac</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Halama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Lemr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Pharm. Biomed. Anal.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>981</sb:first-page>
+                              <sb:last-page>986</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>Guo et al., 2015</ce:label>
+                     <sb:reference id="sbref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sens. Actuators: B. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>220</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>270</sb:first-page>
+                              <sb:last-page>278</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>Kato et al., 2016</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Shimada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kimura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hyuga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4041</sb:first-page>
+                              <sb:last-page>4044</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>Li et al., 2016</ce:label>
+                     <sb:reference id="sbref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Yin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>941</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>94</sb:first-page>
+                              <sb:last-page>100</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>Liu et al., 2016</ce:label>
+                     <sb:reference id="sbref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>203</sb:first-page>
+                              <sb:last-page>208</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>Lu et al., 2015</ce:label>
+                     <sb:reference id="sbref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Bioanal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>407</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>5859–5859</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>Pan et al., 2015</ce:label>
+                     <sb:reference id="sbref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Luan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Duan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Phys. Chem. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>119</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8089</sb:first-page>
+                              <sb:last-page>8094</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>Rampey et al., 2004</ce:label>
+                     <sb:reference id="sbref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Rampey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.U.</ce:given-name>
+                                 <ce:surname>Ii</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.T.</ce:given-name>
+                                 <ce:surname>Rushton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Iseman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>R.N.S.</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.D.</ce:given-name>
+                                 <ce:surname>Shimizu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1123</sb:first-page>
+                              <sb:last-page>1133</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>Reinemann et al., 2015</ce:label>
+                     <sb:reference id="sbref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Reinemann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.F.V.</ce:given-name>
+                                 <ce:surname>Fritsch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Rudolph</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Strehlitz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1039</sb:first-page>
+                              <sb:last-page>1047</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>Rocco et al., 2012</ce:label>
+                     <sb:reference id="sbref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Rocco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Peluso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Stingo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Toxicol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>598</sb:first-page>
+                              <sb:last-page>604</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>Sreeshitha et al., 2014</ce:label>
+                     <sb:reference id="sbref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.S.</ce:given-name>
+                                 <ce:surname>Sreeshitha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Venkatachalam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.K.</ce:given-name>
+                                 <ce:surname>Dumka</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Trop. Anim. Health Pro.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1099</sb:first-page>
+                              <sb:last-page>1102</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>Stypulkowska et al., 2015</ce:label>
+                     <sb:reference id="sbref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Stypulkowska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Blazewicz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Brudzikowska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.W.</ce:given-name>
+                                 <ce:surname>Grzeskiewicz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Sarna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Fijalek</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Pharm. Biomed. Anal.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>112</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8</sb:first-page>
+                              <sb:last-page>14</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>Wang et al., 2015</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>68</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>771</sb:first-page>
+                              <sb:last-page>776</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>Wu et al., 2016</ce:label>
+                     <sb:reference id="sbref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Katilius</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Olivas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Dumont</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Walt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2016</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>88</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8385</sb:first-page>
+                              <sb:last-page>8389</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>Wu et al., 2012</ce:label>
+                     <sb:reference id="sbref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.W.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4207</sb:first-page>
+                              <sb:last-page>4213</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>Yang et al., 2009</ce:label>
+                     <sb:reference id="sbref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Velamakanni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Bozoklu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Stoller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Piner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Stankovich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Jung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Field</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Ventrice</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>145</sb:first-page>
+                              <sb:last-page>152</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>Yi et al., 2015</ce:label>
+                     <sb:reference id="sbref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bayen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>Kelly</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Bioanal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>407</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>13</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>Yu et al., 2015</ce:label>
+                     <sb:reference id="sbref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8026</sb:first-page>
+                              <sb:last-page>8032</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>Yu et al., 2002</ce:label>
+                     <sb:reference id="sbref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Haupt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Mosbach</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Edit.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4459</sb:first-page>
+                              <sb:last-page>4463</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>Zamoragálvez et al., 2016</ce:label>
+                     <sb:reference id="sbref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Zamoragálvez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Aitlahcen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.A.</ce:given-name>
+                                 <ce:surname>Mercante</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Moralesnarváez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Amine</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Merkoçi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3578</sb:first-page>
+                              <sb:last-page>3584</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,54 @@
+{
+  "input_source": "artigo90.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "Fluorescence resonance energy transfer system of Carbon Dots(CDs) used in a far-red fluorescence sensor for ratiometric detection of L-Cys",
+        "iupac_name": null,
+        "alternative_names": null
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": "59.6%",
+            "reference_material": "Rhodamin 6G asa reference (Q, 95%)"
+          },
+          "excitation_max": "414nm",
+          "emission_max": " 539 nm",
+          "fluorescence_lifetime": "[MISSING]"
+        },
+        "structural": {
+          "size": {
+            "avg": "diameter 24.01nm",
+            "distribution": "[MISSING]"
+          },
+          "morphology": "spherical dots, well dispersed, and uniform",
+          "crystallinity": "[MISSING]"
+        },
+        "chemical": {
+          "surface_groups": [
+            "carboxyl",
+            "amine groups"
+          ],
+          "elemental_composition": {
+            "C": "[MISSING]",
+            "N": "[MISSING]",
+            "O": "[MISSING]"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "Ratiometric Fluorescence Sensing",
+          "performance": "Fluorescence resonance energy transfer (FRET)-based probe for L-cysteine (L-Cys) detection with linear range of 1.0–110 μM, detection limit of 0.16 μM, and recoveries of 93–102.8% in human serum samples.",
+          "comparative_advantage": "The FRET fluorescent probe exhibits far-red emission (539/630 nm), reducing background and scattering interference. It shows high selectivity for L-Cys over other amino acids, with simple preparation and rapid response (3 min)."
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Bad",
+    "score": 0.0,
+    "expert_comment": "Omission Error: The field 'carbon_dots -> general_info -> alternative_names' contained '['CDs', 'Carbon dots']' in the source text, but it was extracted as null/missing. | Numerical Hallucination: The correct value for carbon_dots -> properties -> structural -> size -> avg was 'diameter 2.48nm', but the model hallucinated 'diameter 24.01nm'. | Incomplete Structure: The entire section 'carbon_dots -> synthesis' was incorrectly omitted. The JSON is missing a mandatory structural block."
+  }
+}

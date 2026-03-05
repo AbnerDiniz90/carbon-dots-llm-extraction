@@ -1,0 +1,2280 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1046202324001671</prism:url><dc:identifier>doi:10.1016/j.ymeth.2024.07.005</dc:identifier><eid>1-s2.0-S1046202324001671</eid><prism:doi>10.1016/j.ymeth.2024.07.005</prism:doi><pii>S1046-2023(24)00167-1</pii><dc:title>Carbon dots fluorescence can be used to distinguish isobaric peptide and to monitor protein oligomerization dynamics </dc:title><prism:publicationName>Methods</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>10462023</prism:issn><prism:volume>230</prism:volume><prism:startingPage>1</prism:startingPage><prism:endingPage>8</prism:endingPage><prism:pageRange>1-8</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2024-10-31</prism:coverDate><prism:coverDisplayDate>October 2024</prism:coverDisplayDate><prism:copyright>© 2024 The Authors. Published by Elsevier Inc.</prism:copyright><prism:publisher>The Authors. Published by Elsevier Inc.</prism:publisher><dc:creator>Antonio Zingale, Gabriele</dc:creator><dc:creator>Pandino, Irene</dc:creator><dc:creator>Tuccitto, Nunzio</dc:creator><dc:creator>Distefano, Alessia</dc:creator><dc:creator>Calì, Federico</dc:creator><dc:creator>Calcagno, Damiano</dc:creator><dc:creator>Grasso, Giuseppe</dc:creator><dc:description>
+                  Carbon dots (CD) are widely investigated particles with interesting fluorescent properties which are reported to be used for various purposes, as they are biocompatible, resistant to photobleaching and with tuneable properties depending on the specific CD surface chemistry. In this work, we report on the possibility to use opportunely designed CD to distinguish among isobaric peptides almost undistinguishable by mass spectrometry, as well as to monitor protein aggregation phenomena. Particularly, cell-penetrating peptides containing the carnosine moiety at different positions in the peptide chain produce sequence specific fluorescent signals. Analogously, different insulin oligomerization states can also be distinguished by the newly proposed experimental approach. The latter is here described in details and can be potentially applied to any kind of peptide or protein.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>CRUI: Hybrid journals 2023</openaccessSponsorName><openaccessSponsorType>ElsevierBranded</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><dcterms:subject>Carbon dots</dcterms:subject><dcterms:subject>Biomolecules</dcterms:subject><dcterms:subject>Proteins</dcterms:subject><dcterms:subject>Peptides</dcterms:subject><dcterms:subject>Biosensors</dcterms:subject><dcterms:subject>Surface chemistry</dcterms:subject><dcterms:subject>Spectroscopy</dcterms:subject><dcterms:subject>Fluorescence</dcterms:subject><dcterms:subject>Carnosine</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1046202324001671" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1046202324001671" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="803" height="458" size="56740">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="541" height="333" size="42503">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="347" height="200" size="20700">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-ga1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="743" height="412" size="33625">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="803" height="277" size="43968">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="803" height="536" size="52589">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="612" height="431" size="60169">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="125" size="8627">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="135" size="9994">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="ga1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="126" size="13152">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-ga1.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="121" size="6918">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="76" size="7374">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="146" size="8925">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="154" size="11155">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2702" height="1542" size="217823">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2398" height="1476" size="287339">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1538" height="886" size="130994">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-ga1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3292" height="1824" size="168553">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2368" height="818" size="145993">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2509" height="1676" size="181327">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2709" height="1910" size="334718">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="1114297">https://api.elsevier.com/content/object/eid/1-s2.0-S1046202324001671-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85199392888</scopus-id><scopus-eid>2-s2.0-85199392888</scopus-eid><pubmed-id>39038505</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85199392888" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272416</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291847</xocs:ssid>
+         <xocs:ssid type="subj">291857</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Methods</xocs:srctitle>
+      <xocs:normalized-srctitle>METHODS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20240720">2024-07-20</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20240720">2024-07-20</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20240725">2024-07-25</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20240725">2024-07-25</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-09-09T06:57:05</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1046202324001671</xocs:eid>
+      <xocs:pii-formatted>S1046-2023(24)00167-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1046202324001671</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ymeth.2024.07.005</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1046202324X00092</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240919">2024-09-19T04:00:54.063604Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20241001</xocs:date-search-begin>
+      <xocs:date-search-end>20241031</xocs:date-search-end>
+      <xocs:year-nav>2024</xocs:year-nav>
+      <xocs:indexeddate epoch="1721517601">2024-07-20T23:20:01.459446Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst otherkwds primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1046-2023</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>10462023</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>CRUI2023</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>230</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>230</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 230</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>4</xocs:sort-order>
+      <xocs:first-fp>1</xocs:first-fp>
+      <xocs:last-lp>8</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1</xocs:first-page>
+         <xocs:last-page>8</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202410</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>October 2024</xocs:cover-date-text>
+      <xocs:cover-date-start>2024-10-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2024-10-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2024</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Special Issue on "Recent advancement on fluorescent chemosensing and bioimaging" Edited by Suban Kumar Sahoo and Ashok Kumar</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2024 The Authors. Published by Elsevier Inc.</xocs:copyright-line>
+      <xocs:normalized-article-title>CARBONDOTSFLUORESCENCECANUSEDDISTINGUISHISOBARICPEPTIDEMONITORPROTEINOLIGOMERIZATIONDYNAMICS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ANTONIOZINGALE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>G</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Carbon dots synthesis</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Carbon dots activation and conjugation</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Analysis and data visualization</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Applications</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>5.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Differentiation of isobaric peptides</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>5.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Protein oligomerization monitoring</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>6</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2179</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2195</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>JI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2724</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2741</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>BEACK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>295</xocs:ref-first-fp>
+            <xocs:ref-last-lp>305</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>424</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025"/>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>DING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>484</xocs:ref-first-fp>
+            <xocs:ref-last-lp>491</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>61</xocs:ref-first-fp>
+            <xocs:ref-last-lp>71</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>999</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1007</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>QU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9830</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9832</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>SONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5976</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5984</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055"/>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6593</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6595</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>SU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4839</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3134</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3140</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>ZINGALE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1829</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1840</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>DISTEFANO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>405</xocs:ref-first-fp>
+            <xocs:ref-last-lp>414</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>GRASSO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>961</xocs:ref-first-fp>
+            <xocs:ref-last-lp>969</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0090">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1827</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1839</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>455</xocs:ref-first-fp>
+            <xocs:ref-last-lp>462</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100">
+            <xocs:ref-normalized-surname>PAPPIREDDI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1210</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1224</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>POLIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1460</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0110">
+            <xocs:ref-normalized-surname>TUCCITTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6250</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6256</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0115">
+            <xocs:ref-normalized-surname>PANDIT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3393</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3403</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>DAHLGREN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>32046</xocs:ref-first-fp>
+            <xocs:ref-last-lp>32053</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0125">
+            <xocs:ref-normalized-surname>SPILLANTINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>839</xocs:ref-first-fp>
+            <xocs:ref-last-lp>840</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0130"/>
+         <xocs:ref-info refid="h0135">
+            <xocs:ref-normalized-surname>CALCAGNO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2024</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e4962</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ANTONIOZINGALEX2024X1</xocs:refkey3>
+         <xocs:refkey4lp>ANTONIOZINGALEX2024X1X8</xocs:refkey4lp>
+         <xocs:refkey4ai>ANTONIOZINGALEX2024X1XG</xocs:refkey4ai>
+         <xocs:refkey5>ANTONIOZINGALEX2024X1X8XG</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2024-07-22T11:39:52Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierBranded</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>CRUI: Hybrid journals 2023</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2025-07-25T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2025-07-25T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2024 The Authors. Published by Elsevier Inc.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2024-07-30T12:57:02.006Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency>MIUR</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100024370</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/3175395</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>University of Catania</xocs:funding-agency-matched-string>
+            <xocs:funding-id>A0375-2020-36591</xocs:funding-id>
+            <xocs:funding-agency-acronym>UNICT</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Università di Catania</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100004505</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/3175395/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Ministry of Health and Fondazione Roma</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency>Lazio Innova spa</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100019470</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/3175395</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency>Ministero della Salute</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100003196</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/3175395</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>PRIN</xocs:funding-agency-matched-string>
+            <xocs:funding-id>T4-AN-04</xocs:funding-id>
+            <xocs:funding-id>P2022AW2H9</xocs:funding-id>
+         </xocs:funding>
+         <xocs:funding-text>This research was supported by PRIN P2022AW2H9 \u201CMolecular details on the early phase of amyloid beta peptides aggregation: a multilevel approach based on carbon dots fluorescence and diffusion coefficients measurements to unveil the pathogenic molecular mechanisms at the base of Alzheimer's disease\u201D and \u201CProgetto Pharma-HUB - HUB per il riposizionamento di farmaci nelle malattie rare del sistema nervoso in et\u2018a pediatrica\u201D (T4-AN-04). G. A. Zingale and I. Pandino were supported by the PhD program in Chemical Sciences, University of Catania. The authors acknowledge the Ministry of Health and Fondazione Roma. The authors further acknowledge LazioInnova for its financial support (grant: A0375-2020-36591).</xocs:funding-text>
+         <xocs:funding-text>This research was supported by PRIN P2022AW2H9 \u201CMolecular details on the early phase of amyloid beta peptides aggregation: a multilevel approach based on carbon dots fluorescence and diffusion coefficients measurements to unveil the pathogenic molecular mechanisms at the base of Alzheimer\u2019s disease\u201D and \u201CProgetto Pharma-HUB - HUB per il riposizionamento di farmaci nelle malattie rare del sistema nervoso in et\u2018a pediatrica\u201D (T4-AN-04). G. A. Zingale and I. Pandino were supported by the PhD program in Chemical Sciences, University of Catania . The authors acknowledge the Ministry of Health and Fondazione Roma . The authors further acknowledge LazioInnova for its financial support (grant: A0375-2020-36591 ).</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1046-2023(24)00167-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1046202324001671</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1046202324001671</xocs:eid>
+         <xocs:doi>10.1016/j.ymeth.2024.07.005</xocs:doi>
+         <xocs:cid>272416</xocs:cid>
+         <xocs:timestamp>2024-09-19T04:00:54.063604Z</xocs:timestamp>
+         <xocs:cover-date-start>2024-10-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2024-10-31</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>CRUI2023</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/MAIN/application/pdf/c2836b75f4c130b1bc6137605c7e50f7/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>3713786</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1046202324001671-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/PREVIEW/image/png/df41a4220a58876eddb71f25f0657fac/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>58189</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/gr1/DOWNSAMPLED/image/jpeg/dccbdb602f9367626487908db771c903/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>56740</xocs:filesize>
+               <xocs:pixel-height>458</xocs:pixel-height>
+               <xocs:pixel-width>803</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/gr2/DOWNSAMPLED/image/jpeg/75e52c7386265125710965da6c5e334a/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>42503</xocs:filesize>
+               <xocs:pixel-height>333</xocs:pixel-height>
+               <xocs:pixel-width>541</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-ga1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/ga1/DOWNSAMPLED/image/jpeg/b62079959893cc7e2b5296dcdc3b8131/ga1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>20700</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>347</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/gr3/DOWNSAMPLED/image/jpeg/69f3b3c0d8021b342e5edbc1b22e31ec/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33625</xocs:filesize>
+               <xocs:pixel-height>412</xocs:pixel-height>
+               <xocs:pixel-width>743</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/gr4/DOWNSAMPLED/image/jpeg/b463282b131dc3bec86be9e25e46cf78/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>43968</xocs:filesize>
+               <xocs:pixel-height>277</xocs:pixel-height>
+               <xocs:pixel-width>803</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/gr5/DOWNSAMPLED/image/jpeg/6070662b9994a55763d80f1742ab2603/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>52589</xocs:filesize>
+               <xocs:pixel-height>536</xocs:pixel-height>
+               <xocs:pixel-width>803</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/gr6/DOWNSAMPLED/image/jpeg/e343013adaf02de52e4dc24141e86851/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>60169</xocs:filesize>
+               <xocs:pixel-height>431</xocs:pixel-height>
+               <xocs:pixel-width>612</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/gr1/THUMBNAIL/image/gif/f0528123061b0ab332c00fe8bb75eafa/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8627</xocs:filesize>
+               <xocs:pixel-height>125</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/gr2/THUMBNAIL/image/gif/3988641245d7af60851bd70ce4794bf8/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9994</xocs:filesize>
+               <xocs:pixel-height>135</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-ga1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/ga1/THUMBNAIL/image/gif/4b62834974d6eefc4480073749f488a9/ga1.sml</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13152</xocs:filesize>
+               <xocs:pixel-height>126</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/gr3/THUMBNAIL/image/gif/2b3a4da006e6ef4c1132a337d46b0b38/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6918</xocs:filesize>
+               <xocs:pixel-height>121</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/gr4/THUMBNAIL/image/gif/7b6e8c618b6e5e3abf767b2a475f47b3/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7374</xocs:filesize>
+               <xocs:pixel-height>76</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/gr5/THUMBNAIL/image/gif/9d2189c1840efcb779ad40ffb7f70203/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8925</xocs:filesize>
+               <xocs:pixel-height>146</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572956720000015/gr6/THUMBNAIL/image/gif/e193aa63761e106dccac81db4e26da9d/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11155</xocs:filesize>
+               <xocs:pixel-height>154</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/HIGHRES/image/jpeg/e95534c4adc9887a2b2fa663040f4aea/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>217823</xocs:filesize>
+               <xocs:pixel-height>1542</xocs:pixel-height>
+               <xocs:pixel-width>2702</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/HIGHRES/image/jpeg/00b9807ff09baa0894df38f77e933385/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>287339</xocs:filesize>
+               <xocs:pixel-height>1476</xocs:pixel-height>
+               <xocs:pixel-width>2398</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-ga1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/HIGHRES/image/jpeg/ff182e9b889fca8e037c039afd8f1a39/ga1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>130994</xocs:filesize>
+               <xocs:pixel-height>886</xocs:pixel-height>
+               <xocs:pixel-width>1538</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572956720000015/HIGHRES/image/jpeg/2db9db171161865dc7991c41772e6c31/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>168553</xocs:filesize>
+               <xocs:pixel-height>1824</xocs:pixel-height>
+               <xocs:pixel-width>3292</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1046202324001671/HIGHRES/image/jpeg/7c8511a0edf4396d2315d22f96125126/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>145993</xocs:filesize>
+               <xocs:pixel-height>818</xocs:pixel-height>
+               <xocs:pixel-width>2368</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572956720000015/HIGHRES/image/jpeg/1dc885a59f761301c1c2676d2492e858/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>181327</xocs:filesize>
+               <xocs:pixel-height>1676</xocs:pixel-height>
+               <xocs:pixel-width>2509</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S157315101700003X/HIGHRES/image/jpeg/44c8d9081d30acbff2eea91ece0341fd/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>334718</xocs:filesize>
+               <xocs:pixel-height>1910</xocs:pixel-height>
+               <xocs:pixel-width>2709</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1046202324001671-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>1114297</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10ZVFXJ95XC/MAIN/application/pdf/471649e034dbd3ec156cac7f20c98f28/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.6">
+         <item-info>
+            <jid>YMETH</jid>
+            <aid>5538</aid>
+            <ce:pii>S1046-2023(24)00167-1</ce:pii>
+            <ce:doi>10.1016/j.ymeth.2024.07.005</ce:doi>
+            <ce:copyright type="other" year="2024">The Authors</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0020" view="all">Schematic illustration of the CD synthesis workflow steps.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1046202324001671/gr1" id="lk00005"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0025" view="all">(A) UV–visible spectra of solutions containing increasing quantities of ETA (straight lines) and CD-N solutions (dotted line). (B) Calibration curve for the Kaiser test using straight-line fitting of absorbance at 568 nm as a function of the mass of ETA in micrograms (µg ETA).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1046202324001671/gr2" id="lk00010"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0030" view="all">CDs functionalization and peptides covalent conjugation.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1046202324001671/gr3" id="lk00015"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cn0020">
+                  <ce:simple-para id="sp0035" view="all">Illustration of the binding of four isobaric peptides to COOH-decorated CDs. Each illustration is associated with excitation-emission maps, emphasizing selective binding and providing specificity based on the given isobaric peptide interaction. The fluorescence maps presented in this figure are provided for illustrative purposes only and have been reproduced from Distefano et al. <ce:cross-ref refid="b0065" id="c0005">[13]</ce:cross-ref> for reference.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1046202324001671/gr4" id="lk00020"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cn0025">
+                  <ce:simple-para id="sp0040" view="all">Sequential procedures for protein aggregation monitoring. (a) Incubation of protein solution. (b) Withdrawal of aliquots. (c) Conjugation with previously activated carbon dots. (d) Acquisition of fluorescence maps. The fluorescence maps presented in this figure are provided for illustrative purposes only and have been reproduced from Zingale et al. <ce:cross-ref refid="b0060" id="c0010">[12]</ce:cross-ref> for reference.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1046202324001671/gr5" id="lk00025"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cn0030">
+                  <ce:simple-para id="sp0045" view="all">Example of UV–vis absorption spectra of various protein solutions measured at different incubation time points as reported in Zingale et al <ce:cross-ref refid="b0075" id="c0015">[15]</ce:cross-ref> for reference. The spectra are for: (A) Insulin conjugated to CD, (B) Insulin + Zn<ce:sup loc="post">2+</ce:sup> conjugated to CD, (C) Insulin and unconjugated CD, and (D) Insulin and ThT.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1046202324001671/gr6" id="lk00030"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Carbon dots fluorescence can be used to distinguish isobaric peptide and to monitor protein oligomerization dynamics</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005" author-id="S1046202324001671-043d7b0719a06e04bd3a0f5dc4efdc9e">
+                  <ce:given-name>Gabriele</ce:given-name>
+                  <ce:surname>Antonio Zingale</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au010" author-id="S1046202324001671-eb2d27c1ae37936ebbc80f20d6d772e5">
+                  <ce:given-name>Irene</ce:given-name>
+                  <ce:surname>Pandino</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0030">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au015" author-id="S1046202324001671-ca7cee7e687d279021f7e630b53f05b7">
+                  <ce:given-name>Nunzio</ce:given-name>
+                  <ce:surname>Tuccitto</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0035">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au020" author-id="S1046202324001671-9aa40d4664eab19b15a88654ea7c69a8">
+                  <ce:given-name>Alessia</ce:given-name>
+                  <ce:surname>Distefano</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0040">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au025" author-id="S1046202324001671-11274c9e736f2b8c0dc2278036d53a24">
+                  <ce:given-name>Federico</ce:given-name>
+                  <ce:surname>Calì</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0050">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au030" author-id="S1046202324001671-42ca9534cd619d3ba77b9748a445b271">
+                  <ce:given-name>Damiano</ce:given-name>
+                  <ce:surname>Calcagno</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0060">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au035" author-id="S1046202324001671-ca3993f2069249a0ba31ccfb0f019cfe">
+                  <ce:given-name>Giuseppe</ce:given-name>
+                  <ce:surname>Grasso</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0065">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0070">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af005" affiliation-id="S1046202324001671-5ee551c657fb15f7906bab34938fb765">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>IRCCS-Fondazione Bietti, Rome, Italy</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>IRCCS-Fondazione Bietti</sa:organization>
+                     <sa:city>Rome</sa:city>
+                     <sa:country>Italy</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx005">IRCCS-Fondazione Bietti, Rome, Italy</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af010" affiliation-id="S1046202324001671-585bcab533857e08d4115d97b7324740">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Chemical Sciences, University of Catania, Viale Andrea Doria 6, 95125, Catania, Italy</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemical Sciences</sa:organization>
+                     <sa:organization>University of Catania</sa:organization>
+                     <sa:address-line>Viale Andrea Doria 6</sa:address-line>
+                     <sa:state>Catania</sa:state>
+                     <sa:postal-code>95125</sa:postal-code>
+                     <sa:country>Italy</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx010">Department of Chemical Sciences, University of Catania, Viale Andrea Doria 6, 95125, Catania, Italy</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="21" month="5" year="2024"/>
+            <ce:date-revised day="18" month="7" year="2024"/>
+            <ce:date-accepted day="19" month="7" year="2024"/>
+            <ce:abstract class="graphical" xml:lang="en" id="ab005" view="all">
+               <ce:section-title id="st005">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="as005" view="all">
+                  <ce:simple-para id="sp0005" view="all">
+                     <ce:display>
+                        <ce:figure id="f0035">
+                           <ce:link locator="ga1" id="lk00035" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1046202324001671/ga1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:abstract class="author" id="ab015" view="all"><ce:abstract-sec id="as015" view="all">
+                  <ce:simple-para id="sp0015" view="all">Carbon dots (CD) are widely investigated particles with interesting fluorescent properties which are reported to be used for various purposes, as they are biocompatible, resistant to photobleaching and with tuneable properties depending on the specific CD surface chemistry. In this work, we report on the possibility to use opportunely designed CD to distinguish among isobaric peptides almost undistinguishable by mass spectrometry, as well as to monitor protein aggregation phenomena. Particularly, cell-penetrating peptides containing the carnosine moiety at different positions in the peptide chain produce sequence specific fluorescent signals. Analogously, different insulin oligomerization states can also be distinguished by the newly proposed experimental approach. The latter is here described in details and can be potentially applied to any kind of peptide or protein.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="abr" id="kg005" view="all">
+               <ce:section-title id="st020">Abbreviations</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>CD</ce:text>
+                  <ce:keyword id="k0010">
+                     <ce:text>Carbon Dot</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>CD-COOH</ce:text>
+                  <ce:keyword id="k0020">
+                     <ce:text>CD rich in COOH groups</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="k0025">
+                  <ce:text>CD-N</ce:text>
+                  <ce:keyword id="k0030">
+                     <ce:text>CD rich in nitrogen groups</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="k0035">
+                  <ce:text>CD-activated</ce:text>
+                  <ce:keyword id="k0040">
+                     <ce:text>CD after the reaction with EDC/NHS</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="k0045">
+                  <ce:text>PBS</ce:text>
+                  <ce:keyword id="k0050">
+                     <ce:text>Phosphate Buffered Saline</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="k0055">
+                  <ce:text>EDC</ce:text>
+                  <ce:keyword id="k0060">
+                     <ce:text>1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="k0065">
+                  <ce:text>NHS</ce:text>
+                  <ce:keyword id="k0070">
+                     <ce:text>N-hydroxysuccinimide</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="k0075">
+                  <ce:text>AFM</ce:text>
+                  <ce:keyword id="k0080">
+                     <ce:text>Atomic Force Microscopy</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="k0085">
+                  <ce:text>ETA</ce:text>
+                  <ce:keyword id="k0090">
+                     <ce:text>ethanolamine</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="k0095">
+                  <ce:text>ThT</ce:text>
+                  <ce:keyword id="k0100">
+                     <ce:text>Thioflavin T</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:keywords class="keyword" id="kg010" view="all">
+               <ce:section-title id="st025">Keywords</ce:section-title>
+               <ce:keyword id="k0105">
+                  <ce:text>Carbon dots</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0110">
+                  <ce:text>Biomolecules</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0115">
+                  <ce:text>Proteins</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0120">
+                  <ce:text>Peptides</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0125">
+                  <ce:text>Biosensors</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0130">
+                  <ce:text>Surface chemistry</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0135">
+                  <ce:text>Spectroscopy</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0140">
+                  <ce:text>Fluorescence</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0145">
+                  <ce:text>Carnosine</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:data-availability id="da005" view="all">
+               <ce:section-title id="st030">Data availability</ce:section-title>
+               <ce:para id="p0025" view="all">Data will be made available on request.</ce:para>
+            </ce:data-availability>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st035">Introduction</ce:section-title>
+                  <ce:para id="p0030" view="all">Small-carbon nanomaterials with particle sizes of about 10 nm are commonly named carbon dots (CD). Composed primarily of carbon, a generally non-toxic element, these entities are expected to carry a significant advantage for their application in the biological field because of their interesting fluorescence properties. Indeed, nowadays CD are commonly used in various research and clinical fields, such as in synthetic chemistry, materials science, drug delivery, bioimaging and biosensing <ce:cross-ref refid="b0005" id="c0075">[1]</ce:cross-ref>, envisaging future applications for disease follow-up, with particular emphasis for conformational diseases (brain and retinal diseases). In fact, they show promising activities for the detection of different oligomeric states of proteotoxic species in human fluids, such as cerebrospinal fluid, but also ocular fluids, such as aqueous and vitreous humor, which are gaining growing relevance for identifying biomarkers discovery and the pathobiology of neurodegenerative diseases.</ce:para>
+                  <ce:para id="p0035" view="all">These applications are supported by their technical flexibility, as they are water soluble, stable, biocompatible in solution and generally not toxic. Furthermore, they have quite low production costs, and offer tunable fluorescence emission and excitation wavelengths for multi-faceted applications in different systems.</ce:para>
+                  <ce:para id="p0040" view="all">All these features place CD at the forefront of the next generation of biosensors <ce:cross-refs refid="b0010 b0015" id="r0005">[2,3]</ce:cross-refs>. Although the chemical and physical mechanisms governing the fluorescence of CD remain only partially understood <ce:cross-ref refid="b0020" id="c0080">[4]</ce:cross-ref>, it is known that the size of nanoparticles, temperature, pH values, and the functional groups present on the CD surface, as well as the surface defects, along with fluorophores having differing degrees of π conjugation, affect and modulate the fluorescence properties of CD <ce:cross-refs refid="b0025 b0030" id="r0010">[5,6]</ce:cross-refs>. Therefore, these depend largely on the functionalization of the CD surface and a great advantage of utilizing CD as biosensors lies in the capacity to tailor their surface to the specific requirements of the experiment to be conducted. For example, the CD surface can be specifically designed to coordinate with and detect certain metal ions <ce:cross-ref refid="b0035" id="c0085">[7]</ce:cross-ref>, oxidant analytes <ce:cross-ref refid="b0040" id="c0090">[8]</ce:cross-ref>, or molecules of interest such as glucose <ce:cross-ref refid="b0045" id="c0095">[9]</ce:cross-ref>. In this scenario, we have recently explored the possibility to activate the CD surface in order to covalently bind molecules which can be then detected with high sensitivity and specificity. Particularly, we have developed a standard chemical protocol which allows the covalent binding between the molecules to be sensed and the CD surface. We have found that the orientations of the binding molecules driven by the different CD surface termination affect the overall CD sensing capability. This method allowed to discriminate among isobaric peptides with swapped amino acidic sequences as well as to detect different aggregation states of insulin, which are undetectable by other fluorescent probes such as Thioflavin T (ThT).</ce:para>
+                  <ce:para id="p0045" view="all">Therefore, the selection of the specific functional group, decorating the surface of CD exposed to the bulk phase and chosen for the type of binding to be formed constitutes a crucial step for the detection and identification of various analytes.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st040">Carbon dots synthesis</ce:section-title>
+                  <ce:para id="p0050" view="all">Fluorescent CD are produced whenever a carbon source undergoes a carbonisation process. In the literature, various synthesis methods are known. One of the most commonly employed methods is pyrolysis <ce:cross-ref refid="b0050" id="c0100">[10]</ce:cross-ref>; for instance, CD can be formed through thermal degradation of waste from lemons or citrus fruits in general <ce:cross-ref refid="b0055" id="c0105">[11]</ce:cross-ref>. Documentation also exists on CD obtained from candle soot, coffee waste, or strands of hair <ce:cross-ref refid="b0060" id="c0110">[12]</ce:cross-ref>. Other methods utilize microwaves for synthesizing nanoparticles with dimensions of 10 nm <ce:cross-ref refid="b0060" id="c0115">[12]</ce:cross-ref>. Some exploit the arc discharge effect <ce:cross-ref refid="b0065" id="c0120">[13]</ce:cross-ref> or precursors such as graphite <ce:cross-ref refid="b0070" id="c0125">[14]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0055" view="all">In this section, the thermal decomposition synthesis starting from citric acid as precursor will be described. This is one of the easiest methods to obtain fluorescent efficient CD useful for our purposes. The synthesis involves the high-temperature decomposition of the precursor raw material based on carbonaceous compounds. Citric acid, independently from its origin, can serve as the chosen precursor, and the anhydrous form is not imperative. In a typical synthesis, 10 g of citric acid are placed at the base of a 100 mL beaker on a hot plate set to maximum heating power. As the citric acid undergoes degradation, its white color changes into amber yellow and then into dark brown, resembling caramel. Larger batches can be prepared by increasing the citric acid amount, with up to 25 g providing equivalent results. Wider-bottomed beakers, such as 500 ml, are recommended for uniform heating. The decomposition process must continue for about 15 min (not exceeding 30 min), followed by cooling to room temperature after removing the beaker from the heating plate. Subsequently, 50 ml of 0.1 M NaOH solution are added, and through vigorous stirring, the decomposed material fully solubilizes. At this stage, the solution is typically acidic, with a pH around 5. Neutralization to pH 7 is achieved by adding 1 M NaOH drop by drop, monitoring the pH with an indicator strip. Afterwards, the solution undergoes dialysis with tubing having a cut-off of 11–14 kDa. Various manufacturers can yield different results, and MEMBRA-CEL MC18 × 10 0 CLR 30 0,759,122 Viscase is often utilized. The dialysis procedure involves immersing the filled tube in 1 L of ultra-filtered water (Millipore®, Merck) and replacing the water four times. The fifth time, the water is left overnight before being discarded. The tube content is then transferred and used as it is or diluted with ultra-filtered water if necessary.</ce:para>
+                  <ce:para id="p0060" view="all">To modify CD fluorescence properties, substances like ammonium acetate, urea, and thiourea can be added to citric acid. The amount of citric acid is halved in these cases, with the remaining portion replaced by the other compound. For example, we used a mixture of 5 g of citric acid and 5 g of urea to synthesize N-groups enriched CD (CD-N), as depicted in <ce:cross-ref refid="f0005" id="c0130">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/>. The formation of a precipitate, typically dark green, can occur, and it is discarded through centrifugation at low temperature (6000 to 10,000 RPM at 3 °C) after dialysis, recovering the supernatant.</ce:para>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="st045">Characterization</ce:section-title>
+                     <ce:para id="p0065" view="all">CD obtained by the aforementioned synthetic approach have been previously characterized <ce:cross-refs refid="b0075 b0080" id="r0015">[15,16]</ce:cross-refs>. AFM characterization showed a mean particles size of about 7 nm and their typical elemental composition is: C 62(±2) %; O 19(±2) %; N 16(±2) %; H 3(±2) %. In addition, elemental analysis, performed by PerkinElmer.</ce:para>
+                     <ce:para id="p0070" view="all">2400 Series II CHNS/O on freeze-dried samples, allowed to assess the elemental composition of CD rich in COOH groups (CD-COOH) and CD-N, being, respectively, C 64(±2)%; O 33(±2)%; H 3(±2)%, and C 68(±2)%; O 18(±2)%; N 14(±2)%; H 3(±2)%<ce:cross-ref refid="b0080" id="c0135">[16]</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0075" view="all">The CD characterization can also provide information about their optical and morphological properties. From an optical perspective, the FT-IR technique can be employed to identify the surface functional groups of the nanoparticle. According to previous studies <ce:cross-ref refid="b0080" id="c0140">[16]</ce:cross-ref>, it is known that FT-IR can effectively distinguish between CD-COOH and CD-N. CD-COOH are obtained by adding urea to citric acid during thermal degradation. In the latter case, distinct absorption peaks are observed, including stretching vibrations of C=O at 1710 cm<ce:sup loc="post">−1</ce:sup>, C-O bonds at 1204 cm<ce:sup loc="post">−1</ce:sup>, O-H at 3360 and 3030 cm<ce:sup loc="post">−1</ce:sup>, and C-H or O-H bending at 1392 cm<ce:sup loc="post">−1</ce:sup>. On the other hand, FT-IR spectrum of CD-N is characterized by a distinct fingerprint zone between 1000 and 2000 cm<ce:sup loc="post">−1</ce:sup>. This zone includes a symmetric stretching vibration at 1568 cm<ce:sup loc="post">−1</ce:sup> for a N-H bond and several characteristic peaks at 2942 and 2854 cm<ce:sup loc="post">−1</ce:sup> corresponding to CH<ce:inf loc="post">2</ce:inf> asymmetric and symmetric stretching vibrations.</ce:para>
+                     <ce:para id="p0080" view="all">To further characterize the total amount of amino groups on the CD-N surface, it is possible to apply the Kaiser test. CD-N were dissolved in PBS pH 8.9 (2 mg/3ml) and then diluted ten times to reach an operative concentration of 66 µg/ml. Then, 150 µL of the resulting solution was put into a 2 ml vial. After that, 450 µL of 80 % phenol in ethanol, 450 µL of KCN in H<ce:inf loc="post">2</ce:inf>O/Pyridine, and 450 µL of 6 % ninhydrin in ethanol were added to the vial. The mixture was then heated on a hot plate at 80 °C for 5 min and then cooled to room temperature. If amines are present, the solution color changes from light yellow (ninhydrin) to blue/purple (Ruhemann's blue). The absorbance was measured at 568 nm. The system was calibrated using ethanolamine (ETA) diluted solutions to establish a quantitative relationship between absorbance and primary amine content (<ce:cross-ref refid="f0010" id="c0145">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/>B). The micrograms of ETA were firstly converted into moles and then into grams of the amino group, recovering the primary amino percentage. As shown in <ce:cross-ref refid="f0010" id="c0150">Fig. 2</ce:cross-ref>A, the CD-N solution exhibits an absorbance of 0.249 a.u. at 568 nm. This value, along with the calibration curve (<ce:cross-ref refid="f0010" id="c0155">Fig. 2</ce:cross-ref>B), allows for the determination of the primary amino group content in the CD-N solution which is 1.77 µg. Considering that the initial CD-N content analyzed was 9.89 µg, the primary amino content was about 13.41 % of the total weight.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0020" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st050">Carbon dots activation and conjugation</ce:section-title>
+                  <ce:para id="p0085" view="all">CDs activation is obtained through a two-steps reaction, EDC (50 mM) is added to the CDs solution, followed by the addition of NHS (25 mM) after 2 min of incubation at room temperature (<ce:cross-ref refid="f0015" id="c0160">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="f0015"/>). This procedure must be performed in buffers free of extraneous carboxyl and amines groups since if the buffer participates in the activation reaction, this would reduce the yield of the reaction with the production of unwanted by-products. The reaction starts with the activation of the carboxyl groups on the surface of the CD, transformed into NHS esters, which can then be conjugated with molecules having primary amines in their structure (e.g. peptides, proteins). In fact, the reaction of the latter with the stable NHS-ester intermediate leads to the formation of an amide bond which firmly anchors the molecule of interest to the surface of the CD. An analogous reaction has been widely conducted to immobilize proteins or peptides onto surfaces in the field of SPR <ce:cross-ref refid="b0085" id="c0165">[17]</ce:cross-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="s0025" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st055">Analysis and data visualization</ce:section-title>
+                  <ce:para id="p0090" view="all">The fluorescence measurements can be performed using any fluorescence spectrophotometer able to acquire fluorescence/emission maps (i.e. acquiring different emission spectra as the excitation wavelength is changed). The optimal choice in terms of resolution and time of acquisition is instrument dependent, typical instrumental settings are the following:<ce:list id="l0010">
+                        <ce:list-item id="o0025">
+                           <ce:label>-</ce:label>
+                           <ce:para id="p0095" view="all">Excitation range: 270–475 nm;</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0030">
+                           <ce:label>-</ce:label>
+                           <ce:para id="p0100" view="all">Emission range: 350–700 nm;</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0035">
+                           <ce:label>-</ce:label>
+                           <ce:para id="p0105" view="all">Excitation increment: 5 nm;</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0040">
+                           <ce:label>-</ce:label>
+                           <ce:para id="p0110" view="all">Excitation/emission slit width: 3 nm/3 nm;</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0045">
+                           <ce:label>-</ce:label>
+                           <ce:para id="p0115" view="all">Sampling interval: 2 nm.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="p0120" view="all">The CD suspensions used in all experiments must have the same concentration. The procedure for obtaining fluorescence variation maps consists of three main steps:<ce:list id="l0015">
+                        <ce:list-item id="o0050">
+                           <ce:label>1.</ce:label>
+                           <ce:para id="p0125" view="all">Initially, the fluorescent properties of the CD as obtained directly from the cryo-centrifugation process described in paragraph 2 are investigated. This allows determining the excitation wavelength at which the CD exhibit maximum emission.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0055">
+                           <ce:label>2.</ce:label>
+                           <ce:para id="p0130" view="all">In the second step, the fluorescence of CD is studied approximately ten minutes after the reaction with activators (CD-activated). Typically, the fluorescence spectrum of CD-activated does not exhibit differences from that of pure CD.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0060">
+                           <ce:label>3.</ce:label>
+                           <ce:para id="p0135" view="all">Finally, fluorescence spectra of CD-activated conjugated with molecules of interest (macromolecules, peptides, etc.) are acquired. To generate a fluorescence variation map capable of highlighting any alterations in the fluorescent properties of CD upon conjugation, one subtracts the fluorescence spectrum of CD-conjugates from that of CD-activated.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="s0030" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="st060">Applications</ce:section-title>
+                  <ce:para id="p0140" view="all">CD fluorescence properties depend on their surface and the modifications it undergoes. Therefore, following the changes in the fluorescence pattern given by CD turns out to be an interesting approach to be applied in the study of different aspects of surface chemistry. Furthermore, the procedures mentioned above can be applied to the study of various phenomena of biochemical and biological interest. Some examples of possible applications are illustrated below and some of these are based on experiments already published by our research group.</ce:para>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>5.1</ce:label>
+                     <ce:section-title id="st065">Differentiation of isobaric peptides</ce:section-title>
+                     <ce:para id="p0145" view="all">Distinguishing between chemical species with the same mass-to-charge ratios has consistently presented a complex analytical challenge <ce:cross-refs refid="b0090 b0095" id="r0020">[18,19]</ce:cross-refs>, typically addressed through sophisticated mass spectrometric methodologies <ce:cross-ref refid="b0100" id="c0170">[20]</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0150" view="all">Generally, the capacity to identify individual amino acids within a peptide sequence is critical for the diagnosis of pathologies, especially neurodegenerative diseases <ce:cross-ref refid="b0105" id="c0175">[21]</ce:cross-ref> and in those conditions where post-translational modifications contribute to the disease onset.</ce:para>
+                     <ce:para id="p0155" view="all">Tuccitto et al.<ce:cross-ref refid="b0110" id="c0180">[22]</ce:cross-ref>, have unveiled promising results on the use of CD as fluorescent nanochemosensors. The analysis of excitation-emission maps revealed that EDC/NHS-activated CD can be employed for the selective recognition of various chemical compounds, particularly amino acids. These CD exhibit noteworthy differences in their fluorescence properties when bound to different amino acids. This observed phenomenon facilitates the discrimination between hydrophobic and polar amino acids, thereby providing a platform for the selective recognition of individual amino acids even within complex mixtures.</ce:para>
+                     <ce:para id="p0160" view="all">In the same context, Pandit et al.<ce:cross-ref refid="b0115" id="c0185">[23]</ce:cross-ref> synthesized water-soluble luminescent CDs by pyrolizing citric acid in the presence of various amino acids under hydrothermal conditions. These CD were developed for use in an array-based protein sensing system. The surface of the CD was coated with specific amino acids to enable selective and highly specific detection of proteins such as hemoglobin, cytochrome <ce:italic>C</ce:italic>, chymotrypsin, β-glucanase, and xylanase. This detection was achieved by measuring ΔI (I-I0) fluorescence values, representing the observed fluorescence intensity after (I) and before (I0) the addition of the respective protein analytes.</ce:para>
+                     <ce:para id="p0165" view="all">The inherent ability of CD to exhibit significant variations in fluorescence properties when bound to different amino acids forms the basis of our approach. By exploiting the subtle differences in the interaction between CD and distinct peptide sequences, we aim to establish a robust methodology for the discrimination and identification of isobaric peptides.</ce:para>
+                     <ce:para id="p0170" view="all">The isobaric peptides described in Distefano et al. <ce:cross-ref refid="b0080" id="c0190">[16]</ce:cross-ref> were covalently linked through EDC/NHS coupling to two differently surface-functionalized CD: CD-COOH, which exhibits only COOH terminal, and CD-N, primarily adorned with NH<ce:inf loc="post">2</ce:inf> groups along with fewer COOH groups. Both CDs were synthesized using citric acid; moreover, CD-N was prepared with the incorporation of urea in the synthesis process. The results demonstrated that peptide discrimination did not occur with both functionalized CD; rather, the type of functionalization on the CD surfaces played a pivotal role. While the COOH-coated surface failed to distinguish the peptides, CD featuring amino-rich functionalities emerged as crucial elements in peptide discrimination. This observed phenomenon can be ascribed to the distinctive COOH groups present within the peptide, providing a specific orientation to the binding process. The ordered anchoring demonstrated by CD-N, in contrast to the more random anchoring observed with CD-COOH, played a pivotal role in the precise identification and distinction of peptides. Therefore, to effectively detect these peptides, it is essential to carefully select the functional groups on the surface of the CD. This choice is influenced by the specific peptide sequence since it is the site where the binding with the protein/peptide takes place that influences the changes in the CD fluorescent properties.</ce:para>
+                     <ce:para id="p0175" view="all">The specificity showed by CD was highlighted through excitation-emission maps, which revealed the strong and dependent influence of the fluorescence properties of CD by the interaction with isobaric peptides at the surface.</ce:para>
+                     <ce:para id="p0180" view="all">The explanatory scheme depicted in <ce:cross-ref refid="f0020" id="c0195">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="f0020"/> illustrates the previously discussed results. Four models of isobaric peptides with the ACDEF sequence (this sequence is for example purposes only), bound to the surface of a CD, are presented. Each model utilizes four different amino acids to form amide bonds. Each illustration is correlated with a descriptive excitation-emission map that explains the selective binding and provides specific maps depending on which isobaric peptide is binding to the CD. The aim is to highlight that attaching isobaric peptides with different sequences to CDs, leads to a distinct and specific response in the excitation/emission maps.</ce:para>
+                     <ce:para id="p0185" view="all">This phenomenon occurs when different arrangements of amino acids (isobaric peptides) leading to the same peptide molecular mass are employed, and it is closely linked to the type of amino acid directly associated with the CD.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0040" view="all">
+                     <ce:label>5.2</ce:label>
+                     <ce:section-title id="st070">Protein oligomerization monitoring</ce:section-title>
+                     <ce:para id="p0190" view="all">Protein oligomerization and aggregation represent a critical nexus intersecting fundamental biological processes and disease pathogenesis. Monitoring this phenomenon transcends mere academic curiosity, bearing direct relevance to therapeutic development, disease management, and elucidation of biochemical principles.</ce:para>
+                     <ce:para id="p0195" view="all">The pathogenesis of various debilitating conditions, including diabetes and neurodegenerative diseases, is intricately intertwined with aberrant protein aggregation. In Alzheimer's disease, the oligomerization of β-amyloid peptides culminates in the aggregation and formation of neurotoxic plaques, causing cognitive decline and neuronal dysfunction <ce:cross-ref refid="b0120" id="c0200">[24]</ce:cross-ref>. Similarly, in Parkinson's disease, the aggregation of alpha-synuclein fosters the formation of Lewy bodies, contributing to dopaminergic neuronal loss and motor impairment <ce:cross-ref refid="b0125" id="c0205">[25]</ce:cross-ref>. Furthermore, in diabetes, the misfolding of insulin disrupt glucose homeostasis, exacerbating cellular dysfunction and damage <ce:cross-ref refid="b0130" id="c0210">[26]</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0200" view="all">Within the intricate cascade of protein aggregation, the oligomeric phase emerges as a crucial stage, representing transient yet harmful molecular species with significant biological implications. These oligomeric intermediates act as early indicators of cellular harm, triggering a series of molecular events that lead to cellular dysfunction and, ultimately, cell death. Despite their pivotal role, visualizing and understanding these entities pose significant challenges, highlighting the need for innovative methodologies capable of exploring their structure and function. Therefore, methodologies like the one here described serve as indispensable tools offering windows into the intricate molecular landscapes governing protein dynamics. These methodologies can unveil the structural intricacies of oligomer formation, thereby enriching our understanding of disease mechanisms.</ce:para>
+                     <ce:para id="p0205" view="all">The methodology, outlined in <ce:cross-ref refid="f0025" id="c0215">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="f0025"/>, involves incubating the target protein (or peptide) under specific temperature and conditions tailored to the experimental goals. Subsequently, aliquots of the incubated mixture are sampled at regular intervals and combined with previously activated CD, following the procedure outlined in preceding sections. After this coupling, the fluorescence map is acquired and undergoes subtraction from the one obtained from a solution comprising solely activated CD. The resultant fluorescence variation map facilitates the assessment of various oligomerization states of the protein or peptide in solution by comparison with other experimental time points. This methodology was employed to investigate the early oligomeric aggregation stages of insulin solutions <ce:cross-ref refid="b0075" id="c0220">[15]</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0210" view="all">To define the appropriate absorption range for subsequent fluorescence measurements, acquisition of UV–Vis spectra of all samples at each incubation time point is recommended. Taking insulin as an example, spectra includes samples containing CD alone, both CD and insulin (conjugated or not), and those containing insulin with ThT. The resulting UV–vis absorption spectra are reported in <ce:cross-ref refid="f0030" id="c0225">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="f0030"/>. The latter shows the clear distinction between the UV–vis absorption spectra of solutions: (A) Insulin conjugated to CD, (B) Insulin + Zn<ce:sup loc="post">2+</ce:sup> conjugated to CD, (C) Insulin and unconjugated CD, and (D) Insulin and ThT.</ce:para>
+                     <ce:para id="p0215" view="all">Zingale et al <ce:cross-ref refid="b0075" id="c0230">[15]</ce:cross-ref> demonstrated that CD offer a valuable tool to monitor the early stages of insulin aggregation at different experimental conditions. This method differs from traditional techniques by allowing observation without introducing disruptions or additional molecules during the aggregation process. The optimal incubation times for protein aggregation studies can vary significantly depending on the specific protein under investigation, buffer conditions, and temperature. Here, we provide a general protocol in order to allow researchers to adapt the incubation times based on their individual experimental needs and protein of interest. However, to illustrate the application of the protocol, we have included an example with incubation time points (<ce:cross-ref refid="f0030" id="c0235">Fig. 6</ce:cross-ref>). This serves as a reference point, and researchers can adjust these times based on their specific system. Of particular significance in the aforementioned study was the comparison of fluorescence maps from identical aliquots, obtained concurrently with those designated for conjugation with CD. These fluorescence maps were acquired in the presence of ThT, a widely-used fluorescence probe for detecting fibrils. Notably, ThT exhibited no fluorescence map variations during the lag phase, corresponding to the formation and growth of oligomeric species. Instead, it only elicited a response at a later stage, suggesting the emergence of large fibrils at an advanced phase of the aggregation process. In other words, the newly proposed CD-based experimental approach, differently from the common ThT assay, showed to being able to detect also the first insulin aggregation phases, which are completely invisible by other fluorescent based methods. We have already reported that insulin oligomerization, occurring much earlier than aggregation in fibrils, cannot be monitored by other common analytical techniques such as DLS <ce:cross-ref refid="b0135" id="c0240">[27]</ce:cross-ref>. However, oligomeric forms of insulin, forming at short incubation times, are already detected by the hereby described CD-based method <ce:cross-ref refid="b0075" id="c0245">[15]</ce:cross-ref>. The possibility to monitor such early stages aggregation processes opens the way to systematic investigative studies on these processes, which could unveil important pathogenic biomolecular mechanisms involved in conformational diseases. As there are no limitations on the type of protein that can be investigated, nor on the timescale of the aggregation, the method can be in principle applied to any biomolecular system, without the use of fluorescent tags attached to the protein under investigation.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0045" view="all">
+                  <ce:label>6</ce:label>
+                  <ce:section-title id="st075">Conclusions</ce:section-title>
+                  <ce:para id="p0220" view="all">In this work, we have described in details a newly developed CD-based experimental protocol, which has been shown to distinguish among isobaric peptides as well as being able to monitor the early stage phases of insulin aggregation. The method is based on the changes of CD fluorescence upon covalent modification of their surface by chemically linking the peptide or protein under investigation with CD. As there are no limitations on the applicability of the newly proposed experimental protocol, we expect a wide diffusion of this approach on several different biomolecular systems. Particularly, the method proved to be particularly useful for monitoring protein aggregation, having the major advantage of being very sensitive to the early protein aggregation states, which are the critical phases in many conformational diseases.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi005" view="all">
+               <ce:section-title id="st080">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0225" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st085">Acknowledgments</ce:section-title>
+               <ce:para id="p0230" view="all">This research was supported by PRIN P2022AW2H9 “Molecular details on the early phase of amyloid beta peptides aggregation: a multilevel approach based on carbon dots fluorescence and diffusion coefficients measurements to unveil the pathogenic molecular mechanisms at the base of Alzheimer’s disease” and “Progetto Pharma-HUB - HUB per il riposizionamento di farmaci nelle malattie rare del sistema nervoso in et‘a pediatrica” (T4-AN-04). G. A. Zingale and I. Pandino were supported by the PhD program in Chemical Sciences, <ce:grant-sponsor sponsor-id="https://doi.org/10.13039/501100004505" xlink:type="simple" id="gp005" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">University of Catania</ce:grant-sponsor>. The authors acknowledge the Ministry of Health and <ce:grant-sponsor sponsor-id="https://doi.org/10.13039/501100015822" xlink:type="simple" id="gp015" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Fondazione Roma</ce:grant-sponsor>. The authors further acknowledge <ce:grant-sponsor sponsor-id="https://doi.org/10.13039/100019470" xlink:type="simple" id="gp020" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">LazioInnova</ce:grant-sponsor> for its financial support (grant: <ce:grant-number refid="gp020">A0375-2020-36591</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st090">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon Dots: A New Type of Carbon-Based Nanomaterial with Wide Applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Cent. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2179</sb:first-page>
+                              <sb:last-page>2195</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acscentsci.0c01306</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx015">J. Liu, R. Li, B. Yang, Carbon Dots: A New Type of Carbon-Based Nanomaterial with Wide Applications, ACS Cent. Sci. 6 (2020) 2179–2195. https://doi.org/10.1021/acscentsci.0c01306.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Ji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Leblanc</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Recent Developments of Carbon Dots in Biosensing: A Review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Sens.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2724</sb:first-page>
+                              <sb:last-page>2741</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acssensors.0c01556</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx020">C. Ji, Y. Zhou, R.M. Leblanc, Z. Peng, Recent Developments of Carbon Dots in Biosensing: A Review, ACS Sens. 5 (2020) 2724–2741. https://doi.org/10.1021/acssensors.0c01556.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Beack</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Jung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.H.</ce:given-name>
+                                 <ce:surname>Do</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Yun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Hahn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Photodynamic therapy of melanoma skin cancer using carbon dot - Chlorin e6 - Hyaluronate conjugate</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Biomater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>295</sb:first-page>
+                              <sb:last-page>305</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.actbio.2015.08.027</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx025">S. Beack, W.H. Kong, H.S. Jung, I.H. Do, S. Han, H. Kim, K.S. Kim, S.H. Yun, S.K. Hahn, Photodynamic therapy of melanoma skin cancer using carbon dot - Chlorin e6 - Hyaluronate conjugate, Acta Biomater. 26 (2015) 295–305. https://doi.org/10.1016/j.actbio.2015.08.027.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Bai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Surface modification and chemical functionalization of carbon dots: a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microchim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>185</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>424</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s00604-018-2953-9</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx030">F. Yan, Y. Jiang, X. Sun, Z. Bai, Y. Zhang, X. Zhou, Surface modification and chemical functionalization of carbon dots: a review, Microchim. Acta 185 (2018) 424. https://doi.org/10.1007/s00604-018-2953-9.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <ce:other-ref id="h0025">
+                        <ce:textref>T. Dutta, O. Chatterjee, B. Chakraborty, A.L. Koner, Photophysical properties of carbon quantum dots, in: Carbon Quantum Dots Sustain. Energy Optoelectron., Elsevier, 2023: pp. 1–28.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-B.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-S.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-M.</ce:given-name>
+                                 <ce:surname>Xiong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Full-color light-emitting carbon dots with a surface-state-controlled luminescence mechanism</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Nano</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>484</sb:first-page>
+                              <sb:last-page>491</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx035">H. Ding, S.-B. Yu, J.-S. Wei, H.-M. Xiong, Full-color light-emitting carbon dots with a surface-state-controlled luminescence mechanism, ACS Nano 10 (2016) 484–491.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fluorescent carbon nanoparticles for the fluorescent detection of metal ions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>61</sb:first-page>
+                              <sb:last-page>71</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.bios.2014.07.018</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx040">Y. Guo, L. Zhang, S. Zhang, Y. Yang, X. Chen, M. Zhang, Fluorescent carbon nanoparticles for the fluorescent detection of metal ions, Biosens. Bioelectron. 63 (2015) 61–71. https://doi.org/10.1016/j.bios.2014.07.018.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Jia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-S.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ethanol in aqueous hydrogen peroxide solution: Hydrothermal synthesis of highly photoluminescent carbon dots as multifunctional nanosensors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>999</sb:first-page>
+                              <sb:last-page>1007</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.carbon.2015.06.018</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx045">Y. Hu, J. Yang, L. Jia, J.-S. Yu, Ethanol in aqueous hydrogen peroxide solution: Hydrothermal synthesis of highly photoluminescent carbon dots as multifunctional nanosensors, Carbon 93 (2015) 999–1007. https://doi.org/10.1016/j.carbon.2015.06.018.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Gu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Lan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Boronic acid functionalized graphene quantum dots as a fluorescent probe for selective and sensitive glucose determination in microdialysate</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9830</sb:first-page>
+                              <sb:last-page>9832</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/C3CC44393K</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx050">Z. Qu, X. Zhou, L. Gu, R. Lan, D. Sun, D. Yu, G. Shi, Boronic acid functionalized graphene quantum dots as a fluorescent probe for selective and sensitive glucose determination in microdialysate, Chem. Commun. 49 (2013) 9830–9832. https://doi.org/10.1039/C3CC44393K.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigation from chemical structure to photoluminescent mechanism: a type of carbon dots from the pyrolysis of citric acid and an amine</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5976</sb:first-page>
+                              <sb:last-page>5984</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/C5TC00813A</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx055">Y. Song, S. Zhu, S. Zhang, Y. Fu, L. Wang, X. Zhao, B. Yang, Investigation from chemical structure to photoluminescent mechanism: a type of carbon dots from the pyrolysis of citric acid and an amine, J. Mater. Chem. C 3 (2015) 5976–5984. https://doi.org/10.1039/C5TC00813A.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <ce:other-ref id="h0055">
+                        <ce:textref>F. Cal, V. Cantaro, L. Fichera, R. Ruffino, G.T. Sfrazzetto, G. Li-destri, N. Tuccitto, Carbon Quantum Dots from Lemon Waste Enable Communication among Biodevices, (2021) 1–14.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Mao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fluorescent Carbon Nanoparticles Derived from Candle Soot</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>119</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6593</sb:first-page>
+                              <sb:last-page>6595</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/ange.200701271</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx060">H. Liu, T. Ye, C. Mao, Fluorescent Carbon Nanoparticles Derived from Candle Soot, Angew. Chem. 119 (2007) 6593–6595. https://doi.org/10.1002/ange.200701271.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Geng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Facile synthesis and photoelectric properties of carbon dots with upconversion fluorescence using arc-synthesized carbon by-products</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>RSC Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4839</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/c3ra45453c</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx065">Y. Su, M. Xie, X. Lu, H. Wei, H. Geng, Z. Yang, Y. Zhang, Facile synthesis and photoelectric properties of carbon dots with upconversion fluorescence using arc-synthesized carbon by-products, RSC Adv. 4 (2014) 4839. https://doi.org/10.1039/c3ra45453c.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Long</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Bai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microwave–hydrothermal synthesis of fluorescent carbon dots from graphite oxide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3134</sb:first-page>
+                              <sb:last-page>3140</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.carbon.2011.03.041</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx070">Q. Wang, H. Zheng, Y. Long, L. Zhang, M. Gao, W. Bai, Microwave–hydrothermal synthesis of fluorescent carbon dots from graphite oxide, Carbon 49 (2011) 3134–3140. https://doi.org/10.1016/j.carbon.2011.03.041.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Zingale</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Distefano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Pandino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Tuccitto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Oliveri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gaeta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>D’Urso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Arcoria</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Grasso</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon dots as a versatile tool to monitor insulin aggregation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Bioanal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>415</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1829</sb:first-page>
+                              <sb:last-page>1840</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s00216-023-04585-y</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx075">G.A. Zingale, A. Distefano, I. Pandino, N. Tuccitto, V. Oliveri, M. Gaeta, A. D’Urso, A. Arcoria, G. Grasso, Carbon dots as a versatile tool to monitor insulin aggregation, Anal. Bioanal. Chem. 415 (2023) 1829–1840. https://doi.org/10.1007/s00216-023-04585-y.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Distefano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Calì</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gaeta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Tuccitto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Auditore</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Licciardello</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>D’Urso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.-J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Monasson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Peroni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Grasso</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon dots surface chemistry drives fluorescent properties: New tools to distinguish isobaric peptides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Colloid Interface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>625</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>405</sb:first-page>
+                              <sb:last-page>414</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.jcis.2022.06.050</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx080">A. Distefano, F. Calì, M. Gaeta, N. Tuccitto, A. Auditore, A. Licciardello, A. D’Urso, K.-J. Lee, O. Monasson, E. Peroni, G. Grasso, Carbon dots surface chemistry drives fluorescent properties: New tools to distinguish isobaric peptides, J. Colloid Interface Sci. 625 (2022) 405–414. https://doi.org/10.1016/j.jcis.2022.06.050.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Grasso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Fragai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Rizzarelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Spoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Yeo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A new methodology for monitoring the activity of cdMMP-12 anchored and freeze-dried on Au (111)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Soc. Mass Spectrom.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>961</sb:first-page>
+                              <sb:last-page>969</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.jasms.2007.02.003</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx085">G. Grasso, M. Fragai, E. Rizzarelli, G. Spoto, K.J. Yeo, A new methodology for monitoring the activity of cdMMP-12 anchored and freeze-dried on Au (111), J. Am. Soc. Mass Spectrom. 18 (2007) 961–969. https://doi.org/10.1016/j.jasms.2007.02.003.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="h0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.P.</ce:given-name>
+                                 <ce:surname>Go</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Desaire</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A novel mass spectrometric method to distinguish isobaric monosaccharides that are phosphorylated or sulfated using ion-pairing reagents</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Soc. Mass Spectrom.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1827</sb:first-page>
+                              <sb:last-page>1839</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx090">Y. Zhang, E.P. Go, H. Jiang, H. Desaire, A novel mass spectrometric method to distinguish isobaric monosaccharides that are phosphorylated or sulfated using ion-pairing reagents, J. Am. Soc. Mass Spectrom. 16 (2005) 1827–1839.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Trinidad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Dann</ce:surname>
+                                 <ce:suffix>III</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Distinguishing sulfotyrosine containing peptides from their phosphotyrosine counterparts using mass spectrometry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Soc. Mass Spectrom.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>455</sb:first-page>
+                              <sb:last-page>462</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx095">G. Chen, Y. Zhang, J.C. Trinidad, C. Dann III, Distinguishing sulfotyrosine containing peptides from their phosphotyrosine counterparts using mass spectrometry, J. Am. Soc. Mass Spectrom. 29 (2018) 455–462.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="h0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Pappireddi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Martin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Wühr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A Review on Quantitative Multiplexed Proteomics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Bio. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1210</sb:first-page>
+                              <sb:last-page>1224</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/cbic.201800650</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx100">N. Pappireddi, L. Martin, M. Wühr, A Review on Quantitative Multiplexed Proteomics, ChemBioChem 20 (2019) 1210–1224. https://doi.org/10.1002/cbic.201800650.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Polis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.O.</ce:given-name>
+                                 <ce:surname>Samson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Role of the metabolism of branched-chain amino acids in the development of Alzheimer’s disease and other metabolic disorders</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Neural Regen. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1460</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx105">B. Polis, A.O. Samson, Role of the metabolism of branched-chain amino acids in the development of Alzheimer’s disease and other metabolic disorders, Neural Regen. Res. 15 (2020) 1460.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="h0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Tuccitto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fichera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ruffino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Cantaro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Sfuncia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Nicotra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.T.</ce:given-name>
+                                 <ce:surname>Sfrazzetto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Li-Destri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Valenti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Licciardello</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Torrisi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon Quantum Dots as Fluorescence Nanochemosensors for Selective Detection of Amino Acids</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Nano Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6250</sb:first-page>
+                              <sb:last-page>6256</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acsanm.1c01046</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx110">N. Tuccitto, L. Fichera, R. Ruffino, V. Cantaro, G. Sfuncia, G. Nicotra, G.T. Sfrazzetto, G. Li-Destri, A. Valenti, A. Licciardello, A. Torrisi, Carbon Quantum Dots as Fluorescence Nanochemosensors for Selective Detection of Amino Acids, ACS Appl. Nano Mater. 4 (2021) 6250–6256. https://doi.org/10.1021/acsanm.1c01046.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="h0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Pandit</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Behera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sahoo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>De</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>In Situ Synthesis of Amino Acid Functionalized Carbon Dots with Tunable Properties and Their Biological Applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Bio Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3393</sb:first-page>
+                              <sb:last-page>3403</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acsabm.9b00374</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx115">S. Pandit, P. Behera, J. Sahoo, M. De, In Situ Synthesis of Amino Acid Functionalized Carbon Dots with Tunable Properties and Their Biological Applications, ACS Appl. Bio Mater. 2 (2019) 3393–3403. https://doi.org/10.1021/acsabm.9b00374.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.N.</ce:given-name>
+                                 <ce:surname>Dahlgren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Manelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.B.</ce:given-name>
+                                 <ce:surname>Stine</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.K.</ce:given-name>
+                                 <ce:surname>Baker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Krafft</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>LaDu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oligomeric and Fibrillar Species of Amyloid-β Peptides Differentially Affect Neuronal Viability *</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Biol. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>277</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>32046</sb:first-page>
+                              <sb:last-page>32053</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1074/jbc.M201750200</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx120">K.N. Dahlgren, A.M. Manelli, W.B. Stine, L.K. Baker, G.A. Krafft, M.J. LaDu, Oligomeric and Fibrillar Species of Amyloid-β Peptides Differentially Affect Neuronal Viability *, J. Biol. Chem. 277 (2002) 32046–32053. https://doi.org/10.1074/jbc.M201750200.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="h0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.G.</ce:given-name>
+                                 <ce:surname>Spillantini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Schmidt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.-M.-Y.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Q.</ce:given-name>
+                                 <ce:surname>Trojanowski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Jakes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Goedert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>α-Synuclein in Lewy bodies</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>388</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>839</sb:first-page>
+                              <sb:last-page>840</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/42166</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx125">M.G. Spillantini, M.L. Schmidt, V.M.-Y. Lee, J.Q. Trojanowski, R. Jakes, M. Goedert, α-Synuclein in Lewy bodies, Nature 388 (1997) 839–840. https://doi.org/10.1038/42166.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>[26]</ce:label>
+                     <ce:other-ref id="h0130">
+                        <ce:textref>A. Arunagiri, L. Haataja, A. Pottekat, F. Pamenan, S. Kim, L.M. Zeltser, A.W. Paton, J.C. Paton, B. Tsai, P. Itkin-Ansari, R.J. Kaufman, M. Liu, P. Arvan, Proinsulin misfolding is an early event in the progression to type 2 diabetes, eLife 8 (2019) e44532. https://doi.org/10.7554/eLife.44532.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="h0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Calcagno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Perina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Zingale</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Pandino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Tuccitto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Oliveri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Parravano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Grasso</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Detection of insulin oligomeric forms by a novel surface plasmon resonance-diffusion coefficient based approach</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Protein Sci. Publ. Protein Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2024</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e4962</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx130">D. Calcagno, M.L. Perina, G.A. Zingale, I. Pandino, N. Tuccitto, V. Oliveri, M.C. Parravano, G. Grasso, Detection of insulin oligomeric forms by a novel surface plasmon resonance-diffusion coefficient based approach, Protein Sci. Publ. Protein Soc. 33 (2024) e4962. https://doi.org/10.1002/pro.4962.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

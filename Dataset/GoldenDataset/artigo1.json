@@ -1,0 +1,62 @@
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition": "Nitrogen doped Graphene quantum Dots dispersed in a 1-hexyl-3-methylimidazolium tryptophan ionic liquid(TryIL) ",
+            "iupac_name": "null",
+            "alternative_names": "N-GQD-TryIL"
+       },
+       "synthesis": {
+            "method": {
+                "type": "hydrothermal",
+                "conditions": "180ºC for 8 h", 
+                "catalysts": null
+            },
+            "precursors": {
+                "source": ["citric 4.20g", "ammonia 4.50ml"], 
+                "dopants": ["N"]
+            },
+            "post_treatment": [
+            "filtration(0.22µm)", 
+            "dialysis(24 hours)",
+            "dilution(water)", 
+            "mixture (50.0 ml N-GQD, 0.050g NaOH, 0.050g  1-hexyl-3-methylimidazolium tryptophan(TryIL) ionic liquid)", 
+            "heated(40ºC, water, 1 hour)", 
+            "freeze drying(-86ºC)"]
+       },
+       "properties": {
+            "optical": {
+                "quantum_yield": {"value": "37%", "reference_material": "Quinine sulfate"},
+                "excitation_max": "318 nm",
+                "emission_max": "421 nm",
+                "fluorescence_lifetime": "3.40ns"
+            },
+            "structural": {
+                "size": {"avg": "139.8 nm", "distribution": "[MISSING]"},
+                "morphology": "[MISSING]",
+                "crystallinity": "polycrystalline"
+            },
+            "chemical": {
+                "surface_groups": "[\"amino acid\"]",
+                "elemental_composition": { "C": "[MISSING]", "N": "[MISSING]", "O": "[MISSING]" }
+            }
+       },
+        "applications": [
+            {
+                "domain": "Sensing (Cu(II))",
+                "performance": "Linear range: 0.051-16.00 µg/mL; LOD: 0.017 µg/mL",
+                "comparative_advantage": "Better stability compared to developed methods"
+            },
+            {
+                "domain": "Sensing (Levodopa)",
+                "performance": "Linear range: 0.55-5.00 µg/mL; LOD: 0.16 µg/mL",
+                "comparative_advantage": "Satisfactory recovery in real samples"
+            },
+            {
+                "domain": "Bioimaging",
+                "performance": "Protein imaging (Bovine serum albumin)",
+                "comparative_advantage": "Good protein affinity"
+            }
+        ]
+    }
+}
+

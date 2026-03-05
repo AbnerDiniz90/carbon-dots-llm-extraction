@@ -1,0 +1,1670 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2352340924010217</prism:url><dc:identifier>doi:10.1016/j.dib.2024.111059</dc:identifier><eid>1-s2.0-S2352340924010217</eid><prism:doi>10.1016/j.dib.2024.111059</prism:doi><pii>S2352-3409(24)01021-7</pii><dc:title>Molecular structure data and modelling roadmap for optimized oxidized graphene quantum dot and epoxy interface and mechanical properties </dc:title><prism:publicationName>Data in Brief</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dat</pubType><prism:issn>23523409</prism:issn><prism:volume>57</prism:volume><prism:startingPage>111059</prism:startingPage><prism:pageRange>111059</prism:pageRange><articleNumber>111059</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2024-12-31</prism:coverDate><prism:coverDisplayDate>December 2024</prism:coverDisplayDate><prism:copyright>© 2024 Published by Elsevier Inc.</prism:copyright><prism:publisher>Published by Elsevier Inc.</prism:publisher><dc:creator>Deshpande, Prathamesh</dc:creator><dc:creator>Chan-Jobe, Robert</dc:creator><dc:creator>Keles, Ozgur</dc:creator><dc:description>
+                  Hybrid epoxy composites are highly considered for low-density applications due to the excellent specific strength and specific stiffness. Enhancements made to the epoxy matrix by addition of nanofillers like carbon nanotubes (CNTs) and graphene (GNPs) have been studied in detail over the course of few decades. These enhancements not only help elevate the material properties of the matrix but also activate different failure mitigating mechanisms in the composite. Although highly beneficial, there are few shortcomings due to the challenging fabrication process of integrating such. Common problems like filler agglomeration, formation of voids, wrinkling and more can result in poor load transfer within the composite. Graphene quantum dots (GQDs), on the other hand are the smallest carbon-based filler which are known to promote more intimate contact with the matrix. Their small size enables simultaneous enhancement of stiffness, strength and toughness. In addition, functionalization of these materials enables other supramolecular interactions like hydrogen bonding which improve the interfacial interaction with the epoxy. This study provides a molecular dynamics (MD) workflow to model a single functionalized GQD embedded in an epoxy matrix and the effective mechanical response of the nanocomposite. Ten chemistries were developed with different oxygen-based functional groups which capture the effect of GQD on the mechanical properties of the nanocomposite. Uniaxial strain simulations revealed that a maximum strength gain of 56 % and stiffness gain of 18 % was computed by the oxidized GQD-epoxy nanocomposite.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><dcterms:subject>Molecular dynamics</dcterms:subject><dcterms:subject>Graphene oxide quantum dots</dcterms:subject><dcterms:subject>Epoxy nanocomposite</dcterms:subject><dcterms:subject>Molecular interactions</dcterms:subject><dcterms:subject>Mechanical response</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2352340924010217" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2352340924010217" rel="scidir"/></coredata><objects><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="555" height="746" size="154687">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340924010217-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="527" height="489" size="92181">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340924010217-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="318" size="57439">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340924010217-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="122" height="164" size="6703">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340924010217-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="177" height="164" size="10658">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340924010217-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="194" height="164" size="20129">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340924010217-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2458" height="3304" size="826091">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340924010217-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2333" height="2164" size="571588">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340924010217-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1667" height="1410" size="524468">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340924010217-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>85210709813</scopus-id><scopus-eid>2-s2.0-85210709813</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85210709813" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>311593</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291690</xocs:ssid>
+         <xocs:ssid type="subj">291786</xocs:ssid>
+         <xocs:ssid type="subj">291806</xocs:ssid>
+         <xocs:ssid type="subj">291848</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Data in Brief</xocs:srctitle>
+      <xocs:normalized-srctitle>DATAINBRIEF</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20241022">2024-10-22</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20241022">2024-10-22</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20241203">2024-12-03</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20241203">2024-12-03</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2025-04-10T11:56:26</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2352340924010217</xocs:eid>
+      <xocs:pii-formatted>S2352-3409(24)01021-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2352340924010217</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.dib.2024.111059</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.8</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2352340924X00062</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20250410">2025-04-10T11:38:50.498521Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20241201</xocs:date-search-begin>
+      <xocs:date-search-end>20241231</xocs:date-search-end>
+      <xocs:year-nav>2024</xocs:year-nav>
+      <xocs:indexeddate epoch="1729620514">2024-10-22T18:08:34.775222Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid orcid primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2352-3409</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>23523409</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>57</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>57</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 57</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>310</xocs:sort-order>
+      <xocs:first-fp>111059</xocs:first-fp>
+      <xocs:article-number>111059</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>111059</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202412</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>December 2024</xocs:cover-date-text>
+      <xocs:cover-date-start>2024-12-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2024-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2024</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Materials Science</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>dat</xocs:document-subtype>
+      <xocs:copyright-line>© 2024 Published by Elsevier Inc.</xocs:copyright-line>
+      <xocs:normalized-article-title>MOLECULARSTRUCTUREDATAMODELLINGROADMAPFOROPTIMIZEDOXIDIZEDGRAPHENEQUANTUMDOTEPOXYINTERFACEMECHANICALPROPERTIES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>DESHPANDE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>P</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Value of the Data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Background</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Data Description</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental Design, Materials and Methods</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Limitations</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Ethics Statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Credit Author Statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001">
+            <xocs:ref-normalized-surname>MI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>100977</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0002">
+            <xocs:ref-normalized-surname>GOBI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4356</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4362</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0003">
+            <xocs:ref-normalized-surname>GOGOI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>39</xocs:ref-first-fp>
+            <xocs:ref-last-lp>46</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0004">
+            <xocs:ref-normalized-surname>KARIMI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>62</xocs:ref-first-fp>
+            <xocs:ref-last-lp>76</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>MADHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>117</xocs:ref-first-fp>
+            <xocs:ref-last-lp>130</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0006">
+            <xocs:ref-normalized-surname>RIAZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>106419</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0007">
+            <xocs:ref-normalized-surname>SEIBERT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-article-number>121988</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0008">
+            <xocs:ref-normalized-surname>ALMAHMUD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>628</xocs:ref-first-fp>
+            <xocs:ref-last-lp>635</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0009">
+            <xocs:ref-normalized-surname>KELES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2024</xocs:ref-pub-year>
+            <xocs:ref-first-fp>362</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>103</xocs:ref-first-fp>
+            <xocs:ref-last-lp>122</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0011">
+            <xocs:ref-normalized-surname>ODEGARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>175</xocs:ref-first-fp>
+            <xocs:ref-last-lp>178</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0012">
+            <xocs:ref-normalized-surname>ODEGARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9815</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9824</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0013">
+            <xocs:ref-normalized-surname>RADUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>20</xocs:ref-first-fp>
+            <xocs:ref-last-lp>26</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0014">
+            <xocs:ref-normalized-surname>DESHPANDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INPROCEEDINGSAMERICANSOCIETYFORCOMPOSITESTHIRTYEIGHTHTECHNICALCONFERENCE</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>EFFECTGRAPHENEQUANTUMDOTSMECHANICALPROPERTIESBISPHENOLFBASEDEPOXY</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>KEMPPAINEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2024</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0016"/>
+         <xocs:ref-info refid="sbref0017">
+            <xocs:ref-normalized-surname>BOERNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>173</xocs:ref-first-fp>
+            <xocs:ref-last-lp>176</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ACCESSADVANCINGINNOVATIONNSFSADVANCEDCYBERINFRASTRUCTURECOORDINATIONECOSYSTEMSERVICESSUPPORTINPRACTICEEXPERIENCEINADVANCEDRESEARCHCOMPUTING2023COMPUTINGFORCOMMONGOOD</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0018">
+            <xocs:ref-normalized-surname>HEINZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1754</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1765</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0019">
+            <xocs:ref-normalized-surname>RADUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>255</xocs:ref-first-fp>
+            <xocs:ref-last-lp>264</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>PATIL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5788</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5797</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0021">
+            <xocs:ref-normalized-surname>MARTYNA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4177</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4189</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0022">
+            <xocs:ref-normalized-surname>TUCKERMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5629</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0023">
+            <xocs:ref-normalized-surname>PARRINELLO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7182</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7190</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0024">
+            <xocs:ref-normalized-surname>SHINODA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-article-number>134103</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>GISSINGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9953</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9961</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0026">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4083</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4092</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>DESHPANDEX2024X111059</xocs:refkey3>
+         <xocs:refkey4ai>DESHPANDEX2024X111059XP</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2024-10-16T05:48:22Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/23523409_UNBOUNDED_Author">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2024 Published by Elsevier Inc.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2024-12-06T08:20:36.016Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2352-3409(24)01021-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2352340924010217</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2352340924010217</xocs:eid>
+         <xocs:doi>10.1016/j.dib.2024.111059</xocs:doi>
+         <xocs:cid>311593</xocs:cid>
+         <xocs:timestamp>2025-04-10T11:38:50.498521Z</xocs:timestamp>
+         <xocs:cover-date-start>2024-12-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2024-12-31</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2352340924010217-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340924010217/MAIN/application/pdf/7ebf97bf242e258295c9717e2679e3f8/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1541198</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>9</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2352340924010217-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340924010217/PREVIEW/image/png/0dabd5d6ec600a71e8e4135de3c10eb5/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>49092</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340924010217-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340924010217/gr2/DOWNSAMPLED/image/jpeg/540834e4247823ced7fe164461a19a7b/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>154687</xocs:filesize>
+               <xocs:pixel-height>746</xocs:pixel-height>
+               <xocs:pixel-width>555</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340924010217-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340924010217/gr1/HIGHRES/image/jpeg/36d945462613bf70ea8696be3105b599/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>92181</xocs:filesize>
+               <xocs:pixel-height>489</xocs:pixel-height>
+               <xocs:pixel-width>527</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340924010217-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340924010217/gr3/DOWNSAMPLED/image/jpeg/60841e244a2645ff198eafafa022e968/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>57439</xocs:filesize>
+               <xocs:pixel-height>318</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340924010217-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340924010217/gr2/THUMBNAIL/image/gif/97e8e8360651211e810029dc65035b0f/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6703</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>122</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340924010217-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340924010217/gr1/THUMBNAIL/image/gif/d3ab3662c234a0ea5744d36f42f17a54/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10658</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>177</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340924010217-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340924010217/gr3/THUMBNAIL/image/gif/73aa64b178ad83bd50b4b4ed1704dfbc/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>20129</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>194</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340924010217-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340924010217/DOWNSAMPLED/image/jpeg/af47e195cc9e702e7ea208b407fbc477/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>826091</xocs:filesize>
+               <xocs:pixel-height>3304</xocs:pixel-height>
+               <xocs:pixel-width>2458</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340924010217-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340924010217/MAIN/image/jpeg/c265e5b80dd2036b2762a05b9377144b/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>571588</xocs:filesize>
+               <xocs:pixel-height>2164</xocs:pixel-height>
+               <xocs:pixel-width>2333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340924010217-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340924010217/HIGHRES/image/jpeg/7c47a0970482eaf224ece48ec096c3e7/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>524468</xocs:filesize>
+               <xocs:pixel-height>1410</xocs:pixel-height>
+               <xocs:pixel-width>1667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dat" version="5.7" xml:lang="en">
+         <item-info>
+            <jid>DIB</jid>
+            <aid>111059</aid>
+            <ce:article-number>111059</ce:article-number>
+            <ce:pii>S2352-3409(24)01021-7</ce:pii>
+            <ce:doi>10.1016/j.dib.2024.111059</ce:doi>
+            <ce:copyright type="unknown" year="2024"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0001">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0003">
+                  <ce:simple-para id="spara001" view="all">Molecular Modelling workflow.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0003" role="short">Fig. 1</ce:alt-text>
+               <ce:link id="celink0001" locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2352340924010217/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig0002">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0004">
+                  <ce:simple-para id="spara002" view="all">Chemical structures of all the modelled monomers.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0004" role="short">Fig. 2</ce:alt-text>
+               <ce:link id="celink0002" locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2352340924010217/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig0003">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="spara003" view="all">Representative MD model of epoxy (blurred) with embedded s4OH-GQD.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0005" role="short">Fig. 3</ce:alt-text>
+               <ce:link id="celink0003" locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2352340924010217/gr3"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0001" rowsep="0" colsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0001">
+                  <ce:simple-para id="spara004" view="all">Directory data description for all the material systems.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0001" role="short">Table 1</ce:alt-text>
+               <tgroup cols="2">
+                  <colspec colnum="1" colname="col1" align="left"/>
+                  <colspec colnum="2" colname="col2" align="left"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0015" colname="col1" valign="top">Directory name</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0016" colname="col2" valign="top">Simulation Details</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0017" colname="col1" valign="top">input_scripts</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0018" colname="col2" valign="top">LAMMPS simulation scripts for all the workflow steps</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0019" colname="col1" valign="top">molecular_structure_files</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0020" colname="col2" valign="top">Molecular structures for raw molecules, mixture models and all the subsequent simulation input and output files</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0021" colname="col1" valign="top"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0022" colname="col2" valign="top"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0023" colname="col1" valign="top">reaction_files</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0024" colname="col2" valign="top">REACTER molecule templates (pre- and post-reaction) and reaction map</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0025" colname="col1" valign="top">reaxff_files</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0026" colname="col2" valign="top">ReaxFF parameter set</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0027" colname="col1" valign="top">stress-strain_csvfiles</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0028" colname="col2" valign="top">Stress-strain output data for all the replicates in the three principal directions</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0002" rowsep="0" colsep="0" frame="topbot">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0002">
+                  <ce:simple-para id="spara005" view="all">MD simulation files including data description for all the contents.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0002" role="short">Table 2</ce:alt-text>
+               <tgroup cols="2">
+                  <colspec colnum="1" colname="col1" align="left"/>
+                  <colspec colnum="2" colname="col2" align="left"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0029" colname="col1" valign="top">Filetypes</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0030" colname="col2" valign="top">File description</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0031" colname="col1" valign="top">*.data or *.reaxdata</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0032" colname="col2" valign="top">LAMMPS structure</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0033" colname="col1" valign="top">in.*</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0034" colname="col2" valign="top">LAMMPS input script</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0035" colname="col1" valign="top">*.pdb and *.mol</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0036" colname="col2" valign="top">Raw molecular input files</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0037" colname="col1" valign="top">*.lmpmol</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0038" colname="col2" valign="top">reaction template</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0039" colname="col1" valign="top">*.txt</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0040" colname="col2" valign="top">reaction map</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0041" colname="col1" valign="top">*_rff.txt</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0042" colname="col2" valign="top">ReaxFF atom assignments</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0043" colname="col1" valign="top">*.csv</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0044" colname="col2" valign="top">stress-strain data</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0045" colname="col1" valign="top">*.reax</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0046" colname="col2" valign="top">ReaxFF forcefield parameter file</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:dochead id="dchd0001">
+               <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tte0002">Molecular structure data and modelling roadmap for optimized oxidized graphene quantum dot and epoxy interface and mechanical properties</ce:title>
+            <ce:author-group id="aut0001">
+               <ce:author id="au0001" author-id="S2352340924010217-9f128205b6f9339fdb76bb6e59b10f59" orcid="0000-0003-1441-678X">
+                  <ce:given-name>Prathamesh</ce:given-name>
+                  <ce:surname>Deshpande</ce:surname>
+                  <ce:cross-ref id="crf0001" refid="cor0001">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+                  
+               </ce:author>
+               <ce:author id="au0002" author-id="S2352340924010217-7cc89f1278f5b9bce51c1a61616a77aa">
+                  <ce:given-name>Robert</ce:given-name>
+                  <ce:surname>Chan-Jobe</ce:surname>
+               </ce:author>
+               <ce:author id="au0003" author-id="S2352340924010217-a7f7e1f19939f4182330acf7718e2b2c">
+                  <ce:given-name>Ozgur</ce:given-name>
+                  <ce:surname>Keles</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S2352340924010217-e1222034a014aed0838459c2056002ed">
+                  <ce:textfn id="cetextfn0001">San Jose State University, 1 Washington Sq., San Jose, CA 95192, United States</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>San Jose State University</sa:organization>
+                     <sa:address-line>1 Washington Sq.</sa:address-line>
+                     <sa:city>San Jose</sa:city>
+                     <sa:state>CA</sa:state>
+                     <sa:postal-code>95192</sa:postal-code>
+                     <sa:country iso3166-1-alpha-3="USA">United States</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0001">San Jose State University, 1 Washington Sq., San Jose, CA 95192, United States</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor0001">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="cetext0001">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="30" month="7" year="2024"/>
+            <ce:date-revised day="8" month="10" year="2024"/>
+            <ce:date-accepted day="15" month="10" year="2024"/>
+            <ce:abstract id="abs0001" view="all" class="author"><ce:abstract-sec id="abss0001" view="all">
+                  <ce:simple-para id="spara006" view="all">Hybrid epoxy composites are highly considered for low-density applications due to the excellent specific strength and specific stiffness. Enhancements made to the epoxy matrix by addition of nanofillers like carbon nanotubes (CNTs) and graphene (GNPs) have been studied in detail over the course of few decades. These enhancements not only help elevate the material properties of the matrix but also activate different failure mitigating mechanisms in the composite. Although highly beneficial, there are few shortcomings due to the challenging fabrication process of integrating such. Common problems like filler agglomeration, formation of voids, wrinkling and more can result in poor load transfer within the composite. Graphene quantum dots (GQDs), on the other hand are the smallest carbon-based filler which are known to promote more intimate contact with the matrix. Their small size enables simultaneous enhancement of stiffness, strength and toughness. In addition, functionalization of these materials enables other supramolecular interactions like hydrogen bonding which improve the interfacial interaction with the epoxy. This study provides a molecular dynamics (MD) workflow to model a single functionalized GQD embedded in an epoxy matrix and the effective mechanical response of the nanocomposite. Ten chemistries were developed with different oxygen-based functional groups which capture the effect of GQD on the mechanical properties of the nanocomposite. Uniaxial strain simulations revealed that a maximum strength gain of 56 % and stiffness gain of 18 % was computed by the oxidized GQD-epoxy nanocomposite.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="keys0001" view="all" class="keyword">
+               <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+               <ce:keyword id="key0001">
+                  <ce:text id="cetext0002">Molecular dynamics</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0002">
+                  <ce:text id="cetext0003">Graphene oxide quantum dots</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0003">
+                  <ce:text id="cetext0004">Epoxy nanocomposite</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0004">
+                  <ce:text id="cetext0005">Molecular interactions</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0005">
+                  <ce:text id="cetext0006">Mechanical response</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:data-availability id="refdata001" view="all">
+               <ce:section-title id="cesectitle0003">Data Availability</ce:section-title>
+               <ce:para id="para9001" view="all">
+                  <ce:list id="dacelist0001">
+                     <ce:list-item id="rdlistitem0001" class="Original data">
+                        <ce:para id="para9002" view="all">
+                           <ce:associated-resource>
+                              <ce:title id="assresttl0001">Mendeley Data</ce:title>
+                              <ce:inter-ref id="interref0001" xlink:role="http://www.elsevier.com/xml/linking-roles/research-data" xlink:href="https://data.mendeley.com/datasets/nvrkj7cygx/2" xlink:type="simple">Molecular Modeling Workflow for Optimizing Oxidized Graphene Quantum Dot and Epoxy Nanocomposite for Enhanced Mechanical Properties (Original data)</ce:inter-ref>
+                           </ce:associated-resource>.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:para>
+            </ce:data-availability>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para0002" view="all">Specifications Table<ce:display>
+                     <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="utbl0001" rowsep="0" colsep="0" frame="topbot">
+                        <tgroup cols="2">
+                           <colspec colnum="1" colname="col1" align="left"/>
+                           <colspec colnum="2" colname="col2" align="left"/>
+                           <tbody>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0001" colname="col1" role="rowhead" valign="top">Subject</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0002" colname="col2" valign="top">Physical and Theoretical Chemistry, Computational Mechanics, Computational Mechanics</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0003" colname="col1" role="rowhead" valign="top">Specific subject area</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0004" colname="col2" valign="top">Molecular Dynamics nano-structure development and mechanical property prediction of bonded and non-bonded oxidized GQD-epoxy nanocomposites</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0005" colname="col1" role="rowhead" valign="top">Data format</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0006" colname="col2" valign="top">Raw: Molecular structure files, LAMMPS input scripts and LAMMPS auxiliary files<br/>Analysed: LAMMPS output structure files and stress-strain plots</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0007" colname="col1" role="rowhead" valign="top">Type of data</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0008" colname="col2" valign="top">PDB and MOL raw molecular structures, CSV files with output data, LAMMPS input scripts.</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0009" colname="col1" role="rowhead" valign="top">Data collection</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0010" colname="col2" valign="top">Raw PDB and MOL structures were developed using AVOGADRO. Ten GQD chemistries were developed. LUNAR toolkit was used to transform the raw inputs into usable files for performing LAMMPS simulation and predicting the mechanical properties. Purdue Anvil was used to perform the MD simulations through NSF ACCESS. Some simulations were performed on College of Engineering HPC at San Jose State University.</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0011" colname="col1" role="rowhead" valign="top">Data source location</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0012" colname="col2" valign="top">San Jose State University, San Jose, CA 95,192</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0013" colname="col1" role="rowhead" valign="top">Data accessibility</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0014" colname="col2" valign="top">Repository name: Mendeley Data<br/>Data identification number: <inter-ref id="interref0001a" xlink:href="https://doi.org/10.17632/nvrkj7cygx.2" xlink:type="simple">10.17632/nvrkj7cygx.2</inter-ref>
+                                    <br/>Direct URL to data: <inter-ref id="interref0002" xlink:href="https://data.mendeley.com/datasets/nvrkj7cygx/2" xlink:type="simple">https://data.mendeley.com/datasets/nvrkj7cygx/2</inter-ref>
+                                 </entry>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </ce:table>
+                  </ce:display>
+               </ce:para>
+               <ce:section id="sec0002" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="cesectitle0005">Value of the Data</ce:section-title>
+                  <ce:para id="para9003" view="all">
+                     <ce:list id="celist0001">
+                        <ce:list-item id="celistitem0001">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0003" view="all">The comprehensive molecular dynamics data provides effects of oxidation of GQDs on the GQD-epoxy nanocomposites. The mechanical response and nano-structural configuration reveals the strengthening mechanisms such as the effect of supramolecular interactions.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0002">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0004" view="all">The impact of non-bonded and bonded interactions on the mechanical properties are critical for designing hybrid polymer composites that maximize the mechanical performance of the material. This work encapsulates a wide range of GQD chemistries which be used for intelligent material design.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0003">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0005" view="all">Material scientists and manufacturers invested in hybrid polymer composites can leverage this work to understand the molecular behaviour of the material. Also, other computational researchers benefit from the new modelling methodology which includes implementation of the LUNAR toolkit.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0004">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0006" view="all">The data helps simplify a complex structure yet capture the critical molecular description and provides pathways to more complex modelling methods and analyses.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="sec0003" role="background" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="cesectitle0006">Background</ce:section-title>
+                  <ce:para id="para0007" view="all">Epoxy composites have gained excessive usability in various applications which includes adhesives, electronics, and mechanical structures. The low-density, high strength and high stiffness make them a versatile and low maintenance material. However, the epoxy matrix inherently is brittle and causes poor load transfer in the composite. Multiple studies have shown that epoxy matrix properties can be enhanced by addition of second phase materials like rubber, impact modifying thermoplastics, natural and carbon fibres, and nanofillers like carbon nanotubes, graphene platelets and quantum dots [<ce:cross-ref id="crf0002" refid="bib0001">1</ce:cross-ref>].</ce:para>
+                  <ce:para id="para0008" view="all">Quantum dots (QDs) are the smallest available nanofiller with sizes smaller than 20 nm [<ce:cross-refs id="crf0003" refid="bib0002 bib0003 bib0004 bib0005 bib0006">2–6</ce:cross-refs>]. Their size enables them to create greater contact with the matrix and help solve dispersion related problems. Graphene quantum dots (GQDs), both pristine and functionalized, have been studied to show increased mechanical properties in epoxies [<ce:cross-ref id="crf0005" refid="bib0002">2</ce:cross-ref>,<ce:cross-ref id="crf0006" refid="bib0004">4</ce:cross-ref>,<ce:cross-ref id="crf0007" refid="bib0005">5</ce:cross-ref>,<ce:cross-ref id="crf0008" refid="bib0007">7</ce:cross-ref>]. The property enhancements in GQD-epoxy composites have been attributed to higher dispersion of GQDs in epoxy and the resulting boost to the interfacial intermolecular interactions. To completely understand the mechanisms behind the improved material properties, computational tools like molecular dynamics (MD) can be used [<ce:cross-refs id="crf0009" refid="bib0008 bib0009 bib0010 bib0011 bib0012 bib0013 bib0014">8–14</ce:cross-refs>]. MD uses high-performance computing to reveal material behaviour at atom-scale.</ce:para>
+                  <ce:para id="para0009" view="all">In this study, we provide a comprehensive dataset of molecular structures through a validated modelling workflow for developing functionalized GQD-epoxy nanocomposite with oxidation effects. The GQDs are oxidized by attaching different oxygen-based functional groups which include the hydroxyl (-OH), carboxylic acid (-COOH), and epoxide (-(CH<ce:glyph name="sbnd"/>O-CH<ce:inf loc="post">2</ce:inf>)). The different nanocomposites are evaluated for their mass densities and mechanical properties using a set of uniaxial tension simulations. The output structures and other output files can be further studied to reveal the evolution of the nano-structure. This detailed study will help guide the future experimental investigations by revealing the effects of oxidation densities, distribution and functionalities (<ce:cross-ref id="crf0011" refid="tbl0001">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl0001"/>).</ce:para>
+               </ce:section>
+               <ce:section id="sec0004" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="cesectitle0007">Data Description</ce:section-title>
+                  <ce:para id="para0010" view="all">The data is distributed in ten separate directories for the ten modelled material systems. The directory names are - e4OH-GQD, e8OH-GQD, s4OH-GQD, s8OH-GQD, s20OH-GQD, m8OH-GQD, s4O-GQD, e4COOH-GQD, m4O-4COOH-GQD, and m6O-6OH-GQD. Each directory contains five sub-directories which include the necessary input files for a all the LAMMPS simulations as shown in <ce:cross-ref id="crf0012" refid="fig0001">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig0001"/>. It is important to note that the repository only contains files relevant for running LAMMPS simulations. The pre-processed files obtained from LUNAR are directly supplied since an example repository is already made available by the LUNAR developers [15]. This repository can be used to learn the utility and capability of LUNAR. The details of all the workflow simulations are listed in the Methods section. All the sub-directories contain the essential files for five replicates that are required to perform MD simulations using the LAMMPS software. The file details for all the different filetypes are listed in <ce:cross-ref id="crf0013" refid="tbl0002">Table 2</ce:cross-ref>
+                     <ce:float-anchor refid="tbl0002"/>.</ce:para>
+                  <ce:para id="para0011" view="all">The output (*.data) from the “input_scripts/in.sim1” simulation is to be used to run the next simulation (input_scripts/in.sim2) and so on. The output file that is essential for a continuous workflow is the “*.data” or the LAMMPS structure file. The other output files can be used for further analysis. File which is not included in the data repository is the “dump.*” or LAMMPS trajectory file. These files are usually large in size and mostly used for visualizations. When any of the six simulations are performed, the trajectory files will automatically get generated. Another file which is not included is the “rst.*” or LAMMPS simulation restart files. These are binary files which are automatically generated during a simulation run. They can be used to restart any simulation from an error state to the normal end of that simulation. Since these files are useful only for a failed simulation and they are automatically generated during the simulation, they are excluded from the dataset. Also, the log files from all the simulations are not included in the directories since they are dependent on simulation settings and are auto generated after each run. The final log files or csv files from the tension simulations are included for quick analysis.</ce:para>
+               </ce:section>
+               <ce:section id="sec0005" role="materials-methods" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="cesectitle0008">Experimental Design, Materials and Methods</ce:section-title>
+                  <ce:para id="para0012" view="all">The modelled epoxy matrix in this study is the diglycidyl ether bisphenol F or DGEBF. The commercial product is known as EPON 862. The modelled curing agent is the diethyl toluene diamine or DETDA which is sold commercially as Epikure W. The modelled GQD is of zigzag structure and ∼2 nm diameter. A pristine GQD was functionalized using different oxidation groups. Total ten unique functionalized GQDs were modelled as shown in <ce:cross-ref id="crf0014" refid="fig0001">Fig. 1</ce:cross-ref>. The molecular models were generated using the LUNAR toolkit [<ce:cross-ref id="crf0015" refid="bib0015">15</ce:cross-ref>]. The MD simulations were performed on Anvil [<ce:cross-ref id="crf0016" refid="bib0016">16</ce:cross-ref>], a HPC at Purdue University, through NSF ACCESS [<ce:cross-ref id="crf0017" refid="bib0017">17</ce:cross-ref>]. A stepwise modelling workflow using LUNAR and LAMMPS is shown in <ce:cross-ref id="crf0018" refid="fig0001">Fig. 1</ce:cross-ref>. The LUNAR modeling details have been discussed elsewhere [<ce:cross-ref id="crf0019" refid="bib0015">15</ce:cross-ref>]. The detailed LAMMPS modelling is explained as follows-<ce:list id="celist0002">
+                        <ce:list-item id="celistitem0005">
+                           <ce:label>1.</ce:label>
+                           <ce:para id="para0013" view="all">The two epoxy monomers were mixed in a simulation box with a mixing ratio of 2(DGEBF):1(DETDA) using the LUNAR toolkit [<ce:cross-ref id="crf0020" refid="bib0015">15</ce:cross-ref>]. PCFF-IFF forcefield was used to define the interatomic interactions within the modelled molecules [<ce:cross-ref id="crf0021" refid="bib0012">12</ce:cross-ref>,<ce:cross-ref id="crf0022" refid="bib0018">18</ce:cross-ref>]. The selected mixing ratio was selected to maximize the chemical crosslinking between the molecules during the virtual cure [<ce:cross-ref id="crf0023" refid="bib0009">9</ce:cross-ref>,<ce:cross-ref id="crf0024" refid="bib0019">19</ce:cross-ref>,<ce:cross-ref id="crf0025" refid="bib0020">20</ce:cross-ref>]. The mixture was multiplied to generate a larger model with the total atom count of ∼5600 atoms. A single functionalized GQD was inserted at a random location in the simulation box by avoiding overlap with the epoxy molecules using the “cell_builder” tool within the LUNAR toolkit. Five replicates were generated for each of the ten GQD structures, bringing the total model count to 50. Each GQD replicate had random distribution of functional groups making them distinct structures with identical chemistries. The chemical structures of the modelled monomers are shown in <ce:cross-ref id="crf0026" refid="fig0002">Fig. 2</ce:cross-ref>
+                              <ce:float-anchor refid="fig0002"/>. The GQD structure's naming convention includes letters “e”, “s”, or “m” in the first position which represents the location of attached functional groups; “e” for edge, “s” for surface, and “m” for mixed location or both edge and surface. The followed set of numbers and letters designates the total number of functional groups and the type of functional groups. For example, <ce:bold>
+                                 <ce:italic>s</ce:italic>
+                              </ce:bold>20OH-GQD includes 20 OH or hydroxyl groups on the surface or the basal plane of the GQD. Also, in case of <ce:bold>
+                                 <ce:italic>m</ce:italic>
+                              </ce:bold>4O-4COOH-GQD and <ce:bold>
+                                 <ce:italic>m</ce:italic>
+                              </ce:bold>6O-6OH-GQD there are two different functional groups attached to GQD in mixed locations.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0006">
+                           <ce:label>2.</ce:label>
+                           <ce:para id="para0014" view="all">The initial density of the mixed system was 0.09–0.10 g/cm<ce:sup loc="post">3</ce:sup>. Before densifying the system to the liquid density, the molecules were prepared by ramping the system temperature down from 600 K to 300 K over 100 ps (ps). A Nose-Hoover thermostat [<ce:cross-refs id="crf0027" refid="bib0021 bib0022 bib0023 bib0024">21–24</ce:cross-refs>] was used and the timestep was set to 1 fs (fs). The simulation box was gradually compressed from all directions. The compression was simulated with the rate of compression set to 10–6 Å/fs with the target density of 1.17 g/cm<ce:sup loc="post">3</ce:sup>, the liquid density of epoxy [<ce:cross-ref id="crf0029" refid="bib0020">20</ce:cross-ref>].</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0007">
+                           <ce:label>3.</ce:label>
+                           <ce:para id="para0015" view="all">The densified model was annealed by raising the simulation temperature to 500 K and gradually cooling down to 400 K with a cooling rate of 50 K/ns. The annealing simulation was implemented to re-orient molecules and attain lower energy configuration. A Nose-Hoover barostat was used to maintain the simulation pressure at 1 atm. A 1 fs timestep was implemented.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0008">
+                           <ce:label>4.</ce:label>
+                           <ce:para id="para0016" view="all">The annealed model was maintained at 400 K and a virtual curing simulation was performed at 400 K over 2 ns using the REACTER tool within LAMMPS [<ce:cross-ref id="crf0030" refid="bib0025">25</ce:cross-ref>]. The simulated crosslinking reaction is the two-step amine-epoxy reaction [<ce:cross-ref id="crf0031" refid="bib0009">9</ce:cross-ref>,<ce:cross-ref id="crf0032" refid="bib0012">12</ce:cross-ref>,<ce:cross-ref id="crf0033" refid="bib0020">20</ce:cross-ref>]. The crosslinking simulation using REACTER requires four key inputs – frequency of new bond formation per timestep, probability of new bond formation, and minimum and maximum bond cutoff distance for formation of the new bond. For all the simulations, new bonds were formed every 10 timesteps with a 0.5 fs timestep. The probability of bond formation was maintained at 0.001 and 0.01 for the first and second step of the crosslinking reaction. The low probability values ensured low number of new bonds formed and stability of the MD model since the reaction simulation releases potential energy. High amount of energy release can result in large atomic displacements and can result in simulation failure. The bond cutoff distance was maintained between 0.5 and 6 Å.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0009">
+                           <ce:label>5.</ce:label>
+                           <ce:para id="para0017" view="all">The crosslinked model was re-annealed from 500 K to 300 K with a constant cooling rate of 50 K/ns. The simulation was relaxed by performing energy minimization and then cooled down to 300 K under NPT ensemble (1 atm pressure). The cooled model was then relaxed for another 0.5 ns.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0010">
+                           <ce:label>6.</ce:label>
+                           <ce:para id="para0018" view="all">The relaxed model was transitioned to ReaxFF forcefield [<ce:cross-ref id="crf0034" refid="bib0026">26</ce:cross-ref>]. The model was relaxed using the NPT ensemble at 300 K temperature and 1 atm pressure. The simulation was performed for 0.5 ns at a lowered timestep of 0.25 fs. <ce:cross-ref id="crf0035" refid="fig0003">Fig. 3</ce:cross-ref>
+                              <ce:float-anchor refid="fig0003"/> shows the MD model of the GQD-epoxy system for <ce:bold>
+                                 <ce:italic>s</ce:italic>
+                              </ce:bold>4OH<ce:italic>-</ce:italic>GQD.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0011">
+                           <ce:label>7.</ce:label>
+                           <ce:para id="para0019" view="all">The relaxed models were then deformed in the three principal directions (<ce:italic>x</ce:italic>-, <ce:italic>y</ce:italic>-, and <ce:italic>z</ce:italic>- direction). To allow the Poisson contraction, an NPT ensemble was used to relax the lateral directions. The maximum applied strain was set at 20 % with the strain rate of 2 × 10<ce:sup loc="post">8</ce:sup> /s and 0.1 fs timestep. The stress-strain data was then analysed to extract the Young's modulus and the yield strength of the material.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="sec0006" view="all">
+                  <ce:section-title id="cesectitle0009">Limitations</ce:section-title>
+                  <ce:para id="para0020" view="all">Not applicable</ce:para>
+               </ce:section>
+               <ce:section id="sec0007" view="all">
+                  <ce:section-title id="cesectitle0010">Ethics Statement</ce:section-title>
+                  <ce:para id="para0021" view="all">The authors have read and follow the <ce:inter-ref id="interref0003" xlink:href="https://www.elsevier.com/authors/journal-authors/policies-and-ethics" xlink:type="simple">ethical requirements</ce:inter-ref> for publication in Data in Brief and confirm that the current work does not involve human subjects, animal experiments, or any data collected from social media platforms.</ce:para>
+               </ce:section>
+               <ce:section id="sec0008" view="all">
+                  <ce:section-title id="cesectitle0011">Credit Author Statement</ce:section-title>
+                  <ce:para id="para0022" view="all">
+                     <ce:bold>Prathamesh P. Deshpande:</ce:bold> Conceptualization; Methodology; Software; Validation; Formal analysis; Investigation; Resources; Data Curation; Writing - Original Draft; Writing - Review &amp; Editing; Visualization. <ce:bold>Robert Chan-Jobe:</ce:bold> Software; Validation; Formal analysis; Writing - Review &amp; Editing. <ce:bold>Ozgur Keles:</ce:bold> Conceptualization; Methodology; Formal analysis; Investigation; Resources; Writing - Review &amp; Editing; Supervision; Project administration; Funding acquisition.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0001" view="all">
+               <ce:section-title id="cesectitle0012">Acknowledgements</ce:section-title>
+               <ce:para id="para0023" view="all">Funding for this work was provided by the <ce:grant-sponsor id="gs0001" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">U.S. National Science Foundation</ce:grant-sponsor> CAREER Award No. <ce:grant-number refid="gs0001" id="gn0001">2145604</ce:grant-number>. This work used Anvil at Rosen Center for Advanced Computing at Purdue University through allocation MAT230078 from the Advanced Cyberinfrastructure Coordination Ecosystem: Services &amp; Support (ACCESS) program, which is supported by <ce:grant-sponsor id="gs0002" sponsor-id="http://dx.doi.org/10.13039/100000001" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Science Foundation</ce:grant-sponsor> grants <ce:grant-number refid="gs0002" id="gn0002">#2138259</ce:grant-number>, <ce:grant-number refid="gs0002" id="gn0003">#2138286</ce:grant-number>, <ce:grant-number refid="gs0002" id="gn0004">#2138307</ce:grant-number>, <ce:grant-number refid="gs0002" id="gn0005">#2137603</ce:grant-number>, and <ce:grant-number refid="gs0002" id="gn0006">#2138296</ce:grant-number>. The College of Engineering high-performance computing cluster at San Jose State University was also used in obtaining some results presented in this publication.</ce:para>
+               <ce:section id="sec2007" view="all">
+                  <ce:section-title id="cesectitle0013">Declaration of Competing Interest</ce:section-title>
+                  <ce:para id="para0024" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+               </ce:section>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebibl1" view="all">
+               <ce:section-title id="cesectitle0014">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec1" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0001">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Mi</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Toughness and its mechanisms in epoxy resins</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>130</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>100977</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0001">Mi, X., et al., Toughness and its mechanisms in epoxy resins. Prog. Mater. Sci., 2022. 130: p. 100977.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0002">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Gobi</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Infusion of graphene quantum dots to create stronger, tougher, and brighter polymer composites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Omega</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4356</sb:first-page>
+                              <sb:last-page>4362</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0002">Gobi, N., et al., Infusion of graphene quantum dots to create stronger, tougher, and brighter polymer composites. ACS Omega, 2017. 2(8): p. 4356–4362.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0003">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Gogoi</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High performance luminescent thermosetting waterborne hyperbranched polyurethane/carbon quantum dot nanocomposite with in vitro cytocompatibility</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Compos. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>118</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>39</sb:first-page>
+                              <sb:last-page>46</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0003">Gogoi, S., et al., High performance luminescent thermosetting waterborne hyperbranched polyurethane/carbon quantum dot nanocomposite with in vitro cytocompatibility. Compos. Sci. Technol., 2015. 118: p. 39–46.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0004">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Karimi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Ramezanzadeh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A comparative study on the effects of ultrathin luminescent graphene oxide quantum dot (GOQD) and graphene oxide (GO) nanosheets on the interfacial interactions and mechanical properties of an epoxy composite</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Colloid Interface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>493</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>62</sb:first-page>
+                              <sb:last-page>76</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0004">Karimi, B. and B. Ramezanzadeh, A comparative study on the effects of ultrathin luminescent graphene oxide quantum dot (GOQD) and graphene oxide (GO) nanosheets on the interfacial interactions and mechanical properties of an epoxy composite. J. Colloid Interface Sci., 2017. 493: p. 62–76.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Madhi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.S.</ce:given-name>
+                                 <ce:surname>Hadavand</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fluorescent epoxy-graphene quantum dots nanocomposites: synthesis and study of properties</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Polym.-Plast. Technol. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>117</sb:first-page>
+                              <sb:last-page>130</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0005">Madhi, A. and B.S. Hadavand, Fluorescent epoxy-graphene quantum dots nanocomposites: synthesis and study of properties. Polym.-Plast. Technol. Mater., 2021. 61(2): p. 117–130.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0006">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Riaz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-J.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A comparative study on nanoinclusion effect of MoS2 nanosheets and MoS2 quantum dots on fracture toughness and interfacial properties of epoxy composites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Compos. Part A: Appl. Sci. Manuf.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>146</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>106419</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0006">Riaz, S. and S.-J. Park, A comparative study on nanoinclusion effect of MoS2 nanosheets and MoS2 quantum dots on fracture toughness and interfacial properties of epoxy composites. Compos. Part A: Appl. Sci. Manuf., 2021. 146: p. 106419.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0007">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Seibert</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Infusion of graphene quantum dots to modulate thermal conductivity and dynamic mechanical properties of polymers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Polymer (Guildf)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>185</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:article-number>121988</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0007">Seibert, J.R., et al., Infusion of graphene quantum dots to modulate thermal conductivity and dynamic mechanical properties of polymers. Polymer (Guildf), 2019. 185: p. 121988.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0008">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Al Mahmud</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Multiscale modeling of carbon fiber- graphene nanoplatelet-epoxy hybrid composites using a reactive force field</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Compos. Part B: Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>172</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>628</sb:first-page>
+                              <sb:last-page>635</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0008">Al Mahmud, H., et al., Multiscale modeling of carbon fiber- graphene nanoplatelet-epoxy hybrid composites using a reactive force field. Compos. Part B: Eng., 2019. 172: p. 628–635.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0009">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Ö.</ce:given-name>
+                                 <ce:surname>Keleş</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.P.</ce:given-name>
+                                 <ce:surname>Deshpande</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanical behavior of graphene quantum dot epoxy nanocomposites: a molecular dynamics study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Lett.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2024</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>362</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0009">Keleş, Ö. and P.P. Deshpande, Mechanical behavior of graphene quantum dot epoxy nanocomposites: a molecular dynamics study. Mater. Lett., 2024. 362.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Strachan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Molecular scale simulations on thermoset polymers: a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Polym. Sci. Part B: Polym. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>103</sb:first-page>
+                              <sb:last-page>122</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0010">Li, C. and A. Strachan, Molecular scale simulations on thermoset polymers: a review. J. Polym. Sci. Part B: Polym. Phys., 2015. 53(2): p. 103–122.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0011">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0011">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Odegard</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Predicting mechanical response of crosslinked epoxy using ReaxFF</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>591</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>175</sb:first-page>
+                              <sb:last-page>178</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0011">Odegard, G.M., et al., Predicting mechanical response of crosslinked epoxy using ReaxFF. Chem. Phys. Lett., 2014. 591: p. 175–178.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0012">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0012">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Odegard</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Molecular dynamics modeling of epoxy resins using the reactive interface force field</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Macromolecules</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>21</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9815</sb:first-page>
+                              <sb:last-page>9824</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0012">Odegard, G.M., et al., Molecular dynamics modeling of epoxy resins using the reactive interface force field. Macromolecules, 2021. 54(21): p. 9815–9824.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0013">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref0013">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Radue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Odegard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Multiscale modeling of carbon fiber/carbon nanotube/epoxy hybrid composites: comparison of epoxy matrices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Compos. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>166</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>20</sb:first-page>
+                              <sb:last-page>26</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0013">Radue, M.S. and G.M. Odegard, Multiscale modeling of carbon fiber/carbon nanotube/epoxy hybrid composites: comparison of epoxy matrices. Compos. Sci. Technol., 2018. 166: p. 20–26.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0014">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0014">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.P.</ce:given-name>
+                                 <ce:surname>Deshpande</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ö.</ce:given-name>
+                                 <ce:surname>Keleş</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of graphene quantum dots on the mechanical properties of bisphenol F-based epoxy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>In Proceedings of the American society for composites-thirty-eighth technical conference</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2023</sb:date>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0014">Deshpande, P.P. and Ö. Keleş. Effect of graphene quantum dots on the mechanical properties of bisphenol F-based epoxy. In Proceedings of the American society for composites-thirty-eighth technical conference. 2023.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kemppainen</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>LUNAR: automated input generation and analysis for reactive LAMMPS simulations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Inf. Model.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2024</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0015">Kemppainen, J., et al., LUNAR: automated input generation and analysis for reactive LAMMPS simulations. J. Chem. Inf. Model., 2024.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0016">
+                     <ce:label>[16]</ce:label>
+                     <ce:other-ref id="sbref0016">
+                        <ce:textref>Song, X.C., et al., Anvil - system architecture and experiences from deployment and early user operations, in Practice and Experience in Advanced Research Computing. 2022, Association for Computing Machinery: Boston, MA, USA. p. Article 23.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0017">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0017">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>Boerner</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>ACCESS: Advancing Innovation: NSF's Advanced Cyberinfrastructure Coordination Ecosystem: Services &amp; Support, in Practice and Experience in Advanced Research Computing 2023: Computing for the Common Good</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2023</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Association for Computing Machinery</sb:name>
+                                 <sb:location>Portland, OR, USA</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>173</sb:first-page>
+                              <sb:last-page>176</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0017">Boerner, T.J., et al., ACCESS: Advancing Innovation: NSF's Advanced Cyberinfrastructure Coordination Ecosystem: Services &amp; Support, in Practice and Experience in Advanced Research Computing 2023: Computing for the Common Good. 2023, Association for Computing Machinery: Portland, OR, USA. p. 173–176.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0018">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0018">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Heinz</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermodynamically consistent force fields for the assembly of inorganic, organic, and biological nanostructures: the INTERFACE force field</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Langmuir</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1754</sb:first-page>
+                              <sb:last-page>1765</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0018">Heinz, H., et al., Thermodynamically consistent force fields for the assembly of inorganic, organic, and biological nanostructures: the INTERFACE force field. Langmuir, 2013. 29(6): p. 1754–1765.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0019">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0019">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Radue</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Comparing the mechanical response of di-, tri-, and tetra-functional resin epoxies with reactive molecular dynamics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Polym. Sci. B Polym. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>255</sb:first-page>
+                              <sb:last-page>264</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0019">Radue, M.S., et al., Comparing the mechanical response of di-, tri-, and tetra-functional resin epoxies with reactive molecular dynamics. J. Polym. Sci. B Polym. Phys., 2018. 56(3): p. 255–264.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.U.</ce:given-name>
+                                 <ce:surname>Patil</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reactive molecular dynamics simulation of epoxy for the full cross-linking process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Polym. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5788</sb:first-page>
+                              <sb:last-page>5797</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0020">Patil, S.U., et al., Reactive molecular dynamics simulation of epoxy for the full cross-linking process. ACS Appl. Polym. Mater., 2021. 3(11): p. 5788–5797.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0021">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0021">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Martyna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Tobias</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Klein</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Constant pressure molecular dynamics algorithms</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>101</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4177</sb:first-page>
+                              <sb:last-page>4189</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0021">Martyna, G.J., D.J. Tobias, and M.L. Klein, Constant pressure molecular dynamics algorithms. J. Chem. Phys., 1994. 101(5): p. 4177–4189.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0022">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref0022">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Tuckerman</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A Liouville-operator derived measure-preserving integrator for molecular dynamics simulations in the isothermal–isobaric ensemble</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. A Math. Gen.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>19</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5629</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0022">Tuckerman, M.E., et al., A Liouville-operator derived measure-preserving integrator for molecular dynamics simulations in the isothermal–isobaric ensemble. J. Phys. A Math. Gen., 2006. 39(19): p. 5629.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0023">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref0023">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Parrinello</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Rahman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Polymorphic transitions in single crystals: a new molecular dynamics method</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7182</sb:first-page>
+                              <sb:last-page>7190</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0023">Parrinello, M. and A. Rahman, Polymorphic transitions in single crystals: a new molecular dynamics method. J. Appl. Phys., 1981. 52(12): p. 7182–7190.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0024">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref0024">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Shinoda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Shiga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mikami</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Rapid estimation of elastic constants by molecular dynamics simulation under constant stress</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>13</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:article-number>134103</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0024">Shinoda, W., M. Shiga, and M. Mikami, Rapid estimation of elastic constants by molecular dynamics simulation under constant stress. Phys. Rev. B, 2004. 69(13): p. 134103.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Gissinger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.D.</ce:given-name>
+                                 <ce:surname>Jensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Wise</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reacter: a heuristic method for reactive molecular dynamics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Macromolecules</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>22</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9953</sb:first-page>
+                              <sb:last-page>9961</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0025">Gissinger, J.R., B.D. Jensen, and K.E. Wise, Reacter: a heuristic method for reactive molecular dynamics. Macromolecules, 2020. 53(22): p. 9953–9961.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0026">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref0026">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.C.T.</ce:given-name>
+                                 <ce:surname>van Duin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Improvement of the ReaxFF description for functionalized hydrocarbon/water weak interactions in the condensed phase</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>122</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>14</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4083</sb:first-page>
+                              <sb:last-page>4092</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0026">Zhang, W. and A.C.T. van Duin, Improvement of the ReaxFF description for functionalized hydrocarbon/water weak interactions in the condensed phase. J. Phys. Chem. B, 2018. 122(14): p. 4083–4092.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

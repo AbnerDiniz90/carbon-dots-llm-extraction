@@ -1,0 +1,45 @@
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition": "Graphene quantum dots (GQDs) are single or few layer graphenes with a tiny size of only several nanometers, possessing properties of both graphene and QDs.",
+            "iupac_name": null,
+            "alternative_names": ["GQDs", "Graphene Quantum Dots"]
+        },
+        "synthesis": {
+            "method": {"type": "Hydrothermal / Solvothermal", "conditions": "Graphite oxide suspended in DMF(40 ml), ultrasonicated (120 W, 40 kHz) for 30 min, then heated in a Teflon-lined autoclave at 200°C for 24 h.", "catalysts": null},
+            "precursors": {"source": ["Graphite oxide (GO) powder (prepared by modified Hummers method)"], "dopants": "array | null"},
+            "post_treatment": null
+        },
+        "properties": {
+            "optical": {
+                "quantum_yield": {
+                    "value": "[MISSING]",
+                    "reference_material": "[MISSING]"
+                },
+                "excitation_max": "[MISSING]",
+                "emission_max": "[MISSING]",
+                "fluorescence_lifetime": "[MISSING]"
+            },
+            "structural": {
+                "size": {"avg": "[MISSING]", "distribution": "2-4.5nm"},
+                "morphology": "Single layer graphene sheets (indicated by 0.35 nm height) with uniform size distribution",
+                "crystallinity": "Graphitic structure with interlayer spacing of 0.21 nm corresponding to the (100) plane."
+            },
+            "chemical": {
+                "surface_groups": null,
+                "elemental_composition": {
+                    "C": null,
+                    "N": null,
+                    "O": null
+                }
+            }
+        },
+        "applications": [
+            {
+                "domain": "Supercapacitors (Electrode Material Enhancement)",
+                "performance": "GQDs encapsulated NiCo2O4 composite achieves 1242 F g⁻¹ at 30 A g⁻¹ and 99% capacitance retention after 4000 cycles.",
+                "comparative_advantage": "Provides conductive network, improves rate performance and cycling stability compared to pristine NiCo2O4 (which only achieves 790 F g⁻¹ at 30 A g⁻¹)."
+            }
+        ]
+    }
+}

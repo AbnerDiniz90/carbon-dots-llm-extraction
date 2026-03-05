@@ -1,0 +1,50 @@
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition": "Fluorescent carbon quantum dots synthesized from plant(Prosopis juliflora) leaves via used as an 'off-on' fluorescence probe for mercury and chemet sensing.",
+            "iupac_name": null,
+            "alternative_names": ["CQDs", "Carbon quantum dots", "Green CQDs"]
+        },
+        "synthesis": {
+            "method": {"type": "Hydrothermal", "conditions": "Prosopis juliflora leaves were washed with water, then heated at 200°C for about 30min in a crucible", "catalysts": null},
+            "precursors": {"source": ["1g Prosopis juliflora leaves"], "dopants": null},
+            "post_treatment": [
+                "Grinding to powder",
+                "heating at 200°C for about 1h.",
+                "Cooled to room temperature",
+                "Dispersion  in 10mL acetic acid (50% V/V) or 10mL ethanol for 24h",
+                "Centrifugation to remove aggregates",
+                "Freeze-drying for QY measurement"
+            ]
+        },
+        "properties": {
+            "optical": {
+                "quantum_yield": {"value": "5%", "reference_material": "Quinine sulphate (QY = 54% at 360 nm)"},
+                "excitation_max": "325nm and 350nm",
+                "emission_max": "396nm at excitation of 325nm and 437nm at excitation of 350nm",
+                "fluorescence_lifetime": null
+            },
+            "structural": {
+                "size": {"avg": "5.8nm", "distribution": "[MISSING]"},
+                "morphology": "mono-dispersed spherical shapes, homogeneous distribution",
+                "crystallinity": "presence of intense peak at 2Ɵ=22.12 and weak peak at 2Ɵ=42.42 are related to the plane of (533) and (101) diffraction pattern of plane of graphitic carbon"
+            },
+            "chemical": {
+                "surface_groups": ["C-C", "C-H", "C=C", "Amide groups", "C=O", "O-H", "C-O", "N-H/O-H"],
+                "elemental_composition": { "C": "[MISSING]", "N": "[MISSING]", "O": "[MISSING]" }
+            }
+        },
+        "applications": [
+            {
+                "domain": "Fluorescence sensing of Hg(II) ions",
+                "performance": "Linear range: 5-500 ng/mL-1; Limit of detection(LOD) based on 3Sb was 1.26 ng/mL-1 (or 6.3 nM); Relative standard deviation: 4.5% at 50 ng/mL.",
+                "comparative_advantage": "Green synthesis, low-cost, high selectivity. Dual sensing capability (Hg(II) and chemet) with one probe."
+            },
+            {
+                "domain": "Fluorescence sensing of chemet (DMSA) drug",
+                "performance": "Linear range: 2.5-22.5 ng/mL-1;  Limit of detection(LOD) based on 3Sb: 1.4 ng/mL; RSD: 1.3% at 10 ng/mL-1.",
+                "comparative_advantage": "Dual sensing capability (Hg(II) and chemet) with one probe. Useful for monitoring chelation therapy in mercury poisoning."
+            }
+        ]
+    }
+}

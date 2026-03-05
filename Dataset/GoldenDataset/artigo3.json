@@ -1,0 +1,38 @@
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition": "N, Fe-doped carbon dots",
+            "iupac_name": null,
+            "alternative_names": ["N, Fe-CDs"]
+        },
+        "synthesis": {
+            "method": {"type": "hydrothermal", "conditions": "180 °C for 10h", "catalysts": null},
+            "precursors": {"source": ["polyethyleneimine 2.0g ", "hemin 50.0mg", "trisodium citrate 20.0mg"], "dopants": ["N", "Fe"]},
+            "post_treatment": null
+        },
+        "properties": {
+            "optical": {
+                "quantum_yield": {"value": null, "reference_material": null},
+                "excitation_max": "390 nm",
+                "emission_max": "450 nm",
+                "fluorescence_lifetime": null
+            },
+            "structural": {
+                "size": {"avg": "diameter 10.7nm", "distribution": "[MISSING]"},
+                "morphology": "mono-dispersed with spherical or spheroidal morphology",
+                "crystallinity": null
+            },
+            "chemical": {
+                "surface_groups":[ "C-C", "C-O/C-N", "C=O", "COOH", "C-N-C", "N-(C)3", "N-H", "Fe"],
+                "elemental_composition": { "C": "[MISSING]", "N": "[MISSING]", "O": "[MISSING]" }
+            }
+        },
+        "applications": [
+            {
+                "domain": "biomedical (determination of H2O2 and UA)",
+                "performance": "delivers a broad linear range of 0.8-133μM and a low detection limit of 0.49μM (S/N=3).",
+                "comparative_advantage": "high selectivity and sensitivity under various conditions"
+            }
+        ]
+    }
+}

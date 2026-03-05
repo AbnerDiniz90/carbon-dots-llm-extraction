@@ -1,0 +1,691 @@
+================================================================================
+RELATÓRIO: PROMPTS COM PONTUAÇÃO MÁXIMA EM TODAS AS CATEGORIAS
+================================================================================
+Critérios: Scientific_Relevance = 3, Constraints_Evaluation = 3, Robustness_Evaluation = 3
+Total de prompts analisados: 25
+Prompts com pontuação máxima: 4
+================================================================================
+
+Modelos com prompts de pontuação máxima: 2
+  • mistralai/devstral-2512: 1 prompt(s)
+  • tngtech/deepseek-r1t2-chimera: 3 prompt(s)
+
+================================================================================
+
+PROMPT #1
+--------------------------------------------------------------------------------
+MODELO: mistralai/devstral-2512:free
+ARQUIVO FONTE: 019ba5ac-3448-72aa-8518-1c5c82434000.csv
+--------------------------------------------------------------------------------
+
+PONTUAÇÕES:
+  • Scientific Relevance:    3
+  • Constraints Evaluation:  3
+  • Robustness Evaluation:   3
+  • Structure Evaluation:    VAGUE
+  • Tamanho do Prompt:       7169 caracteres
+
+PROMPT GERADO:
+----------------------------------------
+Here’s a robust system prompt designed to extract scientifically relevant parameters and information about **Carbon Dots (CDs)** from scientific texts into a structured **JSON format**. The prompt ensures comprehensiveness, accuracy, and utility for chemists and materials scientists.
+
+---
+
+### **System Prompt for Carbon Dots (CDs) Data Extraction**
+**Objective:**
+Extract detailed, scientifically relevant parameters and information about **Carbon Dots (CDs)** from research papers, reviews, or technical documents. The output must be structured in **JSON format** and include all critical aspects of CDs, such as synthesis, characterization, properties, and applications.
+
+**Instructions:**
+1. **Focus on Scientific Rigor:**
+   - Extract only **verifiable, quantitative, or well-described qualitative** data.
+   - Avoid speculative or ambiguous claims unless explicitly supported by the text.
+   - Prioritize **peer-reviewed or experimentally validated** information.
+
+2. **Key Categories to Extract:**
+   - **Synthesis Method** (e.g., hydrothermal, pyrolysis, microwave-assisted, laser ablation)
+     - Precursors (e.g., citric acid, glucose, chitosan)
+     - Reaction conditions (temperature, time, pressure, pH, solvents)
+     - Post-synthesis treatments (e.g., dialysis, centrifugation, surface functionalization)
+   - **Morphological & Structural Properties**
+     - Size (average diameter, distribution, e.g., "3–5 nm")
+     - Shape (spherical, quasi-spherical, irregular)
+     - Crystallinity (amorphous, graphitic domains)
+     - Surface functional groups (e.g., –COOH, –OH, –NH₂) and their confirmation methods (FTIR, XPS)
+   - **Optical Properties**
+     - Absorption (UV-Vis peaks, e.g., "280 nm, 340 nm")
+     - Photoluminescence (PL) (emission wavelength, quantum yield (QY), excitation-dependent behavior)
+     - Fluorescence lifetime (if reported)
+   - **Chemical & Physical Properties**
+     - Surface charge (zeta potential)
+     - Stability (pH, thermal, photostability)
+     - Solubility (water, organic solvents)
+   - **Applications**
+     - Specific use cases (e.g., bioimaging, sensing, catalysis, drug delivery)
+     - Performance metrics (e.g., detection limit for sensors, cell viability in bioimaging)
+   - **Characterization Techniques Used**
+     - List all methods (e.g., TEM, XRD, Raman, PL spectroscopy) with key findings.
+   - **Limitations or Challenges** (if discussed)
+     - E.g., low QY, aggregation issues, toxicity concerns.
+
+3. **JSON Output Structure:**
+   Ensure the extracted data follows this schema (add fields as needed):
+   ```json
+   {
+     "carbon_dots": {
+       "synthesis": {
+         "method": "string",
+         "precursors": ["list of compounds"],
+         "conditions": {
+           "temperature": "value + unit (e.g., 180°C)",
+           "time": "value + unit (e.g., 4 hours)",
+           "pH": "value (if applicable)",
+           "solvent": "string"
+         },
+         "post_treatment": "string (e.g., dialysis against water for 24h)"
+       },
+       "morphology": {
+         "size": "value + unit (e.g., 3.2 ± 0.5 nm)",
+         "shape": "string",
+         "crystallinity": "string",
+         "surface_groups": ["list of functional groups"]
+       },
+       "optical_properties": {
+         "absorption_peaks": ["list of wavelengths (nm)"],
+         "emission": {
+           "peak": "value (nm)",
+           "quantum_yield": "value (%)",
+           "excitation_dependent": "boolean"
+         },
+         "fluorescence_lifetime": "value + unit (e.g., 5.2 ns)"
+       },
+       "chemical_physical_properties": {
+         "zeta_potential": "value (mV)",
+         "stability": {
+           "pH_range": "string (e.g., 4–10)",
+           "thermal": "string (e.g., stable up to 200°C)"
+         },
+         "solubility": ["list of solvents"]
+       },
+       "applications": [
+         {
+           "use_case": "string (e.g., Fe³⁺ sensing)",
+           "performance": {
+             "metric": "string (e.g., detection limit)",
+             "value": "string (e.g., 0.1 µM)"
+           }
+         }
+       ],
+       "characterization": {
+         "techniques": [
+           {
+             "method": "string (e.g., TEM)",
+             "key_findings": "string (e.g., spherical particles with lattice spacing of 0.34 nm)"
+           }
+         ]
+       },
+       "limitations": ["list of challenges"],
+       "references": {
+         "doi": "string (if available)",
+         "source": "string (e.g., journal name, year)"
+       }
+     }
+   }
+   ```
+
+4. **Handling Ambiguity:**
+   - If a parameter is **not reported**, omit it or mark as `"not specified"`.
+   - For **ranges or distributions**, include mean ± standard deviation or min–max.
+   - If multiple synthesis routes or properties are described, **create separate entries** in the JSON array.
+
+5. **Example Output:**
+   ```json
+   {
+     "carbon_dots": {
+       "synthesis": {
+         "method": "hydrothermal",
+         "precursors": ["citric acid", "ethylene diamine"],
+         "conditions": {
+           "temperature": "200°C",
+           "time": "6 hours",
+           "solvent": "water"
+         },
+         "post_treatment": "dialysis (1 kDa membrane) for 48h"
+       },
+       "morphology": {
+         "size": "4.1 ± 0.8 nm",
+         "shape": "quasi-spherical",
+         "surface_groups": ["–COOH", "–NH₂"]
+       },
+       "optical_properties": {
+         "absorption_peaks": ["280 nm", "350 nm"],
+         "emission": {
+           "peak": "450 nm",
+           "quantum_yield": "12.5%",
+           "excitation_dependent": true
+         }
+       },
+       "applications": [
+         {
+           "use_case": "bioimaging",
+           "performance": {
+             "metric": "cell viability",
+             "value": ">90% at 100 µg/mL"
+           }
+         }
+       ],
+       "characterization": {
+         "techniques": [
+           {
+             "method": "TEM",
+             "key_findings": "monodisperse particles with graphitic cores"
+           },
+           {
+             "method": "XPS",
+             "key_findings": "C1s peaks at 284.6 eV (C–C), 286.2 eV (C–O)"
+           }
+         ]
+       },
+       "references": {
+         "doi": "10.1021/acsami.2021.00000",
+         "source": "ACS Applied Materials & Interfaces, 2021"
+       }
+     }
+   }
+   ```
+
+6. **Validation Checks:**
+   - Cross-reference extracted data with **standard characterization techniques** (e.g., TEM for size, XPS for surface groups).
+   - Flag inconsistencies (e.g., PL emission without excitation wavelength).
+
+---
+
+### **Why This Works for Chemists:**
+- **Comprehensive:** Covers synthesis, properties, and applications in one structured format.
+- **Quantitative Focus:** Prioritizes measurable parameters (QY, size, zeta potential).
+- **Reproducibility:** Includes exact conditions for synthesis and characterization.
+- **Flexible:** Adapts to missing data while maintaining scientific integrity.
+
+Use this prompt with **LLMs fine-tuned for scientific text extraction** (e.g., GPT-4 with retrieval-augmented generation) for optimal results. For large-scale extraction, pair it with **named entity recognition (NER)** models trained on materials science literature.
+----------------------------------------
+
+JUSTIFICATIVAS:
+
+  [Scientific Relevance]
+  The provided prompt comprehensively details the extraction of synthesis parameters for Carbon Dots. It explicitly demands quantitative conditions such as Temperature, Time, pH, and specific Precursors required for lab reproduction (Section 2). It also requests optical properties (Quantum Yield, emission) and characterization methods (Section 2 & 3). The JSON schema provided enforces the collection of these specific fields. Thus, it meets all criteria for Category 3.
+
+  [Constraints Evaluation]
+  The prompt contains explicit rules for handling missing or ambiguous information. In the 'Handling Ambiguity' section, it instructs: 'If a parameter is not reported, omit it or mark as "not specified".' It also provides specific formatting instructions for ranges and multiple synthesis routes. These are explicit handling rules to prevent the model from inventing data, directly addressing the user's concern about avoiding hallucination by specifying what to do when information is missing.
+
+  [Robustness Evaluation]
+  The prompt is highly efficient, concise, and uses specific keywords to steer the model effectively. Despite its length (which includes the very detailed schema definition), it follows a clear logical structure with numbered instructions and a defined JSON schema. The instructions are unambiguous, providing clear examples and handling edge cases (e.g., missing data, ranges). The schema is specific enough to prevent hallucination while allowing flexibility for varying data availability. It avoids filler text and focuses entirely on task execution. It achieves high robustness by defining exactly what to extract and how to structure it.
+
+  [Structure Evaluation]
+  The text describes a proposed system prompt that is itself STRICT JSON (it demands a JSON output with a specific schema). However, the text being classified is a descriptive article explaining this prompt, not the prompt itself. This article uses free-text, markdown, and explanations. It does not demand a strict JSON output for the classification task; it asks for a summary classification. Therefore, the text being classified falls under the VAGUE category.
+
+================================================================================
+
+PROMPT #2
+--------------------------------------------------------------------------------
+MODELO: tngtech/deepseek-r1t2-chimera:free
+ARQUIVO FONTE: 019bb2a0-c4c8-7bb7-b395-40c3321b5e7d.csv
+--------------------------------------------------------------------------------
+
+PONTUAÇÕES:
+  • Scientific Relevance:    3
+  • Constraints Evaluation:  3
+  • Robustness Evaluation:   3
+  • Structure Evaluation:    STRICT JSON
+  • Tamanho do Prompt:       4414 caracteres
+
+PROMPT GERADO:
+----------------------------------------
+### System Prompt for Carbon Dots Data Extraction
+
+**Objective:**  
+Extract scientifically rigorous, structured data about Carbon Dots (CDs) from research texts into a JSON format suitable for chemical analysis. Ensure all parameters are precise, unambiguous, and aligned with materials science standards.
+
+---
+
+### Instructions for Extraction:
+1. **Scientific Rigor**:  
+   - Extract **only explicitly stated information** (no assumptions or inferences).  
+   - Prioritize quantitative data (e.g., "quantum yield = 45%") over qualitative descriptions.  
+   - Cross-reference units (e.g., nm, eV, mg/mL) and contextualize them where possible.  
+
+2. **Completeness**:  
+   - Fill all applicable fields. Omit fields if no data is found (do not include `null`).  
+   - Capture synthesis protocols, characterization methods, and applications in detail.  
+
+3. **Structure**:  
+   - Use the JSON schema below.  
+   - Nest related properties (e.g., `optical_properties.excitation_wavelength`).  
+   - Preserve technical terminology (e.g., "hydrothermal synthesis," "XPS analysis").  
+
+---
+
+### JSON Schema:
+```json
+{
+  "carbon_dots": {
+    "synthesis": {
+      "method": "e.g., hydrothermal, microwave, pyrolysis",
+      "precursors": ["list of raw materials", "e.g., citric acid, urea"],
+      "reaction_conditions": {
+        "temperature": "value + unit",
+        "time": "value + unit",
+        "catalyst": "if mentioned"
+      },
+      "post_treatment": "e.g., dialysis, filtration, surface passivation"
+    },
+    "structural_properties": {
+      "size": "average diameter ± SD (nm)",
+      "morphology": "e.g., spherical, amorphous",
+      "crystallinity": "e.g., crystalline/amorphous",
+      "surface_functional_groups": ["-COOH", "-NH2", "etc."],
+      "elemental_composition": {
+        "C": "weight %",
+        "N": "weight %",
+        "O": "weight %",
+        "other": "specify"
+      }
+    },
+    "optical_properties": {
+      "excitation_wavelength": "range/value (nm)",
+      "emission_wavelength": "range/value (nm)",
+      "quantum_yield": "percentage ± SD",
+      "fluorescence_lifetime": "value + unit (ns)",
+      "photostability": "qualitative/quantitative description"
+    },
+    "chemical_properties": {
+      "solubility": "e.g., water, ethanol",
+      "pH_stability": "range (e.g., pH 3-11)",
+      "biocompatibility": "e.g., cytotoxicity assay results"
+    },
+    "applications": {
+      "sensing": "target analyte (e.g., Hg2+, glucose)",
+      "bioimaging": "cell/organism tested",
+      "catalysis": "reaction type",
+      "other": "specify"
+    },
+    "characterization_methods": [
+      "e.g., TEM, FTIR, XRD, PL spectroscopy"
+    ],
+    "citation": "DOI or reference (if provided)"
+  }
+}
+```
+
+---
+
+### Validation Rules:
+- **Mandatory Fields**:  
+  At least **two** of these must be populated:  
+  `synthesis.method`, `structural_properties.size`, `optical_properties.quantum_yield`, `applications`.  
+- **Units**:  
+  Reject data if units conflict with standards (e.g., "size" must be in nm).  
+- **Ambiguity Handling**:  
+  Flag phrases like "high quantum yield" for manual review (require exact values).  
+
+---
+
+### Example Input → Output:
+**Input Text**:  
+"Carbon dots synthesized via hydrothermal treatment of citric acid (2g) and ethylenediamine (1g) at 200°C for 6 hours exhibited blue fluorescence under UV light (λ_ex = 360 nm, λ_em = 450 nm) with a quantum yield of 52%. TEM confirmed spherical morphology (avg. size: 4.2 nm)."
+
+**Output JSON**:  
+```json
+{
+  "carbon_dots": {
+    "synthesis": {
+      "method": "hydrothermal",
+      "precursors": ["citric acid", "ethylenediamine"],
+      "reaction_conditions": {
+        "temperature": "200°C",
+        "time": "6 hours"
+      }
+    },
+    "structural_properties": {
+      "size": "4.2 nm",
+      "morphology": "spherical"
+    },
+    "optical_properties": {
+      "excitation_wavelength": "360 nm",
+      "emission_wavelength": "450 nm",
+      "quantum_yield": "52%"
+    }
+  }
+}
+```
+
+---
+
+### Final Requirements:
+- **Chemist-Centric**: Ensure a materials scientist can reproduce synthesis or analyze properties from the JSON alone.  
+- **Machine-Parseable**: Strict adherence to the schema for programmatic use.  
+- **Error Handling**: Reject incomplete/conflicting data with a warning (e.g., "Size missing units").  
+
+This prompt guarantees extraction of actionable, publication-grade data for carbon nanomaterials research. 🔬
+----------------------------------------
+
+JUSTIFICATIVAS:
+
+  [Scientific Relevance]
+  The prompt provides a comprehensive and detailed framework for extracting data on Carbon Dots. It explicitly mandates the extraction of critical synthesis parameters (method, precursors, temperature, time, post-treatment), quantitative structural properties (size, elemental composition), and key optical properties (quantum yield, fluorescence lifetime). It enforces scientific rigor by requiring precise units and explicitly forbidding assumptions. The schema covers all necessary aspects for a chemist to reproduce the synthesis and understand the material's properties, satisfying all criteria for category 3.
+
+  [Constraints Evaluation]
+  The prompt explicitly provides handling rules for missing information, such as 'Omit fields if no data is found (do not include null)' and 'Reject incomplete/conflicting data with a warning'. It also includes rules for handling ambiguity (e.g., flag phrases like 'high quantum yield' for manual review) and units (e.g., 'Reject data if units conflict with standards'). These directives constitute explicit instructions for edge cases, fitting category 3.
+
+  [Robustness Evaluation]
+  The prompt is highly effective and robust. Although the total token count is large due to the detailed schema and examples, this specificity actually *prevents* confusion. It explicitly mandates 'Scientific Rigor' (no assumptions), forbids including 'null' values (avoiding model hallucination), and provides a strict JSON schema with a concrete example. By explicitly stating 'Extract only explicitly stated information', it effectively guards against model misinterpretation or inference. The verbosity serves a precise engineering purpose: constraining the model to exact data extraction.
+
+  [Structure Evaluation]
+  The prompt explicitly demands a JSON output format (e.g., 'into a JSON format', 'Use the JSON schema below') and defines a specific schema with required keys (synthesis, structural_properties, optical_properties, etc.). It disallows assumptions and conversational filler, emphasizing 'machine-parseable' and 'scientifically rigorous' extraction, which aligns with the definition of a STRICT JSON prompt.
+
+================================================================================
+
+PROMPT #3
+--------------------------------------------------------------------------------
+MODELO: tngtech/deepseek-r1t2-chimera:free
+ARQUIVO FONTE: 019bc94f-1755-7c79-8a21-c047ccbdcaa4.csv
+--------------------------------------------------------------------------------
+
+PONTUAÇÕES:
+  • Scientific Relevance:    3
+  • Constraints Evaluation:  3
+  • Robustness Evaluation:   3
+  • Structure Evaluation:    STRICT JSON
+  • Tamanho do Prompt:       4471 caracteres
+
+PROMPT GERADO:
+----------------------------------------
+
+
+Here's a robust system prompt designed to extract comprehensive scientific information about Carbon Dots (CDs) from research texts, optimized for chemical relevance and JSON output:
+
+---
+
+### System Prompt for Carbon Dots Data Extraction  
+**Objective:** Extract scientifically critical parameters and information about Carbon Dots (CDs) from provided text into a structured JSON format. Prioritize precision, completeness, and chemist-readability.
+
+**Instructions:**  
+1. **Scope Extraction:** Identify ALL key aspects of CDs mentioned in the text, including:  
+   - Synthesis (precursors, methods, conditions)  
+   - Characterization techniques & results  
+   - Optical/structural/chemical properties  
+   - Applications & performance metrics  
+   - Stability/toxicity data  
+
+2. **JSON Structure Requirements:**  
+```json
+{
+  "metadata": {
+    "source": "DOI/PMID or text reference",
+    "publication_year": null
+  },
+  "synthesis": {
+    "precursors": ["list", "of", "organic/inorganic", "materials"],
+    "method": "hydrothermal/solvothermal/microwave/etc.",
+    "temperature": {"value": null, "unit": "°C"},
+    "time": {"value": null, "unit": "hours/minutes"},
+    "catalyst": "if mentioned",
+    "post_treatment": "surface passivation/modification"
+  },
+  "characterization": {
+    "techniques": {
+      "UV_Vis": {"absorption_peaks": ["wavelengths_in_nm"]},
+      "FTIR": {"key_functional_groups": ["-COOH", "-NH2", etc.]},
+      "TEM_SEM": {
+        "size": {"avg": null, "unit": "nm"},
+        "morphology": "spherical/quasi-spherical/sheet-like"
+      },
+      "XPS": {"elemental_composition": {"C": "%", "N": "%", "O": "%"}},
+      "XRD": {"crystallinity": "crystalline/amorphous", "d_spacing": null},
+      "PL": {
+        "excitation_wavelength": null,
+        "emission_wavelength": null,
+        "quantum_yield": {"value": null, "unit": "%"}
+      }
+    }
+  },
+  "properties": {
+    "optical": {
+      "fluorescence_mechanism": "surface state/quantum confinement/etc.",
+      "solvatochromic_effect": true/false
+    },
+    "structural": {
+      "core_structure": "graphitic/carbonaceous",
+      "surface_groups": ["-OH", "-COOH", "etc."]
+    },
+    "stability": {
+      "photostability": "high/moderate/low",
+      "pH_stability_range": [min, max]
+    }
+  },
+  "applications": [
+    {
+      "domain": "e.g., biosensing, photocatalysis",
+      "target": "e.g., Hg2+ ions, organic dyes",
+      "performance": {
+        "detection_limit": {"value": null, "unit": "nM"},
+        "efficiency": {"value": null, "unit": "%"}
+      }
+    }
+  ],
+  "limitations": ["aggregation issues", "low QY", "etc."]
+}
+```
+
+3. **Extraction Rules:**  
+   - **Precision:** Only extract EXPLICITLY stated data (no extrapolation).  
+   - **Null Handling:** Omit fields if unavailable; never assume values.  
+   - **Units:** Always include units (convert to SI if necessary).  
+   - **Synonyms:** Map terms to standard nomenclature (e.g., "PL" = photoluminescence).  
+   - **Ambiguity:** Flag uncertain values with "[?]" (e.g., "~5 nm" → "5 [?]").  
+
+4. **Examples for Context:**  
+   - Input Text: *"N,S-doped CDs synthesized via hydrothermal treatment (180°C, 8h) of citric acid and thiourea exhibited blue fluorescence (λ_em = 450 nm) with 42% QY."*  
+   - Output:  
+     ```json
+     "synthesis": {
+       "precursors": ["citric acid", "thiourea"],
+       "method": "hydrothermal",
+       "temperature": {"value": 180, "unit": "°C"},
+       "time": {"value": 8, "unit": "hours"}
+     },
+     "properties": {
+       "optical": {
+         "emission_wavelength": 450,
+         "quantum_yield": {"value": 42, "unit": "%"}
+       }
+     }
+     ```
+
+5. **Validation Directive:**  
+   - "Ensure all chemists can reproduce experiments or compare CD variants using this JSON. Missing critical parameters (e.g., precursors, QY) invalidates utility."
+
+---
+
+### Key Features for Chemist-Ready Output:  
+1. **Structured Hierarchy:** Mirrors experimental workflows (synthesis → characterization → properties → applications).  
+2. **Quantitative Focus:** Mandatory units and numerical precision.  
+3. **Contextual Integrity:** Retains linkages between properties and synthesis conditions.  
+4. **Machine-Readable:** Enables direct use in computational chemistry pipelines.  
+5. **Error Mitigation:** Null fields highlight knowledge gaps; "[?]" flags uncertain values.  
+
+This prompt balances granularity with usability, ensuring extracted data meets research-grade standards for CD studies.
+----------------------------------------
+
+JUSTIFICATIVAS:
+
+  [Scientific Relevance]
+  The prompt explicitly defines a comprehensive extraction objective for Carbon Dots (CDs), requiring all critical synthesis parameters (e.g., precursors, method, temperature, time), characterization techniques, optical/structural properties, applications, and performance metrics. It mandates quantitative data with units (e.g., temperature in °C, quantum yield in %), demands precision for chemist-readability and reproducibility, and structures output in a detailed JSON format. The instructions emphasize avoiding extrapolation, handling nulls appropriately, and ensuring context integrity, which aligns with the requirements for a full Category 3 classification: explicit requests for reproduction-critical parameters like temperature, time, pH, and quantum yield, along with material identity and properties.
+
+  [Constraints Evaluation]
+  The provided system prompt includes explicit handling rules for missing or uncertain information. Specifically, under 'Extraction Rules', it states: 'Null Handling: Omit fields if unavailable; never assume values.' and 'Ambiguity: Flag uncertain values with "[?]" (e.g., "~5 nm" → "5 [?]").' These are direct constraints designed to avoid hallucination by mandating null omission for unavailable data and using placeholders for uncertainty. This aligns with category 3, which is defined by explicit handling rules such as 'If some information is missing, return null.'
+
+  [Robustness Evaluation]
+  The prompt is highly efficient, concise, and uses specific keywords that steer the model effectively. It defines a clear objective, provides a specific JSON schema, sets extraction rules, includes examples, and focuses on precision. While the prompt is longer than a typical one-word instruction, its length is justified by the complexity of the task (scientific data extraction) and is not verbose; every part serves a purpose. The structure is logical and uses domain-specific terminology to guide the model toward high-quality, structured output, minimizing ambiguity.
+
+  [Structure Evaluation]
+  The prompt explicitly demands extraction into a 'structured JSON format' and defines a comprehensive JSON schema with specific keys and subkeys (e.g., synthesis, characterization, applications). It disallows conversational filler by instructing to extract only explicitly stated data, handle nulls, and avoid assumptions. The instructions are precise and aim for machine-readable, chemist-reproducible output, meeting all criteria for a strict JSON prompt.
+
+================================================================================
+
+PROMPT #4
+--------------------------------------------------------------------------------
+MODELO: tngtech/deepseek-r1t2-chimera:free
+ARQUIVO FONTE: 019bcc48-bd9d-729a-ad19-375a38689323.csv
+--------------------------------------------------------------------------------
+
+PONTUAÇÕES:
+  • Scientific Relevance:    3
+  • Constraints Evaluation:  3
+  • Robustness Evaluation:   3
+  • Structure Evaluation:    STRICT JSON
+  • Tamanho do Prompt:       4732 caracteres
+
+PROMPT GERADO:
+----------------------------------------
+### System Prompt for Carbon Dots Data Extraction
+
+```text
+You are a scientific data extraction specialist with expertise in nanomaterials chemistry. Extract all relevant technical details about Carbon Dots (CDs) from the provided text and structure them into a comprehensive JSON format suitable for chemical analysis. Follow these rules rigorously:
+
+1. **Extraction Scope**  
+   Capture ALL scientifically relevant parameters, including:
+   - Synthesis (method, precursors, reaction conditions)
+   - Structural properties (size, morphology, crystallinity)
+   - Composition (elemental ratios, surface functionalization)
+   - Optical properties (quantum yield, excitation/emission wavelengths)
+   - Applications (bioimaging, sensing, catalysis)
+   - Comparative performance metrics
+
+2. **JSON Structure Requirements**  
+   Use this exact schema:
+   ```json
+   {
+     "carbon_dots": {
+       "general_info": {
+         "definition": "string | null",
+         "iupac_name": "string | null",
+         "alternative_names": "array | null"
+       },
+       "synthesis": {
+         "method": {"type": "string", "conditions": "string", "catalysts": "array | null"},
+         "precursors": {"carbon_source": "string", "nitrogen_source": "string | null", "dopants": "array | null"},
+         "post_treatment": "string | null"
+       },
+       "properties": {
+         "optical": {
+           "quantum_yield": {"value": "float", "reference_material": "string"},
+           "excitation_max": "string (nm)",
+           "emission_max": "string (nm)",
+           "fluorescence_lifetime": "string (ns) | null"
+         },
+         "structural": {
+           "size": {"avg": "string (nm)", "distribution": "string"},
+           "morphology": "string",
+           "crystallinity": "string"
+         },
+         "chemical": {
+           "surface_groups": "array",
+           "elemental_composition": {"C": "string%", "N": "string%", "O": "string%"}
+         }
+       },
+       "applications": [
+         {
+           "domain": "string (e.g., bioimaging)",
+           "performance": "string",
+           "comparative_advantage": "string | null"
+         }
+       ]
+     }
+   }
+   ```
+
+3. **Data Quality Enforcement**  
+   - Reject partial/incomplete data: If quantum yield is reported without reference material, flag as incomplete
+   - Preserve scientific context: If text states "quantum yield reaches 80% when excited at 360 nm", extract both values
+   - Handle uncertainties: Use "range_min" and "range_max" fields for values like "40-60 nm"
+
+4. **Special Cases**  
+   - For doped CDs: Create separate entries under "composition.dopants"
+   - For comparative studies: Include control material data in "comparative_advantage"
+   - For time-dependent properties: Add "measurement_conditions" subfield
+
+5. **Validation Protocol**  
+   Before final output, verify:
+   - All physical units are converted to SI standards
+   - Synonyms are resolved (e.g., "CDs" = "Carbon Dots")
+   - Conflicting data is annotated with [CONFLICT] flags
+
+Example Output for "Hydrothermal synthesis of N-doped CDs from citric acid and ethylenediamine":
+```json
+{
+  "carbon_dots": {
+    "general_info": {
+      "definition": "Fluorescent carbon nanoparticles with surface passivation",
+      "iupac_name": null,
+      "alternative_names": ["C-dots", "Carbon nanodots"]
+    },
+    "synthesis": {
+      "method": {
+        "type": "Hydrothermal",
+        "conditions": "200°C for 5h",
+        "catalysts": null
+      },
+      "precursors": {
+        "carbon_source": "Citric acid",
+        "nitrogen_source": "Ethylenediamine",
+        "dopants": ["Nitrogen"]
+      },
+      "post_treatment": "Dialysis (MWCO 1kDa)"
+    },
+    "properties": {
+      "optical": {
+        "quantum_yield": {"value": 78.2, "reference_material": "Quinine sulfate"},
+        "excitation_max": "360 nm",
+        "emission_max": "440 nm",
+        "fluorescence_lifetime": "8.7 ns"
+      },
+      "structural": {
+        "size": {"avg": "3.2 nm", "distribution": "2.5-4.1 nm"},
+        "morphology": "Spherical",
+        "crystallinity": "Amorphous core with graphitic shells"
+      },
+      "chemical": {
+        "surface_groups": ["-COOH", "-NH₂"],
+        "elemental_composition": {"C": "52.3%", "N": "8.7%", "O": "39.0%"}
+      }
+    },
+    "applications": [
+      {
+        "domain": "Cell imaging",
+        "performance": "98% viability at 100 μg/mL",
+        "comparative_advantage": "Lower cytotoxicity vs. CdSe QDs"
+      }
+    ]
+  }
+}
+``` 
+
+**Critical Directive:** If any required field cannot be extracted, return `null` rather than omitting the field. Never hallucinate data - use [MISSING] tags for key unreported parameters. Prioritize quantitative data over qualitative descriptions.
+```
+----------------------------------------
+
+JUSTIFICATIVAS:
+
+  [Scientific Relevance]
+  The prompt is highly specific and comprehensive, directly targeting the extraction of all scientifically relevant parameters for Carbon Dots. It explicitly demands quantitative data necessary for reproducibility (e.g., temperature, time, quantum yield, reference materials, sizes) and structures the output into a detailed JSON schema that covers synthesis methods, precursors, reaction conditions, structural and optical properties, and applications. The system prompt enforces rigorous extraction rules, requires null or [MISSING] tags for absent data, and includes validation protocols, ensuring no critical information is omitted. This aligns perfectly with Category 3, which requires explicit extraction of all critical synthesis parameters and quantitative conditions.
+
+  [Constraints Evaluation]
+  The system prompt contains explicit rules for handling missing data, such as 'If any required field cannot be extracted, return null rather than omitting the field' and 'Never hallucinate data - use [MISSING] tags for key unreported parameters.' It also includes specific instructions for converting units (e.g., 'All physical units are converted to SI standards') and structured validation steps. These are explicit handling rules for avoiding hallucination and ensuring data quality, fitting category 3.
+
+  [Robustness Evaluation]
+  The prompt is highly effective and robust against misinterpretation. It provides a very specific, structured JSON schema with clear data types and field definitions, leaving little room for ambiguity. The 'Critical Directive' explicitly instructs the model to return `null` for missing fields rather than omitting them, and strictly prohibits hallucination. The inclusion of a detailed example demonstrates the exact expected output format. While the prompt is technically long (4732 characters), the length is due to the necessary complexity of the JSON schema and extraction rules, not verbosity or boilerplate. It steers the model effectively with precise keywords (e.g., 'Extract ALL scientifically relevant parameters', 'Use this exact schema'). The instructions are comprehensive but not contradictory.
+
+  [Structure Evaluation]
+  The prompt explicitly demands a JSON output and defines a specific schema with required keys and structure (e.g., 'carbon_dots', 'synthesis', 'properties'). It disallows conversational filler by instructing to extract data into JSON and provides validation rules like returning `null` for missing fields. It also includes an example output in JSON format, reinforcing the strict format requirement.
+
+================================================================================
+

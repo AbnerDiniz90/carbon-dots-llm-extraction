@@ -1,0 +1,76 @@
+{
+  "input_source": "artigo43.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "Fluorescent carbon nanoparticles used to modify TiO2 for enhanced SERS and photocatalysis",
+        "iupac_name": null,
+        "alternative_names": [
+          "CDs",
+          "Carbon dots"
+        ]
+      },
+      "synthesis": {
+        "method": {
+          "type": "Hydrothermal",
+          "Citric acid dissolved in 30mL of deionized water via ultrasound method then heated at 180ºC for 10h": "string",
+          "catalysts": null
+        },
+        "precursors": {
+          "source": [
+            "1g Citric acid"
+          ],
+          "dopants": null
+        },
+        "post_treatment": null
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": null,
+            "reference_material": null
+          },
+          "excitation_max": "[MISSING]",
+          "emission_max": "[MISSING]",
+          "fluorescence_lifetime": null
+        },
+        "structural": {
+          "size": {
+            "avg": "[MISSING]",
+            "distribution": "[MISSING]"
+          },
+          "morphology": "[MISSING]",
+          "crystallinity": "amorphous"
+        },
+        "chemical": {
+          "surface_groups": [
+            "C=O (carbonyl)",
+            "C-H"
+          ],
+          "elemental_composition": {
+            "C": "[MISSING]",
+            "N": "[MISSING]",
+            "O": "[MISSING]"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "Surface-Enhanced Raman Scattering (SERS) Substrate Enhancement",
+          "performance": "CDs were incorporated into yolk-shell SiO2@TiO2/CDs (y-STCs) nanocomposite. As a SERS substrate, the composite achieved detection limit for Rhodamine 6G (R6G) of 6×10-8 M. Good reproducibility with RSD <12% for Raman intensity at 613 cm-1. CDs extend photo-response to visible range (absorption peaks at 350 nm and 650 nm).",
+          "comparative_advantage": "CDs modification enhances SERS signals. Provides economical, noble-metal-free SERS substrate with high sensitivity and reproducibility."
+        },
+        {
+          "domain": "Photocatalytic Degradation",
+          "performance": "y-STCs nanocomposite used for degradation of 2,4-dinitrophenol (DNP). Degradation rate reached 96% under simulated sunlight irradiation within 120 min. Excellent cycle stability: ~82% degradation after 5 cycles. CDs act as electron donors under light irradiation.",
+          "comparative_advantage": "CDs extend the absorption range of TiO2 to visible light, enhancing photocatalytic efficiency. Yolk-shell structure with CDs provides larger surface area and better contact with pollutants."
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Bad",
+    "score": 4.0,
+    "expert_comment": "Omission Error: The field 'carbon_dots -> synthesis -> post_treatment' contained '['Cooled down to room temperature', 'Dialysis overnight (MWCO = 3500 Da)', 'Freeze drying']' in the source text, but it was extracted as null/missing."
+  }
+}

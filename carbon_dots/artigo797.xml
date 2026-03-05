@@ -1,0 +1,2361 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0956566325001332</prism:url><dc:identifier>doi:10.1016/j.bios.2025.117259</dc:identifier><eid>1-s2.0-S0956566325001332</eid><prism:doi>10.1016/j.bios.2025.117259</prism:doi><pii>S0956-5663(25)00133-2</pii><dc:title>Simultaneous detection of trace protein biomarkers from a single drop of blood using AI-enhanced smartphone-based digital microscopy </dc:title><prism:publicationName>Biosensors and Bioelectronics</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09565663</prism:issn><prism:volume>276</prism:volume><prism:startingPage>117259</prism:startingPage><prism:pageRange>117259</prism:pageRange><articleNumber>117259</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2025-05-15</prism:coverDate><prism:coverDisplayDate>15 May 2025</prism:coverDisplayDate><prism:copyright>© 2025 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.</prism:copyright><prism:publisher>Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.</prism:publisher><dc:creator>Roy, Biswadeep</dc:creator><dc:creator>Maikap, Abhisek</dc:creator><dc:creator>Das, Soumen</dc:creator><dc:creator>Chakraborty, Suman</dc:creator><dc:description>
+                  The detection of early-stage diseases is often impeded by the low concentrations of protein biomarkers, necessitating sophisticated and costly technologies. In response, we have developed an advanced cyber-physical system that integrates blood plasma separation, biomarker detection, and analysis on a single microfluidic platform. This novel system enables the simultaneous detection of Neuron-Specific Enolase (NSE) and Carcinoembryonic Antigen (CEA) with high specificity and accuracy. Functionalized carbon dots (CDs) are employed for fluorescence-based quantification due to their superior biocompatibility, photostability, and resistance to photobleaching. The emission properties are optimized at 460 nm (blue) and 580 nm (yellow), yielding robust quantum efficiencies. The precise synthesis of CDs ensures reproducible fluorescence response with minimal background interference. A portable, smartphone-based fluorescence microscope equipped with 1000X magnification and UV excitation facilitates high-resolution image acquisition, serving as a low-cost alternative to conventional microscopy. Artificial intelligence algorithms are integrated for automated image analysis, enabling accurate quantification of biomarker concentrations. The system demonstrates impressive detection limits of 0.4 ng/mL and 0.9 ng/mL for CEA and NSE, respectively. The entire assay workflow, from sample introduction to result generation, is completed in 10 min. This integrated, portable diagnostic platform offers a transformative solution for point-of-care biomarker detection, particularly in resource-constrained settings, with the potential to democratize early disease screening and significantly reduce healthcare burdens globally.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Early-stage detection</dcterms:subject><dcterms:subject>Fluorescent sensor</dcterms:subject><dcterms:subject>Cyber-physical system</dcterms:subject><dcterms:subject>Cancer antigens</dcterms:subject><dcterms:subject>Carbon dots</dcterms:subject><dcterms:subject>Artificial intelligence</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0956566325001332" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0956566325001332" rel="scidir"/></coredata><objects><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="535" height="470" size="161244">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="691" height="419" size="177919">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="691" height="408" size="182478">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="691" height="440" size="138031">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="691" height="442" size="153911">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="691" height="672" size="187634">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="186" height="163" size="81340">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="133" size="80751">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="129" size="82908">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="139" size="77780">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="140" size="83323">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="168" height="163" size="85456">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2370" height="2083" size="845745">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3060" height="1856" size="851130">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3060" height="1806" size="912229">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3060" height="1949" size="572878">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3059" height="1958" size="827596">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3060" height="2977" size="915935">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="680816">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566325001332-mmc1.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85217925504</scopus-id><scopus-eid>2-s2.0-85217925504</scopus-eid><pubmed-id>39965417</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85217925504" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271399</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291685</xocs:ssid>
+         <xocs:ssid type="subj">291850</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291880</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Biosensors and Bioelectronics</xocs:srctitle>
+      <xocs:normalized-srctitle>BIOSENSORSBIOELECTRONICS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20250213">2025-02-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20250213">2025-02-13</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20250217">2025-02-17</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20250217">2025-02-17</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2025-02-26T14:57:01</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0956566325001332</xocs:eid>
+      <xocs:pii-formatted>S0956-5663(25)00133-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0956566325001332</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.bios.2025.117259</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0956566325X00038</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20250226">2025-02-26T15:34:05.641715Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20250515</xocs:date-search-begin>
+      <xocs:year-nav>2025</xocs:year-nav>
+      <xocs:indexeddate epoch="1739434294">2025-02-13T08:11:34.153719Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast orcid primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0956-5663</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09565663</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>276</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>276</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 276</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>13</xocs:sort-order>
+      <xocs:first-fp>117259</xocs:first-fp>
+      <xocs:article-number>117259</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>117259</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20250515</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 May 2025</xocs:cover-date-text>
+      <xocs:cover-date-start>2025-05-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2025</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Full Papers</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2025 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.</xocs:copyright-line>
+      <xocs:normalized-article-title>SIMULTANEOUSDETECTIONTRACEPROTEINBIOMARKERSASINGLEDROPBLOODUSINGAIENHANCEDSMARTPHONEBASEDDIGITALMICROSCOPY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ROY</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>B</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Process workflow, sensing, and detection</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Structural and morphological characterizations</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Indicators of performance</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>AHMAD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>ANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3972</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3980</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>BELLEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>145</xocs:ref-first-fp>
+            <xocs:ref-last-lp>156</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>BODAGHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-article-number>e13323</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>465</xocs:ref-first-fp>
+            <xocs:ref-last-lp>472</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>CHIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>41</xocs:ref-first-fp>
+            <xocs:ref-last-lp>57</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>CHIODI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>21</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>CHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12962</xocs:ref-first-fp>
+            <xocs:ref-last-lp>12971</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>CLARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>547</xocs:ref-first-fp>
+            <xocs:ref-last-lp>603</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>DARWISH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2024</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4015</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4046</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>DAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2024</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>DAWKINS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1177</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1188</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>DENOROY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>37</xocs:ref-first-fp>
+            <xocs:ref-last-lp>53</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>DUNBAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>71</xocs:ref-first-fp>
+            <xocs:ref-last-lp>82</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>HEIDT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>80</xocs:ref-first-fp>
+            <xocs:ref-last-lp>102</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>KOSOLAPOVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8845</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8853</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>MATHEW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>24386</xocs:ref-first-fp>
+            <xocs:ref-last-lp>24396</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>MIAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>MINTZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>433</xocs:ref-first-fp>
+            <xocs:ref-last-lp>447</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>NIMSE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>740</xocs:ref-first-fp>
+            <xocs:ref-last-lp>755</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>NOVIANA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11835</xocs:ref-first-fp>
+            <xocs:ref-last-lp>11885</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>PAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>525</xocs:ref-first-fp>
+            <xocs:ref-last-lp>553</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>PAUL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>SHINLOW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>127718</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>SIMONEIT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>719</xocs:ref-first-fp>
+            <xocs:ref-last-lp>765</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref27">
+            <xocs:ref-normalized-surname>STEPANIDENKO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>602</xocs:ref-first-fp>
+            <xocs:ref-last-lp>609</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref28">
+            <xocs:ref-normalized-surname>VEDERNIKOVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref29">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref30">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ROYX2025X117259</xocs:refkey3>
+         <xocs:refkey4ai>ROYX2025X117259XB</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2027-02-17T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2027-02-17T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2025 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2025-02-26T00:45:22.956Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency>Department of Science and Technology</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100001409</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1269750</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>AI4ICPS</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>IIT Kharagpur</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>IIT KGP</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Indian Institute of Technology Kharagpur</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100008984</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1269750/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>SERB</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>SERB</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Science and Engineering Research Board</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100001843</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1269750/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>The authors acknowledge the financial support provided by AI4ICPS, IIT Kharagpur, DST Government of India. They would also like to thank the authorities of the pathology unit at the B.C. Roy Technology Hospital, Indian Institute of Technology. B.R. is thankful to Dipankar Mandal and Pranab Jyoti Talukdar for Artificial Intelligence method and characterization related assistance, S.C. acknowledges SERB, Government of India for the Sir J. C. Bose National Fellowship. </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework>
+         <xocs:asf-license>https://doi.org/10.15223/policy-017</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-037</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-012</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-029</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-004</xocs:asf-license>
+      </xocs:article-sharing-framework>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0956-5663(25)00133-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0956566325001332</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0956566325001332</xocs:eid>
+         <xocs:doi>10.1016/j.bios.2025.117259</xocs:doi>
+         <xocs:cid>271399</xocs:cid>
+         <xocs:timestamp>2025-02-26T15:34:05.641715Z</xocs:timestamp>
+         <xocs:cover-date-start>2025-05-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/MAIN/application/pdf/1ed75b4c35758b56761147350161abac/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>6764566</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>9</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0956566325001332-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/PREVIEW/image/png/011300ff040bc00aedce15fac01a977d/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>61202</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/gr6/DOWNSAMPLED/image/jpeg/9ecfa0bd9534adbf3b27332a30ce2a07/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>161244</xocs:filesize>
+               <xocs:pixel-height>470</xocs:pixel-height>
+               <xocs:pixel-width>535</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/gr2/DOWNSAMPLED/image/jpeg/385fd72422573c74a3941fc8ac2d4856/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>177919</xocs:filesize>
+               <xocs:pixel-height>419</xocs:pixel-height>
+               <xocs:pixel-width>691</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/gr3/DOWNSAMPLED/image/jpeg/87701ec8c471512ed73b8f743c4f3e62/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>182478</xocs:filesize>
+               <xocs:pixel-height>408</xocs:pixel-height>
+               <xocs:pixel-width>691</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/gr4/DOWNSAMPLED/image/jpeg/6e95096b4621901860840c34b20815ea/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>138031</xocs:filesize>
+               <xocs:pixel-height>440</xocs:pixel-height>
+               <xocs:pixel-width>691</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/gr5/DOWNSAMPLED/image/jpeg/894d91727088169268cda992971cd1fe/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>153911</xocs:filesize>
+               <xocs:pixel-height>442</xocs:pixel-height>
+               <xocs:pixel-width>691</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/gr1/DOWNSAMPLED/image/jpeg/59328f2ecec4e6704e364ab7d1cbe297/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>187634</xocs:filesize>
+               <xocs:pixel-height>672</xocs:pixel-height>
+               <xocs:pixel-width>691</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/gr6/THUMBNAIL/image/gif/08e05cdf748656eaeb650a7678fd4037/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>81340</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>186</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/gr2/THUMBNAIL/image/gif/b6b9b6cc4680509b3df79df7adc74372/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>80751</xocs:filesize>
+               <xocs:pixel-height>133</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/gr3/THUMBNAIL/image/gif/b364d617237d248dbcf24a91b8d9cfe1/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>82908</xocs:filesize>
+               <xocs:pixel-height>129</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/gr4/THUMBNAIL/image/gif/ed47d266a9426d831f548df1a4a23aca/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>77780</xocs:filesize>
+               <xocs:pixel-height>139</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/gr5/THUMBNAIL/image/gif/bfd4ba5e8f594b5526774a0ce6308095/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>83323</xocs:filesize>
+               <xocs:pixel-height>140</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/gr1/THUMBNAIL/image/gif/05593ef885bc113d7f1e98acbd30799d/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>85456</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>168</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/HIGHRES/image/jpeg/1b6a3f72e32fc1636c674e4b603c8090/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>845745</xocs:filesize>
+               <xocs:pixel-height>2083</xocs:pixel-height>
+               <xocs:pixel-width>2370</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/HIGHRES/image/jpeg/42598a2d25473467e2b1b6fbd27922b1/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>851130</xocs:filesize>
+               <xocs:pixel-height>1856</xocs:pixel-height>
+               <xocs:pixel-width>3060</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/HIGHRES/image/jpeg/fe459f451918f6cd27952cd8e43e185d/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>912229</xocs:filesize>
+               <xocs:pixel-height>1806</xocs:pixel-height>
+               <xocs:pixel-width>3060</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/HIGHRES/image/jpeg/675a0d0b5b36426c64592d742da14283/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>572878</xocs:filesize>
+               <xocs:pixel-height>1949</xocs:pixel-height>
+               <xocs:pixel-width>3060</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/HIGHRES/image/jpeg/b15fd1bca3847428f3491b474e389518/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>827596</xocs:filesize>
+               <xocs:pixel-height>1958</xocs:pixel-height>
+               <xocs:pixel-width>3059</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001034/HIGHRES/image/jpeg/835a8f65614692985f560785cc5c9273/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>915935</xocs:filesize>
+               <xocs:pixel-height>2977</xocs:pixel-height>
+               <xocs:pixel-width>3060</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566325001332-mmc1.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566325001332/mmc1/MAIN/application/pdf/8efea32d80fa1ffba040000d93f01bd7/mmc1.pdf</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>680816</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.7" xml:lang="en">
+         <item-info>
+            <jid>BIOS</jid>
+            <aid>117259</aid>
+            <ce:article-number>117259</ce:article-number>
+            <ce:pii>S0956-5663(25)00133-2</ce:pii>
+            <ce:doi>10.1016/j.bios.2025.117259</ce:doi>
+            <ce:copyright type="full-transfer" year="2025">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Sample-to-result test workflow with an illustrative outline (a) PMMA microfluidic substrate housing the LFA and a Y-shaped channel, (b) in-situ plasma separation from whole blood, analyte conjugation and capillary flow pathway with the target and detection analytes represented symbolically (the codes are shown at the bottom of the figure for the multiplex detection of CEA and NSE antigens, for illustration), (c) schematic of the portable fluorescent image acquisition unit, (d) process flow illustrating the different steps on the sample movement on the test strip (e) smartphone-integrates portable detector.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0015">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0956566325001332/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">Spectroscopic characterization of the as-synthesized carbon dots. (a) XPS wide scan spectrum showing peaks corresponding to carbon, nitrogen, and oxygen, (b) de-convoluted XPS C1s spectrum, highlighting four significant peaks, (c) de-convoluted XPS N1s spectrum with three prominent peaks, (d) de-convoluted XPS O1s spectrum displaying two major peaks. (e) Raman spectra comparing the two types of CDs, (f) FTIR spectra of the CDs, showing characteristic functional groups.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0020">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0956566325001332/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Optical properties of the synthesized CDs. (a) UV–VIS characterization of B-CDs and Y-CDs. (b) PL characteristics of B-CD upon excitation with variable wavelengths. The inset shows a digital image of the visual appearance of B-CD solution upon excitation with UV, (c) PL characteristics of Y-CD upon excitation with variable wavelengths. A digital image of the visual appearance of Y-CD solution upon excitation with UV is shown in the inset, (d) PL characteristics of B-CD tagged with variable NSE concentrations, (e) PL characteristics of Y-CD tagged with variable CEA concentrations, (f) correlation between the normalized intensities with variable antigen concentrations.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0956566325001332/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">An overview of the CNN framework. (a) The processing pipeline, (b) training efficiency shown through Mean Square Error (MSE), (c) testing efficiency represented by Mean Absolute Error (MAE), (d) correlation between real concentrations and AI-predicted concentrations of CEA and NSE antigens in plasma samples.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0030">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0956566325001332/gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">Fluorescent images of tagged antigen-antibody complexes captured by the portable image acquisition unit. Each column displays three images at identical concentrations: blank sample (top), B-CD tagged NSE sample (middle), and Y-CD tagged CEA sample (bottom). Scale bar: 10 μm. (a) Fluorescent images at 0.9 ng/mL concentration, (b) fluorescent images at 15.6 ng/mL concentration, (c) fluorescent images at 31.2 ng/mL concentration, (d) fluorescent images at 62.5 ng/mL concentration.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0035">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0956566325001332/gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">Analysis of specificity, selectivity, and limit of detection in the immunoassay. (a) Specificity evaluation showing fluorescence response for single-biomarker detection of NSE and CEA in Groups 1 and 2, respectively, with concentrations of 15.6 ng/mL for NSE, CEA, and BSA, (b) comparative analysis of fluorescence signals from single versus multiplexed assays, (c) LOD determination for real and artificially prepared CEA samples, (d) LOD determination for real and artificially prepared NSE samples.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0040">Fig. 6</ce:alt-text>
+               <ce:link locator="gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0956566325001332/gr6"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Simultaneous detection of trace protein biomarkers from a single drop of blood using AI-enhanced smartphone-based digital microscopy</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" orcid="0009-0003-5984-2245" author-id="S0956566325001332-ab0d2ccc87ae8757101a0e33e618e23e">
+                  <ce:given-name>Biswadeep</ce:given-name>
+                  <ce:surname>Roy</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff2" id="crosref0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au2" orcid="0000-0003-2603-6506" author-id="S0956566325001332-c0ad6d3ea971243e316e3b2f397ce4b6">
+                  <ce:given-name>Abhisek</ce:given-name>
+                  <ce:surname>Maikap</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au3" author-id="S0956566325001332-855a5ba92beacbaffaa5bd69857d6d69">
+                  <ce:given-name>Soumen</ce:given-name>
+                  <ce:surname>Das</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:cross-ref refid="aff2" id="crosref0025">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au4" author-id="S0956566325001332-de57386287219d986e1da8c61faa914a">
+                  <ce:given-name>Suman</ce:given-name>
+                  <ce:surname>Chakraborty</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0030">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="crosref0035">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S0956566325001332-6a439daa0dbfa014bd28831bcb5ab483">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Mechanical Engineering, Indian Institute of Technology Kharagpur, Kharagpur, 721302, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Mechanical Engineering</sa:organization>
+                     <sa:organization>Indian Institute of Technology Kharagpur</sa:organization>
+                     <sa:city>Kharagpur</sa:city>
+                     <sa:postal-code>721302</sa:postal-code>
+                     <sa:country iso3166-1-alpha-3="IND">India</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">Department of Mechanical Engineering, Indian Institute of Technology Kharagpur, Kharagpur, 721302, India</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S0956566325001332-092b50ac589dd5555969d599ee951bea">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>School of Medical Science and Technology, Indian Institute of Technology Kharagpur, Kharagpur, 721302, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Medical Science and Technology</sa:organization>
+                     <sa:organization>Indian Institute of Technology Kharagpur</sa:organization>
+                     <sa:city>Kharagpur</sa:city>
+                     <sa:postal-code>721302</sa:postal-code>
+                     <sa:country iso3166-1-alpha-3="IND">India</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0015">School of Medical Science and Technology, Indian Institute of Technology Kharagpur, Kharagpur, 721302, India</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="28" month="12" year="2024"/>
+            <ce:date-revised day="2" month="2" year="2025"/>
+            <ce:date-accepted day="12" month="2" year="2025"/>
+            <ce:abstract xml:lang="en" id="abs0010" class="author" view="all"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">The detection of early-stage diseases is often impeded by the low concentrations of protein biomarkers, necessitating sophisticated and costly technologies. In response, we have developed an advanced cyber-physical system that integrates blood plasma separation, biomarker detection, and analysis on a single microfluidic platform. This novel system enables the simultaneous detection of Neuron-Specific Enolase (NSE) and Carcinoembryonic Antigen (CEA) with high specificity and accuracy. Functionalized carbon dots (CDs) are employed for fluorescence-based quantification due to their superior biocompatibility, photostability, and resistance to photobleaching. The emission properties are optimized at 460 nm (blue) and 580 nm (yellow), yielding robust quantum efficiencies. The precise synthesis of CDs ensures reproducible fluorescence response with minimal background interference. A portable, smartphone-based fluorescence microscope equipped with 1000X magnification and UV excitation facilitates high-resolution image acquisition, serving as a low-cost alternative to conventional microscopy. Artificial intelligence algorithms are integrated for automated image analysis, enabling accurate quantification of biomarker concentrations. The system demonstrates impressive detection limits of 0.4 ng/mL and 0.9 ng/mL for CEA and NSE, respectively. The entire assay workflow, from sample introduction to result generation, is completed in 10 min. This integrated, portable diagnostic platform offers a transformative solution for point-of-care biomarker detection, particularly in resource-constrained settings, with the potential to democratize early disease screening and significantly reduce healthcare burdens globally.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords xml:lang="en" id="kwrds0010" class="keyword" view="all">
+               <ce:section-title id="sectitle0015">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Early-stage detection</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Fluorescent sensor</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Cyber-physical system</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Cancer antigens</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>Carbon dots</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0035">
+                  <ce:text>Artificial intelligence</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:data-availability id="da0010" view="all">
+               <ce:section-title id="sectitle0020">Data availability</ce:section-title>
+               <ce:para id="p0010" view="all">Data will be made available on request.</ce:para>
+            </ce:data-availability>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0025">Introduction</ce:section-title>
+                  <ce:para id="p0015" view="all">The challenge of detecting trace concentrations of disease-specific biomarkers during the early stages of ailments is a critical issue in modern healthcare. These biomarkers, which include proteins, antigens, and nucleic acids, play a vital role in the diagnosis, monitoring, and understanding of the disease progression (<ce:cross-ref refid="bib1" id="crosref0040">Ahmad et al., 2023</ce:cross-ref>; <ce:cross-ref refid="bib4" id="crosref0045">Bodaghi et al., 2023</ce:cross-ref>; <ce:cross-ref refid="bib11" id="crosref0050">Das et al., 2024</ce:cross-ref>). However, their low concentrations in biological fluids like blood pose significant hurdles for early detection. During the early stages of many diseases, biomarkers are present at concentrations far below the detection limits of conventional diagnostic methods. This is particularly true for conditions such as cancer, cardiovascular diseases, and neurodegenerative disorders (<ce:cross-ref refid="bib21" id="crosref0055">Nimse et al., 2016</ce:cross-ref>). Traditional diagnostic assays, such as enzyme-linked immunosorbent assays (ELISA), are either laboratory-resource intensive or lack the required sensitivity to detect biomarkers at femtomolar or lower concentrations, which is often necessary for detecting the early phases of the disease. Moreover, blood and other bodily fluids contain a high abundance of non-specific proteins and molecules, making it difficult to isolate and detect specific biomarkers accurately (<ce:cross-ref refid="bib3" id="crosref0060">Bellei et al., 2011</ce:cross-ref>). The lack of sensitive and specific tools for biomarker detection significantly hampers the ability to perform mass screenings for diseases in their nascent stages. Early detection is crucial as it significantly increases the chances of successful treatment and improves survival rates. Diseases like cancer often progress to stages where treatment options are limited, less effective, and more invasive. For example, the five-year survival rate for localized breast cancer is about 99%, compared to only 28% when it has metastasized. Moreover, the economic burden of cancer-related treatments in advanced stages is approximately five times higher than that for early-stage treatments (<ce:cross-ref refid="bib5" id="crosref0065">Chen et al., 2023</ce:cross-ref>). In low-income regions, the inability to afford advanced treatments leads to increased mortality and healthcare-induced poverty (<ce:cross-ref refid="bib12" id="crosref0070">Dawkins et al., 2021</ce:cross-ref>). The World Health Organization (WHO) thus highlights that delayed diagnosis is a major driver of healthcare inequities and emphasizes the need for highly accurate albeit affordable and accessible technologies for early-stage disease screening.</ce:para>
+                  <ce:para id="p0020" view="all">The precise detection of low-concentration bio-analytes is a cornerstone of modern diagnostics, yet its reliance on sophisticated and resource-intensive technologies significantly limits its accessibility, especially in low-resource settings. Instruments like high-performance liquid chromatography (HPLC), mass spectrometry (MS), and advanced optical spectrophotometers are pivotal for detecting trace-level biomarkers (<ce:cross-ref refid="bib13" id="crosref0075">Denoroy et al., 2013</ce:cross-ref>; <ce:cross-ref refid="bib26" id="crosref0080">Simoneit, 2005</ce:cross-ref>). However, their cost is prohibitive, with high upfront prices. These costs are compounded by the need for highly controlled laboratories and expert personnel, delicate consumables, software licenses, and periodic calibration, which collectively escalate operational expenses. Many such systems require a stable power supply, temperature-controlled environments, and dedicated laboratory space - facilities that are often unavailable in rural or underdeveloped regions. For example, instruments like Matrix-Assisted Laser Desorption/Ionization-Time of Flight (MALDI-TOF) need precise alignment of optical components and vacuum systems, making portability nearly impossible (<ce:cross-ref refid="bib9" id="crosref0085">Clark et al., 2013</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0025" view="all">On-chip technologies can miniaturize laboratory processes onto a portable framework, allowing for multiplexed and rapid biomarker detection (<ce:cross-ref refid="bib6" id="crosref0090">Chin et al., 2007</ce:cross-ref>). These require minimal sample volumes (microliters) and exhibit rapid response times. Further, compact designs enable easy deployment in field settings. Nanoparticles and nanosensors are emerging as powerful tools for amplifying signals of disease biomarkers, enabling the detection of minute concentrations of trace analytes. For instance, gold nanoparticles functionalized with antibodies have demonstrated attomolar sensitivity for cancer biomarkers like Prostate-Specific Antigen (PSA) (<ce:cross-ref refid="bib10" id="crosref0095">Darwish et al., 2024</ce:cross-ref>; <ce:cross-ref refid="bib16" id="crosref0100">Huang et al., 2017</ce:cross-ref>). Paper-based microfluidics utilizes cellulose or nitrocellulose membranes embedded with custom-designed reagents for detecting biomarkers. They are low-cost, disposable, and require no external power sources. However, their accuracy depends significantly on the efficacy of the detection methods which often rely on colorimetric changes that can be interpreted visually or using smartphone-based readers (<ce:cross-ref refid="bib22" id="crosref0105">Noviana et al., 2021</ce:cross-ref>). Smartphone-integrated electrochemical sensors capable of detecting cancer-marker antigens at sub-nanogram levels have also been reported (<ce:cross-ref refid="bib25" id="crosref0110">Shin Low et al., 2020</ce:cross-ref>). By leveraging the computational power and imaging capabilities of smartphones, such diagnostic systems can perform data analysis and deliver results without bulky equipment. Given the widespread use of smartphones that can be paired with paper-based assays or portable sensors for quantitative analysis (<ce:cross-ref refid="bib8" id="crosref0115">Chu et al., 2020</ce:cross-ref>), the scope of further development appears to be immense. However, due to the inherent limitations of smartphones in imaging and magnification, achieving detection limits comparable to high-end laboratory equipment, such as specialized microscopes and advanced optoelectronic systems, presents significant scientific challenges. These limitations represent critical technological bottlenecks in detecting trace amounts of protein biomarkers from blood samples analyzed at the point of care.</ce:para>
+                  <ce:para id="p0030" view="all">Portable fluorescence systems, though promising in sensitivity, frequently require sophisticated optical components and rigorous calibration, making them difficult to implement in resource-limited settings where ease of use and robustness are essential. In vitro diagnostic (IVD) devices such as time-resolved fluorescence immunoassay (TRFIA) and colloidal gold-based lateral flow immunoassay (CG-LFIA), ELISA is widely used but can suffer from inaccuracies, including false positives or negatives. For instance, CG-LFIA, while allowing for visual interpretation without advanced technology, often faces limitations in antibody specificity (<ce:cross-ref refid="bib2" id="crosref0120">Ang et al., 2015</ce:cross-ref>). Conventional protein microarrays, which rely on spatially distinct immune reactions on two-dimensional surfaces, are limited by steric hindrance and inefficient reaction kinetics (<ce:cross-ref refid="bib7" id="crosref0125">Chiodi et al., 2021</ce:cross-ref>). Technologies such as Luminex, which utilize fluorescent microspheres as antigen carriers, support multiplexing but are constrained by the high cost of fluidic systems (<ce:cross-ref refid="bib14" id="crosref0130">Dunbar, 2006</ce:cross-ref>). With such limitations in the reported tests, there is an emergent need to develop alternative technologies based on portable and low-cost instrumentation that can be accessed for large cohorts of early disease screening on a community level, catering to marginalized sectors.</ce:para>
+                  <ce:para id="p0035" view="all">We report here a new cyber-physical system as an alternative to the traditional methods, which utilized a simple optical assembly to develop a do-it-yourself (DIY) microscope that connected seamlessly with a standard smartphone. It enabled the detection of highly specific conjugation reactions, such as antibody-antigen binding, even when the reactants were present only in trace concentrations within blood plasma. This resulted in a fully integrated sample-to-result platform (for a visual summary, see <ce:cross-ref refid="fig1" id="crosref0135">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/>) that unified in-situ plasma separation, analysis within a single, surface-engineered microfluidic strip, and ultra-sensitive detection. To achieve this feat, Fluorescent CDs with high quantum yields were conjugated to detection antibodies, producing sharp, excitation-specific fluorescent signals. These signals were captured by a smartphone-integrated portable fluorescent image acquisition device, which operated with UV illumination and precision filtering. The AI-driven image processing pipeline could extract critical diagnostic features from the fluorescent signals, enabling real-time, highly accurate biomarker quantification with performance metrics comparable to state-of-the-art laboratory systems. By merging cutting-edge AI techniques with portable diagnostic hardware, the system could thereby offer a comprehensive solution for early cancer detection, as exemplified here via the multiplex detection of two cancer antigens, NSE and CEA, simultaneously. NSE is closely linked to neuroendocrine tumors such as small cell lung cancer (SCLC) and neuroblastoma, as well as brain injuries. CEA is vital for assessing prognosis, monitoring treatment, and detecting recurrence in lung cancer, as well as in breast, colorectal, pancreatic, and gastric cancers. These examples are likely to establish the paradigm of how alternative portable and low-cost instrumentation can constitute the technology platform for large cohort disease screening on a community level, catering to marginalized sectors.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0030">Process workflow, sensing, and detection</ce:section-title>
+                  <ce:para id="p0040" view="all">All blood samples were collected from the B. C. Roy Technology Hospital (BCRTH), IIT Kharagpur, following approval from the Institute Ethical Committee. The process began by separating plasma from whole blood using a nitrocellulose-based lateral flow assay (LFA) strip. The LFA strip was designed with an optimized pore size and capillary flow rate for efficient plasma isolation with minimal sample volume. After extensive optimization, the strip dimensions were finalized at 3 mm × 3 cm, and a 35% dextran solution was determined to be ideal for plasma separation. Various Dextran-PBS solutions were tested with 50 μL of blood, and optimal separation was achieved in 2 min, yielding up to 18 μL of plasma. The plasma was then introduced into a polymethyl methacrylate (PMMA)-based microfluidic platform, selected for its optical transparency, chemical inertness, and biocompatibility. A sandwich immunoassay was used, where capture antibodies were immobilized on multiple 8 mm × 10 mm regions on a 25.5 mm × 76 mm PMMA substrate to bind specifically to antigens in the plasma. A Y-shaped channel (20 mm × 40.5 mm) directed the tagged antigens to the sensing regions, with the PMMA surface chemically functionalized for robust antibody immobilization, ensuring efficient antigen capture and accurate detection.</ce:para>
+                  <ce:para id="p0045" view="all">Antigen-antibody binding was detected using in-house synthesized carbon dots (CDs) as fluorescent tags, with tunable optical properties (<ce:cross-ref refid="appsec1" id="crosref0140">Fig. S1</ce:cross-ref>). Citric acid, urea, and O-phenylenediamine were used as precursors in a hydrothermal reaction, with controlled synthesis conditions (precursor ratios, temperature) to modulate fluorescence. By adjusting the graphitization, fluorescence was tuned across the visible spectrum. Blue-emitting CDs (460 nm) were synthesized for excitation at 365 nm, and yellow-emitting CDs (580 nm) for excitation at 380 nm. These CDs, tagged with detection antibodies, immobilized in the conjugate pad of the LFA strip, formed a sandwich immunoassay complex by binding specifically to antigens and capture antibodies.</ce:para>
+                  <ce:para id="p0050" view="all">Fluorescent signals from the CDs were captured using a smartphone-integrated portable DIY microscope (<ce:cross-ref refid="fig1" id="crosref0145">Fig. 1</ce:cross-ref>(c)), featuring UV excitation sources (365 nm and 380 nm), optical filters, focusing lens and magnifications from 250X to 1000X. Powered by a 9 V rechargeable battery, the system ensured portability. Fluorescent images were captured via the smartphone, which also enabled data storage and processing platform for analysis (<ce:cross-ref refid="fig1" id="crosref0150">Fig. 1</ce:cross-ref>(f)). Full device specifications are shown in <ce:cross-ref refid="appsec1" id="crosref0155">Fig. S3</ce:cross-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="sec3" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0035">Structural and morphological characterizations</ce:section-title>
+                  <ce:para id="p0055" view="all">High-Resolution Transmission Electron Microscopy (HR-TEM) was performed to study the morphology, fringe structures, and elemental features of the synthesized yellow-carbon dots (Y-CD) and blue-carbon dots (B-CD), as shown in <ce:cross-ref refid="appsec1" id="crosref0160">Fig. S4</ce:cross-ref>, Supporting Information. The Y-CD had an average particle size of 6.9 ± 0.51 nm. HRTEM images revealed a crystalline carbon structure. Two distinct lattice fringe distances were observed, measuring 0.21 nm and 0.28 nm, which corresponded to the graphitic in-plane lattice spacing of the (100) plane and the inter-planar spacing of the (001) plane, respectively, as shown in the inset of <ce:cross-ref refid="appsec1" id="crosref0165">Figure S4 (a)</ce:cross-ref>. In contrast, the average particle size for B-CD was determined to be 5.1 ± 0.29 nm, as shown in <ce:cross-ref refid="appsec1" id="crosref0170">Figure S4 (b)</ce:cross-ref>. The images similarly indicated a crystalline carbon structure, with a single observed lattice fringe distance of 0.2 nm attributed to the inter-planar spacing of the (100) plane, as shown in the inset of <ce:cross-ref refid="appsec1" id="crosref0175">Figure S4 (b)</ce:cross-ref>. This observation signified that the interlayer stacking within the carbon dots closely resembled that of graphite (<ce:cross-ref refid="bib19" id="crosref0180">Miao et al., 2018</ce:cross-ref>). The EDS elemental mapping analysis (<ce:cross-ref refid="appsec1" id="crosref0185">Figure S4 (c)</ce:cross-ref>) confirmed that the CDs contained elements such as carbon (C) in red, nitrogen (N) in green, and oxygen (O) in blue, along with their derivatives on the surface and edges of the CDs. The overlay image demonstrated the presence of C, N, and O elements, further highlighting the distribution of these elements and their derivatives across the surface and edges of the CDs.</ce:para>
+                  <ce:para id="p0060" view="all">The X-ray diffraction (XRD) analysis revealed key structural information about the CDs shown in <ce:cross-ref refid="appsec1" id="crosref0190">Figure S4 (d)</ce:cross-ref>. A diffraction peak appeared at approximately 23° value, corresponding to a d-spacing of 0.38 nm, which was indicative of an expanded interlayer distance. This broadening was attributed to steric hindrance introduced by functional groups at the graphene edges or to planar distortions caused by the incorporation of sp<ce:sup loc="post">3</ce:sup>-hybridized carbon within the graphene structure. Additionally, a sharper peak at 28.6° was observed, which aligned with the characteristic (001) reflection of graphite, corresponding to a d-spacing of 0.28 nm, supporting the HR-TEM images. The presence of this peak signified that the CDs retained a graphitic-like interlayer stacking similar to that of bulk graphite, with a stacking distance of approximately 0.28 nm (<ce:cross-ref refid="bib23" id="crosref0195">Pal et al., 2020</ce:cross-ref>). This close interlayer arrangement indicated the dominance of highly conjugated sp<ce:sup loc="post">2</ce:sup> carbon domains in the core region of the CDs, while the edges were likely disrupted by sp<ce:sup loc="post">3</ce:sup> carbon or surface functional groups, leading to localized increases in the interlayer spacing. The prominence of the 28.6° peak in the Y-CDs further suggested a higher degree of graphitization relative to the B-CDs. This was a direct indication of a larger conjugation length within the Y-CDs, implying a more extensive graphitic domain, likely due to the specific synthesis conditions, such as elevated temperatures and precursors.</ce:para>
+                  <ce:para id="p0065" view="all">X-ray photoelectron spectroscopy (XPS) was performed to analyze the surface groups of B-CD and Y-CD before and after the conjugation of tagged antibodies, as shown in <ce:cross-ref refid="fig2" id="crosref0200">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/>(a). The high-resolution XPS spectra of B-CDs are depicted in <ce:cross-ref refid="fig2" id="crosref0205">Fig. 2</ce:cross-ref>(b), showcasing that the C1s spectra could be deconvoluted into four distinct carbon species: sp<ce:sup loc="post">2</ce:sup>-hybridized carbon (sp<ce:sup loc="post">2</ce:sup>C, C=C and C-C) at 283.2 eV and 284.2 eV, sp<ce:sup loc="post">3</ce:sup>-hybridized carbon (sp<ce:sup loc="post">3</ce:sup>C, C-O-C/C-N) at 286.5 eV, and carbonyl carbon (C=O) at 287.6 eV. Additionally, high-resolution XPS spectra for N1s and O1s were obtained from <ce:cross-ref refid="fig2" id="crosref0210">Fig. 2</ce:cross-ref>(c and d). For N1s, the spectra were resolved into pyridinic nitrogen (N) at 395.4 eV, pyrrolic N at 399.7 eV, and oxidized nitrogen species (N=O) at 406.8 eV (<ce:cross-ref refid="bib17" id="crosref0215">Kosolapova et al., 2023</ce:cross-ref>; <ce:cross-ref refid="bib30" id="crosref0220">Yu et al., 2022</ce:cross-ref>). It was noteworthy that the relative content of graphitic N decreased from B-CDs to Y-CDs, whereas pyridinic N and pyrrolic N exhibited similar relative abundances.</ce:para>
+                  <ce:para id="p0070" view="all">The high-resolution XPS spectra for O1s revealed two components: C-O at 532.3 eV and C=O at 531.7 eV, with a slight increase in the relative amount of C=O. These observations show the surface-oxygen-containing groups that dictate the functional properties as well as effective conjugation ability with bio-molecules. Building on these findings, the Raman spectra were presented in <ce:cross-ref refid="fig2" id="crosref0225">Fig. 2</ce:cross-ref>(e). A couple of peaks at around 1340 cm<ce:sup loc="post">−1</ce:sup> and 1570 cm<ce:sup loc="post">−1</ce:sup> were observed, corresponding to the D and G bands of carbon materials, which reflected the degree of disorder and graphitic order, respectively. The intensity ratio (I<ce:inf loc="post">D</ce:inf>/I<ce:inf loc="post">G</ce:inf>) of these peaks provided further insight into the sp<ce:sup loc="post">2</ce:sup>/sp<ce:sup loc="post">3</ce:sup> carbon ratio and the level of graphitization in the CDs. The I<ce:inf loc="post">D</ce:inf>/I<ce:inf loc="post">G</ce:inf> ratios were calculated to be approximately 1.5 for B-CDs and 1.16 for Y-CDs. The progressively lower ratio from B-CDs to Y-CDs indicated a reduction in structural defects and an increase in graphitic content, confirming a higher degree of graphitization in the Y-CDs (<ce:cross-ref refid="bib18" id="crosref0230">Mathew et al., 2020</ce:cross-ref>). The peaks at 1511 cm<ce:sup loc="post">−1</ce:sup> in Y-CD and 1490 cm<ce:sup loc="post">−1</ce:sup> in B-CD represent aromatic C-C stretching and S-peak, respectively.</ce:para>
+                  <ce:para id="p0075" view="all">To further understand the role of the functional groups in the application, FTIR was performed. The FTIR spectra of CDs, as shown in <ce:cross-ref refid="fig2" id="crosref0235">Fig. 2</ce:cross-ref>(f), displayed characteristic stretching vibrations. The OH stretching vibration was observed at 3292 cm<ce:sup loc="post">−1</ce:sup>, although the wideness of the peak suggests the existence of a carboxyl group for the CDs (<ce:cross-ref refid="bib20" id="crosref0240">Mintz et al., 2021</ce:cross-ref>), and the CH stretching vibration was noted at 2934 cm<ce:sup loc="post">−1</ce:sup>. Two prominent peaks were detected at 1640 cm<ce:sup loc="post">−1</ce:sup> and 1545 cm<ce:sup loc="post">−1</ce:sup>, corresponding to the stretching of C=C and O=C–N (amide) bonds, respectively, indicating a conjugated aromatic structure with oxygen- and nitrogen-containing functional groups (<ce:cross-ref refid="bib17" id="crosref0245">Kosolapova et al., 2023</ce:cross-ref>). A blue shift was apparent in the FTIR spectra of NSE- and CEA-conjugated CDs, likely due to the surface functionalization of the CDs for antibody conjugation. The conjugated spectra of both Y-CDs and B-CDs exhibited stretching vibrations for NH at 3025 cm<ce:sup loc="post">−1</ce:sup> and C=O at 1660 cm<ce:sup loc="post">−1</ce:sup>, confirming successful antibody conjugation. Following the completion of morphological and structural characterizations, it was confirmed that the CDs were successfully synthesized and effectively conjugated with the detection antibodies.</ce:para>
+                  <ce:para id="p0080" view="all">To evaluate their suitability for extensive application in the POC diagnostic device, a series of optical characterizations was conducted. These experiments were designed to assess the fluorescence properties, stability, and performance of the synthesized CDs, ensuring their applicability for reliable and accurate biomarker detection within the POC system. The UV–visible (UV–Vis) spectra of B-CDs, shown in <ce:cross-ref refid="fig3" id="crosref0250">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/>(a), displayed a strong absorption band at 350 nm, typically associated with the n–π∗ optical transitions (<ce:cross-ref refid="bib27" id="crosref0255">Stepanidenko et al., 2020</ce:cross-ref>). Interaction with the NSE antigen further enhanced this absorption, broadening the peak and ultimately quenching the fluorescence emission of B-CDs. Y-CDs exhibited an absorption band around 300 nm and a broad peak near 450 nm, which became less prominent when conjugated with the CEA antigen. The photoluminescence (PL) properties of B-CDs, presented in <ce:cross-ref refid="fig3" id="crosref0260">Fig. 3</ce:cross-ref>(b), revealed maximum emission at approximately 460 nm. Similarly, Y-CDs exhibited maximum emission at about 580 nm, as shown in <ce:cross-ref refid="fig3" id="crosref0265">Fig. 3</ce:cross-ref>(c), with emission spectra stemming from the transition of the absorption band at 450 nm, attributed to 2,3-diaminophenazine-like moieties (<ce:cross-ref refid="bib28" id="crosref0270">Vedernikova et al., 2022</ce:cross-ref>; <ce:cross-ref refid="bib29" id="crosref0275">Wang et al., 2022</ce:cross-ref>). Fluorescence response characteristics with variable antigen concentrations were examined to establish the correlation between intensity and concentration. The fluorescent intensity of the NSE antigen, with concentrations ranging from 0.9 ng/mL to 1000 ng/mL, was recorded as shown in <ce:cross-ref refid="fig3" id="crosref0280">Fig. 3</ce:cross-ref>(d). Fluorescence quenching was observed, with the intensity decreasing as the concentration of NSE antigen increased. In contrast, no fluorescence quenching was observed for Y-CDs, and the intensity gradually increased with the rising concentration of CEA antigen, as shown in <ce:cross-ref refid="fig3" id="crosref0285">Fig. 3</ce:cross-ref>(e). These outcomes revealed that the synthesized CDs demonstrated robust photostability, and strong fluorescence, establishing them as a superior alternative to traditional dyes and quantum dots. With tunable emission spectra, the CDs enabled precise fluorescence signalling upon conjugation with detection antibodies, achieving high sensitivity in identifying specific biomarkers such as NSE and CEA. The well-separated emission spectra of the CDs effectively eliminated spectral overlap, enhancing detection accuracy and minimizing potential interference. However, the correlation between the concentrations of NSE and CEA antigens and their respective normalized fluorescent intensities, depicted in <ce:cross-ref refid="fig3" id="crosref0290">Fig. 3</ce:cross-ref>(f), indicated that there was no absolute linear relationship between intensity and antigen concentration. This finding strongly emphasized the need for artificial intelligence (AI) to predict antigen concentrations accurately and enhance the efficiency of the detection scheme, given the compromise in the instrumentation by substituting the traditional laboratory-based spectroscopic instrumentation with the present portable fluorescence detector.</ce:para>
+                  <ce:para id="p0085" view="all">Fluorescent images captured by the portable microscope were compared to those from a state-of-the-art fluorescence microscope. Minor background fluorescence artifacts were addressed using a specialized post-processing algorithm, which removed noise and compensated for varying physical conditions. This enabled the portable system to extract critical quantitative features, such as fluorescence intensity and emission area, achieving imaging standards comparable to advanced laboratory equipment.</ce:para>
+                  <ce:para id="p0090" view="all">A CNN-based model processed the images in real-time, extracting features for rapid and accurate diagnostics. Training was conducted over 10,000 epochs with a batch size of 210, using early stopping with an 8-epoch patience to prevent overfitting. The model restored the best weights during training. The pipeline began by defining the Region of Interest (ROI) to isolate fluorescence signals (<ce:cross-ref refid="fig4" id="crosref0295">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig4"/>(a)) and resizing images for uniformity. The final output layer featured a single Dense unit for continuous regression, predicting exact biomarker concentrations.</ce:para>
+                  <ce:para id="p0095" view="all">Mean Squared Error (MSE) was employed as the loss function, while Mean Absolute Error (MAE) served as the performance metric for better interpretability (<ce:cross-ref refid="fig4" id="crosref0300">Fig. 4</ce:cross-ref>(b) and (c)). Predicted concentrations were compared against a threshold to determine potential diagnoses. A detailed algorithm description and pseudocode are provided in the Supporting Information, highlighting the robustness and diagnostic potential of the system.</ce:para>
+               </ce:section>
+               <ce:section id="sec4" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0040">Indicators of performance</ce:section-title>
+                  <ce:para id="p0100" view="all">To establish proof-of-concept, fluorescence images of varying concentrations of NSE and CEA antigens were prepared in vitro. Human blood samples for these studies were collected from B.C. Roy Technology Hospital, IIT Kharagpur, with approval from the Institute Ethical Committee. A dataset of 1000 fluorescence images was generated, covering biomarker concentrations from 0.9 ng/mL to 500 ng/mL for both NSE and CEA. These images trained the CNN model, which was subsequently evaluated using MAE to assess its predictive performance for real blood plasma samples. Incorporating real sample data into the model significantly improved antigen concentration determination accuracy, as shown in <ce:cross-ref refid="fig4" id="crosref0305">Fig. 4</ce:cross-ref>(d). These findings are further validated by the ELISA results of the blood samples, which align with the data obtained from the portable device as shown in <ce:cross-ref refid="appsec1" id="crosref0310">Fig. S6</ce:cross-ref>, Supporting Information. The performance of the AI model improved with increasing data volume, enhancing its robustness in diverse clinical scenarios.</ce:para>
+                  <ce:para id="p0105" view="all">
+                     <ce:cross-ref refid="appsec1" id="crosref0315">Table S2</ce:cross-ref> of the Supplementary Information presents the real-time experimental results for freshly prepared strips across four different batches. The relative standard deviations (RSDs) for NSE detection were 0.22, 2.52, 1.2, and 1.49 for concentrations of 3.1, 5.01, 7.01, and 9.05 ng/mL, respectively. Similarly, for CEA detection, the RSD values were 0.91, 16.94, 6.96, and 5.39 for concentrations of 0.7, 1.5, 2.7, and 3.3 ng/mL, respectively. Notably, the mid-range concentrations (∼5 ng/mL for NSE and ∼1.5 ng/mL for CEA) exhibited higher RSD values compared to other concentrations. This trend is supportive of early disease detection as it reflects greater variability in fluorescence signals at lower biomarker concentrations.</ce:para>
+                  <ce:para id="p0110" view="all">To ensure usability in low-resource settings, the AI model was pre-trained and embedded within a smartphone application, enabling offline operation without network connectivity. This design enhanced portability and made the system suitable for remote environments. Users captured fluorescence images using the smartphone camera, and the embedded model processed these images locally, providing immediate and accurate biomarker concentration outputs. <ce:cross-ref refid="fig5" id="crosref0320">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig5"/>(a)–(d) display fluorescence images of samples with increasing concentrations, categorized into blank samples (top), NSE samples (middle), and CEA samples (bottom). NSE and CEA antigens belong to a family of cell membrane components that exhibit aggregation tendencies as their concentration increases (<ce:cross-ref refid="bib24" id="crosref0325">Paul et al., 2023</ce:cross-ref>). During the experiments, both the antigens tended to aggregate at the edges and center of the microchannel, making it hard to observe the minimal changes. While the smartphone-based imaging system provided reasonable qualitative clarity, post-processing was crucial for accurate quantitative analysis. To enhance predictive accuracy, the CNN model mitigated environmental variations, achieving over 97% accuracy within the diagnostic framework. This demonstrates the system's potential for reliable, portable diagnostics in underserved regions.</ce:para>
+                  <ce:para id="p0115" view="all">We evaluated the assay's specificity by testing two protein groups, each at a concentration of 15.6 ng/mL, as shown in <ce:cross-ref refid="fig6" id="crosref0330">Fig. 6</ce:cross-ref>
+                     <ce:float-anchor refid="fig6"/>(a). The assay demonstrated high specificity, effectively detecting the target biomarker while producing minimal signals for non-target proteins. Moreover, the multiplexed assay could maintain detection of its efficiency comparable to single-biomarker assays, demonstrating its capability to accurately quantify multiple biomarkers simultaneously with minimal cross-reactivity, as depicted in <ce:cross-ref refid="fig6" id="crosref0335">Fig. 6</ce:cross-ref>(b). This highlighted the assay's reliability in distinguishing between biomarkers, enabling precise detection in both single and multiplexed formats.</ce:para>
+                  <ce:para id="p0120" view="all">As illustrated in <ce:cross-ref refid="fig6" id="crosref0340">Fig. 6</ce:cross-ref>(c), the limit of detection (LOD) for CEA was determined to be 0.1 ng/mL in spiked samples and 0.4 ng/mL in human plasma samples. For NSE, the LOD was established at 0.9 ng/mL in spiked samples, as shown in <ce:cross-ref refid="fig6" id="crosref0345">Fig. 6</ce:cross-ref>(d). The LOD in human plasma samples was determined to be the same as the spiked sample, aligning with the typical NSE concentration range in healthy individuals. This device demonstrated reliable performance in quantifying NSE and CEA concentrations, as shown in its comparison with the gold standard ELISA results, presented in <ce:cross-ref refid="appsec1" id="crosref0350">Fig. S6</ce:cross-ref> of the Supporting <ce:bold>Information</ce:bold>. These findings further supported the assay's practical sensitivity and clinical relevance, demonstrating its potential for reliable application in real-world diagnostic scenarios.</ce:para>
+                  <ce:para id="p0125" view="all">A comparative analysis of the present test performance with the other reported POC technologies for the same target biomarkers is provided in <ce:cross-ref refid="appsec1" id="crosref0355">Table S1</ce:cross-ref>, which is included in the Supporting <ce:bold>Information</ce:bold>. These biosensing platforms, which integrate nanomaterials such as Au nano-stars, quantum dots (QDs), and graphene, alongside techniques like SERS and electrochemical detection, have significantly improved diagnostic capabilities as compared to the earlier POC technologies. However, many of them rely on expensive equipment for signal processing or acquisition and lack real-time decision-making based on external testing conditions - particularly for the optical detection platforms. This limits their application in extreme POC settings. In contrast, the technology presented here puts forward a comprehensive, sample-to-result platform that is well-suited for large-scale disease screening outside controlled laboratories.</ce:para>
+               </ce:section>
+               <ce:section id="sec5" role="conclusion" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="sectitle0045">Conclusions</ce:section-title>
+                  <ce:para id="p0130" view="all">Early disease detection is essential for effective treatment, but conventional diagnostic methods rely on sophisticated equipment, limiting accessibility and increasing healthcare costs. To overcome these challenges, we developed a low-cost, portable diagnostic system integrating in-situ blood plasma separation, biomarker detection, and analysis on a single microfluidic chip. Functionalized carbon dots (CDs) act as fluorescent tags for multiplexed detection of NSE and CEA biomarkers, offering high specificity, low detection limits, and resistance to photobleaching. With emission tuned to 460 nm (blue) and 580 nm (yellow), CDs enable simultaneous biomarker quantification without requiring structural or operational modifications, ensuring versatility and scalability.</ce:para>
+                  <ce:para id="p0135" view="all">A portable smartphone-based DIY fluorescent microscope with UV excitation (365 nm and 380 nm) and up to 1000X magnification is developed as a cost-effective alternative to high-end conventional microscopes, customized for the application reported herein. Priced at approximately $1,500, it significantly reduces costs compared to traditional equipment (∼$50,000). The device captures high-resolution fluorescent images using low-cost optics and a lightweight smartphone attachment. An integrated AI framework analyses fluorescence intensity and area, enabling detection of protein concentrations as low as 0.4 ng/mL within 10 min. With minimal training required, this versatile, low-cost system supports simultaneous biomarker detection, improving accessibility to early disease screening in underserved regions. This technology represents a paradigm shift in diagnostics, making early disease detection accessible and affordable for underserved populations. By reducing barriers to screening and enabling large-scale community testing, it has the potential to significantly improve global health outcomes and reduce the burden of treatable diseases (<ce:cross-ref refid="bib15" id="crosref0360">Heidt et al., 2020</ce:cross-ref>).</ce:para>
+               </ce:section>
+               <ce:section id="sec6" view="all">
+                  <ce:section-title id="sectitle0050">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p0140" view="all">
+                     <ce:bold>Biswadeep Roy:</ce:bold> Writing – original draft, Methodology, Formal analysis. <ce:bold>Abhisek Maikap:</ce:bold> Writing – original draft, Visualization, Validation, Methodology, Investigation, Formal analysis, Data curation. <ce:bold>Soumen Das:</ce:bold> Supervision. <ce:bold>Suman Chakraborty:</ce:bold> Writing – review &amp; editing, Supervision, Resources, Methodology, Conceptualization.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0010" view="all">
+               <ce:section-title id="sectitle0055">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0145" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0060">Acknowledgments</ce:section-title>
+               <ce:para id="p0150" view="all">The authors acknowledge the financial support provided by AI4ICPS, IIT Kharagpur, DST Government of India. They would also like to thank the authorities of the pathology unit at the B.C. Roy Technology Hospital, Indian Institute of Technology. B.R. is thankful to Dipankar Mandal and Pranab Jyoti Talukdar for Artificial Intelligence method and characterization related assistance, S.C. acknowledges SERB, Government of India for the Sir J. C. Bose National Fellowship.</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="appsec1" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0065">Supplementary data</ce:section-title>
+                  <ce:para id="p0155" view="all">The following is the Supplementary data to this article.<ce:display>
+                        <ce:e-component id="mmc1">
+                           <ce:label>Multimedia component 1</ce:label>
+                           <ce:alt-text role="short" id="alttext0010">Multimedia component 1</ce:alt-text>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S0956566325001332/mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="appsec2" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0070">Supplementary data</ce:section-title>
+                  <ce:para id="p0160" view="all">Supplementary data to this article can be found online at <ce:inter-ref xlink:href="https://doi.org/10.1016/j.bios.2025.117259" id="intref0010" xlink:type="simple">https://doi.org/10.1016/j.bios.2025.117259</ce:inter-ref>.</ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0075">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>Ahmad et al., 2023</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ahmad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Imran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ahsan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Pharmaceutics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.3390/pharmaceutics15061630</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0020">Ahmad, A., Imran, M., Ahsan, H., 2023. Pharmaceutics 15. https://doi.org/10.3390/pharmaceutics15061630</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>Ang et al., 2015</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Ang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Y.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.Y.</ce:given-name>
+                                 <ce:surname>Ang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Chan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.B.</ce:given-name>
+                                 <ce:surname>Alias</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Khor</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Methods</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3972</sb:first-page>
+                              <sb:last-page>3980</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/c5ay00518c</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0025">Ang, S.H., Yu, C.Y., Ang, G.Y., Chan, Y.Y., Alias, Y.B., Khor, S.M., 2015. Anal. Methods 7, 3972-3980. https://doi.org/10.1039/c5ay00518c</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>Bellei et al., 2011</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Bellei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bergamini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Monari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.I.</ce:given-name>
+                                 <ce:surname>Fantoni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Cuoghi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ozben</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Tomasi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Amino Acids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>145</sb:first-page>
+                              <sb:last-page>156</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s00726-010-0628-x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">Bellei, E., Bergamini, S., Monari, E., Fantoni, L.I., Cuoghi, A., Ozben, T., Tomasi, A., 2011. Amino Acids 40, 145-156. https://doi.org/10.1007/s00726-010-0628-x</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>Bodaghi et al., 2023</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bodaghi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Fattahi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ramazani</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Heliyon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:article-number>e13323</sb:article-number>
+                           <ce:doi>10.1016/j.heliyon.2023.e13323</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0035">Bodaghi, A., Fattahi, N., Ramazani, A., 2023. Heliyon 9, e13323. https://doi.org/10.1016/j.heliyon.2023.e13323</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>Chen et al., 2023</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Cao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Prettner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kuhn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Jiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Geldsetzer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Bärnighausen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Bloom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>JAMA Oncol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>465</sb:first-page>
+                              <sb:last-page>472</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1001/jamaoncol.2022.7826</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0040">Chen, S., Cao, Z., Prettner, K., Kuhn, M., Yang, J., Jiao, L., Wang, Z., Li, W., Geldsetzer, P., Barnighausen, T., Bloom, D.E., Wang, C., 2023. JAMA Oncol.. 9, 465-472. https://doi.org/10.1001/jamaoncol.2022.7826</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>Chin et al., 2007</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.D.</ce:given-name>
+                                 <ce:surname>Chin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Linder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Sia</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lab Chip</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>41</sb:first-page>
+                              <sb:last-page>57</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/b611455e</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0045">Chin, C.D., Linder, V., Sia, S.K., 2007. Lab Chip 7, 41-57. https://doi.org/10.1039/b611455e</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>Chiodi et al., 2021</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Chiodi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Marn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.T.</ce:given-name>
+                                 <ce:surname>Geib</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Selim Ünlü</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Polymers</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>21</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.3390/polym13071026</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0050">Chiodi, E., Marn, A.M., Geib, M.T., Selim Unlu, M., 2021. Polymers. 13, 1-21. https://doi.org/10.3390/polym13071026</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>Chu et al., 2020</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Ling</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12962</sb:first-page>
+                              <sb:last-page>12971</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acsami.9b20458</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0055">Chu, S., Wang, H., Ling, X., Yu, S., Yang, L., Jiang, C., 2020. ACS Appl. Mater. Interfaces 12, 12962-12971. https://doi.org/10.1021/acsami.9b20458</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>Clark et al., 2013</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.E.</ce:given-name>
+                                 <ce:surname>Clark</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.J.</ce:given-name>
+                                 <ce:surname>Kaleta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Arora</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Wolk</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Clin. Microbiol. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>547</sb:first-page>
+                              <sb:last-page>603</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1128/CMR.00072-12</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0060">Clark, A.E., Kaleta, E.J., Arora, A., Wolk, D.M., 2013. Clin. Microbiol. Rev. 26, 547-603. https://doi.org/10.1128/CMR.00072-12</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>Darwish et al., 2024</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Darwish</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Abd-Elaziem</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Elsheikh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Zayed</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2024</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4015</sb:first-page>
+                              <sb:last-page>4046</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/d4na00214h</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0065">Darwish, M.A., Abd-Elaziem, W., Elsheikh, A., Zayed, A.A., 2024. Nanoscale Adv.. 6, 4015-4046. https://doi.org/10.1039/d4na00214h</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>Das et al., 2024</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Das</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.K.</ce:given-name>
+                                 <ce:surname>Dey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Devireddy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Gartia</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sensors</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2024</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.3390/s24010037</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0070">Das, S., Dey, M.K., Devireddy, R., Gartia, M.R., 2024. Sensors 24. https://doi.org/10.3390/s24010037</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>Dawkins et al., 2021</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Dawkins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Renwick</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ensor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Shinkins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Jayne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Meads</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Trop. Med. Int. Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1177</sb:first-page>
+                              <sb:last-page>1188</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/tmi.13651</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0075">Dawkins, B., Renwick, C., Ensor, T., Shinkins, B., Jayne, D., Meads, D., 2021. Trop. Med. Int. Health 26, 1177-1188. https://doi.org/10.1111/tmi.13651</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>Denoroy et al., 2013</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Denoroy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zimmer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Renaud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Parrot</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chromatogr., B: Anal. Technol. Biomed. Life Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>927</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>37</sb:first-page>
+                              <sb:last-page>53</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.jchromb.2012.12.005</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0080">Denoroy, L., Zimmer, L., Renaud, B., Parrot, S., 2013. J. Chromatogr., B: Anal. Technol. Biomed. Life Sci. 927, 37-53. https://doi.org/10.1016/j.jchromb.2012.12.005</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>Dunbar, 2006</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Dunbar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Clin. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>363</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>71</sb:first-page>
+                              <sb:last-page>82</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.cccn.2005.06.023</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0085">Dunbar, S.A., 2006. Clin. Chim. Acta 363, 71-82. https://doi.org/10.1016/j.cccn.2005.06.023</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>Heidt et al., 2020</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Heidt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.F.</ce:given-name>
+                                 <ce:surname>Siqueira</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Eersels</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Diliën</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Van Grinsven</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.T.</ce:given-name>
+                                 <ce:surname>Fujiwara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>Cleij</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosensors</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.3390/BIOS10100133</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0090">Heidt, B., Siqueira, W.F., Eersels, K., Dilien, H., Van Grinsven, B., Fujiwara, R.T., Cleij, T.J., 2020. Biosensors 10. https://doi.org/10.3390/BIOS10100133</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>Huang et al., 2017</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>O’connor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Kwizera</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanotheranostics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>80</sb:first-page>
+                              <sb:last-page>102</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.7150/ntno.18216</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0095">Huang, X., O’connor, R., Kwizera, E.A., 2017. Nanotheranostics 1, 80-102. https://doi.org/10.7150/ntno.18216</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>Kosolapova et al., 2023</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.D.</ce:given-name>
+                                 <ce:surname>Kosolapova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Koroleva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.A.</ce:given-name>
+                                 <ce:surname>Arefina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Miruschenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Cherevkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.G.</ce:given-name>
+                                 <ce:surname>Spiridonov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.V.</ce:given-name>
+                                 <ce:surname>Zhizhin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.V.</ce:given-name>
+                                 <ce:surname>Ushakova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Rogach</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8845</sb:first-page>
+                              <sb:last-page>8853</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/d3nr00377a</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0100">Kosolapova, K.D., Koroleva, A. V., Arefina, I.A., Miruschenko, M.D., Cherevkov, S.A., Spiridonov, I.G., Zhizhin, E. V., Ushakova, E. V., Rogach, A.L., 2023. Nanoscale 15, 8845-8853. https://doi.org/10.1039/d3nr00377a</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>Mathew et al., 2020</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Mathew</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Praveena</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Dhanavel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Manikandan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Senthilkumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Stephen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>RSC Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>24386</sb:first-page>
+                              <sb:last-page>24396</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/d0ra04599c</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0105">Mathew, S.A., Praveena, P., Dhanavel, S., Manikandan, R., Senthilkumar, S., Stephen, A., 2020. RSC Adv.. 10, 24386-24396. https://doi.org/10.1039/d0ra04599c</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>Miao et al., 2018</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Miao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Nie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>8</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/adma.201704740</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0110">Miao, X., Qu, D., Yang, D., Nie, B., Zhao, Y., Fan, H., Sun, Z., 2018. Adv. Mater. 30, 1-8. https://doi.org/10.1002/adma.201704740</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>Mintz et al., 2021</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Mintz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bartoli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Rovere</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Hettiarachchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Paudyal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Domena</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.Y.</ce:given-name>
+                                 <ce:surname>Liyanage</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Sampson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Khadka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.R.</ce:given-name>
+                                 <ce:surname>Pandey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.C.</ce:given-name>
+                                 <ce:surname>Chusuei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Tagliaferro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Leblanc</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon N. Y.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>173</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>433</sb:first-page>
+                              <sb:last-page>447</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.carbon.2020.11.017</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0115">Mintz, K.J., Bartoli, M., Rovere, M., Zhou, Y., Hettiarachchi, S.D., Paudyal, S., Chen, J., Domena, J.B., Liyanage, P.Y., Sampson, R., Khadka, D., Pandey, R.R., Huang, S., Chusuei, C.C., Tagliaferro, A., Leblanc, R.M., 2021. Carbon N. Y. 173, 433-447. https://doi.org/10.1016/j.carbon.2020.11.017</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>Nimse et al., 2016</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Nimse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Sonawane</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Analyst</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>141</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>740</sb:first-page>
+                              <sb:last-page>755</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/c5an01790d</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0120">Nimse, S.B., Sonawane, M.D., Song, K.S., Kim, T., 2016. Analyst 141, 740-755. https://doi.org/10.1039/c5an01790d</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>Noviana et al., 2021</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Noviana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ozer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Carrell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Link</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>McMahon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Jang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Henry</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>121</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11835</sb:first-page>
+                              <sb:last-page>11885</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acs.chemrev.0c01335</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0125">Noviana, E., Ozer, T., Carrell, C.S., Link, J.S., McMahon, C., Jang, I., Henry, C.S., 2021. Chem. Rev. 121, 11835-11885. https://doi.org/10.1021/acs.chemrev.0c01335</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>Pal et al., 2020</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Pal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Sk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Chattopadhyay</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>525</sb:first-page>
+                              <sb:last-page>553</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/d0ma00108b</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0130">Pal, A., Sk, M.P., Chattopadhyay, A., 2020. Mater. Adv. 1, 525-553. https://doi.org/10.1039/d0ma00108b</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>Paul et al., 2023</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Paul</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Stern</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Vallis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Dhillon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Buchanan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>McMahon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1038/s41467-023-36496-y</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0135">Paul, D., Stern, O., Vallis, Y., Dhillon, J., Buchanan, A., McMahon, H., 2023. Nat. Commun. 14. https://doi.org/10.1038/s41467-023-36496-y</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>Shin Low et al., 2020</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Shin Low</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Ji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sensor. Actuator. B Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>308</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>127718</sb:article-number>
+                           <ce:doi>10.1016/j.snb.2020.127718</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0140">Shin Low, S., Pan, Y., Ji, D., Li, Y., Lu, Y., He, Y., Chen, Q., Liu, Q., 2020. Sensor. Actuator. B Chem. 308, 127718. https://doi.org/10.1016/j.snb.2020.127718</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>Simoneit, 2005</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.R.T.</ce:given-name>
+                                 <ce:surname>Simoneit</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mass Spectrom. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>719</sb:first-page>
+                              <sb:last-page>765</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/mas.20036</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0145">Simoneit, B.R.T., 2005. Mass Spectrom. Rev. 24, 719-765. https://doi.org/10.1002/mas.20036</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>Stepanidenko et al., 2020</ce:label>
+                     <sb:reference id="sref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Stepanidenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.A.</ce:given-name>
+                                 <ce:surname>Arefina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.D.</ce:given-name>
+                                 <ce:surname>Khavlyuk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Dubavik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.V.</ce:given-name>
+                                 <ce:surname>Bogdanov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.P.</ce:given-name>
+                                 <ce:surname>Bondarenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Cherevkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.V.</ce:given-name>
+                                 <ce:surname>Kundelev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Fedorov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Baranov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.G.</ce:given-name>
+                                 <ce:surname>Maslov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.V.</ce:given-name>
+                                 <ce:surname>Ushakova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Rogach</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>602</sb:first-page>
+                              <sb:last-page>609</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/c9nr08663c</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0150">Stepanidenko, E.A., Arefina, I.A., Khavlyuk, P.D., Dubavik, A., Bogdanov, K. V., Bondarenko, D.P., Cherevkov, S.A., Kundelev, E. V., Fedorov, A. V., Baranov, A. V., Maslov, V.G., Ushakova, E. V., Rogach, A.L., 2020. Nanoscale 12, 602-609. https://doi.org/10.1039/c9nr08663c</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>Vedernikova et al., 2022</ce:label>
+                     <sb:reference id="sref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Vedernikova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Miruschenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.A.</ce:given-name>
+                                 <ce:surname>Arefina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Babaev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Stepanidenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Cherevkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.G.</ce:given-name>
+                                 <ce:surname>Spiridonov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.V.</ce:given-name>
+                                 <ce:surname>Danilov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Koroleva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.V.</ce:given-name>
+                                 <ce:surname>Zhizhin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.V.</ce:given-name>
+                                 <ce:surname>Ushakova</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanomaterials</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.3390/nano12193314</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0155">Vedernikova, A.A., Miruschenko, M.D., Arefina, I.A., Babaev, A.A., Stepanidenko, E.A., Cherevkov, S.A., Spiridonov, I.G., Danilov, D. V., Koroleva, A. V., Zhizhin, E. V., Ushakova, E. V., 2022. Nanomaterials 12. https://doi.org/10.3390/nano12193314</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>Wang et al., 2022</ce:label>
+                     <sb:reference id="sref29">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Sui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Tian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Light Sci. Appl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1038/s41377-022-00865-x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0160">Wang, B., Wei, Z., Sui, L., Yu, J., Zhang, B., Wang, X., Feng, S., Song, H., Yong, X., Tian, Y., Yang, B., Lu, S., 2022. Light Sci. Appl. 11. https://doi.org/10.1038/s41377-022-00865-x</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>Yu et al., 2022</ce:label>
+                     <sb:reference id="sref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ru</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale Res. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1186/s11671-022-03661-z</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0165">Yu, R., Liang, S., Ru, Y., Li, L., Wang, Z., Chen, J., Chen, L., 2022. Nanoscale Res. Lett. 17. https://doi.org/10.1186/s11671-022-03661-z</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

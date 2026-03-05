@@ -1,0 +1,39 @@
+
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition": "Nitrogen doped carbon dots",
+            "iupac_name": null,
+            "alternative_names": ["NCDs"]
+        },
+        "synthesis": {
+            "method": {"type": "pyrolysis", "conditions": "180°C for 30 min", "catalysts": null},
+            "precursors": {"source": ["ethanolamine 3.0mL", "H2O2 4.5mL"], "dopants": ["Nitrogen"]},
+            "post_treatment": ["add (100 ml H2O)", "centrifugate (8000rpm for 30min)"]
+        },
+        "properties": {
+            "optical": {
+                "quantum_yield": {"value": null, "reference_material": null},
+                "excitation_max": "360 nm",
+                "emission_max": " 440 nm",
+                "fluorescence_lifetime": null
+            },
+            "structural": {
+                "size": {"avg": null, "distribution": "equally distributed"},
+                "morphology": "spherical or spheroidal",
+                "crystallinity": null
+            },
+            "chemical": {
+                "surface_groups": ["-OH", "-NH2", "-CONH"],
+                "elemental_composition": { "C": "[MISSING]", "N": "[MISSING]", "O": "[MISSING]"}
+            }
+        },
+        "applications": [
+            {
+                "domain": "Ratio fluorometric determination of ATP base",
+                "performance": "linear range of 5.0x10-8 molL-1 to 2.0x10 -6 mol L-1. The detection limit was calculated to be 2.0x10-8 molL-1",
+                "comparative_advantage": " the proposed ratio fluorometric method can eliminate environmental influence to make it wider linear range, higher sensitive and higher precision"
+            }
+        ]
+    }
+}

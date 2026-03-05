@@ -1,0 +1,67 @@
+{
+  "input_source": "artigo14.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "aminated graphene QDs",
+        "iupac_name": null,
+        "alternative_names": [
+          "AG-QDs"
+        ]
+      },
+      "synthesis": {
+        "method": {
+          "type": "Hydrothermal carbonization",
+          "conditions": "Purchased suspended in deionized water (1000 μg/mL, pH 7.0)"
+        },
+        "precursors": {
+          "source": "[MISSING]",
+          "dopants": null
+        },
+        "post_treatment": null
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": null,
+          "excitation_max": null,
+          "emission_max": null,
+          "fluorescence_lifetime": null
+        },
+        "structural": {
+          "size": {
+            "avg": "[MISSING]",
+            "distribution": "4-6nm"
+          },
+          "morphology": "well dispersed with a single layer of oxidized graphene",
+          "crystallinity": "Rich defects with D and G bands"
+        },
+        "chemical": {
+          "surface_groups": [
+            "C=C/C-C",
+            "C-OH",
+            "C=O",
+            "O=C-OH",
+            "C-N"
+          ],
+          "elemental_composition": {
+            "C": "[MISSING]",
+            "N": "[MISSING]",
+            "O": "[MISSING]"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "Nanotoxicity/Genotoxicity Research",
+          "performance": "Genotoxic at 100 μg/mL (noncytotoxic dose) with 2898 differentially expressed genes",
+          "comparative_advantage": "Could contribute to the cellular recovery"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Bad",
+    "score": 1.0,
+    "expert_comment": "Incomplete Structure: The entire section 'carbon_dots -> synthesis -> method -> catalysts' was incorrectly omitted. The JSON is missing a mandatory structural block. | Contextual Error: The correct text for carbon_dots -> synthesis -> method -> type was 'Commercial Source', but the model wrongly extracted 'Aqueous precursor solution sealed in a Teflon-lined stainless-steel autoclave and heated at 180 °C for 6 h, followed by natural cooling to room temperature'."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "input_source": "artigo30.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "graphene quantum dots (GQDs) synthesized via a facile synthetic route",
+        "iupac_name": null,
+        "alternative_names": null
+      },
+      "synthesis": {
+        "method": {
+          "type": "Acid vapor cutting strategy",
+          "conditions": "Synthesized from MOF-derived carbon (ZIF-8)",
+          "catalysts": null
+        },
+        "precursors": {
+          "source": [
+            "ZIF-8 (MOF-derived carbon)"
+          ],
+          "dopants": null
+        }
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": null,
+            "reference_material": "[MISSING]"
+          },
+          "excitation_max": "[MISSING]",
+          "emission_max": "[MISSING]",
+          "fluorescence_lifetime": null
+        },
+        "structural": {
+          "size": {
+            "avg": "[MISSING]",
+            "distribution": "[MISSING]"
+          },
+          "morphology": "Evenly and sparsely distributed on the surface of composite of ZnO nanosheets",
+          "crystallinity": "[MISSING]"
+        },
+        "chemical": {
+          "surface_groups": "[MISSING]",
+          "elemental_composition": {
+            "C": "[MISSING]",
+            "N": "[MISSING]",
+            "O": "[MISSING]"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "Dye-Sensitized Solar Cells (DSSCs)",
+          "performance": "Power Conversion Efficiency (PCE): 5.27%; relatively high photocurrent of 12.2 mA cm-2; open-circuit voltage: 0.68V;  Dye loading amount increased from 1.18 to 1.39 10-7mol cm-2; FF = 0.63",
+          "comparative_advantage": " the cell composed of GQDS on the surface ZNSs exhibited the best efficiency of 5.27% which is 41% enhancement comparable to that of ZNSs-based device"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Bad",
+    "score": 1.0,
+    "expert_comment": "Incomplete Structure: The entire section 'carbon_dots -> synthesis -> post_treatment' was incorrectly omitted. The JSON is missing a mandatory structural block. | Omission Error: The field 'carbon_dots -> general_info -> alternative_names' contained '['GQDs', 'graphene quantum dots']' in the source text, but it was extracted as null/missing."
+  }
+}

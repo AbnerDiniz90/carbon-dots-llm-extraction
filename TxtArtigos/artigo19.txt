@@ -1,0 +1,255 @@
+
+
+### TITLE ###
+
+Preparation of highly photoluminescent carbon dots from polyurethane: Optimization using response surface methodology and selective detection of silver (I) ion
+
+
+### FIG. 1: Synthesis of carbon dots from polyurethane foam and their sensing applications. ###
+
+
+### FIG. 2: Diagnostic plots for the optimization of carbon dot synthesis from polyurethane foam: (a) actual versus predicted QY plot and (b) residuals versus predicted QY plot. ###
+
+
+### FIG. 3: Contour plots of the effects of (a) [H2SO4], (b) temperature, and (c) time on QY of carbon dots. Areas shaded with red represent conditions with desirable response (high QY) (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article). ###
+
+
+### FIG. 4: HRTEM images of carbon dots under (a) 200 K, and (b) 600 K magnification. ###
+
+
+### FIG. 5: FT-IR spectra of polyurethane and carbon dots. ###
+
+
+### FIG. 6: (a) Survey XPS spectrum of carbon dots and high-resolution spectra of (b) C1s, (c) N1s, and (d) O1s peaks. ###
+
+
+### FIG. 7: (a) UV–Vis spectrum and (b) fluorescence spectra of carbon dots (1 g L−1) at different excitation wavelengths. The inset in (b) shows photos of carbon dot solutions under UV light (left) and visible light (right). ###
+
+
+### FIG. 8: Stability of carbon dots (1 g L−1) upon: (a) visible light exposure and at varying concentrations of (b) PBS buffer, (c) NaCl, and (d) KCl solutions. ###
+
+
+### FIG. 9: (a) Relative PL of carbon dots (1 g L−1) at different pH values, (b) PL spectrum at pH 6 to pH 12, and (c) protonation and deprotonation of carbon dots in acidic and basic conditions. ###
+
+
+### FIG. 10: Silver ion (Ag+) sensing: (a) screening test for metal ion detection; (b) PL spectrum of using different metal ions (c) Stern-Volmer plot; (d) PL spectrum at 0–20 μM Ag+ concentrations. ###
+
+
+### FIG. 11: Relative fluorescence intensity of carbon dots (CD) (1 g L−1) with Ag+ and metal ion interference (5 μM). ###
+
+### Table 1: Experimental design of synthesis of carbon dots from polyurethane foam. ###
+
+| Factor | Unit | Factor levels |
+|  |  | −1 | 0 | +1 |
+| --- | --- |
+| H2SO4 concentration, [H2SO4] | M | 2 | 2.5 | 3 |
+| Reaction temperature, T | °C | 200 | 250 | 300 |
+| Reaction time, t | h | 2 | 4 | 6 |
+
+
+
+### Table 2: Experimental runs from Box-Behnken design for the synthesis carbon dots from polyurethane foam. ###
+
+| Run | Factors | Response |
+|  | [H2SO4] (M) | T (°C) | t (h) | QY (%) |
+| --- | --- |
+| 1 | 2.5 | 250 | 4 | 24.1 |
+| 2 | 3.0 | 200 | 4 | 25.4 |
+| 3 | 3.0 | 250 | 6 | 14.5 |
+| 4 | 2.5 | 250 | 4 | 23.1 |
+| 5 | 2.0 | 250 | 6 | 15.4 |
+| 6 | 2.5 | 250 | 4 | 22.0 |
+| 7 | 2.0 | 200 | 4 | 0 |
+| 8 | 2.5 | 200 | 6 | 19.9 |
+| 9 | 2.5 | 300 | 2 | 10.8 |
+| 10 | 2.0 | 300 | 4 | 3.3 |
+| 11 | 3.0 | 300 | 4 | 0 |
+| 12 | 2.0 | 250 | 2 | 9.7 |
+| 13 | 2.5 | 300 | 6 | 0.3 |
+| 14 | 2.5 | 200 | 2 | 0 |
+| 15 | 3.0 | 250 | 2 | 19.4 |
+
+
+
+### Table 3: Analysis of Variance of synthesis of carbon dots from polyurethane via pyrolysis. ###
+
+| Source | Degree of freedom | Sum of square | Mean square | F ratio | p-value |
+| --- | --- | --- |
+| Model | 9 | 1275.64 | 141.74 | 12.7292 | 0.0060 |
+| x1 - [H2SO4] | 1 | 119.35 | 119.35 | 10.7187 | 0.0221 |
+| x2 - T | 1 | 119.35 | 119.35 | 10.7187 | 0.0221 |
+| x3 - t | 1 | 13.01 | 13.01 | 1.1680 | 0.3292 |
+| x1x2 | 1 | 205.92 | 205.92 | 18.4935 | 0.0077 |
+| x2x3 | 1 | 231.04 | 231.04 | 20.7493 | 0.0061 |
+| x2 2 | 1 | 483.72 | 483.72 | 43.4419 | 0.0012 |
+| Residual | 5 | 55.67 | 11.13 |  |  |
+| Lack of Fit | 3 | 53.47 | 17.82 | 16.1533 | 0.0589 |
+| Pure Error | 2 | 2.21 | 1.10 |  |  |
+
+
+
+### Table 4: Quantum yields of carbon dots produced from polymers. ###
+
+| Precursor | QY | Reference |
+| --- | --- |
+| Polystyrene | 13 % | [16] |
+| Polyacrylic acid | 44 % | [17] |
+| Polypropylene | n.d. | [18] |
+| Polyurethane | n.d. | [56] |
+| Polyurethane | 33 % | This work |
+
+
+
+### a: Carbon dots for Ag+ sensing. ###
+
+| Precursor | LOD (μM) | Mechanism | Reference |
+| --- | --- |
+| Pectin | 7.0 | Fluorescence | [57] |
+| Broccoli | 0.5 | Fluorescence | [51] |
+| BMIM- BF4 a | 0.55 | Fluorescence | [12] |
+| Citric acid and thiamine hydrochloride | 0.4 | Fluorescence | [36] |
+| Polyurethane foam | 2.8 | Fluorescence | This work |
+
+
+
+### Table 6: Percentage recoveries and relative standard deviations of spiked Ag+ ions using polyurethane-derived carbon dots. ###
+
+| Sample type | Added ( μ M) | Found ( μ M) | Recovery (%) | RSD (%) |
+| --- | --- | --- |
+| DI water | 5 | 5.00 | 100.00 ± 0.34 | 0.34 |
+| Drinking water I | 5 | 5.29 | 109.46 ± 1.01 | 0.92 |
+| Drinking water II | 5 | 5.55 | 92.39 ± 0.73 | 0.79 |
+
+
+
+
+### TITLE ###
+
+Preparation of highly photoluminescent carbon dots from polyurethane: Optimization using response surface methodology and selective detection of silver (I) ion
+
+
+### AUTHOR GROUP ###
+
+Ma. Ivy S. Dela Cruz
+Nichaphat Thongsai
+Mark Daniel G. de Luna
+Insik In
+Peerasak Paoprasert
+Both authors contributed equally to this manuscript.
+
+
+### ABSTRACT ###
+
+
+
+### GRAPHICAL ABSTRACT ###
+
+
+
+### ABSTRACT ###
+
+In this study, novel carbon dots were synthesized from polyurethane foam via a one-step pyrolysis method. Polyurethane foam is an interesting precursor for carbon dot synthesis because: (1) polyurethane foam waste generation is alarmingly high and (2) polyurethane is rich in nitrogen content which is important for producing highly photoluminescent carbon dots. The carbon dot synthesis parameters namely acid concentration, reaction time, and reaction temperature were modeled and optimized using Box-Behnken design (BBD) of response surface methodology (RSM). Temperature was found to be the most important parameter affecting the photoluminescence quantum efficiency of the carbon dots. The as-prepared carbon dots in aqueous solution showed a blue-green emission under UV light with a relatively high quantum yield of 33%, agreeing well with the value predicted using the RSM. The carbon dots exhibited distinct selectivity toward silver ion (Ag+) with a limit of detection of 2.8 μM. The Ag+ contents in real water samples were accurately determined with acceptable repeatability. Based on these results, the RSM is a useful tool for investigating the effects of reaction parameters on the quantum efficiency of carbon dots. Furthermore, pyrolysis was proved to be an effective means for producing label-free, highly photoluminescent carbon dots from polyurethane, enabling new, effective recycling strategy and various potential sensing applications.
+
+
+### KEYWORDS ###
+
+Carbon dots
+Sensors
+Pyrolysis
+Polyurethane
+Response surface methodology
+
+
+### INTRODUCTION ###
+
+Carbon dots are carbon-based, amorphous, typically spherical nanoparticles with sizes ranging from 2 to 10 nm. They are similar to semiconductor quantum dots in having strong photoluminescence, good conductivity, and robust chemical stability, but they are deemed superior in terms of biocompatibility, environmental friendliness, ease of synthesis, and choice of precursor [1]. Carbon dots have been utilized in different applications including bioimaging, chemical and biological sensing, catalysis, and optoelectronics [2]. Many studies have been conducted on carbon dot synthesis using sources including laboratory chemicals [3–7], commercial products [8–10], and organic wastes [11–14]. However, only a limited number of studies have reported the use of polymers [15]. Huang et al. prepared carbon dots using solid protonic acid from polystyrene [16], Tao et al. produced polymer carbon dots from polyacrylic acid (PAA) [17], and Aji et al. successfully synthesized carbon dots from polypropylene (PP) [18]. These studies showed the potential of utilizing readily available carbon-based polymers for carbon dot production. In addition to obtaining novel nanomaterials, the use of polymer wastes as precursors will have further impacts on the environment.
+Polyurethane is a widely used polymer, with a production rate of at least 15 million metric tons per year [19]. Half of this is in the form of the flexible polyurethane foam commonly used in consumer product, furniture, and automotive industries [20]. The large demand for polyurethane foam results in the production of large amounts of post-production and post-consumer waste [21]. Several waste management strategies have been developed to handle this, including landfilling, incineration, and recycling. However, each has disadvantages. The low bulk density of polyurethane foams makes landfilling uneconomical, as the wastes occupies a large space in the landfills [22]. Incineration significantly reduces the volume and energy is recorded in waste-to-energy facilities, but toxic and greenhouse gases are produced [23]. Chemical recycling methods like glycolysis, hydrolysis, aminolysis, and phosphorolysis are effective ways of recovering oligomers and monomers through depolymerization of polyurethane waste but are difficult to execute in large-scale production due to the complexity of the processes [24]. Advanced solid waste disposal strategies for polyurethane foam currently being explored include thermochemical treatments coupled with resource recovery may reduce. These processes, which include pyrolysis, gasification, and hydrogenation, polyurethane waste volumes by 99%, and recover useful chemicals, typically liquids and gases with high heating values [25]. Pyrolysis is a leading thermochemical treatment strategy for polyurethane foam wastes because, as well as allowing volume reduction and energy recovery, it can be used to produce carbon dots [26]. Numerous previous studies have demonstrated the use of pyrolysis to synthesize carbon dots with interesting characteristics [5]. Polyurethane, a polymer with nitrogen atoms in every repeating unit, is also an excellent carbon dot precursor as it is rich in nitrogen, which is necessary for achieving high photoluminescence [27–29].
+In this work, carbon dots were synthesized from commercially available polyurethane foam using a pyrolysis method and sulfuric acid (H2SO4) as a catalyst/dehydrating agent (Fig. 1 ). The reaction conditions were modeled and optimized using a Box-Behnken design response surface methodology (RSM) run on Design Expert V.7. RSM is a powerful tool that combines mathematical and statistical protocols for designing experimental conditions and quantifying relationship between input factors and responses. This also saves time, cost, and a number of experiments that need to be performed. To the best of our knowledge, the only study on using RSM to optimize the synthesis conditions was reported by Barati and coworkers [30]. They used the central composite design while we used the Box-Behnken design. The Box-Behnken design is robust, more efficient and cost-effective than the widely used central composite design, and thus more suitable especially for time-consuming experiments and optimizing synthesis reaction conditions [31]. There have been some studies on using the RSM to optimize the sensing and catalytic activities of carbon dots [32–34], but a very few studies were reported on using RSM to optimize the reaction parameters for the synthesis [30,35]. Understanding factors influencing quantum efficiency allows a better control of and achieving highly photoluminescent carbon dots [32–34]. In this study, for the first time the synthesis procedure was optimized using the Box-Behnken design by varying the H2SO4 concentration, reaction time, and reaction temperature, and measuring the quantum yield (QY) as a response. Using three numeric factors and three center points, a total of 15 runs were generated. The carbon dots generated under optimum conditions were characterized and their predicted quantum efficiency agreed well with the predicted value. The optical properties of the resulting carbon dots were determined using UV–visible (UV–vis) and fluorescence spectroscopy, the size and morphology were evaluated using high-resolution transmission electron microscopy (HRTEM), and the chemical structure and surface functionalities were investigated using Fourier transform infrared spectroscopy (FT-IR spectroscopy) and X-ray photoelectron spectroscopy (XPS).
+The synthesized carbon dots were then used for selective detection of silver (I) ion (Ag+). Silver is a universal contaminant because of its popular uses in a range of industries in electronics, pharmaceuticals, agriculture, photography, and as antibacterial consumer products. As a consequence, contaminant of Ag+ directly impacts the aquatic environment and human health. Ag+ can interfere metabolic functions by binding with metabolites and enzymes [36]. Selective and sensitive detection of Ag+ by straightforward, low-cost methods is thus highly desirable. The non-destructive photoluminescent carbon dots are suitable as sensing probes for metal ions because they contain surface functional groups as chelating ligands for the metal ions [37,38]. Upon binding to the metal ions, the fluorescence emission of carbon dots is modulated and these unique properties can be employed for selective and sensitive metal ion detection. The label-free, highly fluorescent carbon dots derived from polyurethane in this work showed excellent selectivity and sensitivity toward Ag+ and highlighted their potentials to be used for novel, simple sensing applications.
+
+
+### MATERIAL AND METHODS ###
+
+
+
+### MATERIALS ###
+
+White polyurethane foam was obtained from Uratex Philippines. All reagents were purchased from Sigma-Aldrich unless otherwise stated. Sulfuric acid (96 wt%) was obtained from Carlo Erba. High-grade regenerated cellulose dialysis membrane (1000 Da MWCO) was brought from Membrane Filtration Product Inc. Deionized (DI) water (15 MΩ) was used to prepare all solutions. All reagents were used without further purification.
+
+
+### SYNTHESIS OF CARBON DOTS ###
+
+A mixture of 3.0 g crushed polyurethane and 50 mL H2SO4 at concentrations of 2.0, 2.5, and 3.0 M was placed in a porcelain crucible and pyrolyzed at 200, 250, and 300 °C for 2, 4, and 6 h. The carbonized polyurethane was cooled to 25 °C and 50 mL DI water was added. The mixture was then placed in an ultrasonic bath for 30 min to ensure the transfer of carbon dots from the surface of the carbonized polyurethane to the DI water. Cellulose filter paper was used to separate the carbonized polyurethane from the filtrate containing the carbon dots. The filtrate was placed in a dialysis membrane (1000 Da MWCO) and dialyzed for three days to get rid of the impurities. The solution was centrifuged at 10,000 rpm for 15 min. The supernatant was collected and freeze-dried to obtain a light brown solid as carbon dots.
+
+
+### EXPERIMENTAL DESIGN AND NUMERICAL OPTIMIZATION ###
+
+The effects of the synthesis conditions (i.e., H2SO4 concentration, reaction temperature, and reaction time) on the quantum yield was investigated using the Box-Behnken design (BBD) with three numeric factors and three center points per block. Table 1 shows the low (−1), medium (0), and high (+1) factor levels of each design parameter used in generating the randomized sequence. The quantum yield response is expressed as a percentage.
+
+
+### CHARACTERIZATION ###
+
+The FT-IR spectra were obtained (Spectrum 2000). The elemental composition of the carbon dots was determined using an X-ray photoelectron spectrometer (XPS; AXIS ULTRADLD, Kratos Analytical, Manchester UK). The size and morphology of the carbon dots were determined using a high-resolution transmission electron microscope (HRTEM) (Tecnai G20 FEI Corporation) at an accelerating voltage of 200 kV. The zeta potential was measured using a Nano Particle Analyzer (HORIBA, NanoPartica SZ-100) at 25 °C and a solution refractive index of 1.33, viscosity of 0.897 mPa·s, pH7, and conductivity of 9.091 mS·cm−1. The optical absorption was investigated using a Shimadzu UV-1700 PharmaSpec spectrometer and the fluorescence spectra were recorded using an FP-6200 (Jasco) fluorescence spectrophotometer.
+The QY was calculated with quinine sulfate as a reference, using Eq. (1) [28]: (1) Φ = Φ R × I I R × A R A × n 2 n R 2 where Φ is the quantum yield, I is the emission intensity measured using fluorescence spectrometry, A is the absorbance measured using UV–vis spectrometry, n is the refractive index of the solution. The subscript R refers to the reference, which was quinine sulfate in 0.1 M H2SO4 with a quantum yield of 0.54 at a 350 nm excitation wavelength [39]. To minimize reabsorption effects, the absorbance was measured in a 10 mm quartz cuvette, and kept below 0.1 at the excitation wavelength.
+
+
+### PH-DEPENDENT EMISSION ###
+
+Carbon dot solutions (0.5 g·L−1) were prepared using buffer solutions with pH 1-14. The fluorescence spectra were measured at a 380 nm excitation wavelength. The fluorescence emission intensity ratios were calculated at the maximum emission wavelength.
+
+
+### SILVER ION (AG+) SENSING ###
+
+For selectivity testing, 20 μM metal ion solutions (Ag+, Ca2+, Cd2+, Co2+, Cu2+, Fe2+, Fe3+, K+, Mg2+, Na+, Ni2+, Pb2+, Sn2+, and Zn2+) were prepared. Carbon dot solution (0.5 mL, 1 g L−1) was added to 5 mL of each of metal ion solutions. The fluorescence spectra of the mixtures were recorded and the metal ion that most strongly quenched the carbon dots was further investigated to determine limit of detection (LOD).
+For sensitivity testing, Ag+ solutions with concentrations of 0–20 μM were prepared, and carbon dot solution was added as above. The fluorescence spectra of the mixtures were recorded to obtain a series of F0/F values, where F0 is the intensity of a carbon dot solution containing no metal ions. Similarly, the LOD was calculated by plotting the Stern-Volmer curve and applying LOD = 3σ/S, where σ is the standard deviation of the blank (10 replicates) and S is the slope of the calibration curve [36]. All detection experiments were performed under the same conditions.
+
+
+### RESULTS AND DISCUSSION ###
+
+
+
+### SYNTHESIS OF CARBON DOTS ###
+
+Polyurethane is an ideal choice of precursor for the synthesis of carbon dots because 1) it is a step-growth polymer with urethane linkages which can be easily hydrolyzed and then carbonized into the carbon dots in the presence of acid or base at high temperature and 2) it is rich in nitrogen atoms which can act as dopants for producing highly photoluminescent carbon dots. It is also practically interesting to optimize the QY of carbon dots by varying reaction conditions. In this study, we thus used the BBD of response surface methodology to model and optimize the reaction conditions by varying H2SO4 concentration, reaction time, and temperature. Table 2 shows the fifteen randomized runs using the BBD program with the corresponding QYs of the synthesized carbon dots. Low QYs (0% to 0.3%) were observed in two circumstances: (1) when the polyurethane foam was pyrolyzed at a low acid concentration, low temperature, and short time (Runs 7 and 14) and (2) when the polyurethane foam was completely burnt to ash at a high acid concentration, high temperature, and long reaction time (Runs 11 and 13). Runs 1, 2, 4, and 6 were found to have QYs greater than 20%. The maximum QY (25.4%) was observed in Run 2, at 3.0 M H2SO4, a reaction temperature of 200 °C, and 4 h of reaction time.
+To further analyze the experimental data shown in Table 2, a second-degree polynomial model that statistically describes the synthesis procedure was developed. Insignificant terms were omitted to improve the reliability and accuracy of the model. The final and reduced quadratic model was given by Eq.2. Here, the dimensionless variables x1, x2 and x3 correspond to [H2SO4], T, and t, respectively. In this equation, the QY is primarily determined by the quadratic term of x2 which has a coefficient of -11.45. The response is also influenced by the interactions between x1 and x2 and between x2 and x3, with coefficients of 7.18 and 7.60. The linear terms x1 and x2 both had a coefficient 3.86 and affected QY at a lower extent than the other terms. From the equation, x2 is the biggest contributor to the response (QY), affecting four out of six terms with respective coefficients. This suggests that temperature is the main factor controlling the QY, consistent with a report by Barati et al. in which the central composite design was used [30]. This indicates the reliability of the Box-Behnken design and our synthesis procedures. Temperature as the most important factor possibly controls the extent of hydrolysis and carbonization processes of polyurethane as these processes play a key role in the formation of the carbon dots. (2) w h e r e x 1 = H 2 S O 4 - 2.5 0.5 , x 2 = T - 250 50 , x 3 = t - 4 2
+The quadratic model was further evaluated using analysis of variance (ANOVA) and the results are summarized in Table 3 . The F-value of 12.73 implies that the model is significant, with only a 0.60% chance that is due to noise. The p-value was less than 0.05, indicating that the model terms x1, x2, x1x2, x2x3, and x2 2 were significant, consistent with the analysis above. Among the individual model variables, only x3, corresponding to the linear time factor, had an insignificant effect on QY, as indicated by its p-value of 0.3292. The “Lack of Fit F value” of 16.15 indicated that the Lack of Fit was not significant relative to pure error. An insignificant lack of fit (p-value > 0.05) suggested that variations in the data had no significant effect on the model, further validating its dependability [40]. However, the predicted R-squared (Pred-R2) of 0.3537 was not close to the adjusted R-squared (Adj-R2) of 0.8829, which suggested that a block effect was caused by having many predictors. Nevertheless, the Adequate Precision (Adeq Precision) of 9.36 suggests an adequate signal, which means that the model can be used to navigate the design space.
+Diagnostic plots were used to further assess the reliability of the quadratic model across the range of experiments. Fig. 2 a shows that the model-predicted values fit the experimental data with an R2 = 0.9582. The strong correlation between the actual and the predicted values suggests that the generated model was sufficient in estimating the experimental QY values. The random scatter observed in the residuals vs. predicted QY plot (Fig. 2b) means that the data is normally distributed with equal variance, confirming the suitability of using BBD to model the synthesis of carbon dots.
+Contour plots were generated, based on the three variables. The effect of H2SO4 concentration on the QY of the carbon dots is shown in Fig. 3 a, and demonstrates that the QY increased as the H2SO4 concentration increased. This can be seen from the intensification of the redness in the contour plot from 2.0 M to 3.0 M H2SO4. Carbon dots with high QYs were not produced at a 2.0 M H2SO4 concentration, which implies that carbonization of the polyurethane foam did not proceed effectively when the acid concentration was too low even at 300 °C and 6 h pyrolysis time. Fig. 3b shows that no synthesis of carbon dots was observed at 300 °C. At this temperature, the polyurethane foams were completely burnt to ash, so that carbon dots may be decomposed and irrecoverable from the solid residue. However, high QY was observed at 200 °C, 3.0 M H2SO4, and 6 h pyrolysis. As shown in Fig. 3c, 2 h pyrolysis failed to produce high QY carbon dots at any acid concentration or high temperature. However, QY increased with pyrolysis time and high QY was observed at 3.0 M H2SO4, 200 °C, and 6 h pyrolysis time. A confirmatory experiment was performed at this condition, producing a QY of 33%. This actual value is close to the predicted QY of 34% from Eq. 2. The plots suggest that the QY may be further improved by using higher concentrations of H2SO4 at lower temperatures and longer pyrolysis times. The use of lower temperature range may have a positive impact on the cost-effectiveness of the process, especially when scaling up. For the succeeding experiments, carbon dots were synthesized using the verified optimum point of 3.0 M H2SO4, 200 °C, and 6 h pyrolysis time.
+
+
+### CHARACTERIZATION OF CARBON DOTS ###
+
+Size, morphology, chemical composition, and optical properties of the carbon dots were characterized. The HRTEM images in Fig. 4 showed the carbon dots to be sphere-like with diameters ranging from 5 to 8 nm. A lattice spacing of around 0.317 nm was observed, which is close to that of graphite [41], suggesting high crystallinity within the core and the presence of a graphitic core [28]. No aggregation of the carbon dots was observed, suggesting that the surfaces contained charged functionalities that produced repulsion among the particles. This is consistent with the zeta potential of -36.3 mV at pH 7. The high colloidal stability of carbon dots is thus advantageous for practical uses.
+The FT-IR spectra of the polyurethane foam and carbon dots were obtained and are shown in Fig. 5 . From the polyurethane spectrum, the vibration signal at 3280 cm−1 indicated the presence of both −OH groups from moisture (HOH) and NH groups from the polyurethane. Vibrations at 2960 to 2840 cm−1 indicated the presence of C–H bonds. The CO groups, which represent the urethane link, were observed at 1720 cm−1 (Fig. 6 b). Other vibration signals at 1600 cm−1 and 1120 cm−1 were respectively assigned to CC and C–O. The observed functional groups in the polyurethane foam were consistent with the important functionalities identified for a typical polyurethane structure. The FT-IR spectrum of the carbon dots showed signals of −OH/−NH (3400 cm−1), C–H (2960 to 2800 cm−1), CO (1680 cm−1), CC (1640 cm−1), C–O (1160 cm−1), and C–S (623 cm−1). These vibrational modes suggested that the carbon dots included oxygen-containing functional groups, making them highly water soluble. The reduction in CO signal intensity and the increase in C–O signal intensity suggest that the CO groups were converted to the C–O groups during the formation of carbon dots. Strong signals of OH and C–O groups indicate that the carbon dots are rich in hydroxyl groups.
+XPS was used to characterize the elemental presence and composition of the carbon dots. As shown in Fig. 6a, the carbon dots were primarily composed of carbon (52.1%), oxygen (27.5%), nitrogen (5.1%), and sulfur (4.8%). The presence of sulfur atoms was due to the use of sulfuric acid as the catalyst. The significant percentage concentrations of nitrogen and sulfur indicated that the carbon dots were highly doped. The high resolution C1s peak was consistent with the FT-IR results that the carbon dots comprised of CC, CC, CO, and C–N (Fig. 6b). The high resolution N1s also supported the FTIR results, confirming the presence of NH and C–N groups on the surface of the carbon dots (Fig. 6c). Finally, the high resolution O1s peak confirmed the presence of C–O, CO and OH, again consistent with the FT-IR. Both the FT-IR and XPS results confirmed the presence of hydrophilic oxygen- and nitrogen- containing groups on the surface of the carbon dots, which explained the good water solubility of the carbon dots, without the need for further chemical modification.
+The UV–vis spectrum of carbon dots (Fig. 7 a) showed a strong optical absorption with two distinct shoulders in the UV region at 250 nm and 300 nm, with a tail extending into the visible region. The peak at 250 nm was attributed to π-π* transition of the sp2 carbons in the carbon dots [6], responsible for the trapping of excited-state energy by surface states [42]. These results confirmed that the carbon dots contained the unsaturated carbons, similarly identified in the FT-IR spectra and XPS survey. The absorption spectrum showed another peak at 350 nm, corresponding to the n-π* transition. The inset images in Fig. 7a show the blue-green emission of the carbon dots under UV irradiation (left) and under visible light (right). Using quinine sulfate as a reference, the quantum yield of the carbon dots was 33%, which is excellent compared to the carbon dots prepared from other polymers in previous studies (Table 4 ). The relatively high quantum yields of our carbon dots were due to the high doping of nitrogen and sulfur in the carbon dots, leading to the formation of favorable emissive states [43,44].
+As shown in Fig. 7b, the carbon dots exhibited excitation-independent emission with a peak at 492 nm, using a 381 nm excitation wavelength. The constant emission wavelength may be attributed to the fact that polyurethane as a pure, single precursor contributed to the formation of homogenous emissive sites and surface states of the carbon dots [45]. Unlike natural precursors that normally consist of multiple components, polyurethane is a well-defined precursor, limiting variation in compositions and structures of the resulting carbon dots. The well-defined carbon dots are advantageous as they allow good control over their structure and properties. Carbon dots with excitation-independent emission have been reported, such as those prepared from N-acetyl-L-cysteine [46], ammonium citrate/cysteamine hydrochloride [47], citric acid/cysteine [48], and citric acid/N-acetyl-L-cysteine [46]. Excitation independence of the carbon dots is advantageous for accurate, quantitative assay applications [28]. It is also noteworthy to point out that the carbon dots with excitation-independent emission are often highly nitrogen- and sulfur-doped and generally possess high quantum yields as seen in our case and previous studies. This observation needs further investigation, which can lead to novel, significant findings in this research field.
+The photostability of the carbon dots was investigated as it is of great interest for practical applications. The carbon dots in aqueous solution exhibited good photostability after 6 weeks of exposure to direct visible light (Fig. 8 a), meaning that unlike organic dyes, the carbon dots will not likely suffer from photobleaching through a long period of time. The fluorescence emission of carbon dots was also measured in various ionic conditions. The photoluminescence of carbon dots was found to be unchanging despite varying concentrations of PBS buffer (Fig. 8b), which means that the carbon dots can potentially withstand the physical conditions in human cells. Lastly, Fig. 8c and d showed that the photoluminescence of carbon dots was not affected by the changes in ionic strength of the solutions (from 0 to 5 M of NaCl and from 0 to 3 M of KCl), suggesting that the carbon dots are highly chemically stable in these solutions. Based on these results, the carbon dots are feasible for long-term and practical uses in various applications.
+
+
+### PH-DEPENDENT EMISSION ###
+
+It is well known that many previously reported carbon dots are sensitive to pH variations in aqueous solutions [28,42,45,49]. Therefore, the pH-dependent emission of polyurethane-derived carbon dots was investigated. The results showed that the photoluminescence of the carbon dots did not significantly change in acidic conditions from pH 1 to pH 6 (Fig. 9 a), but apparent decrease in photoluminescence was observed from pH 6 to pH 12 (Fig. 9b). To further understand the mechanism, the zeta potential of the carbon dots was measured in acidic and basic conditions: the measured zeta potential values were 12.9 mV at pH 5 and -33.7 mV at pH 9. The change in zeta potential from positive to negative as the pH increased from pH 5 to pH 9 indicates deprotonation of the functional groups on the surface of the carbon dots, leading to the pH-dependent emission properties [42]. The pH-dependent emission can be utilized for pH sensing applications.
+Shown in Fig. 9c is the proposed quenching mechanism of the carbon dots synthesized from polyurethane foam. Based on FT-IR and XPS results, the surface of the carbon dots consists of −OH/NH and −COOH, which may be responsible for pH dependence of the carbon dots. According to Liu et al., the strong photoluminescent emission in acidic media arises from the strong vibrational coupling and hydrogen bonding effects of the −OH/NH functional groups, leading to the energy level broadening and an increase in the conformational rigidity of carbon dots [45]. However, upon deprotonation in basic conditions, the H-bonding effect is reduced, which causes the decrease in vibrational coupling and leads to more discrete energy levels resulting in the decrease of photoluminescent emission.
+
+
+### SILVER ION (AG+) SENSING ###
+
+In this study, the selectivity and sensitivity of carbon dots toward Ag+ was investigated. Firstly, fluorescence responses of the carbon dots upon addition of different metal ions were studied and results were presented in Fig. 10 a and b. Only Ag+ induced a strong photoluminescence quenching of the carbon dots compared with the other metal cations at the same concentration of 20 μM, signifying an outstanding selectivity of the carbon dots to Ag+ ions. The fluorescence intensity of carbon dots at around 491 nm emission wavelength decreased gradually with an increase in Ag+ concentration, which means that addition of Ag+ could effectively quench the fluorescence of carbon dots. Fig. 10c and d manifest gradual decrease in the fluorescence intensity of the carbon dots as concentrations of Ag+ were varied from 0 to 6 μM. Based on the Stern-Volmer equation: I0/I = 1+Ksv[Ag+], a slope, which is equivalent to a Stern-Volmer constant (Ksv), is equal to 12.8 × 104 M−1. A large Stern-Volmer constant suggests the fluorescence quenching of carbon dots by Ag+ is due to the static quenching process [50]. The calculated LOD for silver ions (Ag+) is 2.8 μM, which is comparable to recently reported LODs for fluorescence-based Ag+ sensing using other carbon dots (Table 5 ). Our carbon dots were label-free and showed much better selectivity toward Ag+, compared to the reports by Arumugam N. et al. [51] Cayuela A. et al. [12], and Borse V. et al. [52] There have been two proposed sensing mechanisms of carbon dots toward Ag+: 1) the thiol/-Ag+ interaction [53] and 2) reduction of Ag+ to Ag° [54]. In our case, since there was no change in the solution color and in the UV–vis absorbance upon the addition of Ag+ to carbon dots, this ensures that the sensing mechanism was via the thiol-Ag+ interaction. This is consistent with the fact that our carbon dots are highly sulfur-doped as confirmed by FTIR and XPS characterizations because of the use of sulfuric acid as a catalyst during the synthesis. The Ag+ selectivity of carbon dots is due to the flexible coordination sphere of Ag+ compared with other metal ions [12] and the soft acidity of Ag+ and soft basicity of thiol groups [53]. Furthermore, the presence of carboxylic acids on the surface further enhanced the interaction between the carbon dots and Ag+ [53]. These favorable interactions endow highly selective and sensitive detection of the carbon dots toward Ag+.
+Silver and its compounds are commonly employed in various industries, and therefore, contamination by silver and its compounds is an unavoidable issue [55]. Since the Ag+ ion usually exists with other environmentally-relevant metal ions, the selective detection of Ag+ against different ion interferences was investigated. The interference experiment was carried out by measuring the fluorescence emission of the carbon dots in the presence of Ag+ mixed and paired with other metal ions (Fig. 11 ). We found that the fluorescence emission of carbon dots in the presence of interferences still exhibited Ag+ quenching of approximately 35–55%, similar to the Ag+ sample without interference. This confirmed that the carbon dots were highly selective to Ag+, even when other metal ions were present.
+The determination of silver ion in real water samples was investigated. The silver ion and carbon dots were spiked in bottled water and determined using a fluorescence spectrometer. The percentage recoveries of silver ion in bottled water was in between 92–109% (Table 6 ). Although the percentage recoveries slightly higher than 100% suggest the effects of interferences from the real water samples, the values are still within the acceptable range of accurate determinations of Ag+. The percentage relative standard deviation is less than 1%, indicating the high repeatability of measurements. These results demonstrated that the carbon dots derived from polyurethane are good candidates for practical detection of silver ion in water.
+
+
+### CONCLUSIONS ###
+
+Highly fluorescent carbon dots were synthesized from polyurethane foam via direct one-step pyrolysis method. The quantum yield of the carbon dots was optimized by applying BBD model and varying H2SO4 concentrations, reaction temperature and reaction time. A quantum yield of 33% was obtained by pyrolyzing polyurethane foam using 3.0 M H2SO4 at 200 °C for 6 h. The carbon dots were characterized in terms of their optical, physical and chemical properties. The carbon dots are spherical with size around 5–8 nm and the carbon dots possess desirable functional groups such as hydroxyl and carboxyl groups. The carbon dots were used as sensors for selective detection of silver ion against various metal ions and with a limit of detection of 2.8 μM. Silver ions in drinking waters were determined with acceptable recovery and repeatability. Based on this work, carbon dots with high quantum efficiency can be produced from an abundant resource in high yields. An experimental design can be used to help achieve the maximized quantum efficiency by varying reaction conditions. Temperature was found to be the most influential factor on the quantum yield. Furthermore, the carbon dots from polyurethane showed excellent sensitivity and selectivity toward silver ion, enabling potential applications in sensing.
+
+
+### SUPPLEMENTARY DATA ###
+
+Supplementary material related to this article can be found, in the online version, at doi:https://doi.org/10.1016/j.colsurfa.2019.02.022.
+
+
+### SUPPLEMENTARY DATA ###
+
+The following is Supplementary data to this article:

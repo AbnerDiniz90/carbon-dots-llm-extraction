@@ -1,0 +1,2509 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S092540051830474X</prism:url><dc:identifier>doi:10.1016/j.snb.2018.02.186</dc:identifier><eid>1-s2.0-S092540051830474X</eid><prism:doi>10.1016/j.snb.2018.02.186</prism:doi><pii>S0925-4005(18)30474-X</pii><dc:title>Carbon quantum dots-Ag nanoparticle complex as a highly sensitive “turn-on” fluorescent probe for hydrogen sulfide: A DFT/TD-DFT study of electronic transitions and mechanism of sensing </dc:title><prism:publicationName>Sensors and Actuators B: Chemical</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>09254005</prism:issn><prism:volume>264</prism:volume><prism:startingPage>404</prism:startingPage><prism:endingPage>409</prism:endingPage><prism:pageRange>404-409</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2018-07-01</prism:coverDate><prism:coverDisplayDate>1 July 2018</prism:coverDisplayDate><prism:copyright>© 2018 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Wang, Chao</dc:creator><dc:creator>Ding, Yongqi</dc:creator><dc:creator>Bi, Xinyu</dc:creator><dc:creator>Luo, Jingxuan</dc:creator><dc:creator>Wang, Guo</dc:creator><dc:creator>Lin, Yuqing</dc:creator><dc:description>
+                  We present an efficient carbon quantum dots (CQDs)-modified silver nanoparticles (AgNPs) (CQDs-AgNPs) as turn-on fluorescence nanoprobe for monitoring hydrogen sulfide (H2S) in brain microdialysate. The fluorescence of the CQDs-AgNPs probe can be selectively and sensitively turned on by H2S due to the formation of AgS bonds between AgNPs and H2S and breaking of the AgN bond between AgNPs and CQDs. Density functional theory (DFT)/time-dependent density functional theory (TD-DFT) investigation were thoroughly conducted on the electronic structures, absorption and emission spectra of CQDs-AgNPs complex as well as the sensing mechanism for hydrogen sulfide. The CQDs-AgNPs fluorescent probe illustrates a wide linear detection range towards H2S from 1 to 1900 nM with the detection limit of ∼0.4 nM. This improved sensitivity, lower limit, along with the high selectivity and fast response toward H2S, makes this CQDs-AgNPs complex successfully monitor H2S basal level in rats without exogenous stimulation, which was calculated to be 3.08 ± 0.10 μM (n = 3). This novel fluorescence probe provides an assay for direct detection of H2S in the cerebral systems and contributes to understand the physiological function and molecular mechanisms of endogenous H2S.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Carbon quantum dots</dcterms:subject><dcterms:subject>Hydrogen sulfide</dcterms:subject><dcterms:subject>DFT/TD-DFT</dcterms:subject><dcterms:subject>Fluorescence detection</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S092540051830474X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S092540051830474X" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="154" size="15803">https://api.elsevier.com/content/object/eid/1-s2.0-S092540051830474X-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="104" height="164" size="11834">https://api.elsevier.com/content/object/eid/1-s2.0-S092540051830474X-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="154" size="9008">https://api.elsevier.com/content/object/eid/1-s2.0-S092540051830474X-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="213" height="164" size="8833">https://api.elsevier.com/content/object/eid/1-s2.0-S092540051830474X-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="sc1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="126" size="9628">https://api.elsevier.com/content/object/eid/1-s2.0-S092540051830474X-sc1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="753" height="529" size="107025">https://api.elsevier.com/content/object/eid/1-s2.0-S092540051830474X-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="591" size="86822">https://api.elsevier.com/content/object/eid/1-s2.0-S092540051830474X-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="753" height="530" size="68246">https://api.elsevier.com/content/object/eid/1-s2.0-S092540051830474X-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="231" size="14069">https://api.elsevier.com/content/object/eid/1-s2.0-S092540051830474X-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="489" height="281" size="33315">https://api.elsevier.com/content/object/eid/1-s2.0-S092540051830474X-sc1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3333" height="2342" size="1113386">https://api.elsevier.com/content/object/eid/1-s2.0-S092540051830474X-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1667" height="2622" size="834466">https://api.elsevier.com/content/object/eid/1-s2.0-S092540051830474X-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3333" height="2347" size="557201">https://api.elsevier.com/content/object/eid/1-s2.0-S092540051830474X-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1333" height="1025" size="110142">https://api.elsevier.com/content/object/eid/1-s2.0-S092540051830474X-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2167" height="1245" size="254127">https://api.elsevier.com/content/object/eid/1-s2.0-S092540051830474X-sc1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="5273525">https://api.elsevier.com/content/object/eid/1-s2.0-S092540051830474X-mmc1.docx?httpAccept=%2A%2F%2A</object></objects><scopus-id>85043478790</scopus-id><scopus-eid>2-s2.0-85043478790</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85043478790" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271353</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291685</xocs:ssid>
+         <xocs:ssid type="subj">291718</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Sensors and Actuators B: Chemical</xocs:srctitle>
+      <xocs:normalized-srctitle>SENSORSACTUATORSBCHEMICAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20180306">2018-03-06</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20180306">2018-03-06</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20180320">2018-03-20</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20180320">2018-03-20</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-02-06T22:58:53</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S092540051830474X</xocs:eid>
+      <xocs:pii-formatted>S0925-4005(18)30474-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S092540051830474X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.snb.2018.02.186</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0925400518X00069</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190206">2019-02-06T23:22:13.335781Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20180701</xocs:date-search-begin>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1520304953">2018-03-06T02:55:53.35266Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast footnotes grantnumber grantsponsor grantsponsorid highlightsabst primabst ref vitae</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0925-4005</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09254005</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>264</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>264</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 264</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>47</xocs:sort-order>
+      <xocs:first-fp>404</xocs:first-fp>
+      <xocs:last-lp>409</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>404</xocs:first-page>
+         <xocs:last-page>409</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20180701</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 July 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-07-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>General Section</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>CARBONQUANTUMDOTSAGNANOPARTICLECOMPLEXAHIGHLYSENSITIVETURNONFLUORESCENTPROBEFORHYDROGENSULFIDEADFTTDDFTSTUDYELECTRONICTRANSITIONSMECHANISMSENSING</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>WANG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>C</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Chemicals and instruments</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of CQDs-AgNPs probe</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Detections of H<ce:inf loc="post">2</ce:inf>S using the CQDs-AgNPs probe</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>In vivo microdialysis and H<ce:inf loc="post">2</ce:inf>S sensing</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization of CQDs-AgNPs probe</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Mechanisms of H<ce:inf loc="post">2</ce:inf>S sensing</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>The fluorescence responses of H<ce:inf loc="post">2</ce:inf>S sensing with CQDs-AgNPs probe</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>H<ce:inf loc="post">2</ce:inf>S sensing in rat brain microdialysates during the cerebral calm/ischemia</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>876</xocs:ref-first-fp>
+            <xocs:ref-last-lp>883</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>SZABO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>917</xocs:ref-first-fp>
+            <xocs:ref-last-lp>935</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>169</xocs:ref-first-fp>
+            <xocs:ref-last-lp>187</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5014</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5055</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>LEFER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>17907</xocs:ref-first-fp>
+            <xocs:ref-last-lp>17908</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>BOEHNING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>105</xocs:ref-first-fp>
+            <xocs:ref-last-lp>131</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>ELROD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15560</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15565</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0040">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5382</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5388</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0045">
+            <xocs:ref-normalized-surname>YUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1839</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1845</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0050">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10511</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10513</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0055">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1732</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1735</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0060">
+            <xocs:ref-normalized-surname>HAMMERS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10216</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10223</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0065">
+            <xocs:ref-normalized-surname>KARAKUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1039</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1043</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0070">
+            <xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>595</xocs:ref-first-fp>
+            <xocs:ref-last-lp>601</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0075">
+            <xocs:ref-normalized-surname>PAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5476</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5481</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0080">
+            <xocs:ref-normalized-surname>TIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11325</xocs:ref-first-fp>
+            <xocs:ref-last-lp>11331</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0085">
+            <xocs:ref-normalized-surname>NIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>229</xocs:ref-first-fp>
+            <xocs:ref-last-lp>236</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0090">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>206</xocs:ref-first-fp>
+            <xocs:ref-last-lp>213</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0095">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12736</xocs:ref-first-fp>
+            <xocs:ref-last-lp>12737</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0100">
+            <xocs:ref-normalized-surname>CAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11318</xocs:ref-first-fp>
+            <xocs:ref-last-lp>11319</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0105">
+            <xocs:ref-normalized-surname>YUKAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2671</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2681</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0110">
+            <xocs:ref-normalized-surname>BAKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6726</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6744</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0115">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>821</xocs:ref-first-fp>
+            <xocs:ref-last-lp>827</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0120">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1762</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1770</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0125">
+            <xocs:ref-normalized-surname>QU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5473</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5475</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0130">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3404</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3411</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0135">
+            <xocs:ref-normalized-surname>DENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2195</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2203</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0140">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>763</xocs:ref-first-fp>
+            <xocs:ref-last-lp>770</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0145">
+            <xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>27262</xocs:ref-first-fp>
+            <xocs:ref-last-lp>27270</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0150">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1301</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1307</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0155">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>403</xocs:ref-first-fp>
+            <xocs:ref-last-lp>405</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0160">
+            <xocs:ref-normalized-surname>DONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4738</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4743</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0165">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>161</xocs:ref-first-fp>
+            <xocs:ref-last-lp>168</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0170">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5116</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5118</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0175">
+            <xocs:ref-normalized-surname>QIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2920</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2923</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>WANGX2018X404</xocs:refkey3>
+         <xocs:refkey4lp>WANGX2018X404X409</xocs:refkey4lp>
+         <xocs:refkey4ai>WANGX2018X404XC</xocs:refkey4ai>
+         <xocs:refkey5>WANGX2018X404X409XC</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2020-03-20T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0925-4005(18)30474-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S092540051830474X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S092540051830474X</xocs:eid>
+         <xocs:doi>10.1016/j.snb.2018.02.186</xocs:doi>
+         <xocs:cid>271353</xocs:cid>
+         <xocs:timestamp>2019-02-06T23:22:13.335781Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-07-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S092540051830474X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092540051830474X/MAIN/application/pdf/5ffe315805d77735d37a9bdd48e41a4b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2151436</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S092540051830474X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092540051830474X/PREVIEW/image/png/c4a8998dcf0f2c6deeb84f5135169541/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>58724</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092540051830474X-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092540051830474X/gr1/THUMBNAIL/image/gif/a22ac6a07aea35f63c554cbb9b472585/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15803</xocs:filesize>
+               <xocs:pixel-height>154</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092540051830474X-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092540051830474X/gr2/THUMBNAIL/image/gif/b70df26ceba467ca668b23f75c57f62b/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11834</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>104</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092540051830474X-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092540051830474X/gr3/THUMBNAIL/image/gif/f5fbbab2e6cb9ade0305f17fda876e62/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9008</xocs:filesize>
+               <xocs:pixel-height>154</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092540051830474X-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092540051830474X/gr4/THUMBNAIL/image/gif/fa1e9bec04a9bb7f7d93f86e62c982fe/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8833</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>213</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092540051830474X-sc1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092540051830474X/sc1/THUMBNAIL/image/gif/1e8fceca7fa3bc56f35e5db073e0c057/sc1.sml</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9628</xocs:filesize>
+               <xocs:pixel-height>126</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092540051830474X-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092540051830474X/gr1/DOWNSAMPLED/image/jpeg/2ff368ddcd10c7103bbe31370e2388c0/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>107025</xocs:filesize>
+               <xocs:pixel-height>529</xocs:pixel-height>
+               <xocs:pixel-width>753</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092540051830474X-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092540051830474X/gr2/DOWNSAMPLED/image/jpeg/bc566b4b66dfe0248261963e0ac9677e/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>86822</xocs:filesize>
+               <xocs:pixel-height>591</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092540051830474X-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092540051830474X/gr3/DOWNSAMPLED/image/jpeg/178d27973ee9709e7c33e6b65b381356/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>68246</xocs:filesize>
+               <xocs:pixel-height>530</xocs:pixel-height>
+               <xocs:pixel-width>753</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092540051830474X-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092540051830474X/gr4/DOWNSAMPLED/image/jpeg/3007e48a128a948c2d960e7382c3ff46/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>14069</xocs:filesize>
+               <xocs:pixel-height>231</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092540051830474X-sc1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092540051830474X/sc1/DOWNSAMPLED/image/jpeg/e0533d7cd58756d1b52f5402941ea27c/sc1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33315</xocs:filesize>
+               <xocs:pixel-height>281</xocs:pixel-height>
+               <xocs:pixel-width>489</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092540051830474X-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092540051830474X/gr1/HIGHRES/image/jpeg/7abcf72ebd74c4e1220d33ceda3f21fd/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1113386</xocs:filesize>
+               <xocs:pixel-height>2342</xocs:pixel-height>
+               <xocs:pixel-width>3333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092540051830474X-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092540051830474X/gr2/HIGHRES/image/jpeg/687a38b7f216fba1fe621379f390c0fd/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>834466</xocs:filesize>
+               <xocs:pixel-height>2622</xocs:pixel-height>
+               <xocs:pixel-width>1667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092540051830474X-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092540051830474X/gr3/HIGHRES/image/jpeg/9e90900aaa5c598539e89b1812ef2d64/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>557201</xocs:filesize>
+               <xocs:pixel-height>2347</xocs:pixel-height>
+               <xocs:pixel-width>3333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092540051830474X-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092540051830474X/gr4/HIGHRES/image/jpeg/d84e1240cb563e2ac1e218d2bfd9969e/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>110142</xocs:filesize>
+               <xocs:pixel-height>1025</xocs:pixel-height>
+               <xocs:pixel-width>1333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092540051830474X-sc1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092540051830474X/sc1/HIGHRES/image/jpeg/da4554c4e7fb88058e263d123b756005/sc1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>254127</xocs:filesize>
+               <xocs:pixel-height>1245</xocs:pixel-height>
+               <xocs:pixel-width>2167</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S092540051830474X-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092540051830474X/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/348da792a8c7f2373c0e08f2edb0b596/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>5273525</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.5" xml:lang="en" docsubtype="sco">
+         <item-info>
+            <jid>SNB</jid>
+            <aid>24281</aid>
+            <ce:pii>S0925-4005(18)30474-X</ce:pii>
+            <ce:doi>10.1016/j.snb.2018.02.186</ce:doi>
+            <ce:copyright type="full-transfer" year="2018">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0005">
+               <ce:label>Scheme 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="spar0005" view="all">Proposed mechanism of the CQDs-AgNPs probe for H<ce:inf loc="post">2</ce:inf>S sensing.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0005" role="short">Scheme 1</ce:alt-text>
+               <ce:link locator="sc1" xlink:href="pii:S092540051830474X/sc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0010">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="spar0010" view="all">TEM image of CQDs-AgNPs probe in the absence (A) and presence (B) of H<ce:inf loc="post">2</ce:inf>S. UV–vis absorption spectra (C) of Tris (a), CQDs (b), AgNPs (c), and CQDs-AgNPs probe (d). Fluorescence excitation and emission spectra (D): the excitation spectra of CQDs (a); the emission spectrum of CQDs excited at 350 nm (b); the excitation spectra of CQDs-AgNPs (c) and the emission spectrum of CQDs-AgNPs excited at 350 nm (d).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0010" role="short">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:href="pii:S092540051830474X/gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0015">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="spar0015" view="all">Molecular orbitals involved in (a) the absorption and (b) fluorescence spectra for the CQDs, molecular orbitals involved in (c) the absorption and (d) fluorescence spectra for the CQDs connected to the silver atom.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0015" role="short">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:href="pii:S092540051830474X/gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0020">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="spar0020" view="all">(A) Fluorescence spectra of CQDs-AgNPs probe with difference concentration of Na<ce:inf loc="post">2</ce:inf>S solutions (from bottom to up: 1, 5, 10, 50, 100, 500, 800, 1900 nM, respectively). The inset in (a) shows the fluorescence spectra of Na<ce:inf loc="post">2</ce:inf>S concentration range from bottom to up: 1–800 nM. (B) The curve of fluorescence restoration evaluated with (F<ce:inf loc="post">1</ce:inf>-F<ce:inf loc="post">0</ce:inf>)/F<ce:inf loc="post">0</ce:inf> vs H<ce:inf loc="post">2</ce:inf>S concentration range from 1 to 1900 nM. The inset in (B) is the linear calibration plot for H<ce:inf loc="post">2</ce:inf>S detection. (C) The fluorescence intensity ratios of CQDs-AgNPs probe with different metal ions, anions and biological molecules (from 1 to 23 were L-Cys, GSH, AA, DA, DOPAC, UA, glucose, H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>, K<ce:sup loc="post">+</ce:sup>, Na<ce:sup loc="post">+</ce:sup>, Ca<ce:sup loc="post">2+</ce:sup>, Mg<ce:sup loc="post">2+</ce:sup>, Fe<ce:sup loc="post">3+</ce:sup>, Co<ce:sup loc="post">2+</ce:sup>, Ni<ce:sup loc="post">2+</ce:sup>, Cu<ce:sup loc="post">2+</ce:sup>, Zn<ce:sup loc="post">2+</ce:sup>, HPO<ce:inf loc="post">4</ce:inf>
+                     <ce:sup loc="post">2−</ce:sup>, H<ce:inf loc="post">2</ce:inf>PO<ce:inf loc="post">4</ce:inf>
+                     <ce:sup loc="post">−</ce:sup>, SO<ce:inf loc="post">4</ce:inf>
+                     <ce:sup loc="post">2−</ce:sup>, HCO<ce:inf loc="post">3</ce:inf>
+                     <ce:sup loc="post">−</ce:sup>, NO<ce:inf loc="post">3</ce:inf>
+                     <ce:sup loc="post">−</ce:sup>, Na<ce:inf loc="post">2</ce:inf>S, respectively). F<ce:inf loc="post">0</ce:inf> and F<ce:inf loc="post">1</ce:inf> refer to the fluorescence intensities of the CQDs-AgNPs at 440 nm in the absence and presence of series of Na<ce:inf loc="post">2</ce:inf>S solutions or interferences, respectively. Each point represents mean ± SD (n = 3).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0020" role="short">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:href="pii:S092540051830474X/gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0025">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="spar0025" view="all">Detection of H<ce:inf loc="post">2</ce:inf>S by CQDs-AgNPs probe in the microdialysate (diluted 10 times) following rat brain cerebral clam/ischemia. The brain microdialysates were collected every 30 μL of the cerebral calm/ischemia process. Error bars represent the SD of replicates measurements with n = 3.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0025" role="short">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:href="pii:S092540051830474X/gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">Carbon quantum dots-Ag nanoparticle complex as a highly sensitive “turn-on” fluorescent probe for hydrogen sulfide: A DFT/TD-DFT study of electronic transitions and mechanism of sensing</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" biographyid="vt0005" author-id="S092540051830474X-78e08f8912c7710e123dc53312046d33">
+                  <ce:given-name>Chao</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="fn0005">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0010" biographyid="vt0010" author-id="S092540051830474X-1f9d236ada0f188d117b406a6c80d0dd">
+                  <ce:given-name>Yongqi</ce:given-name>
+                  <ce:surname>Ding</ce:surname>
+                  <ce:cross-ref id="crf0010" refid="fn0005">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0015" biographyid="vt0015" author-id="S092540051830474X-1c3c79eb8aee14a72fc12220ebcdce0e">
+                  <ce:given-name>Xinyu</ce:given-name>
+                  <ce:surname>Bi</ce:surname>
+               </ce:author>
+               <ce:author id="aut0020" biographyid="vt0020" author-id="S092540051830474X-8cfdd8847c6139cf234e0ffc669f4d69">
+                  <ce:given-name>Jingxuan</ce:given-name>
+                  <ce:surname>Luo</ce:surname>
+               </ce:author>
+               <ce:author id="aut0025" biographyid="vt0025" author-id="S092540051830474X-2905d21d2379a6f8c5d1b75c2fd35848">
+                  <ce:given-name>Guo</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:cross-ref id="crf0015" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="aut0030" biographyid="vt0030" author-id="S092540051830474X-24078df9005b37cca0309f1478642ab9">
+                  <ce:given-name>Yuqing</ce:given-name>
+                  <ce:surname>Lin</ce:surname>
+                  <ce:cross-ref id="crf0020" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S092540051830474X-a379647bd5a286d55a4955436eb67e19">
+                  <ce:textfn>Department of Chemistry, Capital Normal University, Beijing 100048, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemistry</sa:organization>
+                     <sa:organization>Capital Normal University</sa:organization>
+                     <sa:city>Beijing</sa:city>
+                     <sa:postal-code>100048</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding authors.</ce:text>
+               </ce:correspondence>
+               <ce:footnote id="fn0005">
+                  <ce:label>1</ce:label>
+                  <ce:note-para id="npar0005" view="all">These authors contributed equally.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="29" month="12" year="2017"/>
+            <ce:date-revised day="26" month="2" year="2018"/>
+            <ce:date-accepted day="27" month="2" year="2018"/>
+            
+            <ce:abstract id="abs0010" view="all" class="author"><ce:abstract-sec id="abst0010" view="all">
+                  <ce:simple-para id="spar0035" view="all">We present an efficient carbon quantum dots (CQDs)-modified silver nanoparticles (AgNPs) (CQDs-AgNPs) as turn-on fluorescence nanoprobe for monitoring hydrogen sulfide (H<ce:inf loc="post">2</ce:inf>S) in brain microdialysate. The fluorescence of the CQDs-AgNPs probe can be selectively and sensitively turned on by H<ce:inf loc="post">2</ce:inf>S due to the formation of Ag<ce:glyph name="sbnd"/>S bonds between AgNPs and H<ce:inf loc="post">2</ce:inf>S and breaking of the Ag<ce:glyph name="sbnd"/>N bond between AgNPs and CQDs. Density functional theory (DFT)/time-dependent density functional theory (TD-DFT) investigation were thoroughly conducted on the electronic structures, absorption and emission spectra of CQDs-AgNPs complex as well as the sensing mechanism for hydrogen sulfide. The CQDs-AgNPs fluorescent probe illustrates a wide linear detection range towards H<ce:inf loc="post">2</ce:inf>S from 1 to 1900 nM with the detection limit of ∼0.4 nM. This improved sensitivity, lower limit, along with the high selectivity and fast response toward H<ce:inf loc="post">2</ce:inf>S, makes this CQDs-AgNPs complex successfully monitor H<ce:inf loc="post">2</ce:inf>S basal level in rats without exogenous stimulation, which was calculated to be 3.08 ± 0.10 μM (n = 3). This novel fluorescence probe provides an assay for direct detection of H<ce:inf loc="post">2</ce:inf>S in the cerebral systems and contributes to understand the physiological function and molecular mechanisms of endogenous H<ce:inf loc="post">2</ce:inf>S.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0015">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Carbon quantum dots</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>Hydrogen sulfide</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>DFT/TD-DFT</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Fluorescence detection</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0005" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0020">Introduction</ce:section-title>
+                  <ce:para id="par0025" view="all">Hydrogen sulfide (H<ce:inf loc="post">2</ce:inf>S) is an endogenous gaseous signaling molecule in addition to nitric oxide and carbon monoxide. It has important physiological and pathological roles in living systems [<ce:cross-refs id="crfs0005" refid="bib0005 bib0010 bib0015 bib0020 bib0025 bib0030">1–6</ce:cross-refs>]. Low concentrations of H<ce:inf loc="post">2</ce:inf>S induce distress while high levels can cause unconsciousness, permanent brain damage, or even cell death through asphyxiation [<ce:cross-ref id="crf0025" refid="bib0035">7</ce:cross-ref>]. Thus, rapid, simple, and highly sensitive detection methods are needed including chemosensor in aqueous media for biological systems. This can explain the molecular mechanisms underlying H<ce:inf loc="post">2</ce:inf>S. Various assay strategies have been designed to monitor H<ce:inf loc="post">2</ce:inf>S in vitro including electroanalytical assays, as well as electroluminescent, high performance liquid chromatography, and colorimetric detection schemes [<ce:cross-refs id="crfs0010" refid="bib0040 bib0045 bib0050 bib0055">8–11</ce:cross-refs>].</ce:para>
+                  <ce:para id="par0030" view="all">Fluorescence methods are particularly powerful for the sensitive detection of targets because of their high sensitivity and specificity and easily accessible instrumentation [<ce:cross-refs id="crfs0015" refid="bib0060 bib0065 bib0070 bib0075 bib0080 bib0085 bib0090">12–18</ce:cross-refs>]. Recently, carbon quantum dots (CQDs) have been described as a new quasi-zero-dimensional material [<ce:cross-refs id="crfs0020" refid="bib0095 bib0100">19,20</ce:cross-refs>]. Versus metallic quantum dots, CQDs have low synthetic cost, low toxicity, chemical inertness, and good water solubility. They are easily functionalized and are good electron donors and acceptors. They are a novel platform for fluorescence biosensors, bio-imaging, drug carriers, and reaction catalysts [<ce:cross-ref id="crf0030" refid="bib0105">21</ce:cross-ref>]. CQDs have optical and electronic properties [<ce:cross-refs id="crfs0025" refid="bib0110 bib0115 bib0120">22–24</ce:cross-refs>], and they are excellent fluorophores. They can be quenched by ions, hydroxyls, or other nanoparticles etc. This facilitates fluorescent sensing [<ce:cross-refs id="crfs0030" refid="bib0125 bib0130 bib0135">25–27</ce:cross-refs>]. Our group has used CQDs to fabricate sensors for Fe<ce:sup loc="post">3+</ce:sup> [<ce:cross-ref id="crf0035" refid="bib0140">28</ce:cross-ref>], Cu<ce:sup loc="post">2+</ce:sup> [<ce:cross-ref id="crf0040" refid="bib0145">29</ce:cross-ref>] and ascorbic acid (AA) [<ce:cross-refs id="crfs0035" refid="bib0130 bib0150">26,30</ce:cross-refs>]. Zhang’s group used nitrogen-doped CQDs and gold nanoparticles (AuNPs) to detect cysteine [<ce:cross-ref id="crf0045" refid="bib0135">27</ce:cross-ref>]. Other “turn-off” CQD-based sensing systems for sulfide detection have also been designed. For instance, Yu’s group described a CQDs-based FRET ratiometric hydrogen sulfide sensor by conjugating a naphthalimideazide derivative as the sulfide sensitive and selective probe [<ce:cross-ref id="crf0050" refid="bib0155">31</ce:cross-ref>]. Abdollahi et al. developed a two-channel fluorescence probe for the indirect determination of sulfide ions based on highly fluorescent CQDs [<ce:cross-ref id="crf0055" refid="bib0160">32</ce:cross-ref>]. Metal ions or other substances can also quench CQD fluorescence, and thus fluorescent probes are susceptible to other interfering substances. This affects their selectivity and sensitivity. Therefore, sensitive and selective CQD-based probes for the detection of H<ce:inf loc="post">2</ce:inf>S in brain systems are still urgently needed.</ce:para>
+                  <ce:para id="par0035" view="all">In this communication, as illustrated in <ce:cross-ref id="crf0060" refid="fig0005">Scheme 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig0005"/>, we first synthesized 3.15 nm N-doped CQDs by pyrolysis of Tris (i.e., tris(hydroxymethyl)-aminomethane). The CQDs and AgNPs are connected to each other through Ag<ce:glyph name="sbnd"/>N bond accompanied by the fluorescence quenching via fluorescence resonance energy transfer (FRET), forming the CQDs-AgNPs fluorescent nanoprobe. The fluorescence of the CQDs-AgNPs probe can be sensitively recovered by H<ce:inf loc="post">2</ce:inf>S to give an “turn-on” fluorescence response. Furthermore, the CQDs-AgNPs fluorescent probe illustrates a wide linear range from 1 to 1900 nM with the detection limit of 0.4 nM. As far as we know, this is one of the most sensitive CQDs-based fluorescent methods for H<ce:inf loc="post">2</ce:inf>S detection. This CQDs-AgNPs probe with high sensitivity allows to successfully determining the cortical H<ce:inf loc="post">2</ce:inf>S level in rat brain during the calm/ischemia process, which reveals potential applications in clinical medicine examination and disease diagnosis.</ce:para>
+               </ce:section>
+               <ce:section id="sec0010" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0025">Experimental</ce:section-title>
+                  <ce:section id="sec0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sect0030">Chemicals and instruments</ce:section-title>
+                     <ce:para id="par0040" view="all">Tris(hydroxymethyl)-aminomethane (Tris), ascorbic acid (AA), <ce:small-caps>l</ce:small-caps>-cysteine (L-Cys), <ce:small-caps>l</ce:small-caps>-glutathione oxidized (GSH), dopamine (DA), 3,4-dihydroxyphenylacetic acid (DOPAC) and uric acid (UA) were all purchased from Aldrich (Steinheim, Germany). Other chemicals were purchased from Beijing Chemical Reagent Company (Beijing, China). Unless otherwise stated, all reagents were of analytical reagent grade and used as received, and all aqueous solutions were prepared with double-distilled water. Transmission electron micrographs (TEM) images were obtained on a JEM-2100F Transmission Electron Microscope (Japan) operated at 200 kV. Energy Dispersive X-Ray Spectroscopy (EDX) was characterized by FE-SEM (SU8010, Hitachi, Japan). Fourier transform infrared (FT-IR) spectra were accomplished by Equinox55 spectrophotometer (BRUKER, Germany). Fluorescence and UV–vis absorption spectra were gained by using a 1 cm path length quartz cell at room temperature based on using a Fluorescence F-4500 (Hitachi, Japan) and UV-2550 UV–vis spectrophotometer (Shimadzu, Japan), respectively.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sect0035">Preparation of CQDs-AgNPs probe</ce:section-title>
+                     <ce:para id="par0045" view="all">The nitrogen-doped CQDs were synthesized through pyrolysis carbonization method [<ce:cross-ref id="crf0065" refid="bib0160">32</ce:cross-ref>]. In short, 1 g of Tris powder were heated at 230 °C in a beaker for 20 min, then dissolved and diluted with double-distilled water immediately to about 120 mL (approximately 8.33 mg/mL) to obtain the strongest fluorescence nitrogen-doped CQDs. The quantum yield (QY) measurements were summarized in Table S1 (provided in the supplemental material. On the other hand, NaBH<ce:inf loc="post">4</ce:inf> solution (10 mL and 2 mM) was slowly added to AgNO<ce:inf loc="post">3</ce:inf> solution (40 mL and 1 mM), magnetic stirred for 15 min with 0 °C ice water bath. For the hybridizing process, the CQDs solutions (pH to be 7.0) were mixed with AgNPs solution with the volume ratio of 1:1 at room temperature and sonicated for 5 min. Finally, the color of the solution turn to dark orange and the CQDs-AgNPs probe was synthesized successfully. The CQDs-AgNPs probe solutions were stored under 4 °C before further study.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sect0040">Detections of H<ce:inf loc="post">2</ce:inf>S using the CQDs-AgNPs probe</ce:section-title>
+                     <ce:para id="par0050" view="all">After chosen the optimal experimental conditions (the ratio of probe, pH, and temperature), different concentrations (1, 5, 10, 50, 100, 500, 800, and 1900 nM) of Na<ce:inf loc="post">2</ce:inf>S solution were added in CQDs-AgNPs probe at room temperature. After incubated for 5 min, the fluorescence spectra of the mixture were measured at 350 nm excitation to obtain the linear relationship between FL intensity value and the concentrations of H<ce:inf loc="post">2</ce:inf>S. Furthermore, some metal ions, anions and biological molecules were investigated to explore the selectivity of the probe (metal ions, anions and biomolecules: L-Cys (100 nM); GSH (100 nM); AA (10 μM); DA (200 nM); DOPAC (1 μM); UA (10 μM); glucose (10 μM); H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> (1 μM); K<ce:sup loc="post">+</ce:sup> (2.4 mM); Na<ce:sup loc="post">+</ce:sup> (128 mM); Ca<ce:sup loc="post">2+</ce:sup> (100 μM); Mg<ce:sup loc="post">2+</ce:sup> (1.5 μM); Fe<ce:sup loc="post">3+</ce:sup> (10 μM); Co<ce:sup loc="post">2+</ce:sup> (2 μM); Ni<ce:sup loc="post">2+</ce:sup> (2 μM); Cu<ce:sup loc="post">2+</ce:sup> (5 μM); Zn<ce:sup loc="post">2+</ce:sup> (5 μM); HPO<ce:inf loc="post">4</ce:inf>
+                        <ce:sup loc="post">2−</ce:sup> (10 μM); H<ce:inf loc="post">2</ce:inf>PO<ce:inf loc="post">4</ce:inf>
+                        <ce:sup loc="post">−</ce:sup> (10 μM); SO<ce:inf loc="post">4</ce:inf>
+                        <ce:sup loc="post">2−</ce:sup> (10 μM); HCO<ce:inf loc="post">3</ce:inf>
+                        <ce:sup loc="post">−</ce:sup> (10 μM); NO<ce:inf loc="post">3</ce:inf>
+                        <ce:sup loc="post">−</ce:sup> (10 μM) and standard Na<ce:inf loc="post">2</ce:inf>S solution (100 nM) as control group).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sect0045">In vivo microdialysis and H<ce:inf loc="post">2</ce:inf>S sensing</ce:section-title>
+                     <ce:para id="par0055" view="all">Microdialysis experiments in vivo were conducted as previous reports [<ce:cross-ref id="crf0070" refid="bib0165">33</ce:cross-ref>]. Briefly, the rats inserted with guide tube were anesthetized by chloral hydrate (350 mg/kg i.p.). The microdialysis probe (2 mm in length, Bioanalytical Systems Inc. (BAS), BAS Carnegie Medicine) was implanted into the brain cortex region and was perfused with artificial cerebrospinal fluid (aCSF) (1.1 mM CaCl<ce:inf loc="post">2</ce:inf>, 0.5 mM Na<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf>, 126 mM NaCl, 0.85 mM MgCl<ce:inf loc="post">2</ce:inf>, 0.5 mM KH<ce:inf loc="post">2</ce:inf>PO<ce:inf loc="post">4</ce:inf>, 2.4 mM KCl, 27.5 mM NaHCO<ce:inf loc="post">3</ce:inf>, pH 7.0) at a flow rate of 3 μL/min. After equilibrated for 90 min by continuously perfused aCSF through the microdialysis probe, every 30 μL of brain microdialysate was collected for analysis. According to the previous reports, the H<ce:inf loc="post">2</ce:inf>S concentrations in brain microdialysates vary in several micromole levels [<ce:cross-ref id="crf0075" refid="bib0045">9</ce:cross-ref>]. As a result, in this study, the brain microdialysates sampled from rat cortex were first diluted ten times and then further detected by the CQDs-AgNPs probe. Detection of H<ce:inf loc="post">2</ce:inf>S in the microdialysates were conducted using the same experimental conditions as the linear investigation.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0035" role="discussion" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0050">Results and discussion</ce:section-title>
+                  <ce:section id="sec0040" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sect0055">Characterization of CQDs-AgNPs probe</ce:section-title>
+                     <ce:para id="par0060" view="all">We first synthesized 3.15 nm N-doped CQDs (Fig. S1A) by pyrolysis of Tris. From FT-IR spectra of CQDs (Fig. S1D), a new peak at 1640 cm<ce:sup loc="post">−1</ce:sup> corresponded to the C<ce:glyph name="dbnd"/>C extending of polycyclic aromatichydrocarbons [<ce:cross-ref id="crf0080" refid="bib0175">35</ce:cross-ref>], supporting the CQDs were synthesized successfully. As shown in TEM images, when CQDs connected with AgNPs (average diameter to be 15 nm) to form CQDs-AgNPs probe (<ce:cross-ref id="crf0085" refid="fig0010">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig0010"/>A), the aggregation phenomenon of AgNPs occurred with fluorescence quenching. Furthermore, the fluorescence excitation peaks of both the CQDs and the CQDs-AgNPs occur at approximately 350 nm (<ce:cross-ref id="crf0090" refid="fig0010">Fig. 1</ce:cross-ref>D), which nicely fits in the UV–vis absorption spectrum (<ce:cross-ref id="crf0095" refid="fig0010">Fig. 1</ce:cross-ref>C). The emission peaks of both at 440 nm were used for detection. The C<ce:glyph name="dbnd"/>C bond peak for the CQDs-AgNPs probe was shifted by 23 cm<ce:sup loc="post">−1</ce:sup> to 1663 cm<ce:sup loc="post">−1</ce:sup> due to mesomeric effects relative to the CQD peak. The peak at ∼3338 cm<ce:sup loc="post">−1</ce:sup> is attributed to Ag<ce:glyph name="sbnd"/>N stretching vibrations. The results indicate that the CQDs-AgNPs probe was prepared successfully.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0045" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sect0060">Mechanisms of H<ce:inf loc="post">2</ce:inf>S sensing</ce:section-title>
+                     <ce:para id="par0065" view="all">To further explore the mechanism of the fluorescence quenching of the formed CQDs-AgNPs probe, theoretical calculations were performed based on time-dependent density functional theory (TD-DFT) in order to explain the reduced fluorescence signal of the CQDs when connected to AgNPs. Since the CQDs are an aromatic system that contains C<ce:glyph name="sbnd"/>OH, CH<ce:inf loc="post">2</ce:inf>
+                        <ce:glyph name="sbnd"/>OH groups and −NH<ce:inf loc="post">2</ce:inf> groups [<ce:cross-ref id="crf0100" refid="bib0130">26</ce:cross-ref>], a simple model as shown in <ce:cross-ref id="crf0105" refid="fig0015">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig0015"/>a was built to give qualitative description of the CQDs. When CQDs are connected to AgNPs, Ag<ce:glyph name="sbnd"/>N bonds are formed. A model as shown in <ce:cross-ref id="crf0110" refid="fig0015">Fig. 2</ce:cross-ref>c with an Ag atom bonded to the N atom was built. In the calculation, the sophisticated hybrid density functional B3LYP was adopted. The Lanl2DZ basis set for Ag and 6–31G (d) basis set for all the other elements were used. The absorption spectra were calculated under the geometries of the ground states, while the fluorescence spectra were obtained under those of the corresponding excited states.</ce:para>
+                     <ce:para id="par0070" view="all">For the CQDs, the highest absorption spectrum peak is at 325.37 nm with oscillator strength (f) of 0.6616, while the highest fluorescence spectrum peak is 440.87 nm (f = 0.1830). When the CQDs are connected to the silver atom, the above two peaks become 300.34 nm (f = 0.3518) and 447.16 nm (f = 0.1256), respectively, those are consistent with <ce:cross-ref id="crf0115" refid="fig0010">Fig. 1</ce:cross-ref>C and D. The CQDs-AgNPs probe was obtained by directly mixing AgNPs and CQDs, and the system color changes from yellow to pink because the AgNPs and CQDs were connected through Ag-N bond combination due to and the distance between CQDs and AgNPs become smaller. In addition, for the absorption spectra of CQDs and AgNPs (<ce:cross-ref id="crf0120" refid="fig0010">Fig. 1</ce:cross-ref>C), some of the absorption peaks overlap which pave the way for fluorescence resonance energy transfer (FRET) mechanism. The wavelengths for these simple models agree well with the experimental values, especially for the absorption spectra. Furthermore, the shift of the peaks after connected to the silver is quite small (less than 7 nm), which is consistent with the experiment. After connected to the silver atom, the oscillator strength for the fluorescence spectrum of the carbon dot reduces from 0.1830 to 0.1256, which explains the reduced fluorescence signal in the experiment.</ce:para>
+                     <ce:para id="par0075" view="all">In order to further elucidate the reason why the oscillator strength reduces, molecular orbitals involved in the electronic transitions are analysed. Attribution of the spectrum peaks is described in supporting information and the absorption spectrum peak at 325.37 nm for the CQDs is attributed to nine transitions. The transition with the largest coefficient is from the HOMO to LUMO + 5. For the other three spectrum peaks, the transitions are different. It is difficult to give a comparison between different molecular orbitals.</ce:para>
+                     <ce:para id="par0080" view="all">Hence, the transitions involving the HOMOs are discussed in detail. The corresponding molecular orbitals are shown in <ce:cross-ref id="crf0125" refid="fig0015">Fig. 2</ce:cross-ref>, which should give intuitive picture of the transitions. In <ce:cross-ref id="crf0130" refid="fig0015">Fig. 2</ce:cross-ref>, all the orbitals have π characteristics, indicating that the transitions are between π and π*. It is noted that the HOMOs in <ce:cross-ref id="crf0135" refid="fig0015">Fig. 2</ce:cross-ref>a and b are similar. The reason is that the geometries of the ground and excited states have little difference, due to the confinement of the aromatic hydrocarbon skeleton. It is also similar for the HOMOs in <ce:cross-ref id="crf0140" refid="fig0015">Fig. 2</ce:cross-ref>c and d. The molecular orbitals are almost uniformly distributed on the carbon atoms, except for the HOMOs in <ce:cross-ref id="crf0145" refid="fig0015">Fig. 2</ce:cross-ref>c and d. These two HOMOs are not uniform. There is big contribution from the silver atom, but little from some carbon atoms on one side. In contrast, there is little contribution from the silver atom for the LUMO + 8 and LUMO + 4. For the CQDs connected to the silver atom, the transition from the HOMO to LUMO + 8 as shown in <ce:cross-ref id="crf0150" refid="fig0015">Fig. 2</ce:cross-ref>c and that from the LUMO + 4 to HOMO as shown in <ce:cross-ref id="crf0155" refid="fig0015">Fig. 2</ce:cross-ref>d require charge redistribution between the silver atom and some carbon atoms. Therefore, the oscillator strength of the CQDs reduces after connected to the silver atom. These explain the reduced fluorescence signal in the experiment.</ce:para>
+                     <ce:para id="par0085" view="all">It is well known that sulfur-containing compounds can strongly bind silver nanoparticles. Based on the above simple models, we assumed the reaction to be AgCQD + H<ce:inf loc="post">2</ce:inf>S<ce:glyph name="dbnd"/>HCQD + AgHS. The energy change is −39.8 kcal/mol indicating that the reaction is energetically favorable. The CQDs are released after the reaction to recover fluorescence. Only CQDs-AgNPs probe can lead to obvious fluorescence recovery (Fig. S3A). The underlying mechanism was proved to be between the H<ce:inf loc="post">2</ce:inf>S and CQDs-AgNPs. When Na<ce:inf loc="post">2</ce:inf>S was added to the CQDs-AgNPs probe solution, the Na<ce:inf loc="post">2</ce:inf>S was converted to H<ce:inf loc="post">2</ce:inf>S at pH 7.0 [<ce:cross-ref id="crf0160" refid="bib0045">9</ce:cross-ref>]. This is suitable with the pH needed for H<ce:inf loc="post">2</ce:inf>S detection (Fig. S3B). TEM images (<ce:cross-ref id="crf0165" refid="fig0010">Fig. 1</ce:cross-ref>A–B) show that the AgNPs and H<ce:inf loc="post">2</ce:inf>S bound via Ag<ce:glyph name="sbnd"/>S bonds. Some of the Ag-N bonds broke between the CQDs and the AgNPs. This is because the binding capacity of the Ag-S bonds is stronger than the Ag<ce:glyph name="sbnd"/>N bonds. Consequently, some of the CQDs were newly released, and the AgNPs were newly dispersed from the agglomeration. This restored the CQDs-AgNPs fluorescence. The EDX spectra further indicated the presence of carbon and silver in the CQDs-AgNPs probe (Fig. S2A). The EDX spectrum of the H<ce:inf loc="post">2</ce:inf>S with CQDs-AgNPs (Fig. S2B) showed the effects of nitrogen and sulfur on the luminescence mechanism of the CQDs-AgNPs probe. Therefore, a rapid and highly sensitive analysis tool was established for the detection of H<ce:inf loc="post">2</ce:inf>S.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0050" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sect0065">The fluorescence responses of H<ce:inf loc="post">2</ce:inf>S sensing with CQDs-AgNPs probe</ce:section-title>
+                     <ce:para id="par0090" view="all">The CQDs-AgNPs probe was optimized at pH 7.0 (Fig. S3B), a volume ratio of 1:1 (Fig. S4A), and room temperature (Fig. S4B). At these conditions, 1–1900 nM of Na<ce:inf loc="post">2</ce:inf>S in 100 μL was added to 1 mL of CQDs-AgNPs probe. The fluorescence values of the CQDs-AgNPs at 440 nm gradually increased (<ce:cross-ref id="crf0170" refid="fig0020">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig0020"/>A). <ce:cross-ref id="crf0175" refid="fig0020">Fig. 3</ce:cross-ref>B illustrates the relationship of the fluorescence restoration ratio (F<ce:inf loc="post">1</ce:inf>-F<ce:inf loc="post">0</ce:inf>)/F<ce:inf loc="post">0</ce:inf> with different H<ce:inf loc="post">2</ce:inf>S concentrations. The inset of <ce:cross-ref id="crf0180" refid="fig0020">Fig. 3</ce:cross-ref>B shows a good linear correlation (R<ce:sup loc="post">2</ce:sup> = 0.997) from 1 to 1900 nM ((F<ce:inf loc="post">1</ce:inf>-F<ce:inf loc="post">0</ce:inf>)/F<ce:inf loc="post">0</ce:inf> = 0.0424 + 0.0037 [H<ce:inf loc="post">2</ce:inf>S]/nM) with a detection limit of ∼0.4 nM (S/N = 3). Versus the previously reported H<ce:inf loc="post">2</ce:inf>S fluorescent probes (Table S2), the current CQDs-AgNPs probe was very sensitive, selective, and had a good lower detection limit. Moreover, these highly sensitive sensors allow sufficient sample dilution during the assay to effectively reduce interference from the complicated matrix (physiological species) [<ce:cross-ref id="crf0185" refid="bib0170">34</ce:cross-ref>]. This is critical for sensing cerebral H<ce:inf loc="post">2</ce:inf>S.</ce:para>
+                     <ce:para id="par0095" view="all">To explore probe selectivity, the CQDs-AgNPs probe was studied in the presence of interferences. The highly selective nature of the probe is due to the combination of the AgNPs with H<ce:inf loc="post">2</ce:inf>S to generate Ag-S and then release CQDs for signal generation. <ce:cross-ref id="crf0190" refid="fig0020">Fig. 3</ce:cross-ref>C demonstrates that only H<ce:inf loc="post">2</ce:inf>S elicits an obvious response from the CQDs-AgNPs probe due to the high selectivity of the CQDs-AgNPs probe for H<ce:inf loc="post">2</ce:inf>S in aqueous solution. This also indicates that the method can detect H<ce:inf loc="post">2</ce:inf>S in real biological environments or samples.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0055" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="sect0070">H<ce:inf loc="post">2</ce:inf>S sensing in rat brain microdialysates during the cerebral calm/ischemia</ce:section-title>
+                     <ce:para id="par0100" view="all">We next evaluated this tool in a rat cerebral calm/ischemia experimental model. The cerebral microdialysates containing H<ce:inf loc="post">2</ce:inf>S were obtained by microdialysis in pre- and post-ischemia. The fluorescence spectra of CQDs-AgNPs probe with brain microdialysates (diluted 10 times) was measured. <ce:cross-ref id="crf0195" refid="fig0025">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig0025"/> shows that before ischemia (60 min), the basal level of H<ce:inf loc="post">2</ce:inf>S in rat brain cortical was 3.08 ± 0.10 μM; this increased to 4.67 ± 0.07 μM (n = 3) with ischemia. These values are similar to values previously reported [<ce:cross-ref id="crf0200" refid="bib0175">35</ce:cross-ref>] indicating that the level of H<ce:inf loc="post">2</ce:inf>S in the ischemic state increases to provide further data on neurotoxicity. These results suggest that the fluorescent probe has high selectivity and sensitivity for H<ce:inf loc="post">2</ce:inf>S. It can be used in animal models for practical applications.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0060" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0075">Conclusion</ce:section-title>
+                  <ce:para id="par0105" view="all">In summary, we developed a novel and efficient method to combine CQDs and AgNPs complexes as a fluorescence probe for H<ce:inf loc="post">2</ce:inf>S detection. The sensing mechanism was validated in a DFT/TD-DFT study. The fluorescence assay was used to measure cortical H<ce:inf loc="post">2</ce:inf>S in rat brain during ischemia. This validated its potential applications in clinical medicine and disease diagnosis.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0080">Acknowledgments</ce:section-title>
+               <ce:para id="par0110" view="all">This work was financially supported by <ce:grant-sponsor id="gs0005" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Natural Science Foundation</ce:grant-sponsor> (<ce:grant-number refid="gs0005">21575090</ce:grant-number>), <ce:grant-sponsor id="gs0010" sponsor-id="https://doi.org/10.13039/501100005089" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Beijing Municipal Natural Science Foundation</ce:grant-sponsor> (<ce:grant-number refid="gs0010">2162009</ce:grant-number>), <ce:grant-sponsor id="gs0015" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Scientific Research Project of Beijing Educational Committee</ce:grant-sponsor> (<ce:grant-number refid="gs0015">KM201810028008</ce:grant-number>), and <ce:grant-sponsor id="gs0020" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Youth Innovative Research Team of Capital Normal University</ce:grant-sponsor>.</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="sec0065" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sect0085">Supplementary data</ce:section-title>
+                  <ce:para id="par0115" view="all">Supplementary data associated with this article can be found, in the online version, at <ce:inter-ref id="intr0005" xlink:href="https://doi.org/10.1016/j.snb.2018.02.186" xlink:type="simple">https://doi.org/10.1016/j.snb.2018.02.186</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="sec0070" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sect0090">Supplementary data</ce:section-title>
+                  <ce:para id="par0120" view="all">The following is Supplementary data to this article:<ce:display>
+                        <ce:e-component id="upi0005">
+                           <ce:link xlink:href="pii:S092540051830474X/mmc1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" locator="mmc1" xlink:type="simple"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0095">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrogen sulfide: a neuromodulator and neuroprotectant in the central nervous system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Chem. Neurosci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>876</sb:first-page>
+                              <sb:last-page>883</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Szabó</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrogen sulfide and its therapeutic potential</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Rev. Drug Discov.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>917</sb:first-page>
+                              <sb:last-page>935</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Rose</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Moore</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrogen sulfide and cell signaling</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annu. Rev. Pharmacol. Toxicol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>169</sb:first-page>
+                              <sb:last-page>187</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.R.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Small-molecule two-photon probes for bioimaging applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>115</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5014</sb:first-page>
+                              <sb:last-page>5055</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Lefer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A new gaseous signaling molecule emerges: cardioprotective role of hydrogen sulfide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Natl. Acad. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>17907</sb:first-page>
+                              <sb:last-page>17908</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Boehning</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Snyder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Novel neural modulators</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annu. Rev. Neurosci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>105</sb:first-page>
+                              <sb:last-page>131</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Elrod</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Calvert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Morrison</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Doeller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Kraus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Tao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Jiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Scalia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Kiss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Szabo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kimura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Chow</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Lefer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrogen sulfide attenuates myocardial ischemia-reperfusion injury by preservation of mitochondrial function</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Natl. Acad. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15560</sb:first-page>
+                              <sb:last-page>15565</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reduction of ammine ruthenium (III) by sulfide enables in vivo electrochemical monitoring of free endogenous hydrogen sulfide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5382</sb:first-page>
+                              <sb:last-page>5388</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reaction-based turn-on electrochemiluminescent sensor with a ruthenium [II] complex for selective detection of extracellular hydrogen sulfide in rat brain</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1839</sb:first-page>
+                              <sb:last-page>1845</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Berkman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Xian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Capture and visualization of hydrogen sulfide by a fluorescent probe</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>123</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10511</sb:first-page>
+                              <sb:last-page>10513</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Jiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A ratiometric fluorescent probe for rapid detection of hydrogen sulfide in mitochondria</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>125</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1732</sb:first-page>
+                              <sb:last-page>1735</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Hammers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Taormina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Cerda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.A.</ce:given-name>
+                                 <ce:surname>Montoya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.T.</ce:given-name>
+                                 <ce:surname>Seidenkranz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Parthasarathy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Pluth</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A bright fluorescent probe for H<ce:inf loc="post">2</ce:inf>S enables analytic responsive: 3D imaging in live zebrafish using light sheet fluorescence microscopy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>137</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10216</sb:first-page>
+                              <sb:last-page>10223</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Karakuş</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Üçüncü</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Emrullahoğlu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrophilic cyanate as a recognition motif for reactive sulfur species: selective fluorescence detection of H<ce:inf loc="post">2</ce:inf>S</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1039</sb:first-page>
+                              <sb:last-page>1043</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fluorescent probes for sensing and imaging biological hydrogen sulfide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Opin. Chem. Biol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>595</sb:first-page>
+                              <sb:last-page>601</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Pak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.C.</ce:given-name>
+                                 <ce:surname>Ko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mitochondria-targeted reaction-based fluorescent probe for hydrogen sulfide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5476</sb:first-page>
+                              <sb:last-page>5481</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Tian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Lau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Visualization of in vivo hydrogen sulfide production by a bioluminescence probe in cancer cells and nude mice</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11325</sb:first-page>
+                              <sb:last-page>11331</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Niu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Shan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ethylenediamine-assisted hydrothermal synthesis of nitrogen-doped carbon quantum dots as fluorescent probes for sensitive biosensing and bioimaging</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sens. Actuators B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>218</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>229</sb:first-page>
+                              <sb:last-page>236</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Yin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ratiometric fluorescence sensor for the sensitive detection of Bacillus thuringiensis transgenic sequence based on silica coated supermagnetic nanoparticles and quantum dots</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sens. Actuators B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>254</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>206</sb:first-page>
+                              <sb:last-page>213</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ray</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Gu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Ploehn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Gearheart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Raker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Scrivens</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrophoretic analysis and purification of fluorescent single-walled carbon nanotube fragments</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>126</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12736</sb:first-page>
+                              <sb:last-page>12737</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Cao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Meziani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon dots for multiphoton bioimaging</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>129</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11318</sb:first-page>
+                              <sb:last-page>11319</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yukawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Baba</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>In vivo fluorescence imaging and the diagnosis of stem cells using quantum dots for regenerative medicine</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2671</sb:first-page>
+                              <sb:last-page>2681</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.N.</ce:given-name>
+                                 <ce:surname>Baker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Baker</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Luminescent carbon nanodots: emergent nanolights</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6726</sb:first-page>
+                              <sb:last-page>6744</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon quantum dot-gold nanocluster nanosatellite for ratiometric fluorescence probe and imaging for hydrogen peroxide in living cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sens. Actuators B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>241</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>821</sb:first-page>
+                              <sb:last-page>827</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>You</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Simultaneous stripping determination of cadmium and lead ions based on the N-doped carbon quantum dots-graphene oxide hybrid</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sens. Actuators B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>255</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1762</sb:first-page>
+                              <sb:last-page>1770</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Tian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of a carbon quantum dots-based fluorescent Cu<ce:sup loc="post">2+</ce:sup> probe suitable for living cell imaging</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5473</sb:first-page>
+                              <sb:last-page>5475</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hexagonal cobalt oxyhydroxide-carbon dots hybridized surface: high sensitive fluorescence turn-on probe for monitoring of ascorbic acid in rat brain following brain ischemia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3404</sb:first-page>
+                              <sb:last-page>3411</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sbref0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Hou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanosensor composed of nitrogen-doped carbon dots and gold nanoparticles for highly selective detection of cysteine with multiple signals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2195</sb:first-page>
+                              <sb:last-page>2203</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sbref0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Qiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis of nitrogen-doped and amino acid-functionalized graphene quantum dots from glycine, and their application to the fluorometric determination of ferric ion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microchim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>182</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>763</sb:first-page>
+                              <sb:last-page>770</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sbref0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tunable fluorescent silica-coated carbon dots: a synergistic effect for enhancing the fluorescence sensing of extracellular Cu<ce:sup loc="post">2+</ce:sup> in rat brain</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>27262</sb:first-page>
+                              <sb:last-page>27270</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0150">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sbref0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fe<ce:sup loc="post">3+</ce:sup>-functionalized carbon quantum dots: a facile preparation strategy and detection for ascorbic acid in rat brain microdialysates</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Talanta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>144</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1301</sb:first-page>
+                              <sb:last-page>1307</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0155">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="sbref0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Zeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon-dot-based ratiometric fluorescent sensor for detecting hydrogen sulfide in aqueous media and inside live cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>403</sb:first-page>
+                              <sb:last-page>405</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0160">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="sbref0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Blue luminescent graphene quantum dots and graphene oxide prepared by tuning the carbonization degree of citric acid</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4738</sb:first-page>
+                              <sb:last-page>4743</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0165">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="sbref0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Mao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dynamic regional changes of extracellular ascorbic acid during global cerebral ischemia: studied with in vivo microdialysis coupled with on-line electrochemical detection</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Brain Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1253</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>161</sb:first-page>
+                              <sb:last-page>168</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0170">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference id="sbref0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Pang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Facile preparation of low cytotoxicity fluorescent carbon nanocrystals by electrooxidation of graphite</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>115</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5116</sb:first-page>
+                              <sb:last-page>5118</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0175">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference id="sbref0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Qian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A fluorescent probe for rapid detection of hydrogen sulfide in blood plasma and brain tissues in mice</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2920</sb:first-page>
+                              <sb:last-page>2923</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+            <ce:biography id="vt0005" view="all">
+               <ce:simple-para id="spar0040" view="all">
+                  <ce:bold>Chao Wang</ce:bold> received his B.S. in department of chemistry from Capital Normal University, China in 2017. He is now a graduate student in department of chemistry at Capital Normal University. His research focuses on fluorescence nanoparticles and biomolecules detection.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt0010" view="all">
+               <ce:simple-para id="spar0045" view="all">
+                  <ce:bold>Yongqi Ding</ce:bold> received his B.S. in college of chemistry and chemical engineering from Shangqiu Normal University, China in 2016. He is now a graduate student in department of chemistry at Capital Normal University. His research focuses on colorimetric and fluorescence detection methods of biomolecules.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt0015" view="all">
+               <ce:simple-para id="spar0050" view="all">
+                  <ce:bold>Xinyu Bi</ce:bold> is now an undergraduate student in department of chemistry at Capital Normal University, China. His research focuses on fluorescence detection methods and fluorescence materials design toward biomolecules.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt0020" view="all">
+               <ce:simple-para id="spar0055" view="all">
+                  <ce:bold>Jingxuan Luo</ce:bold> received his B.S. in department of chemistry from Capital Normal University, China in 2017. His research focuses on fluorescence detection methods of biomolecules.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt0025" view="all">
+               <ce:simple-para id="spar0060" view="all">
+                  <ce:bold>Guo Wang</ce:bold> received his PhD degree in chemistry from Beijing Normal University, China in 2009. He joined as a lecturer in department of chemistry at Capital Normal University in 2009, and currently is working as an associate professor. His research focuses on the relationship between structure and properties of materials from a quantum chemistry perspective.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt0030" view="all">
+               <ce:simple-para id="spar0065" view="all">
+                  <ce:bold>Yuqing Lin</ce:bold> is currently an professor at Capital Normal University. She received her B.S. in 2003 from Zhengzhou University (China) and her Ph.D.in Analytical Chemistry from Institute of Chemistry, Chinese Academy of Science (ICCAS) in 2008. She worked as an Assistant Professor in the field of in vivo and online electroanalytical chemistry in ICCAS from 2008 to 2010 and finished her post-doctoral research in the department of chemistry at the University of Gothenburg (Sweden) from 2010 to 2012. Her research interests include micro/nanostructured electroanalytical and fluorescent methods for probing neurochemistry both in vivo and in single cells.</ce:simple-para>
+            </ce:biography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

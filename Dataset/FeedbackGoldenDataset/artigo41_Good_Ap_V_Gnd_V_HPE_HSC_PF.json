@@ -1,0 +1,90 @@
+{
+  "input_source": "artigo41.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "Green, low toxicity, good biocompatibility fluorescent carbon nanoparticles prepared from essential oil precursor via one-step hydrothermal treatment.",
+        "iupac_name": null,
+        "alternative_names": [
+          "CDs",
+          "Carbon nanodots",
+          "Fluorescent carbon dots"
+        ]
+      },
+      "synthesis": {
+        "method": {
+          "type": "Hydrothermal",
+          "conditions": "Pyrolyzing 2.0 mL of the essential oil of Thymus vulgaris L. and 2mL DI water initially were under ultrasonication (200 W), for 1 min. Heated 200°C for 15 h in Teflon-lined autoclave(30mL)",
+          "catalysts": null
+        },
+        "precursors": {
+          "source": [
+            "Essential oil of Thymus vulgaris L. (Thyme essential oil)"
+          ],
+          "dopants": null
+        },
+        "post_treatment": [
+          "Cooled to the room temperature",
+          "Centrifugation at 8000 rpm for 20 min to separate phases",
+          "Multiple centrifugations of aqueous phase at 12000 rpm for 20 min to remove large particles",
+          "Rotary evaporation to concentrate CDs"
+        ]
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": "5.2%",
+            "reference_material": "Q=54% in 0.1 M H2SO4"
+          },
+          "excitation_max": "325 nm",
+          "emission_max": "420 nm",
+          "fluorescence_lifetime": "[MISSING]"
+        },
+        "structural": {
+          "size": {
+            "avg": "8 nm",
+            "distribution": "[MISSING]"
+          },
+          "morphology": "[MISSING]",
+          "crystallinity": "[MISSING]"
+        },
+        "chemical": {
+          "surface_groups": [
+            "O-H",
+            "CH2",
+            "C=O",
+            "sp²-CH",
+            "-C-O"
+          ],
+          "elemental_composition": {
+            "C": "[MISSING]",
+            "N": "[MISSING]",
+            "O": "[MISSING]"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "Metal Ion Sensing (Fe3+)",
+          "performance": "Limit of Detection: 0.23 mg/L. Limit of Quantification (LOQ): 0.69 mg/L (signal-to-noise ratio=3). Linear range 0-34.74 mg/L. Strongest fluorescence quenching effect in the presence of Fe3+",
+          "comparative_advantage": "High selectivity against interfering ions (Mg2+, Ba2+, Zn2+, Ni2+, Cd2+, Co2+, Cu2+, Ag+, Fe2+, Pb2+). Green synthesis from natural precursor without additional substances."
+        },
+        {
+          "domain": "Bioimaging (Cellular Imaging)",
+          "performance": "Blue and green emissions observed under 360 nm and 480 nm excitation respectively. Cell viability ~76% at 1400 mg/L concentration. Good cellular uptake with dispersion in membrane and cytoplasmic areas.",
+          "comparative_advantage": "Biocompatible without additional surface passivation; Permeable to cell membrane"
+        },
+        {
+          "domain": "Antioxidant Activity",
+          "performance": "DPPH radical scavenging inhibition efficiency concentration EC50 = 23.43 μg/L",
+          "comparative_advantage": "Intrinsic antioxidant properties derived from natural precursor (Thymus vulgaris essential oil known for antioxidant compounds like thymol, carvacrol). CDs act as both electron donors and acceptors."
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Good",
+    "score": 5.0,
+    "expert_comment": "Applicability Verified: The extracted aplication domains align perfectly with those mentioned in the source text. The model accurately identified, listed and described all relevant application areas for the Carbon Dots used in the article. | Grounded Verification: All extracted content is fully supported by the source text. The model correctly returned 'null' or '[MISSING]' for fields absent in the document, avoiding unsupported inferences or hallucinations. | High Precision Extraction: Numerical values (such as Quantum Yield, Size, and Chemical) were extracted with correct units and significant figures. The model accurately reflects the quantitative data from the source text. | High Scientific Context: Quantitative data was extracted with high precision. The model successfully preserved scientific context (e.g., relating Quantum Yield to its reference material) and handled value ranges/uncertainties as requested in the 'Data Quality' section. | Perfect Match: The extraction captures all relevant technical details defined in the 'Extraction Scope'. Synthesis methods, precursors, and optical properties align precisely with the source text, demonstrating full compliance with the expert guidelines."
+  }
+}

@@ -1,0 +1,1965 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0167577X24003446</prism:url><dc:identifier>doi:10.1016/j.matlet.2024.136206</dc:identifier><eid>1-s2.0-S0167577X24003446</eid><prism:doi>10.1016/j.matlet.2024.136206</prism:doi><pii>S0167-577X(24)00344-6</pii><dc:title>Mechanical behavior of graphene quantum dot epoxy nanocomposites: A molecular dynamics study </dc:title><prism:publicationName>Materials Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>0167577X</prism:issn><prism:volume>362</prism:volume><prism:startingPage>136206</prism:startingPage><prism:pageRange>136206</prism:pageRange><articleNumber>136206</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2024-05-01</prism:coverDate><prism:coverDisplayDate>1 May 2024</prism:coverDisplayDate><prism:copyright>© 2024 The Author(s). Published by Elsevier B.V.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier B.V.</prism:publisher><dc:creator>Keleş, Özgür</dc:creator><dc:creator>Deshpande, Prathamesh P.</dc:creator><dc:description>
+                  Quantum dot fillers were reported to enhance stiffness, yield strength, and toughness of polymers. However, the underlying mechanisms for these enhancements are unclear. In this study, for the first time, molecular dynamics simulations were performed to reveal the effects of graphene quantum dots (GQDs) on epoxy properties. Mechanical simulations revealed that addition of a single-layer graphene quantum dot with six reactive amine groups enhanced the epoxy yield strength by 17% and stiffness by 6%; whereas pristine GQDs reduced the strength by 6% and stiffness by 10%. The results show the importance of surface chemistry of GQDs towards the intelligent design of strong, tough, and multifunctional nanocomposites.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>California State University 2022</openaccessSponsorName><openaccessSponsorType>FundingBody</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><dcterms:subject>Quantum dots</dcterms:subject><dcterms:subject>Nanocomposite</dcterms:subject><dcterms:subject>MD</dcterms:subject><dcterms:subject>Synthesis</dcterms:subject><dcterms:subject>Mechanics</dcterms:subject><dcterms:subject>Thermoset</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0167577X24003446" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0167577X24003446" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="650" height="366" size="70942">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24003446-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="753" height="608" size="112200">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24003446-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="802" height="431" size="102833">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24003446-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="123" size="10723">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24003446-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="203" height="164" size="11654">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24003446-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="118" size="12659">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24003446-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2878" height="1622" size="440435">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24003446-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3335" height="2692" size="590947">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24003446-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3549" height="1907" size="628808">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24003446-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="3472236">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24003446-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="982977">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X24003446-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85186375352</scopus-id><scopus-eid>2-s2.0-85186375352</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85186375352" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271572</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Materials Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>MATERIALSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20240301">2024-03-01</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20240301">2024-03-01</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20240302">2024-03-02</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20240302">2024-03-02</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-03-13T08:44:48</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0167577X24003446</xocs:eid>
+      <xocs:pii-formatted>S0167-577X(24)00344-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0167577X24003446</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.matlet.2024.136206</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0167577X24X0004X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240415">2024-04-15T12:05:28.044733Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20240501</xocs:date-search-begin>
+      <xocs:year-nav>2024</xocs:year-nav>
+      <xocs:indexeddate epoch="1709310404">2024-03-01T16:26:44.670158Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body affil appendices articletitle auth authfirstini authfull authkeywords authlast highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0167-577X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>0167577X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>CSU2022</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>362</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>362</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 362</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>65</xocs:sort-order>
+      <xocs:first-fp>136206</xocs:first-fp>
+      <xocs:article-number>136206</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>136206</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20240501</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 May 2024</xocs:cover-date-text>
+      <xocs:cover-date-start>2024-05-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2024</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>© 2024 The Author(s). Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>MECHANICALBEHAVIORGRAPHENEQUANTUMDOTEPOXYNANOCOMPOSITESAMOLECULARDYNAMICSSTUDY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KELES</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>O</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Molecular modeling</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Funding</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>JIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>11</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>MALLICK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>FIBERREINFORCEDCOMPOSITESMATERIALSMANUFACTURINGDESIGN</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>MI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>100977</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>DOMUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10294</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10329</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>MOUSAVI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1871</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1886</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030"/>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>KINLOCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>547</xocs:ref-first-fp>
+            <xocs:ref-last-lp>553</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>VARISCHETTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>832</xocs:ref-first-fp>
+            <xocs:ref-last-lp>840</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>GONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>104</xocs:ref-first-fp>
+            <xocs:ref-last-lp>114</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>TANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>333</xocs:ref-first-fp>
+            <xocs:ref-last-lp>342</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>BALGURI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>346</xocs:ref-first-fp>
+            <xocs:ref-last-lp>355</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>GOBI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4356</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4362</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>KARIMI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>62</xocs:ref-first-fp>
+            <xocs:ref-last-lp>76</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>RIAZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>106419</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>SEIBERT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-article-number>121988</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>JOHNSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>530</xocs:ref-first-fp>
+            <xocs:ref-last-lp>541</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>SHERBURNE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>44156</xocs:ref-first-fp>
+            <xocs:ref-last-lp>44162</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0090">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>103</xocs:ref-first-fp>
+            <xocs:ref-last-lp>122</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>MENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9474</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9483</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100">
+            <xocs:ref-normalized-surname>THOMPSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>108171</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>ODEGARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9815</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9824</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0110"/>
+         <xocs:ref-info refid="h0115">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4083</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4092</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>RADUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>255</xocs:ref-first-fp>
+            <xocs:ref-last-lp>264</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0125">
+            <xocs:ref-normalized-surname>PATIL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5788</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5797</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0130">
+            <xocs:ref-normalized-surname>LITTELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>162</xocs:ref-first-fp>
+            <xocs:ref-last-lp>173</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0135">
+            <xocs:ref-normalized-surname>GILAT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>75</xocs:ref-first-fp>
+            <xocs:ref-last-lp>89</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0140">
+            <xocs:ref-normalized-surname>VASHISTH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6633</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6642</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KELESX2024X136206</xocs:refkey3>
+         <xocs:refkey4ai>KELESX2024X136206XO</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2024-02-23T04:09:51Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>FundingBody</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>California State University 2022</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-agreements>
+            <xocs:or-agreement>
+               <xocs:or-agreement-name>CHU_NSF</xocs:or-agreement-name>
+               <xocs:or-agreement-terms>publishAcceptedManuscriptIndexable</xocs:or-agreement-terms>
+            </xocs:or-agreement>
+         </xocs:or-agreements>
+         <xocs:or-agreement-license>http://www.elsevier.com/open-access/userlicense/1.0/</xocs:or-agreement-license>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2025-03-02T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2024 The Author(s). Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2024-03-07T13:59:03.229Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>National Science Foundation</xocs:funding-agency-matched-string>
+            <xocs:funding-id>2145604</xocs:funding-id>
+            <xocs:funding-agency-acronym>NSF</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Science Foundation</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100000001</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6252001/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>Funding for this work was provided by the U.S. National Science Foundation CAREER Award No. 2145604. </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0167-577X(24)00344-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0167577X24003446</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0167577X24003446</xocs:eid>
+         <xocs:doi>10.1016/j.matlet.2024.136206</xocs:doi>
+         <xocs:cid>271572</xocs:cid>
+         <xocs:timestamp>2024-04-15T12:05:28.044733Z</xocs:timestamp>
+         <xocs:cover-date-start>2024-05-01</xocs:cover-date-start>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>CSU2022</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0167577X24003446-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24003446/MAIN/application/pdf/945096cba2dcef995ec66001b333a455/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>3394879</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0167577X24003446-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24003446/PREVIEW/image/png/055031d0c9a294186ce6d38e3b7697b9/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>59959</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24003446-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24003446/gr1/DOWNSAMPLED/image/jpeg/4a7a65b980ec70333bea772f30e59bb4/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>70942</xocs:filesize>
+               <xocs:pixel-height>366</xocs:pixel-height>
+               <xocs:pixel-width>650</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24003446-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24003446/gr3/DOWNSAMPLED/image/jpeg/a9d6f00de99efa8737bad3773882eb07/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>112200</xocs:filesize>
+               <xocs:pixel-height>608</xocs:pixel-height>
+               <xocs:pixel-width>753</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24003446-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24003446/gr2/DOWNSAMPLED/image/jpeg/12948d125d35fc4732932e45b7e5fde9/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>102833</xocs:filesize>
+               <xocs:pixel-height>431</xocs:pixel-height>
+               <xocs:pixel-width>802</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24003446-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24003446/gr1/THUMBNAIL/image/gif/25a0a38fe236f26dcc0d81633eed6121/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10723</xocs:filesize>
+               <xocs:pixel-height>123</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24003446-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24003446/gr3/THUMBNAIL/image/gif/b15ca1bde59ab5c2c2b161084c03c15d/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11654</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>203</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24003446-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24003446/gr2/THUMBNAIL/image/gif/9418ca50cb1692c5a9f5b68d58ee8eba/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12659</xocs:filesize>
+               <xocs:pixel-height>118</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24003446-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24003446/HIGHRES/image/jpeg/a0ff8015a24470095055adf70760fd32/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>440435</xocs:filesize>
+               <xocs:pixel-height>1622</xocs:pixel-height>
+               <xocs:pixel-width>2878</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24003446-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24003446/HIGHRES/image/jpeg/24d351bdb7c1e092e11939a4ae8904c4/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>590947</xocs:filesize>
+               <xocs:pixel-height>2692</xocs:pixel-height>
+               <xocs:pixel-width>3335</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24003446-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24003446/HIGHRES/image/jpeg/120ec578f87316998cf9b813b845ec36/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>628808</xocs:filesize>
+               <xocs:pixel-height>1907</xocs:pixel-height>
+               <xocs:pixel-width>3549</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24003446-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X24003446/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/9ba1231637c9a94b1e3849b187a50d15/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>3472236</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X24003446-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>982977</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10Q7N02BRP4/MAIN/application/pdf/77d19ab0e3407b6c37c40bf9ceeed834/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="sco" xml:lang="en" version="5.6">
+         <item-info>
+            <jid>MLBLUE</jid>
+            <aid>136206</aid>
+            <ce:article-number>136206</ce:article-number>
+            <ce:pii>S0167-577X(24)00344-6</ce:pii>
+            <ce:doi>10.1016/j.matlet.2024.136206</ce:doi>
+            <ce:copyright type="other" year="2024">The Author(s)</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0015" view="all">MD modeling framework for neat epoxy resins and their GQD-nanocomposites.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0167577X24003446/gr1" id="lk00005"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0020" view="all">(a) Representative stress–strain curves for the four different structures. MD models of (b) neat epoxy, (c) pristine GQD-epoxy, (d) 4N-GQD-epoxy, and (e) 6N-GQD-epoxy. (f-h) Individual GQD structures and (i) Reactive amines on 4N and 6N-GQDs.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0167577X24003446/gr2" id="lk00010"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0025" view="all">Free volume analysis for the (a1-a4) neat-epoxy, (b1-b4) pristine GQD-epoxy, (c1-c4) 4N-GQD-epoxy, and (d1-d4) 6N-GQD-epoxy. (a1-d1) show the probability density function (PDF) of the voids for the four systems. (a2-d2) show the Fréchet distribution of ten largest voids. (a3- d3) illustrate locations of top ten voids and GQD in the simulation box at 0 % strain in a representative model. (a4- d4) illustrate the same information but at 10 % strain.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0167577X24003446/gr3" id="lk00015"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0005" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cn0020">
+                  <ce:simple-para id="sp0030" view="all">MD predicted physical and mechanical properties and corresponding literature values. E is stiffness, and σ<ce:inf loc="post">y</ce:inf> is yield strength.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="9">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <colspec colname="col5" align="left"/>
+                  <colspec colname="col6" align="left"/>
+                  <colspec colname="col7" align="left"/>
+                  <colspec colname="col8" align="left"/>
+                  <colspec colname="col9" align="left"/>
+                  <thead>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Material</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Crosslink density (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" role="colgroup" namest="col3" nameend="col4">Density (g/cm<sup loc="post">3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">E (GPa)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">σ<inf loc="post">y</inf> (MPa)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" role="colgroup" namest="col7" nameend="col8">Free volume (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">%</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">IFF-R</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">ReaxFF</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0 % strain</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10 % strain</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Change</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Neat epoxy</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">82 ± 4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.19 ± 0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.23 ± 0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.94 ± 0.95</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">109.4 ± 23.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.41 ± 0.30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.89 ± 0.39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">GQD-epoxy</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">87 ± 2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.20 ± 0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.23 ± 0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.65 ± 0.74</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">103.4 ± 23.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.48 ± 0.07</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.91 ± 0.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">17</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4N-GQD-epoxy</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">85 ± 3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.15 ± 0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.23 ± 0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.96 ± 0.99</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">126.2 ± 30.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.49 ± 0.14</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.85 ± 0.30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">15</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6N-GQD-epoxy</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">84 ± 3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.15 ± 0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.24 ± 0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.11 ± 0.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">127.6 ± 20.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.40 ± 0.29</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.04 ± 0.34</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">27</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Experiments (epoxy)<cross-refs id="optEndGHEH5bJ" refid="b0125 b0130 b0135">
+                              <sup loc="post">[25–27]</sup>
+                           </cross-refs>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">DoC = 1.00<cross-ref refid="tblfn1" id="c0005">*</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="colgroup" namest="col3" nameend="col4">1.19–1.20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.6–3.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">36–90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="colgroup" namest="col7" nameend="col8"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tblfn1">
+                  <ce:label>*</ce:label>
+                  <ce:note-para id="np005" view="all">Experimental measurement is Degree of cure (DoC).</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Mechanical behavior of graphene quantum dot epoxy nanocomposites: A molecular dynamics study</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005" author-id="S0167577X24003446-a7f7e1f19939f4182330acf7718e2b2c">
+                  <ce:given-name>Özgür</ce:given-name>
+                  <ce:surname>Keleş</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+               </ce:author>
+               <ce:author id="au010" author-id="S0167577X24003446-b62d3fceea61bd3946e33936d3ce5bbd">
+                  <ce:given-name>Prathamesh P.</ce:given-name>
+                  <ce:surname>Deshpande</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+                  <ce:cross-ref refid="cor1" id="c0010">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af005" affiliation-id="S0167577X24003446-d177ed5f9dda91cf6526ab9e57c108a0">
+                  <ce:textfn>Department of Chemical and Materials Engineering, San Jose State University, One Washington Sq, San Jose, CA, United States</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemical and Materials Engineering</sa:organization>
+                     <sa:organization>San Jose State University</sa:organization>
+                     <sa:organization>One Washington Sq</sa:organization>
+                     <sa:city>San Jose</sa:city>
+                     <sa:state>CA</sa:state>
+                     <sa:country>United States</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx005">Department of Chemical and Materials Engineering, San Jose State University, One Washington Sq, San Jose, CA, United States</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="20" month="11" year="2023"/>
+            <ce:date-revised day="8" month="2" year="2024"/>
+            <ce:date-accepted day="22" month="2" year="2024"/>
+            
+            <ce:abstract class="author" id="ab010" view="all"><ce:abstract-sec id="as010" view="all">
+                  <ce:simple-para id="sp0010" view="all">Quantum dot fillers were reported to enhance stiffness, yield strength, and toughness of polymers. However, the underlying mechanisms for these enhancements are unclear. In this study, for the first time, molecular dynamics simulations were performed to reveal the effects of graphene quantum dots (GQDs) on epoxy properties. Mechanical simulations revealed that addition of a single-layer graphene quantum dot with six reactive amine groups enhanced the epoxy yield strength by 17% and stiffness by 6%; whereas pristine GQDs reduced the strength by 6% and stiffness by 10%. The results show the importance of surface chemistry of GQDs towards the intelligent design of strong, tough, and multifunctional nanocomposites.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st015">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Quantum dots</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Nanocomposite</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>MD</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Synthesis</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0025">
+                  <ce:text>Mechanics</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0030">
+                  <ce:text>Thermoset</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:data-availability id="da005" view="all">
+               <ce:section-title id="st020">Data availability</ce:section-title>
+               <ce:para id="p0025" view="all">Data will be made available on request.</ce:para>
+            </ce:data-availability>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st025">Introduction</ce:section-title>
+                  <ce:para id="p0030" view="all">Thermosets are used in various industries because they exhibit higher stiffness, strength, and fire resistance compared to thermoplastics <ce:cross-ref refid="b0005" id="c0015">[1]</ce:cross-ref>. Moreover, fiber reinforced thermoset composites dominate structural applications demanding high strength-stiffness and low density <ce:cross-ref refid="b0010" id="c0020">[2]</ce:cross-ref>. Thermosets have a highly crosslinked molecular structure, which causes low toughness, e.g., epoxy K<ce:inf loc="post">IC</ce:inf> &lt; 1 MPa.√m <ce:cross-ref refid="b0015" id="c0025">[3]</ce:cross-ref>. To enhance the properties of epoxies, many different fillers (graphene, clay, rubber, others) have been used <ce:cross-refs refid="b0020 b0025 b0030" id="r0005">[4–6]</ce:cross-refs>. Yet, the effects of these fillers are often limited due to poor bonding, agglomeration, voids, misalignment, and waviness <ce:cross-refs refid="b0035 b0040" id="r0010">[7,8]</ce:cross-refs>. The size scale of the common fillers is generally orders of magnitude larger than epoxy molecules of 1–2 nm size.</ce:para>
+                  <ce:para id="p0035" view="all">For perspective, epoxy-composites with clay fillers (∼5 wt%, d = 10–20 μm) reported a peak increase of ∼38 % and ∼42 % in tensile modulus and strength respectively <ce:cross-ref refid="b0030" id="c0030">[6]</ce:cross-ref>. Particulate rubber (&lt;10 wt%, d = ∼90 nm) lowers the stiffness of the epoxy by 3–10 % and strength by 2–20 % <ce:cross-refs refid="b0045 b0050" id="r0015">[9,10]</ce:cross-refs>. The carbon-based nanofillers have displayed higher increments in the tensile properties (2–30 % in stiffness and 10–60 % in strength) of the epoxy with relatively lower nano-reinforcement (&lt;5 wt%, d(GNP/GO) = ∼1–40 μm, d(CNT) = ∼1–140 nm) <ce:cross-refs refid="b0020 b0055" id="r0020">[4,11]</ce:cross-refs>. On the other hand, two-dimensional quantum dots (QDs) are also used as fillers <ce:cross-refs refid="b0060 b0065 b0070" id="r0025">[12–14]</ce:cross-refs>. QDs are nanoparticles smaller than 20 nm. QDs main advantages over larger fillers are: (1) their negligible effect on the viscosity of thermoset resins, (2) high ratio of surface functional groups to the volume, and (3) optical functionalization that enables strain sensing <ce:cross-refs refid="b0075 b0080 b0085" id="r0030">[15–17]</ce:cross-refs>. QDs’ small size with covalent integration enhances thermal conductivity better than graphene nano platelets for a given weight percent <ce:cross-ref refid="b0075" id="c0035">[15]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0040" view="all">Recent studies also showed that QDs with functional groups enhance mechanical properties of thermosets <ce:cross-refs refid="b0060 b0065 b0070" id="r0035">[12–14]</ce:cross-refs>. For example, addition of 2.5 wt% graphene quantum dots (GQDs, 16 nm average diameter) enhanced the strength of epoxy by 125 % and elastic modulus by 153 % <ce:cross-ref refid="b0060" id="c0040">[12]</ce:cross-ref>. Addition of ∼0.1 wt% graphene oxide quantum dots (5–6 nm in diameter) enhanced epoxy strength by 127 % and elastic modulus by 11 % <ce:cross-ref refid="b0065" id="c0045">[13]</ce:cross-ref>. Moreover, addition of 0.2 wt% molybdenum sulfide QDs (average diameter of 2.3 nm) enhanced epoxy strength by 66 %, elastic modulus by 6 %, and fracture toughness by 81 % <ce:cross-ref refid="b0070" id="c0050">[14]</ce:cross-ref>. The reasons for these stiffness, strength, and toughness enhancements with the addition of QDs are unclear. At nanoscale, molecular dynamics (MD) simulations provide a platform to explore the molecular mechanisms responsible for stiffening and strengthening <ce:cross-refs refid="b0090 b0095" id="r0040">[18,19]</ce:cross-refs>. Therefore, we created the first MD framework to simulate synthesis of GQD-epoxy nanocomposites and investigate the nano-scale structure–mechanical property relationships.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st030">Molecular modeling</ce:section-title>
+                  <ce:para id="p0045" view="all">The Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS) software package was used for performing all the MD simulations <ce:cross-ref refid="b0100" id="c0055">[20]</ce:cross-ref>. We used conventional CPU based simulations with the Reactive Interface Forcefield (IFF-R) to crosslink (curing) and GPU-accelerated simulations with the Reactive Forcefield (ReaxFF) to simulate tension in all the models <ce:cross-refs refid="b0105 b0110 b0115" id="r0045">[21–23]</ce:cross-refs>. Tensile simulations were run up to 10 % strain to focus on elastic modulus (E) and yield strength (σ<ce:inf loc="post">y</ce:inf>). <ce:cross-ref refid="f0005" id="c0060">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/> outlines the modeling workflow; simulation details are given in the supplemental document.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st035">Results</ce:section-title>
+                  <ce:para id="p0050" view="all">We synthesized four different nanocomposites with five different replicates, covering neat epoxy, pristine GQD-epoxy, 4N-GQD-epoxy, and 6N-GQD-epoxy (see <ce:cross-ref refid="f0010" id="c0065">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="f0010"/> for abbreviations). Tension simulations were performed on these structures in the x, y, and z orientations—a total of 60 MD tensile tests (<ce:cross-ref refid="f0010" id="c0070">Fig. 2</ce:cross-ref>). The resulting crosslink densities and mass densities are within the range of experimental and MD results <ce:cross-ref refid="b0120" id="c0075">[24]</ce:cross-ref>. The initial GQD orientation was random for all the systems. The orientation of the GQDs with respect to the tensile load changed during deformation, this change was on average ∼5° for all the GQD systems, which can be compared to in-situ small angle X-ray scattering (SAXS) experiments.</ce:para>
+                  <ce:para id="p0055" view="all">Our MD predicted E = 2.94–3.11 GPa and σ<ce:inf loc="post">y</ce:inf> = 109–128 are consistent with the previous MD studies E = 4.3 ± 1.5 GPa and σ<ce:inf loc="post">y</ce:inf> = 121 ± 36 MPa <ce:cross-refs refid="b0090 b0105 b0120 b0140" id="r0050">[18,21,24,28]</ce:cross-refs>. The addition of GQDs changed the mechanical properties. The addition of single layer functionalized 6N-GQD increased the average yield strength (σ<ce:inf loc="post">y</ce:inf>) by 17 % from 109.4 MPa to 127.6 MPa. The increase in the number of amine groups from 4 to 6 increased both average stiffness E and σ<ce:inf loc="post">y</ce:inf>, which shows the strong dependence of molecular structure and properties on the surface chemistry of the GQDs (<ce:cross-ref refid="t0005" id="c0080">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="t0005"/>). The effective load transfer at the edge covalent bonds due to amine functional groups was not present for the pristine GQD, which decreased the σ<ce:inf loc="post">y</ce:inf> by 6 % and E by 10 %. Without covalent bonds at the edges, the pristine GQD interrupts the continuous amorphous network and lowers E. On the other hand, the addition of 6N-GQD increased E by 6 % and 4N-GQD by 2 %.</ce:para>
+                  <ce:para id="p0060" view="all">At the smallest scale, free volume affects the mechanical behavior. The average initial free volume for all the four systems was 2.41–2.49 % and increased with the strain (<ce:cross-ref refid="t0005" id="c0085">Table 1</ce:cross-ref>). The largest increase of 27 % was observed for the 6N-GQD system. The other nanocomposites showed an increase of 15–20 % (<ce:cross-ref refid="t0005" id="c0090">Table 1</ce:cross-ref>). We also explored the size of the voids, which showed that the addition of two extra functional groups to 4N-GQD enhanced the load transfer and created a larger change in free volume (<ce:cross-ref refid="f0015" id="c0095">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="f0015"/> c1 vs. d1 and c2 vs. d2). Moreover, the free volume had opportunities to grow near the GQDs’ basal plane as there are no covalent bonding sites on this plane (<ce:cross-ref refid="f0015" id="c0100">Fig. 3</ce:cross-ref> b3-d3 vs. b4-d4).</ce:para>
+               </ce:section>
+               <ce:section id="s0020" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st040">Conclusion</ce:section-title>
+                  <ce:para id="p0065" view="all">We performed the first reactive MD simulations to virtually synthesize and mechanically test GQD-epoxy nanocomposites with three different GQDs—pristine GQD, 4N-GQD, and 6N-GQD. Sixty MD tension simulations were executed, from which the following conclusions can be drawn:<ce:list id="l0010">
+                        <ce:list-item id="o0025">
+                           <ce:label>1.</ce:label>
+                           <ce:para id="p0070" view="all">The functionalized GQDs increased the epoxy σy by 15–17 % for 4N-/6N-GQD-epoxy. Introducing amine groups to the GQDs’ edges created covalent bonds with the epoxy matrix, which allowed the highest load transfer to the GQDs.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0030">
+                           <ce:label>2.</ce:label>
+                           <ce:para id="p0075" view="all">Lack of covalent bonds for the pristine GQD reduced the σy by 6 %. This creates opportunities to control plastic void growth at nanoscale to promote toughening in stiff thermosets.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0035">
+                           <ce:label>3.</ce:label>
+                           <ce:para id="p0080" view="all">The functionalized 6N-GQDs increased the epoxy stiffness by 6 %. Whereas the pristine GQDs reduced the stiffness by 10 %. Note that the pristine GQD can be seen as a defect that reduces both E and σy.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0040">
+                           <ce:label>4.</ce:label>
+                           <ce:para id="p0085" view="all">The change in free volume with the applied 10 % strain was the highest for the 6N-GQD-epoxy at 27 % compared to others at 15–20 %. These differences in free volume could cause different deformation behavior at higher strains by changing the nanovoid nucleation and growth.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="s0025" view="all">
+                  <ce:section-title id="st045">Funding</ce:section-title>
+                  <ce:para id="p0090" view="all">Funding for this work was provided by the U.S. National Science Foundation CAREER Award No. 2145604.</ce:para>
+               </ce:section>
+               <ce:section id="s0035" view="all">
+                  <ce:section-title id="st055">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p9922" view="all">
+                     <ce:bold>Özgür Keleş:</ce:bold> Conceptualization; Methodology; Formal analysis; Investigation; Resources; Writing - Review &amp; Editing; Supervision; Project administration; Funding acquisition. <ce:bold>Prathamesh P. Deshpande:</ce:bold> Conceptualization; Methodology; Software; Validation; Formal analysis; Investigation; Resources; Data Curation; Writing - Original Draft; Writing - Review &amp; Editing; Visualization.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi005" view="all">
+               <ce:section-title id="st060">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0105" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:appendices view="all">
+               <ce:section view="compact-standard" id="s0040">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st065">Supplementary data</ce:section-title>
+                  <ce:para id="p0110" view="all">Supplementary data to this article can be found online at <ce:inter-ref xlink:href="https://doi.org/10.1016/j.matlet.2024.136206" xlink:type="simple" id="ir005">https://doi.org/10.1016/j.matlet.2024.136206</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section view="extended" id="s0045">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st070">Supplementary data</ce:section-title>
+                  <ce:para id="p0115" view="all">The following are the Supplementary data to this article:<ce:display>
+                        <ce:e-component id="m0005">
+                           <ce:label>Supplementary data 1</ce:label>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S0167577X24003446/mmc1" id="lk00020"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st075">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.-L.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-J.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Ind. Eng. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>11</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx010">Jin, F.-L.; Li, X.; Park, S.-J. Journal of Industrial and Engineering Chemistry 2015, 29, 1-11.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Mallick</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fiber-Reinforced Composites: Materials, Manufacturing, and Design</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2007</sb:date>
+                              <sb:publisher>
+                                 <sb:name>CRC Press</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx015">Mallick, P. K., Fiber-reinforced composites: materials, manufacturing, and design. CRC press: 2007.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Mi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Nie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Mater Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>130</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>100977</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx020">Mi, X.; Liang, N.; Xu, H.; Wu, J.; Jiang, Y.; Nie, B.; Zhang, D. Progress in Materials Science 2022, 130, 100977.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Domun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Hadavinia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Sainsbury</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.H.</ce:given-name>
+                                 <ce:surname>Liaghat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Vahid</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>23</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10294</sb:first-page>
+                              <sb:last-page>10329</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx025">Domun, N.; Hadavinia, H.; Zhang, T.; Sainsbury, T.; Liaghat, G. H.; Vahid, S. Nanoscale 2015, 7, (23), 10294-329.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Mousavi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Estaji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Paydayesh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Arjmand</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Jafari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Nouranian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.A.</ce:given-name>
+                                 <ce:surname>Khonakdar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Polym. Compos.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1871</sb:first-page>
+                              <sb:last-page>1886</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx030">Mousavi, S. R.; Estaji, S.; Paydayesh, A.; Arjmand, M.; Jafari, S. H.; Nouranian, S.; Khonakdar, H. A. Polymer Composites 2022, 43, (4), 1871-1886.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <ce:other-ref id="h0030">
+                        <ce:textref>M. Rallini, J.M. Kenny, Nanofillers in Polymers. In: <ce:italic>Modification of Polymer Properties</ce:italic>, 2017; pp 47–86.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.A.</ce:given-name>
+                                 <ce:surname>Kinloch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Suhr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Young</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Ajayan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>362</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6414</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>547</sb:first-page>
+                              <sb:last-page>553</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx035">Kinloch, I. A.; Suhr, J.; Lou, J.; Young, R. J.; Ajayan, P. M. Science 2018, 362, (6414), 547-553.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Varischetti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-S.</ce:given-name>
+                                 <ce:surname>Jang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.F.</ce:given-name>
+                                 <ce:surname>Gibson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Suhr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>832</sb:first-page>
+                              <sb:last-page>840</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx040">Varischetti, J.; Jang, J.-S.; Gibson, R. F.; Suhr, J. Journal of Materials Science 2013, 48, (2), 832-840.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.-X.</ce:given-name>
+                                 <ce:surname>Gong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.-C.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-W.</ce:given-name>
+                                 <ce:surname>Mai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Compos. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>121</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>104</sb:first-page>
+                              <sb:last-page>114</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx045">Gong, L.-X.; Zhao, L.; Tang, L.-C.; Liu, H.-Y.; Mai, Y.-W. Composites Science and Technology 2015, 121, 104-114.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.-C.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-J.</ce:given-name>
+                                 <ce:surname>Wan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.-B.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-X.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.-Q.</ce:given-name>
+                                 <ce:surname>Lai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>141</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>333</sb:first-page>
+                              <sb:last-page>342</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx050">Tang, L.-C.; Wang, X.; Wan, Y.-J.; Wu, L.-B.; Jiang, J.-X.; Lai, G.-Q. Materials Chemistry and Physics 2013, 141, (1), 333-342.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Balguri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.G.H.</ce:given-name>
+                                 <ce:surname>Samuel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Thumu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Today:. Proc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>346</sb:first-page>
+                              <sb:last-page>355</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx055">Balguri, P. K.; Samuel, D. G. H.; Thumu, U. Materials Today: Proceedings 2021, 44, 346-355.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Gobi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Vijayakumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Keles</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Erogbogbo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Omega</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4356</sb:first-page>
+                              <sb:last-page>4362</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx060">Gobi, N.; Vijayakumar, D.; Keles, O.; Erogbogbo, F. ACS Omega 2017, 2, (8), 4356-4362.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Karimi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Ramezanzadeh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Colloid Interface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>493</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>62</sb:first-page>
+                              <sb:last-page>76</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx065">Karimi, B.; Ramezanzadeh, B. J Colloid Interface Sci 2017, 493, 62-76.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Riaz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-J.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Compos. A Appl. Sci. Manuf.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>146</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>106419</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx070">Riaz, S.; Park, S.-J. Composites Part A: Applied Science and Manufacturing 2021, 146, 106419.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Seibert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ö.</ce:given-name>
+                                 <ce:surname>Keleş</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Erogbogbo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Polymer</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>185</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:article-number>121988</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx075">Seibert, J. R.; Keleş, Ö.; Wang, J.; Erogbogbo, F. Polymer 2019, 185, 121988.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.B.</ce:given-name>
+                                 <ce:surname>Johnsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Kinloch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Mohammed</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.C.</ce:given-name>
+                                 <ce:surname>Taylor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sprenger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Polymer</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>530</sb:first-page>
+                              <sb:last-page>541</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx080">Johnsen, B. B.; Kinloch, A. J.; Mohammed, R. D.; Taylor, A. C.; Sprenger, S. Polymer 2007, 48, (2), 530-541.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Sherburne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Roberts</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Brewer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.E.</ce:given-name>
+                                 <ce:surname>Weber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.V.</ce:given-name>
+                                 <ce:surname>Laurvick</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chandrahalim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>39</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>44156</sb:first-page>
+                              <sb:last-page>44162</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx085">Sherburne, M. D.; Roberts, C. R.; Brewer, J. S.; Weber, T. E.; Laurvick, T. V.; Chandrahalim, H. ACS Appl Mater Interfaces 2020, 12, (39), 44156-44162.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="h0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Strachan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Polym. Sci. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>103</sb:first-page>
+                              <sb:last-page>122</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx090">Li, C.; Strachan, A. Journal of Polymer Science Part B: Polymer Physics 2015, 53, (2), 103-122.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Bessa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Kam Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Keten</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Macromolecules</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>24</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9474</sb:first-page>
+                              <sb:last-page>9483</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx095">Meng, Z.; Bessa, M. A.; Xia, W.; Kam Liu, W.; Keten, S. Macromolecules 2016, 49, (24), 9474-9483.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="h0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Thompson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>Aktulga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Berger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.S.</ce:given-name>
+                                 <ce:surname>Bolintineanu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Brown</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.S.</ce:given-name>
+                                 <ce:surname>Crozier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>in 't Veld</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kohlmeyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.G.</ce:given-name>
+                                 <ce:surname>Moore</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.D.</ce:given-name>
+                                 <ce:surname>Nguyen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Shan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Stevens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Tranchida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Trott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Plimpton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Comput. Phys. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>271</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>108171</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx100">Thompson, A. P.; Aktulga, H. M.; Berger, R.; Bolintineanu, D. S.; Brown, W. M.; Crozier, P. S.; in 't Veld, P. J.; Kohlmeyer, A.; Moore, S. G.; Nguyen, T. D.; Shan, R.; Stevens, M. J.; Tranchida, J.; Trott, C.; Plimpton, S. J. Computer Physics Communications 2022, 271, 108171.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Odegard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.U.</ce:given-name>
+                                 <ce:surname>Patil</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.P.</ce:given-name>
+                                 <ce:surname>Deshpande</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kanhaiya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Winetrout</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Heinz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Shah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Maiaru</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Macromolecules</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>21</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9815</sb:first-page>
+                              <sb:last-page>9824</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx105">Odegard, G. M.; Patil, S. U.; Deshpande, P. P.; Kanhaiya, K.; Winetrout, J. J.; Heinz, H.; Shah, S. P.; Maiaru, M. Macromolecules 2021, 54, (21), 9815-9824.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>[22]</ce:label>
+                     <ce:other-ref id="h0110">
+                        <ce:textref>J.J. Winetrout, K. Kanhaiya, G. Sachdeva, R. Pandey, B. Damirchi, A. van Duin, Odegard, G.; Heinz, H. <ce:italic>arXiv preprint arXiv:2107.14418</ce:italic> 
+                           <ce:bold>2021</ce:bold>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="h0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.C.T.</ce:given-name>
+                                 <ce:surname>van Duin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>122</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>14</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4083</sb:first-page>
+                              <sb:last-page>4092</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx110">Zhang, W.; van Duin, A. C. T. The Journal of Physical Chemistry B 2018, 122, (14), 4083-4092.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Radue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.D.</ce:given-name>
+                                 <ce:surname>Jensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Gowtham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Klimek-McDonald</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>King</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Odegard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Polym. Sci. B Polym. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>255</sb:first-page>
+                              <sb:last-page>264</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx115">Radue, M. S.; Jensen, B. D.; Gowtham, S.; Klimek-McDonald, D. R.; King, J. A.; Odegard, G. M. J Polym Sci B Polym Phys 2018, 56, (3), 255-264.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="h0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.U.</ce:given-name>
+                                 <ce:surname>Patil</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Shah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Olaya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.P.</ce:given-name>
+                                 <ce:surname>Deshpande</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Maiaru</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Odegard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Polymer Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5788</sb:first-page>
+                              <sb:last-page>5797</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx120">Patil, S. U.; Shah, S. P.; Olaya, M.; Deshpande, P. P.; Maiaru, M.; Odegard, G. M. ACS Applied Polymer Materials 2021, 3, (11), 5788-5797.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="h0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Littell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Ruggeri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Goldberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.D.</ce:given-name>
+                                 <ce:surname>Roberts</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Arnold</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.K.</ce:given-name>
+                                 <ce:surname>Binienda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Aerosp. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>162</sb:first-page>
+                              <sb:last-page>173</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx125">Littell, J. D.; Ruggeri, C. R.; Goldberg, R. K.; Roberts, G. D.; Arnold, W. A.; Binienda, W. K. Journal of Aerospace Engineering 2008, 21, (3), 162-173.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="h0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Gilat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Goldberg Robert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Roberts Gary</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Aerosp. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>75</sb:first-page>
+                              <sb:last-page>89</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx130">Gilat, A.; Goldberg Robert, K.; Roberts Gary, D. Journal of Aerospace Engineering 2007, 20, (2), 75-89.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="h0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Vashisth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Ashraf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Bakis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.C.T.</ce:given-name>
+                                 <ce:surname>van Duin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>122</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>32</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6633</sb:first-page>
+                              <sb:last-page>6642</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx135">Vashisth, A.; Ashraf, C.; Zhang, W.; Bakis, C. E.; van Duin, A. C. T. J Phys Chem A 2018, 122, (32), 6633-6642.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

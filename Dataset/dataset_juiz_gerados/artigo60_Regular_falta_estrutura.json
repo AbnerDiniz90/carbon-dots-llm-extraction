@@ -1,0 +1,56 @@
+{
+  "input_source": "artigo60.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "[MISSING]",
+        "iupac_name": null,
+        "alternative_names": null
+      },
+      "synthesis": {
+        "method": {
+          "type": null,
+          "conditions": null,
+          "catalysts": null
+        },
+        "precursors": {
+          "source": null,
+          "dopants": null
+        },
+        "post_treatment": null
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": null
+          },
+          "excitation_max": null,
+          "emission_max": null,
+          "fluorescence_lifetime": null
+        },
+        "structural": {
+          "size": {
+            "avg": null,
+            "distribution": null
+          },
+          "morphology": null,
+          "crystallinity": null
+        },
+        "chemical": {
+          "surface_groups": null,
+          "elemental_composition": {
+            "C": null,
+            "N": null,
+            "O": null
+          }
+        }
+      },
+      "applications": []
+    }
+  },
+  "feedback": {
+    "label": "Regular",
+    "score": 2.0,
+    "expert_comment": "Incomplete Structure: The entire section 'carbon_dots -> properties -> optical -> quantum_yield -> reference_material' was incorrectly omitted. The JSON is missing a mandatory structural block."
+  }
+}

@@ -1,0 +1,2434 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1572665724006544</prism:url><dc:identifier>doi:10.1016/j.jelechem.2024.118676</dc:identifier><eid>1-s2.0-S1572665724006544</eid><prism:doi>10.1016/j.jelechem.2024.118676</prism:doi><pii>S1572-6657(24)00654-4</pii><dc:title>Enhancing electrochromic performance and stability: A novel ionic complex based on carbon dots </dc:title><prism:publicationName>Journal of Electroanalytical Chemistry</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>15726657</prism:issn><prism:volume>973</prism:volume><prism:startingPage>118676</prism:startingPage><prism:pageRange>118676</prism:pageRange><articleNumber>118676</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2024-11-15</prism:coverDate><prism:coverDisplayDate>15 November 2024</prism:coverDisplayDate><prism:copyright>© 2024 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.</prism:copyright><prism:publisher>Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.</prism:publisher><dc:creator>Kim, Jaeheon</dc:creator><dc:creator>Choi, Woojun</dc:creator><dc:creator>Kim, Tae Hyun</dc:creator><dc:creator>Lim, Hong Chul</dc:creator><dc:description>
+                  Electrolytes are crucial in electrochemical applications such as rechargeable batteries, supercapacitors, fuel cells, and electrochromic devices (ECDs). Therefore, developing new electrolytes with high ionic conductivity, electrochemical stability, and environmental friendliness is essential for advancing next-generation electrochemical systems. Herein, we developed a novel type of ionic complexes composed of multivalent carbon dot polyanions (C dot) and equivalent alkali cations such as Li+ (Li-C dot), Na+ (Na-C dot), and K+ (K-C dot). As an electrolyte, the K-C dot demonstrated superior electrochromic behavior of Prussian blue (PB)–a promising electrochromic material for ECDs–compared to commercially available KCl. The PB thin films exhibit high coloration efficiency (η) of 103.5 cm2 C−1, good optical density (OD) of 0.90, and fast color switching time (1.5 and 2.6 s for the bleaching and coloring processes, respectively). Furthermore, the PB thin films exhibit long-term stability, retaining 97 % of the initial optical contrast (ΔT) even after 1,000 color switching cycles. The electrochromic performance of PB is influenced by counter cations such as Li+, Na+, and K+, which occupy the interstitial cavities in the lattice of PB during the electrochromic process. These results suggest that to improve the electrochromic performance of PB thin films in ECDs, it is essential to balance the migration of counter cations into and out of the lattice channels of the PB structure with the electron transfer between the PB thin film and the electrode substrate to maintain the charge neutrality of PB. We anticipate that our study will enhance the understanding of the electrochromic process in ECDs and provide new insights into the design of electrolytes for electrochemical systems.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Carbon dots</dcterms:subject><dcterms:subject>Ionic complex</dcterms:subject><dcterms:subject>Electrolyte</dcterms:subject><dcterms:subject>Prussian blue</dcterms:subject><dcterms:subject>Electrochromic</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1572665724006544" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1572665724006544" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="698" height="203" size="52196">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="533" height="199" size="20249">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="536" height="202" size="31264">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="500" height="153" size="30420">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-ga1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="535" height="194" size="27759">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="535" height="218" size="39287">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="64" size="7942">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="82" size="9893">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="83" size="6698">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="ga1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="67" size="10609">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-ga1.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="79" size="5524">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="89" size="7615">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3090" height="897" size="368108">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1417" height="530" size="61486">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1501" height="566" size="112081">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2213" height="677" size="197725">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-ga1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2171" height="786" size="138117">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2171" height="884" size="203416">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="412997">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="18798">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-si1.svg?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="22489">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-si2.svg?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="15738">https://api.elsevier.com/content/object/eid/1-s2.0-S1572665724006544-si3.svg?httpAccept=%2A%2F%2A</object></objects><scopus-id>85205219582</scopus-id><scopus-eid>2-s2.0-85205219582</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85205219582" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271406</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291685</xocs:ssid>
+         <xocs:ssid type="subj">291786</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Electroanalytical Chemistry</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALELECTROANALYTICALCHEMISTRY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20240925">2024-09-25</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20240925">2024-09-25</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20241001">2024-10-01</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20241001">2024-10-01</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-11-19T08:52:37</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1572665724006544</xocs:eid>
+      <xocs:pii-formatted>S1572-6657(24)00654-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1572665724006544</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jelechem.2024.118676</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1572665724X00211</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20241119">2024-11-19T09:18:08.620879Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20241115</xocs:date-search-begin>
+      <xocs:year-nav>2024</xocs:year-nav>
+      <xocs:indexeddate epoch="1727294016">2024-09-25T19:53:36.456109Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body mmlmath acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast footnotes highlightsabst primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1572-6657</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>15726657</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>973</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>973</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 973</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>24</xocs:sort-order>
+      <xocs:first-fp>118676</xocs:first-fp>
+      <xocs:article-number>118676</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>118676</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20241115</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 November 2024</xocs:cover-date-text>
+      <xocs:cover-date-start>2024-11-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2024</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>© 2024 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.</xocs:copyright-line>
+      <xocs:normalized-article-title>ENHANCINGELECTROCHROMICPERFORMANCESTABILITYANOVELIONICCOMPLEXBASEDCARBONDOTS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KIM</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Reagents and Materials</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of Prussian blue thin film on indium tin oxide substrate</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Instruments</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Author contributions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>SONMEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1498</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1502</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>LIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>358</xocs:ref-first-fp>
+            <xocs:ref-last-lp>361</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8384</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8389</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>LIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2024</xocs:ref-pub-year>
+            <xocs:ref-article-number>158920</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>SITNIKOVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4131</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4134</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>ROIG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>55</xocs:ref-first-fp>
+            <xocs:ref-last-lp>69</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>ROGERS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>792</xocs:ref-first-fp>
+            <xocs:ref-last-lp>793</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1429</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1461</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>LIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e202100337</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>BECK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2146</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2149</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>STRAUSS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>927</xocs:ref-first-fp>
+            <xocs:ref-last-lp>942</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>ZHONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7484</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7539</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>JUAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>844</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8490</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>LIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e202200557</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>19292</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0090">
+            <xocs:ref-normalized-surname>AGRISUELAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>P74</xocs:ref-first-fp>
+            <xocs:ref-last-lp>P80</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>ROBIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1962</xocs:ref-pub-year>
+            <xocs:ref-first-fp>337</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2300155</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>RAJENDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10852</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10865</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0110">
+            <xocs:ref-normalized-surname>ROSSEINSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10472</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10477</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0115"/>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>CRUMBLISS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4701</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4708</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0125">
+            <xocs:ref-normalized-surname>CRUMBLISS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>482</xocs:ref-first-fp>
+            <xocs:ref-last-lp>488</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0130">
+            <xocs:ref-normalized-surname>PHADKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>31</xocs:ref-first-fp>
+            <xocs:ref-last-lp>38</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>TAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>24856</xocs:ref-first-fp>
+            <xocs:ref-last-lp>24861</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KIMX2024X118676</xocs:refkey3>
+         <xocs:refkey4ai>KIMX2024X118676XJ</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2026-10-01T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2026-10-01T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2024 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2024-11-13T16:24:46.829Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Ministry of Education</xocs:funding-agency-matched-string>
+            <xocs:funding-id>2022RIS-005</xocs:funding-id>
+            <xocs:funding-agency-acronym>MOE</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Ministry of Education</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100002701</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1835841/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-acronym>SCH</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Soonchunhyang University</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100002560</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1835841</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>MSIT</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-id>NRF-2022R1F1A1064007</xocs:funding-id>
+            <xocs:funding-agency-acronym>NRF</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Research Foundation of Korea</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100003725</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1835841</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>This work was supported by the National Research Foundation of Korea (NRF), with the grant funded by Korea Government (MSIT and MOE) (No. NRF-2022R1F1A1064007). This research was also supported by \u201CRegional Innovation Strategy (RIS)\u201D through the National Research Foundation of Korea (NRF) funded by the Ministry of Education (MOE) in 2024(2022RIS-005). This work was also supported by the Soonchunhyang University Research Fund.</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework>
+         <xocs:asf-license>https://doi.org/10.15223/policy-017</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-037</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-012</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-029</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-004</xocs:asf-license>
+      </xocs:article-sharing-framework>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1572-6657(24)00654-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1572665724006544</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1572665724006544</xocs:eid>
+         <xocs:doi>10.1016/j.jelechem.2024.118676</xocs:doi>
+         <xocs:cid>271406</xocs:cid>
+         <xocs:timestamp>2024-11-19T09:18:08.620879Z</xocs:timestamp>
+         <xocs:cover-date-start>2024-11-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/MAIN/application/pdf/9a5b824d6a2de05299f56b440a8950fa/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2123584</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1572665724006544-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/PREVIEW/image/png/24dd5129b863b7879737f80b8ee4b5bd/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>55355</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/gr1/DOWNSAMPLED/image/jpeg/714dbe30d8501f3b8f17fc6e7b1f8b54/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>52196</xocs:filesize>
+               <xocs:pixel-height>203</xocs:pixel-height>
+               <xocs:pixel-width>698</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/gr3/DOWNSAMPLED/image/jpeg/99fff0b5b48d27bb7937ba371c2c55f2/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>20249</xocs:filesize>
+               <xocs:pixel-height>199</xocs:pixel-height>
+               <xocs:pixel-width>533</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/gr2/DOWNSAMPLED/image/jpeg/5d6086b9e4e24b7af18057a95406b4f9/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>31264</xocs:filesize>
+               <xocs:pixel-height>202</xocs:pixel-height>
+               <xocs:pixel-width>536</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-ga1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/ga1/DOWNSAMPLED/image/jpeg/df296f4eab95609391673d1db31cc245/ga1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30420</xocs:filesize>
+               <xocs:pixel-height>153</xocs:pixel-height>
+               <xocs:pixel-width>500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/gr5/DOWNSAMPLED/image/jpeg/100074abc2e2b31cca2a63adc3c72f31/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>27759</xocs:filesize>
+               <xocs:pixel-height>194</xocs:pixel-height>
+               <xocs:pixel-width>535</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/gr4/DOWNSAMPLED/image/jpeg/f25aca12440642c69cf0c7c5afa5058b/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>39287</xocs:filesize>
+               <xocs:pixel-height>218</xocs:pixel-height>
+               <xocs:pixel-width>535</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/gr1/THUMBNAIL/image/gif/d436fc7f05250d20f645c4f4ebd3e896/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7942</xocs:filesize>
+               <xocs:pixel-height>64</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/gr3/THUMBNAIL/image/gif/e2fab1b21c04ce2d19a87958b4004080/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9893</xocs:filesize>
+               <xocs:pixel-height>82</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/gr2/THUMBNAIL/image/gif/d2322a3c1a6d961e5a53efd4e779ac19/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6698</xocs:filesize>
+               <xocs:pixel-height>83</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-ga1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/ga1/THUMBNAIL/image/gif/773fb4cace352512e2a9b563f0f7d1b0/ga1.sml</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10609</xocs:filesize>
+               <xocs:pixel-height>67</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S157266572400657X/gr5/THUMBNAIL/image/gif/20c343a018fa7f3da7e63662d98cbff7/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5524</xocs:filesize>
+               <xocs:pixel-height>79</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S157266572400657X/gr4/THUMBNAIL/image/gif/392389025cb599ae49f217dc47133b36/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7615</xocs:filesize>
+               <xocs:pixel-height>89</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/HIGHRES/image/jpeg/7e9343d79a0f1447ffc5d537b919df5f/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>368108</xocs:filesize>
+               <xocs:pixel-height>897</xocs:pixel-height>
+               <xocs:pixel-width>3090</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/HIGHRES/image/jpeg/df4110c6c86f701e145abf6b1d091c28/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>61486</xocs:filesize>
+               <xocs:pixel-height>530</xocs:pixel-height>
+               <xocs:pixel-width>1417</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/HIGHRES/image/jpeg/6a4c5b3a49a571ef32307c6617d55038/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>112081</xocs:filesize>
+               <xocs:pixel-height>566</xocs:pixel-height>
+               <xocs:pixel-width>1501</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-ga1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S157266572400657X/HIGHRES/image/jpeg/b1cdb72f5dff45d9a3913cd78cea529c/ga1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>197725</xocs:filesize>
+               <xocs:pixel-height>677</xocs:pixel-height>
+               <xocs:pixel-width>2213</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S157266572400657X/HIGHRES/image/jpeg/7e16cf393fb4570529e540d6f2f4a107/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>138117</xocs:filesize>
+               <xocs:pixel-height>786</xocs:pixel-height>
+               <xocs:pixel-width>2171</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S157266572400657X/HIGHRES/image/jpeg/85ca2a70e27cddad9dde7bd19bf71362/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>203416</xocs:filesize>
+               <xocs:pixel-height>884</xocs:pixel-height>
+               <xocs:pixel-width>2171</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/00df8178b2487728a78220ed274f2db8/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>412997</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-si1.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/image/svg+xml/40017fb4b553a2dac50c3ea746c1d3e1/si1.svg</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>18798</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-si2.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/image/svg+xml/6ab0cc7a44694059beddb1a801a5515a/si2.svg</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>22489</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1572665724006544-si3.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1572665724006544/image/svg+xml/7af1d8d28b79117ac33d6103ff16e4dd/si3.svg</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>15738</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="sco" xml:lang="en" version="5.6">
+         <item-info>
+            <jid>JEAC</jid>
+            <aid>118676</aid>
+            <ce:article-number>118676</ce:article-number>
+            <ce:pii>S1572-6657(24)00654-4</ce:pii>
+            <ce:doi>10.1016/j.jelechem.2024.118676</ce:doi>
+            <ce:copyright type="full-transfer" year="2024">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0025" view="all">(a) TEM images (inserted image: high resolution TEM image of K-C dot and corresponding 2D FFT image), (b) FT-IR spectrum, and (c) XPS spectrum of the narrow scan of K 2p and C1s of the prepared K-C dot.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1572665724006544/gr1" id="lk00005"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0030" view="all">(a) UV–Vis absorption spectrum (Inserted image is a photograph of the electrodeposited PB/ITO) and (b) absorbance and optical transmittance of PB thin films as a function of electrodeposition time.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1572665724006544/gr2" id="lk00010"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0035" view="all">SEM images of PB thin films electrodeposited obtained from (a) plan-view and (b) cross-sectional view.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1572665724006544/gr3" id="lk00015"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cn0020">
+                  <ce:simple-para id="sp0040" view="all">(a) The electrochemical behaviors of PB/ITO in an aqueous solution containing 0.5 M K-C dot at a scan rate of 20 mV/s and (b) Electrochemical impedance spectra (EIS) of PB/ITO under ac amplitude of 5 mV as a function of electrolytes (Ag/AgCl: reference electrode, Pt wire: counter electrode, and PB thin film: working electrode).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1572665724006544/gr4" id="lk00020"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cn0025">
+                  <ce:simple-para id="sp0045" view="all">Under 0.5 M electrolyte conditions, (a) in situ optical transmittance and (b) optical density as a function of operating cycles for PB/ITO at 700 nm.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1572665724006544/gr5" id="lk00025"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0005" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cn0030">
+                  <ce:simple-para id="sp0050" view="all">Electrochromic properties of PB thin films as a function of electrolytes.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="8">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="char" char="."/>
+                  <colspec colname="col3" align="char" char="."/>
+                  <colspec colname="col4" align="char" char="."/>
+                  <colspec colname="col5" align="char" char="."/>
+                  <colspec colname="col6" align="left"/>
+                  <colspec colname="col7" align="left"/>
+                  <colspec colname="col8" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">η(cm<sup loc="post">2</sup>/C) (ΔOD/ΔQ)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Δ OD (log(T<inf loc="post">b</inf>/T<inf loc="post">c</inf>))</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>t</italic>
+                           <inf loc="post">c</inf> (s)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>t</italic>
+                           <inf loc="post">b</inf> (s)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">ΔT<inf loc="post">200</inf> (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">ΔT<inf loc="post">300</inf> (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">ΔT<inf loc="post">1000</inf> (%)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">K-C dot</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">103.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">73</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Na-C dot</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">84.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.71</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">74</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Li-C dot</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">78.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.52</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">57</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">KCl</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">82.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.72</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="sp0055" view="all">All electrochemical data were measured at RT. A three-electrode system is used (PB thin film: working electrode, Pt wire: counter electrode, and Ag/AgCl: reference electrode). Transmittance values were measured at 700 nm. The transmittance value is defined as the intensity of transmittance to reach 90 and 10 % of the final color changing state in transmittance between the steady PB and PW states, respectively. The color switching time (<ce:italic>t</ce:italic>
+                     <ce:inf loc="post">c</ce:inf> and <ce:italic>t</ce:italic>
+                     <ce:inf loc="post">b</ce:inf>) refer to transmittance reaching 10 % and 90 % of its full modulation at 700 nm absorbance of PB thin films.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Enhancing electrochromic performance and stability: A novel ionic complex based on carbon dots</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005" author-id="S1572665724006544-68f2ac1b665119063ed808dca1db0464">
+                  <ce:given-name>Jaeheon</ce:given-name>
+                  <ce:surname>Kim</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:cross-ref refid="af005" id="c0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="fn1" id="c0010">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au010" author-id="S1572665724006544-369ed1a9f3dc5774e8283e0e5feb42dd">
+                  <ce:given-name>Woojun</ce:given-name>
+                  <ce:surname>Choi</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:cross-ref refid="af005" id="c0015">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="fn1" id="c0020">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au015" author-id="S1572665724006544-52697a4f3005f97613cd01990a4bb81f">
+                  <ce:given-name>Tae Hyun</ce:given-name>
+                  <ce:surname>Kim</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:cross-ref refid="af010" id="c0025">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c1500">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au020" author-id="S1572665724006544-9787d7f6b2e5784d7a918a8e9b7b7575">
+                  <ce:given-name>Hong Chul</ce:given-name>
+                  <ce:surname>Lim</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:cross-ref refid="af015" id="c0030">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c1000">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af005" affiliation-id="S1572665724006544-8d1048e718d0eac7547b837d0c939212">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Chemistry and Medical Chemistry, Yonsei University, Wonju 26493, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemistry and Medical Chemistry</sa:organization>
+                     <sa:organization>Yonsei University</sa:organization>
+                     <sa:city>Wonju</sa:city>
+                     <sa:postal-code>26493</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx005">Department of Chemistry and Medical Chemistry, Yonsei University, Wonju 26493, Republic of Korea</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af010" affiliation-id="S1572665724006544-b5984f872fcd23cd693427babe31689a">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Chemistry, Soonchunhyang University, Asan 31538, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemistry</sa:organization>
+                     <sa:organization>Soonchunhyang University</sa:organization>
+                     <sa:city>Asan</sa:city>
+                     <sa:postal-code>31538</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx010">Department of Chemistry, Soonchunhyang University, Asan 31538, Republic of Korea</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af015" affiliation-id="S1572665724006544-20a56f61c7c22530c84c256209008628">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Department of Pharmaceutics and Biopharmacy, Sangji University, Wonju 26339, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Pharmaceutics and Biopharmacy</sa:organization>
+                     <sa:organization>Sangji University</sa:organization>
+                     <sa:city>Wonju</sa:city>
+                     <sa:postal-code>26339</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx015">Department of Pharmaceutics and Biopharmacy, Sangji University, Wonju 26339, Republic of Korea</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding authors.</ce:text>
+               </ce:correspondence>
+               <ce:footnote id="fn1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para id="np005" view="all">These authors contributed equally.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="8" month="8" year="2024"/>
+            <ce:date-revised day="13" month="9" year="2024"/>
+            <ce:date-accepted day="24" month="9" year="2024"/>
+            <ce:abstract class="graphical" xml:lang="en" id="ab005" view="all">
+               <ce:section-title id="st005">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="as005" view="all">
+                  <ce:simple-para id="sp0005" view="all">The ionic complex of K-C dot used as an electrolyte demonstrates high electrochromic performance and stability for Prussian blue.</ce:simple-para>
+                  <ce:simple-para id="sp0010" view="all">
+                     <ce:display>
+                        <ce:figure id="f0030">
+                           <ce:link locator="ga1" id="lk00030" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1572665724006544/ga1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:abstract class="author" id="ab015" view="all"><ce:abstract-sec id="as015" view="all">
+                  <ce:simple-para id="sp0020" view="all">Electrolytes are crucial in electrochemical applications such as rechargeable batteries, supercapacitors, fuel cells, and electrochromic devices (ECDs). Therefore, developing new electrolytes with high ionic conductivity, electrochemical stability, and environmental friendliness is essential for advancing next-generation electrochemical systems. Herein, we developed a novel type of ionic complexes composed of multivalent carbon dot polyanions (C dot) and equivalent alkali cations such as Li<ce:sup loc="post">+</ce:sup> (Li-C dot), Na<ce:sup loc="post">+</ce:sup> (Na-C dot), and K<ce:sup loc="post">+</ce:sup> (K-C dot). As an electrolyte, the K-C dot demonstrated superior electrochromic behavior of Prussian blue (PB)–a promising electrochromic material for ECDs–compared to commercially available KCl. The PB thin films exhibit high coloration efficiency (<ce:italic>η</ce:italic>) of 103.5 cm<ce:sup loc="post">2</ce:sup> C<ce:sup loc="post">−1</ce:sup>, good optical density (OD) of 0.90, and fast color switching time (1.5 and 2.6 s for the bleaching and coloring processes, respectively). Furthermore, the PB thin films exhibit long-term stability, retaining 97 % of the initial optical contrast (ΔT) even after 1,000 color switching cycles. The electrochromic performance of PB is influenced by counter cations such as Li<ce:sup loc="post">+</ce:sup>, Na<ce:sup loc="post">+</ce:sup>, and K<ce:sup loc="post">+</ce:sup>, which occupy the interstitial cavities in the lattice of PB during the electrochromic process. These results suggest that to improve the electrochromic performance of PB thin films in ECDs, it is essential to balance the migration of counter cations into and out of the lattice channels of the PB structure with the electron transfer between the PB thin film and the electrode substrate to maintain the charge neutrality of PB. We anticipate that our study will enhance the understanding of the electrochromic process in ECDs and provide new insights into the design of electrolytes for electrochemical systems.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st020">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Carbon dots</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Ionic complex</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>Electrolyte</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Prussian blue</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0025">
+                  <ce:text>Electrochromic</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:data-availability id="da005" view="all">
+               <ce:section-title id="st025">Data availability</ce:section-title>
+               <ce:para id="p0030" view="all">Data will be made available on request.</ce:para>
+            </ce:data-availability>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st030">Introduction</ce:section-title>
+                  <ce:para id="p0035" view="all">Electrochromic devices (ECDs), which modulate optical properties through the redox processes of an electrochromic material, are considered highly attractive for various applications, including electrochemical sensors, smart windows, and automobile mirrors <ce:cross-refs refid="b0005 b0010 b0015 b0020" id="r0005">[1–4]</ce:cross-refs>. Prussian Blue (PB), a promising electrochromic material for ECDs, is composed of a face-centered cubic (FCC) structure in which Fe<ce:sup loc="post">2+</ce:sup> and Fe<ce:sup loc="post">3+</ce:sup> ions are alternately coordinated to carbon and nitrogen atoms through cyanide groups within the unit cell <ce:cross-ref refid="b0025" id="c0035">[5]</ce:cross-ref>. The electrochromic reactions of PB is controlled by the applied electrical voltage or current, resulting in any charge flowing through the external circuit <ce:cross-ref refid="b0010" id="c0040">[2]</ce:cross-ref>. However, PB is known to be sensitive to the type of electrolyte. PB is susceptible to attack by Cl<ce:sup loc="post">−</ce:sup> and CO<ce:inf loc="post">3</ce:inf>
+                     <ce:sup loc="post">2−</ce:sup> anions in electrolytes, leading to rapid degradation. Furthermore, the lattice structure of PB features channels of limited size (&lt; 5.1 Å), which may constrain the accommodation of compensating counterions required for maintaining charge balance during redox processes <ce:cross-refs refid="b0030 b0035" id="r0010">[6,7]</ce:cross-refs>. Therefore, one of the key factors in enhancing the electrochromic performance of PB–including high coloration efficiency, rapid color switching, and good electrochemical stability–is the selection of appropriate electrolytes. The electrolyte must exhibit several critical properties: 1) high ionic conductivity to minimize polarization within the ECDs and optimize performance; 2) efficient ion transport to facilitate the intercalation and deintercalation of charge-compensating counterions; and 3) electrochemical inertness to ensure the stability of the ECDs when dissolved. Over the past few decades, research on electrolytes has primarily focused on developing ionic complexes to provide acceptable solubility and electrochemical stability <ce:cross-refs refid="b0025 b0040 b0045" id="r0015">[5,8,9]</ce:cross-refs>. Recently, weakly coordinating anions (WCAs) containing nitrogen, phosphorus, and boron have garnered attention as potential electrolytes due to their relatively large molecular size and charge delocalization <ce:cross-refs refid="b0050 b0055" id="r0020">[10,11]</ce:cross-refs>. These anions are expected to offer lower dissociation energy compared to conventional anions such as PF<ce:inf loc="post">6</ce:inf>
+                     <ce:sup loc="post">−</ce:sup>, BF<ce:inf loc="post">4</ce:inf>
+                     <ce:sup loc="post">−</ce:sup>, and ClO<ce:inf loc="post">4</ce:inf>
+                     <ce:sup loc="post">−</ce:sup>, potentially resulting in higher ionic conductivity. However, these electrolytes based on WCAs often induce electrolysis and side reactions, resulting in deteriorated stability and reliability of the ECDs <ce:cross-refs refid="b0035 b0060" id="r0025">[7,12]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0040" view="all">In this study, we developed a novel type of ionic complexes composed of multivalent carbon dot polyanions (C dot) and equivalent alkali cations such as Li<ce:sup loc="post">+</ce:sup> (Li-C dot), Na<ce:sup loc="post">+</ce:sup> (Na-C dot), and K<ce:sup loc="post">+</ce:sup> (K-C dot). We have demonstrated that using K-C dot as an electrolyte significantly enhances the electrochemical behaviors of PB thin films electrodeposited on indium tin oxide (ITO) electrode. The PB thin films exhibit superior electrochromic performance with high coloration efficiency (<ce:italic>η</ce:italic>, 103.5 cm<ce:sup loc="post">2</ce:sup> C<ce:sup loc="post">−1</ce:sup>), good optical density (OD, 0.90), and long-term switching stability (less than ∼ 3 % decrease in ΔT after 1000 cycles), compared to commercially available KCl used as a control.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st035">Experimental</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="st040">Reagents and Materials</ce:section-title>
+                     <ce:para id="p0045" view="all">All the chemical reagents used in this study were commercially available and used without further purification. Carbon nanofiber, sulfuric acid (H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf>), sodium carbonate (Na<ce:inf loc="post">2</ce:inf>CO<ce:inf loc="post">3</ce:inf>), lithium carbonate (Li<ce:inf loc="post">2</ce:inf>CO<ce:inf loc="post">3</ce:inf>), potassium carbonate (K<ce:inf loc="post">2</ce:inf>CO<ce:inf loc="post">3</ce:inf>), iron(III) chloride hexahydrate (FeCl<ce:inf loc="post">3</ce:inf>·6H<ce:inf loc="post">2</ce:inf>O) and potassium ferricyanide (K<ce:inf loc="post">3</ce:inf>[Fe(CN)<ce:inf loc="post">6</ce:inf>]) were purchased from Sigma-Aldrich (St. Louis, MO, USA). Nitric acid (HNO<ce:inf loc="post">3</ce:inf>), ethanol, and potassium chloride (KCl) were purchased from Daejung Chemical &amp; Metals Co., Ltd. (Siheung, Korea).</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="st045">Preparation of Prussian blue thin film on indium tin oxide substrate</ce:section-title>
+                     <ce:para id="p0050" view="all">Prussian blue (PB) thin films on ITO/glass substrate (PB/ITO) were deposited by the chronoamperometry (CA) method in an electrochemical cell, which consisted of a three-electrode system (a reference electrode (Ag/AgCl), counter electrode (Pt wire), and working electrode (ITO/glass substrate; SnI; 8–12 Ω)) in aqueous solution containing 0.05 M HCl, 0.05 M K<ce:inf loc="post">3</ce:inf>Fe(CN)<ce:inf loc="post">6</ce:inf>, and 0.05 M FeCl<ce:inf loc="post">3</ce:inf>·6H<ce:inf loc="post">2</ce:inf>O. The PB thin films were subjected to 3 cycles at 0.72–0.77 V at a scan rate of 50 mV s<ce:sup loc="post">−1</ce:sup> from 60 to 300 s. The resultant PB thin films were rinsed with DI water and kept away from dust and grease until the experiment was conducted. The average thickness of PB thin films was 320 nm.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="st050">Instruments</ce:section-title>
+                     <ce:para id="p0055" view="all">The electrochemical experiments were performed with a CH instrument (760E electrochemical analyzer) using a three-electrode system, at room temperature (RT). All potentials were reported versus Ag/AgCl reference electrode. Electrochemical impedance spectroscopy (EIS) was performed with 5 mV amplitude in a frequency range from 1 to 100 kHz. The optical properties of prepared ionic complexes and spectroscopy testing of electrodeposited PB/ITO were conducted by absorption spectra (Beckman, DU650). In situ spectroelectrochemical properties of PB/ITO were carried out on wavedriver 200 with spectroelectrochemistry bundle (Pine research, WD200-SEPC). Fourier-transform infrared (FT-IR) spectroscopy was conducted using a Nicolet 6700 (Thermo scientific, USA). Functional groups and chemical composition of prepared ionic complexes based on C dot were analysed by X-ray photoelectron spectroscopy (XPS) (Kratos, AXIS Supra) using a monochromatic Al<ce:inf loc="post">kα</ce:inf> (15 kV, 375 W). High-resolution transmission electron microscopy (HRTEM) (JEOL, KEO-2100) was performed at 200 kV for the acquisition of C dot images. Scanning electron microscope was used (SEM) (Hitachi, S-4300) to confirm the morphology and thickness of PB/ITO. The electrochromic properties including coloration/bleaching time, optical density, and coloration efficiency were measured by transmittance variation at a wavelength of 700 nm with alternately applied potential of −0.16 and 0.4 V, 50 % duty cycle for 10 s in each state.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0030" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st055">Results and discussion</ce:section-title>
+                  <ce:para id="p0060" view="all">The ionic complexes based on C dot used in this work were synthesized through the hydrothermal oxidation process of carbon nanofibers, following the procedure described in our previous report <ce:cross-ref refid="b0050" id="c0045">[10]</ce:cross-ref>. HRTEM was conducted to determine the size and shape of the prepared K-C dot. The K-C dot, exhibiting a diffraction pattern consistent with sp2-conjugated carbon structure at the core, was observed with a diameter of approximately 8.7 nm, as shown in <ce:cross-ref refid="f0005" id="c0050">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/>a. The amorphous structure observed at the edges is due to the presence of oxygen functional groups such as C<ce:glyph name="sbnd"/>O and O–C<ce:glyph name="dbnd"/>O bonds <ce:cross-ref refid="b0050" id="c0055">[10]</ce:cross-ref>. FT-IR spectroscopy of all samples (Li-C dot, Na-C dot, and Na-C dot) revealed the presence of C<ce:glyph name="dbnd"/>C structure and various oxygen functional groups within the C dot. Specifically, a broad stretching band for hydroxyl and carboxylic groups was observed around 3416 cm<ce:sup loc="post">−1</ce:sup>, C<ce:glyph name="dbnd"/>O stretching of carboxyl groups around 1783 cm<ce:sup loc="post">−1</ce:sup>, aromatic C<ce:glyph name="dbnd"/>C stretching around 1637 cm<ce:sup loc="post">−1</ce:sup>, O<ce:glyph name="sbnd"/>C stretching of carboxyl groups and C<ce:glyph name="sbnd"/>H bending around 1355 cm<ce:sup loc="post">−1</ce:sup>, and C<ce:glyph name="sbnd"/>O stretching of epoxy groups on the basal plane around 1300 and 1080 cm<ce:sup loc="post">−1</ce:sup>, as shown in <ce:cross-ref refid="f0005" id="c0060">Fig. 1</ce:cross-ref>b and <ce:cross-ref refid="s0060" id="c0065">Fig. S1</ce:cross-ref> 
+                     <ce:cross-refs refid="b0065 b0070" id="r0030">[13,14]</ce:cross-refs>. XPS was performed to determine the composition of the prepared samples, as shown in <ce:cross-ref refid="f0005" id="c0070">Fig. 1</ce:cross-ref>c and <ce:cross-ref refid="s0060" id="c0075">Fig. S2</ce:cross-ref>. All prepared samples exhibited peaks around 285.5 eV and 288.3 eV, corresponding to C<ce:glyph name="sbnd"/>O and O–C<ce:glyph name="dbnd"/>O groups, respectively, located at the edges of the C dot <ce:cross-refs id="r0035" refid="b0070 b0105">[14,21]</ce:cross-refs>. Additionally, K 2p, Na 1 s, and Li 1 s spectra were observed in K-C dot, Na-C dot, and Li-C dot, respectively. On the other hand, no XPS spectra of metal cations were detected in samples composed only of C dot, as shown in <ce:cross-ref refid="f0010" id="c0080">Fig. S2</ce:cross-ref>
+                     <ce:float-anchor refid="f0010"/>c and S2d. These results indicate that various types of oxygen-containing functional groups, such as C<ce:glyph name="sbnd"/>O and O–C<ce:glyph name="dbnd"/>O, are decorated on the edge of the C dot. Consequently, this suggests that ionic complexes were formed through electrostatic interactions and/or π-cation interactions between the metal cations and the C dot <ce:cross-refs id="r0040" refid="b0080 b0085 b0105">[16,17,21]</ce:cross-refs>. To investigate the electrolyte properties of ionic complexes based on C dot, an electrochemical deposition method was used to fabricate a PB thin film on an ITO/glass substrate <ce:cross-ref refid="b0010" id="c0085">[2]</ce:cross-ref>. The UV–Vis spectrum of PB/ITO exhibits a strong absorption peak at 700 nm, as shown in <ce:cross-ref refid="f0010" id="c0090">Fig. 2</ce:cross-ref>a, which is associated with metal-to-ligand-to-metal charge transfer from Fe<ce:sup loc="post">2+</ce:sup> into low-spin sites to Fe<ce:sup loc="post">3+</ce:sup> into high-spin sites within the PB structure <ce:cross-refs refid="b0025 b0090 b0095" id="r0045">[5,18,19]</ce:cross-refs>. The absorbance at 700 nm increased linearly with the extending electrodeposition time of PB, as depicted in <ce:cross-ref refid="f0010" id="c0095">Fig. 2</ce:cross-ref>b. These results indicate that a uniformly grown PB thin film was electrodeposited. The morphology of PB thin films, which influences mass transport dynamics and heterogeneous electron transfer rates, was assessed using SEM. PB/ITO shows an aggregated morphology with several hundred nanometers in size, as shown in <ce:cross-ref refid="f0015" id="c0100">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="f0015"/>. The electrochemical behavior of PB/ITO (electrodeposition condition: 40 µA, 140 s) was investigated for different electrolyte types, including Li-C dot, Na-C dot, and K-C dot, using commercially available KCl as a control. Cyclic voltammetry (CV) was performed using a three-electrode system, consisting of working electrode (PB thin film), counter electrode (Pt wire), and reference electrode (Ag/AgCl). The color change of the PB thin films occurs upon the intercalation/deintercalation of counter cations into the lattice channels of PB structure during redox reactions of PB. Diffusion of counter cations into the PB lattice structure can be expressed as <ce:cross-refs refid="b0025 b0100" id="r0050">[5,20]</ce:cross-refs>;<ce:display>
+                        <ce:formula id="e0005">
+                           <mml:math altimg="si1.svg">
+                              <mml:mrow>
+                                 <mml:msubsup>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="italic">Fe</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="italic">III</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msubsup>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mfenced open="[" close="]">
+                                          <mml:mrow>
+                                             <mml:msup>
+                                                <mml:mrow>
+                                                   <mml:mi mathvariant="italic">Fe</mml:mi>
+                                                </mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mi mathvariant="italic">II</mml:mi>
+                                                </mml:mrow>
+                                             </mml:msup>
+                                             <mml:msub>
+                                                <mml:mrow>
+                                                   <mml:mfenced open="(" close=")">
+                                                      <mml:mrow>
+                                                         <mml:mi>C</mml:mi>
+                                                         <mml:mi>N</mml:mi>
+                                                      </mml:mrow>
+                                                   </mml:mfenced>
+                                                </mml:mrow>
+                                                <mml:mn>6</mml:mn>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                       </mml:mfenced>
+                                    </mml:mrow>
+                                    <mml:mn>3</mml:mn>
+                                 </mml:msub>
+                                 <mml:mo linebreak="badbreak">+</mml:mo>
+                                 <mml:mn>4</mml:mn>
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mi>K</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mo>+</mml:mo>
+                                 </mml:msup>
+                                 <mml:mo linebreak="badbreak">+</mml:mo>
+                                 <mml:mn>4</mml:mn>
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mi>e</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mo>-</mml:mo>
+                                 </mml:msup>
+                                 <mml:mo>⇄</mml:mo>
+                                 <mml:msub>
+                                    <mml:mi>K</mml:mi>
+                                    <mml:mn>4</mml:mn>
+                                 </mml:msub>
+                                 <mml:msubsup>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="italic">Fe</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="italic">II</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msubsup>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mfenced open="[" close="]">
+                                          <mml:mrow>
+                                             <mml:msup>
+                                                <mml:mrow>
+                                                   <mml:mi mathvariant="italic">Fe</mml:mi>
+                                                </mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mi mathvariant="italic">II</mml:mi>
+                                                </mml:mrow>
+                                             </mml:msup>
+                                             <mml:msub>
+                                                <mml:mrow>
+                                                   <mml:mfenced open="(" close=")">
+                                                      <mml:mrow>
+                                                         <mml:mi>C</mml:mi>
+                                                         <mml:mi>N</mml:mi>
+                                                      </mml:mrow>
+                                                   </mml:mfenced>
+                                                </mml:mrow>
+                                                <mml:mn>6</mml:mn>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                       </mml:mfenced>
+                                    </mml:mrow>
+                                    <mml:mn>3</mml:mn>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0065" view="all">PB (coloration state) PW (bleaching state)<ce:display>
+                        <ce:formula id="e0010">
+                           <mml:math altimg="si2.svg">
+                              <mml:mrow>
+                                 <mml:msubsup>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="italic">Fe</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="italic">III</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msubsup>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mfenced open="[" close="]">
+                                          <mml:mrow>
+                                             <mml:msup>
+                                                <mml:mrow>
+                                                   <mml:mi mathvariant="italic">Fe</mml:mi>
+                                                </mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mi mathvariant="italic">II</mml:mi>
+                                                </mml:mrow>
+                                             </mml:msup>
+                                             <mml:msub>
+                                                <mml:mrow>
+                                                   <mml:mfenced open="(" close=")">
+                                                      <mml:mrow>
+                                                         <mml:mi>C</mml:mi>
+                                                         <mml:mi>N</mml:mi>
+                                                      </mml:mrow>
+                                                   </mml:mfenced>
+                                                </mml:mrow>
+                                                <mml:mn>6</mml:mn>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                       </mml:mfenced>
+                                    </mml:mrow>
+                                    <mml:mn>3</mml:mn>
+                                 </mml:msub>
+                                 <mml:mo linebreak="badbreak">+</mml:mo>
+                                 <mml:mn>4</mml:mn>
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="italic">Cl</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mo>-</mml:mo>
+                                 </mml:msup>
+                                 <mml:mo>⇄</mml:mo>
+                                 <mml:msub>
+                                    <mml:mi>K</mml:mi>
+                                    <mml:mn>4</mml:mn>
+                                 </mml:msub>
+                                 <mml:msubsup>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="italic">Fe</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="italic">III</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msubsup>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mfenced open="[" close="]">
+                                          <mml:mrow>
+                                             <mml:msup>
+                                                <mml:mrow>
+                                                   <mml:mi mathvariant="italic">Fe</mml:mi>
+                                                </mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mi mathvariant="italic">III</mml:mi>
+                                                </mml:mrow>
+                                             </mml:msup>
+                                             <mml:msub>
+                                                <mml:mrow>
+                                                   <mml:mfenced open="(" close=")">
+                                                      <mml:mrow>
+                                                         <mml:mi>C</mml:mi>
+                                                         <mml:mi>N</mml:mi>
+                                                      </mml:mrow>
+                                                   </mml:mfenced>
+                                                </mml:mrow>
+                                                <mml:mn>6</mml:mn>
+                                             </mml:msub>
+                                             <mml:mi>C</mml:mi>
+                                             <mml:mi>l</mml:mi>
+                                          </mml:mrow>
+                                       </mml:mfenced>
+                                    </mml:mrow>
+                                    <mml:mn>3</mml:mn>
+                                 </mml:msub>
+                                 <mml:mo linebreak="badbreak">+</mml:mo>
+                                 <mml:mn>3</mml:mn>
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mi>e</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mo>-</mml:mo>
+                                 </mml:msup>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0070" view="all">PB (coloration state) BG (coloration state)</ce:para>
+                  <ce:para id="p0075" view="all">The electrochemical behavior of PB thin films shows two redox pair reactions regardless of electrolyte species. Interestingly, different redox behaviors were observed in PB/ITO depending on the type of electrolyte used. The resulting CV curve obtained from PB/ITO using K-C dots shows two well-defined reversible redox couples, as shown in <ce:cross-ref refid="f0020" id="c0105">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="f0020"/>a. On the other hand, when Li-C dot, Na-C dot, and KCl were used, cyclic voltammograms exhibited relatively slow and irreversible redox reactions, resulting in a large peak-to-peak separation (ΔE<ce:inf loc="post">pp</ce:inf>), as depicted in <ce:cross-ref refid="s0060" id="c0110">Fig. S3</ce:cross-ref>. This is because the diffusion process of alkali cations such as K<ce:sup loc="post">+</ce:sup>, Na<ce:sup loc="post">+</ce:sup>, and Li<ce:sup loc="post">+</ce:sup> dominates the redox reactions of PB, and the charge transfer between PB and alkali cations is constrained by the channel radius of the PB structure. To further study the redox reaction kinetics of PB thin films, EIS was performed. The Nyquist plot of the PB thin films displayed similar series resistance values associated with the electrolyte's electrical resistance. However, the semicircle related to charge transfer resistance (R<ce:inf loc="post">ct</ce:inf>) observed in the high-frequency region differed in shape, as depicted in <ce:cross-ref refid="f0020" id="c0115">Fig. 4</ce:cross-ref>b and summarized in <ce:cross-ref refid="s0060" id="c0120">Table S1</ce:cross-ref>. The order of R<ce:inf loc="post">ct</ce:inf> decreased in the order of Li-C dot (359 Ω) &gt; Na-C dot (285 Ω) &gt; KCl (62 Ω) &gt; K-C dot (52 Ω). This is determined by ion mobility, which follows the reverse order of ionic radius and increases with the hydration radius (Li<ce:sup loc="post">+</ce:sup>, 3.82 Å; Na<ce:sup loc="post">+</ce:sup>, 3.58 Å; K<ce:sup loc="post">+</ce:sup>, 3.31 Å) <ce:cross-refs refid="b0110 b0115" id="r0055">[22,23]</ce:cross-refs>. Furthermore, the hydrated Li<ce:sup loc="post">+</ce:sup> and Na<ce:sup loc="post">+</ce:sup> cations are too large to migrate easily into and out of the PB lattice and might also strongly interact with the reduced Fe<ce:sup loc="post">2+</ce:sup> state within the Prussian Blue lattice. On the other hand, K<ce:sup loc="post">+</ce:sup> cations with small hydrated ionic radius migrate more efficiently through the lattice channels of the PB structure <ce:cross-refs refid="b0120 b0125 b0130" id="r0060">[24–26]</ce:cross-refs>. Furthermore, the slope of the straight line in the lower frequency region indicates the mass transfer of cations toward the PB thin film from the electrolyte solution. The diffusion resistance of the K<ce:sup loc="post">+</ce:sup> cations was relatively low compared to that of the Na<ce:sup loc="post">+</ce:sup> and Li<ce:sup loc="post">+</ce:sup> cations. The rate-determining step in the charge-transfer kinetics of the electrochromic process for PB thin films depends on the migration of counter cations insertion and extraction of the PB lattice channels to maintain charge balance. As a result, the electrochemical studies involving CV and EIS have shown that the K-C dot serves as a suitable material for an electrolyte. The electrochromic characteristics of PB thin films, including optical density (OD), coloration efficiency (<ce:italic>η</ce:italic>), and switching cycle stability, were evaluated using the CA method under alternating voltage biases of –0.16 V and 0.4 V for 10 s each in a three-electrode system. Electrochromic behaviors of PB thin films exhibited a bleaching state at a bias of –0.16 V. Thus, K<ce:sup loc="post">+</ce:sup> cations migrated into the lattice channel of reduced PB (indicates PW) to maintain the electroneutrality of the PB thin film. After changing the applied voltage to 0.4 V, the PW returned to the coloration state (indicates PB). Therefore, through the oxidation process involving the move out of K<ce:sup loc="post">+</ce:sup> cations from the lattice channels of the PW structure, the PW structure reverts to its initial state to PB structure. The key parameter <ce:italic>η</ce:italic> in the electrochromic process is determined by the charge transfer between the PB thin film and the electrode, as well as the migration of cations intercalated and deintercalated with PB structure <ce:cross-ref refid="b0050" id="c0125">[10]</ce:cross-ref>. <ce:italic>η</ce:italic> is calculated as Equation <ce:cross-ref refid="e0015" id="c0130">(1)</ce:cross-ref> 
+                     <ce:cross-ref refid="b0050" id="c0135">[10]</ce:cross-ref>.<ce:display>
+                        <ce:formula id="e0015">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si3.svg">
+                              <mml:mrow>
+                                 <mml:mi>η</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mo stretchy="false">(</mml:mo>
+                                    <mml:mi mathvariant="normal">λ</mml:mi>
+                                    <mml:mo stretchy="false">)</mml:mo>
+                                 </mml:mrow>
+                                 <mml:mo linebreak="goodbreak">=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">Δ</mml:mi>
+                                       <mml:mi mathvariant="normal">O</mml:mi>
+                                       <mml:mi mathvariant="normal">D</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">Δ</mml:mi>
+                                       <mml:mi mathvariant="normal">Q</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo linebreak="goodbreak">=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">l</mml:mi>
+                                       <mml:mi mathvariant="normal">o</mml:mi>
+                                       <mml:mi mathvariant="normal">g</mml:mi>
+                                       <mml:mo stretchy="false">(</mml:mo>
+                                       <mml:mfrac>
+                                          <mml:msub>
+                                             <mml:mi>T</mml:mi>
+                                             <mml:mi>b</mml:mi>
+                                          </mml:msub>
+                                          <mml:msub>
+                                             <mml:mi>T</mml:mi>
+                                             <mml:mi>c</mml:mi>
+                                          </mml:msub>
+                                       </mml:mfrac>
+                                       <mml:mo stretchy="false">)</mml:mo>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">Δ</mml:mi>
+                                       <mml:mi mathvariant="normal">Q</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where optical density (OD) is the logarithm of the ratio of transmittance between the bleached and colored states. <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">c</ce:inf> and <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">b</ce:inf> represent the transmittance values corresponding to 10 % and 90 % of the total modulation at 700 nm absorbance, respectively. The measured parameter values related to the electrochromic characteristics of each electrolyte are summarized in <ce:cross-ref refid="t0005" id="c0140">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="t0005"/>. When using K-C dot, all parameter values were better than those of other electrolytes. The <ce:italic>η</ce:italic> and ΔOD values were measured to be 103.5 cm<ce:sup loc="post">2</ce:sup> C<ce:sup loc="post">−1</ce:sup> and 0.90, respectively. The color switching time was measured using the CA method under alternating voltage biases of –0.16 and 0.4 V for 10 s. The <ce:italic>t</ce:italic>
+                     <ce:inf loc="post">c</ce:inf> (time for coloring process) and <ce:italic>t</ce:italic>
+                     <ce:inf loc="post">b</ce:inf> (time for bleaching process) correspond to the switching times when the transmittance modulation of the PB thin film at 700 nm reaches 10 % and 90 %, respectively, as shown in <ce:cross-ref refid="s0060" id="c0145">Fig. S4</ce:cross-ref>. Under K-C dot, the PB thin films exhibited faster color switching transitions (<ce:italic>t</ce:italic>
+                     <ce:inf loc="post">b</ce:inf> = 1.5 s, <ce:italic>t</ce:italic>
+                     <ce:inf loc="post">c</ce:inf> = 2.6 s) compared to Li-C dot, Na-C dot, and KCl. Moreover, the switching cycle stability related to the number of color switching exhibited only a slight degradation of approximately 3 % (ΔT, from 76 to 74) after 1,000 switching cycles, as depicted in <ce:cross-ref refid="f0025" id="c0150">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="f0025"/>a. These results indicate that the electrochromic properties of the PB thin film exhibit high durability by maintaining minimal performance loss throughout the switching cycles. However, Li-C dot and Na-C dot exhibited lower electrochromic properties of PB thin films compared to K-C dot. This is because Li<ce:sup loc="post">+</ce:sup> and Na<ce:sup loc="post">+</ce:sup> cations with large hydrated ionic radius have difficulty intercalation and deintercalation into the PB lattice channel during redox reactions of PB. Consequently, PB thin films using Li-C dot and Na-C dot struggled to maintain electrical neutrality, resulting in side reactions and a subsequent degradation of electrochromic performance <ce:cross-refs refid="b0120 b0125" id="r0065">[24,25]</ce:cross-refs>. These results suggest that enhancing electrochromic performance in ECDs requires balancing two critical factors: the migration of counter cations to maintain the charge neutrality of PB and the electron exchange between PB and the electrode. Note that PB thin films using KCl showed significant degradation in electrochromic performance after 130 coloration switching cycles, as shown in <ce:cross-ref refid="f0025" id="c0155">Fig. 5</ce:cross-ref>b. It is known that PB is chemically attacked by Cl<ce:sup loc="post">−</ce:sup> anions, leading to degradation and undesirable side reactions <ce:cross-ref refid="b0030" id="c0160">[6]</ce:cross-ref>. In contrast, nanosized C dot are too large to enter the PB lattice structure and remain relatively stable in their anionic state, thus not inducing side reactions of PB <ce:cross-ref refid="b0050" id="c0165">[10]</ce:cross-ref>. As a result, the K-C dot facilitated the redox reactions in PB thin films, leading to high coloration efficiency, good optical density, fast color switching time, and long-term switching stability.</ce:para>
+               </ce:section>
+               <ce:section id="s0035" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st060">Conclusions</ce:section-title>
+                  <ce:para id="p0080" view="all">In summary, we demonstrate ionic complexes based on C dot as an electrolyte. The C dot formed an ionic complex with alkali cations, such as Li<ce:sup loc="post">+</ce:sup>, Na<ce:sup loc="post">+</ce:sup>, and K<ce:sup loc="post">+</ce:sup>, through electrostatic attraction and/or π–cation interaction. These prepared ionic complexes based on C dot as an electrolyte provide abundant free metal cations, highly stable polyanions, and negligible ion pairs in an aqueous solution. However, when used as electrolytes in the electrochemical reactions of PB thin films, Li<ce:sup loc="post">+</ce:sup> and Na<ce:sup loc="post">+</ce:sup> cations in Li-C dot and Na-C dot, respectively, cause slow and irreversible redox reactions in CV, as well as high R<ce:inf loc="post">ct</ce:inf> values in EIS, leading to the degradation of the electrochromic performance of PB thin films. Note that the K-GQD electrolyte demonstrates superior electrochromic performance, including excellent coloration efficiency (<ce:italic>η =</ce:italic> 103.5 cm<ce:sup loc="post">2</ce:sup> C<ce:sup loc="post">−1</ce:sup>), high optical contrast (ΔOD = 0.90), and fast color switching time (<ce:italic>t</ce:italic>
+                     <ce:inf loc="post">b</ce:inf> = 1.5 and <ce:italic>t</ce:italic>
+                     <ce:inf loc="post">c</ce:inf> = 2.6 s). compared to conventional KCl electrolyte. Moreover, K-C dot exhibits excellent long-term switching cycle stability, with an optical transmittance retention of 97.3 % (ΔT<ce:inf loc="post">1 cycle</ce:inf> = 76 % and ΔT<ce:inf loc="post">1000 cycles</ce:inf> = 74 %) over 1000 switching cycles. All the presented results suggest that improving electrochromic performance in ECDs requires careful balancing of two critical aspects: ensuring charge neutrality through the migration of counter ions within the electrochromic material, and facilitating effective electron transfer between the electrochromic material and the electrode. We anticipate that ionic complexes based on C dot will prove to be promising electrolytes for various electrochemical cells, including secondary ion batteries, supercapacitors, and electrochemical transistors.</ce:para>
+               </ce:section>
+               <ce:section id="s0040" view="all">
+                  <ce:section-title id="st065">Author contributions</ce:section-title>
+                  <ce:para id="p0085" view="all">The manuscript was written through contributions of all authors. All authors have given approval to the final version of the manuscript.</ce:para>
+               </ce:section>
+               <ce:section id="s0050" view="all">
+                  <ce:section-title id="st075">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p0095" view="all">
+                     <ce:bold>Jaeheon Kim:</ce:bold> Data curation, Investigation. <ce:bold>Woojun Choi:</ce:bold> Supervision, Validation, Writing – review &amp; editing. <ce:bold>Tae Hyun Kim:</ce:bold> Writing – review &amp; editing, Validation, Supervision. <ce:bold>Hong Chul Lim:</ce:bold> Writing – original draft, Methodology, Investigation, Funding acquisition, Data curation, Conceptualization.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi005" view="all">
+               <ce:section-title id="st080">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0100" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st085">Acknowledgement</ce:section-title>
+               <ce:para id="p0105" view="all">This work was supported by the National Research Foundation of Korea (NRF), with the grant funded by Korea Government (MSIT and MOE) (No. NRF-2022R1F1A1064007). This research was also supported by “Regional Innovation Strategy (RIS)” through the National Research Foundation of Korea (NRF) funded by the Ministry of Education (MOE) in 2024(2022RIS-005). This work was also supported by the Soonchunhyang University Research Fund.</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section view="compact-standard" id="s0055">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st090">Supplementary data</ce:section-title>
+                  <ce:para id="p0110" view="all">FT-IR data of Li-C dot and Na-C dot; XPS data of Li-C dot, Na-C dot, and C-dot; comparison of CV curves for electrodeposited PB/ITO (Li-C dot, Na-C dot, and KCl); comparison of diffusion coefficient of alkali cations and EIS data; comparison of electrochromic properties of PB/ITO. Supplementary data to this article can be found online at <ce:inter-ref xlink:href="https://doi.org/10.1016/j.jelechem.2024.118676" xlink:type="simple" id="ir005">https://doi.org/10.1016/j.jelechem.2024.118676</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section view="extended" id="s0060">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st095">Supplementary data</ce:section-title>
+                  <ce:para id="p0115" view="all">The following are the Supplementary data to this article:<ce:display>
+                        <ce:e-component id="m0005">
+                           <ce:label>Supplementary Data 1</ce:label>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S1572665724006544/mmc1" id="lk00035"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st100">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Sonmez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.K.F.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Rubin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wudl</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A red, green, and blue (RGB) polymeric electrochromic device (PECD): The dawning of the PECD era</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1498</sb:first-page>
+                              <sb:last-page>1502</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx020">G. Sonmez, C. K. F. Shen, Y. Rubin, F. Wudl, A red, green, and blue (RGB) polymeric electrochromic device (PECD): The dawning of the PECD era, Angew. Chem. Int. Ed. 43 (2004) 1498–1502.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.-S.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrodeposition of zinc oxide nanowires as a counter electrode in electrochromic devices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bull. Korean Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>358</sb:first-page>
+                              <sb:last-page>361</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx025">H. C. Lim, E. Park, I.-S. Shin, Electrodeposition of zinc oxide nanowires as a counter electrode in electrochromic devices, Bull. Korean Chem. Soc. 41 (2020) 358–361.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Integrated energy storage and electrochromic function in one flexible device: an energy storage smart window</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Environ. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8384</sb:first-page>
+                              <sb:last-page>8389</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx030">K. Wang, H. Wu, Y. Meng. Y. Zhang and Z. Wei, Integrated energy storage and electrochromic function in one flexible device: an energy storage smart window, Energy Environ. Sci. 5 (2012) 8384–8389.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.Y.</ce:given-name>
+                                 <ce:surname>Elezzabi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Transparent Zinc-Mesh Electrodes for Solar-Charging Electrochromic Windows</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2003574</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx035">H. Li, W. Zhang, A. Y. Elezzabi, Transparent Zinc-Mesh Electrodes for Solar-Charging Electrochromic Windows, Adv. Mater. (2020) 2003574.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhancing electrocatalytic performance and stability: A novel Prussian blue-graphene quantum dot nanoarchitecture for H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> reduction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>646</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2024</sb:date>
+                           </sb:issue>
+                           <sb:article-number>158920</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx040">H. C. Lim, Y. Cho, D. Han, T. H. Kim, Enhancing electrocatalytic performance and stability: A novel Prussian blue-graphene quantum dot nanoarchitecture for H2O2 reduction, Appl. Surf. Sci. 646 (2024) 158920.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.A.</ce:given-name>
+                                 <ce:surname>Sitnikova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Komkova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.V.</ce:given-name>
+                                 <ce:surname>Khomyakova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.E.</ce:given-name>
+                                 <ce:surname>Karyakina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Karyakin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Transition metal hexacyanoferrates in electrocatalysis of H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> reduction: An exclusive property of Prussian blue</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4131</sb:first-page>
+                              <sb:last-page>4134</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx045">N. A. Sitnikova, M. A. Komkova, I. V. Khomyakova, E. E. Karyakina, A. A. Karyakin, Transition metal hexacyanoferrates in electrocatalysis of H2O2 reduction: An exclusive property of Prussian blue, Anal. Chem. 86 (2014) 4131−4134.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Roig</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Navarro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Tamarit</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Vicente</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Stability of PB films on ITO electrodes: effect of different anions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electroanal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>360</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>55</sb:first-page>
+                              <sb:last-page>69</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx050">A. Roig, J. Navarro, R. Tamarit, F. Vicente, Stability of PB films on ITO electrodes: effect of different anions, J. Electroanal. Chem. 360 (1993) 55−69.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Rogers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.R.</ce:given-name>
+                                 <ce:surname>Sedden</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>ionic liquids–solvents of the future?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>302</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>792</sb:first-page>
+                              <sb:last-page>793</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx055">R. D. Rogers, K. R. Sedden, ionic liquids--solvents of the future?, Science 302 (2003) 792–793.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.R.</ce:given-name>
+                                 <ce:surname>Adair</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Progress and perspectives on halide lithium conductors for all-solid-state lithium batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Environ. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1429</sb:first-page>
+                              <sb:last-page>1461</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx060">X. Li, J. Liang, X. Yang, K. R. Adair, C. Wang, F. Zhao, X. Sun, Progress and perspectives on halide lithium conductors for all-solid-state lithium batteries, Energy Environ. Sci. 13 (2020) 1429–1461.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.-C.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-I.</ce:given-name>
+                                 <ce:surname>Hong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.-W.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.-S.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>New highly stable ionic compounds composed of multivalent graphene quantum dot anions and alkali metal cations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Batter. Supercaps</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e202100337</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx065">H. C. Lim, M.-C. Kim, A. Kim, E. Park, Y. Park, R. Chang, J.-I. Hong, K.-W. Park, I.-S. Shin, H. Kim, New highly stable ionic compounds composed of multivalent graphene quantum dot anions and alkali metal cations, Batter. Supercaps 5 (2021) e202100337.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Beck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Sunkel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Metal complexes of weakly coordinating anions. precursors of strong cationic organometallic lewis acids</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2146</sb:first-page>
+                              <sb:last-page>2149</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx070">W. Beck, K. Sunkel, Metal complexes of weakly coordinating anions. precursors of strong cationic organometallic lewis acids, Chem. Rev. 88 (2010) 2146–2149.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Strauss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The search for larger and more weakly coordinating anions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>927</sb:first-page>
+                              <sb:last-page>942</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx075">S. H. Strauss, The search for larger and more weakly coordinating anions, Chem. Rev. 93 (1993) 927–942.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zhong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Qiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A review of electrolyte materials and composition for electrochemical supercapacitors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Soc. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7484</sb:first-page>
+                              <sb:last-page>7539</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx080">C. Zhong, Y. Deng, W. Hu, J. Qiao, L. Zhang, J. Zhang, A review of electrolyte materials and composition for electrochemical supercapacitors, Chem. Soc. Rev. 44 (2015) 7484–7539.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Juan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.G.</ce:given-name>
+                                 <ce:surname>Bipin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.-A.</ce:given-name>
+                                 <ce:surname>Rebeca</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Liehui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Lawrence</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Xiaobo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Guanhui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Sajna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Benny</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Angel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Takuya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-J.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Pulickel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>graphene quantum dots derived from carbon fibers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>844</sb:first-page>
+                              <sb:last-page>8490</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx085">P. Juan, G. Wei, K. G. Bipin, L. Zheng, R.-A. Rebeca, G. Liehui, S. Li, B. A. Lawrence, Z. Xiaobo, G. Guanhui, A. V. Sajna, A. K. Benny, A. M. Angel, H. Takuya, J.-J. Zhu, M. A. Pulickel, graphene quantum dots derived from carbon fibers, Nano Lett. 12 (2012) 844–8490.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-J.</ce:given-name>
+                                 <ce:surname>Jang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Venkataprasad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Vinothkumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.-S.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>graphene quantum dot-doped PEDOT for simultaneous determination of ascorbic acid, dopamine, and uric acid</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ChemElectroChem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e202200557</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx095">H. C. Lim, S.-J. Jang, Y. Cho, H. Cho, G. Venkataprasad, V. Vinothkumar, I.-S. Shin, T. H. Kim, graphene quantum dot-doped PEDOT for simultaneous determination of ascorbic acid, dopamine, and uric acid, ChemElectroChem 9 (2022) e202200557.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Graphene quantum dots as the electrolyte for solid state supercapacitors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Rep.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>19292</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx100">S. Zhang, Y. Li, H. Song, X. Chen, J. Zhou, S. Hong, M. Huang, Graphene quantum dots as the electrolyte for solid state supercapacitors, Sci. Rep. 6 (2015) 19292.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="h0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Agrisuelas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.R.</ce:given-name>
+                                 <ce:surname>Bueno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.F.</ce:given-name>
+                                 <ce:surname>Ferreira</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Gabrielli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>García-Jareño</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Gimenez-Romero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Perrot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Vicentea</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electronic perspective on the electrochemistry of Prussian blue films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>156</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>P74</sb:first-page>
+                              <sb:last-page>P80</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx105">J. Agrisuelas, P. R. Bueno, F. F. Ferreira, C. Gabrielli, J. J. García-Jareño, D. Gimenez-Romero, H. Perrot, F. Vicentea, Electronic perspective on the electrochemistry of Prussian blue films, J. Electrochem. Soc. 156 (2009) P74–P80.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.B.</ce:given-name>
+                                 <ce:surname>Robin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The color and electronic configurations of Prussian blue</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1962</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>337</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx110">M. B. Robin, The color and electronic configurations of Prussian blue, Inorg. Chem. 1 (1962) 337.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="h0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.Y.</ce:given-name>
+                                 <ce:surname>Elezzabi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A Dual-Mode Electrochromic Platform Integrating Zinc Anode-Based and Rocking-Chair Electrochromic Devices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Fund. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2300155</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx115">W. Zhang, H. Li, A. Y. Elezzabi, A Dual-Mode Electrochromic Platform Integrating Zinc Anode-Based and Rocking-Chair Electrochromic Devices, Adv. Fund. Mater. 33 (2023) 2300155.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Rajender</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Giri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Formation mechanism of graphene quantum dots and their edge state conversion probed by photoluminescence and Raman spectroscopy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10852</sb:first-page>
+                              <sb:last-page>10865</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx120">G. Rajender, P. K. Giri, Formation mechanism of graphene quantum dots and their edge state conversion probed by photoluminescence and Raman spectroscopy, J. Mater. Chem. C 4 (2016) 10852–10865.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="h0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Rosseinsky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Glasser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.D.B.</ce:given-name>
+                                 <ce:surname>Jenkins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermodynamic clarification of the curious ferric/potassium ion exchange accompanying the electrochromic redox reactions of Prussian blue, iron(III) hexacyanoferrate(II)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>126</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10472</sb:first-page>
+                              <sb:last-page>10477</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx125">D. R. Rosseinsky, L. Glasser, H. D. B. Jenkins, Thermodynamic clarification of the curious ferric/potassium ion exchange accompanying the electrochromic redox reactions of Prussian blue, iron(III) hexacyanoferrate(II), J. Am. Chem. Soc. 126 (2004) 10472–10477.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>[23]</ce:label>
+                     <ce:other-ref id="h0115">
+                        <ce:textref>C. Z, Y. Deng, W. Hu, J. Qiao, L. Zhang, J. Zhang, A review of electrolyte materials and compositions for electrochemical supercapacitors, Chem. Soc. Rev. 44 (2015) 7484–7539.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Crumbliss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.S.</ce:given-name>
+                                 <ce:surname>Lugg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Morosoff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Alkali metal cation effects in a Prussian blue surface-modified electrode</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4701</sb:first-page>
+                              <sb:last-page>4708</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx130">A. L. Crumbliss, P. S. Lugg, N. Morosoff, Alkali metal cation effects in a Prussian blue surface-modified electrode, Inorg. Chem. 23 (1984) 4701–4708.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="h0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Crumbliss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.S.</ce:given-name>
+                                 <ce:surname>Lugg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Childers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>R. a.</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Palmer, Fourler transform infrared photothermal spectroscopic characterizeation of Prussian blue surface modified electrodes. Countercation effects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>482</sb:first-page>
+                              <sb:last-page>488</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx135">A. L. Crumbliss, P. S. Lugg, J. W. Childers, R. A. Palmer, Fourler transform infrared photothermal spectroscopic characterizeation of Prussian blue surface modified electrodes. Countercation effects, J. Phys. Chem. 89 (1985) 482–488.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="h0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Phadke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Mysyk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Anouti</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of cation (Li+, Na+, K+, Rb+, Cs+) in aqueous electrolyte on the electrochemical redox of Prussian blue analogue (PBA)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Energy Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>31</sb:first-page>
+                              <sb:last-page>38</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx140">S. Phadke, R. Mysyk, M. Anouti, Effect of cation (Li+, Na+, K+, Rb+, Cs+) in aqueous electrolyte on the electrochemical redox of Prussian blue analogue (PBA), J. Energy Chem. 40 (2020) 31–38.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+            <ce:further-reading id="fr100" view="all">
+               <ce:further-reading-sec id="st800" view="all">
+                  <ce:section-title id="st605">Further reading</ce:section-title>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.-A.</ce:given-name>
+                                 <ce:surname>Tao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lv</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Long</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabrication of pH-sensitive graphene oxide–drug supramolecular hydrogels as controlled release systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>24856</sb:first-page>
+                              <sb:last-page>24861</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx090">C.-A. Tao, J. Wang, S. Qin, Y. Lv, Y. Long, H. Zhu, Z. Jiang, Fabrication of pH-sensitive graphene oxide–drug supramolecular hydrogels as controlled release systems, J. Mater. Chem. 22 (2012) 24856–24861.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:further-reading-sec>
+            </ce:further-reading>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

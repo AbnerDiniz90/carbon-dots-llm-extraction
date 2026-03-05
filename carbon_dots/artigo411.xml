@@ -1,0 +1,2454 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925400518317787</prism:url><dc:identifier>doi:10.1016/j.snb.2018.10.015</dc:identifier><eid>1-s2.0-S0925400518317787</eid><prism:doi>10.1016/j.snb.2018.10.015</prism:doi><pii>S0925-4005(18)31778-7</pii><dc:title>Reliable and quantitative electrochemical platform for direct detection of CYP707A1 gene expression from wheat leaves </dc:title><prism:publicationName>Sensors and Actuators B: Chemical</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09254005</prism:issn><prism:volume>279</prism:volume><prism:startingPage>274</prism:startingPage><prism:endingPage>280</prism:endingPage><prism:pageRange>274-280</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2019-01-15</prism:coverDate><prism:coverDisplayDate>15 January 2019</prism:coverDisplayDate><prism:copyright>© 2018 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Han, Jing</dc:creator><dc:creator>Yu, Nan</dc:creator><dc:creator>Ma, Xiaoli</dc:creator><dc:creator>Bu, Huaitian</dc:creator><dc:creator>Xu, Jiangqiang</dc:creator><dc:creator>Bu, Huaiyu</dc:creator><dc:description>
+                  Gene-expression analysis is increasingly important in biological research, measuring the level of a particular gene expressed within a cell or tissue can provide a lot of valuable information. In this paper, we present a simple electrochemical (EC) biosensor that is capable of detecting CYP707A1 gene expression. Briefly, the target CYP707A1 gene was amplified by reverse transcription-polymerase chain reaction (RT-PCR) extraction from the leaves of Triticum aestivum (wheat). Due to the 5′ end of primers for PCR amplification modified with biotin and thiol separately, signal tag (Thi-dsDNA@SA-MB bioconjugate) was formed. The sensing platform was simply constructed by the assembly of typical gold nanostar and graphene with good repeatability. When the Thi-dsDNA@SA-MB bioconjugate was captured onto the sensing interface, numerous redox molecule thionine (Thi) could be introduced, producing a significant EC response. As a result, the proposed EC biosensor sensitively detects CYP707A1 express products of T. aestivum with the detection limit is as low as 13 pM. Importantly, the accuracy and reproducibility of this methodology, is comparable favorably with that of real-time RT-PCR (qRT-PCR), the benchmark technology for expression profiling of selected CYP707A1 gene in different drought-treated samples of T. aestivum.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Electrochemical biosensor</dcterms:subject><dcterms:subject>Direct detection</dcterms:subject><dcterms:subject>
+                     CYP707A1 gene expression</dcterms:subject><dcterms:subject>
+                     Triticum aestivum
+                  </dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925400518317787" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925400518317787" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="218" height="164" size="20093">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="84" size="5834">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="83" size="6366">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="83" size="8563">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="194" height="164" size="7939">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="sc1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="120" size="11974">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-sc1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="679" height="512" size="110860">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="567" height="217" size="29600">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="718" height="273" size="50486">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="566" height="214" size="34561">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="328" height="277" size="23648">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="717" height="391" size="79324">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-sc1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3008" height="2266" size="1617851">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2510" height="962" size="277688">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3177" height="1210" size="411340">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2508" height="947" size="269675">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1453" height="1228" size="166099">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3175" height="1733" size="672270">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-sc1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="6438400">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-mmc1.doc?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="1322635">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518317787-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85054459595</scopus-id><scopus-eid>2-s2.0-85054459595</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85054459595" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271353</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291685</xocs:ssid>
+         <xocs:ssid type="subj">291718</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Sensors and Actuators B: Chemical</xocs:srctitle>
+      <xocs:normalized-srctitle>SENSORSACTUATORSBCHEMICAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20181005">2018-10-05</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20181005">2018-10-05</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20181010">2018-10-10</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20181010">2018-10-10</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2018-11-05T11:52:30</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0925400518317787</xocs:eid>
+      <xocs:pii-formatted>S0925-4005(18)31778-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0925400518317787</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.snb.2018.10.015</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0925400518X00215</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20181204">2018-12-04T06:20:18.204766Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20190115</xocs:date-search-begin>
+      <xocs:year-nav>2019</xocs:year-nav>
+      <xocs:indexeddate epoch="1538757063">2018-10-05T16:31:03.665267Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast footnotes grantnumber grantsponsor grantsponsorid highlightsabst primabst ref vitae</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0925-4005</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09254005</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>279</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>279</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 279</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>35</xocs:sort-order>
+      <xocs:first-fp>274</xocs:first-fp>
+      <xocs:last-lp>280</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>274</xocs:first-page>
+         <xocs:last-page>280</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20190115</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 January 2019</xocs:cover-date-text>
+      <xocs:cover-date-start>2019-01-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2019</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>General Section</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>RELIABLEQUANTITATIVEELECTROCHEMICALPLATFORMFORDIRECTDETECTIONCYP707A1GENEEXPRESSIONWHEATLEAVES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>HAN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Reagent and materials</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Apparatus</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Plant materials and stress treatments</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>RNA extraction and synthesis of cDNA</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Synthesis of target DNA fragments</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Target DNA fragments enrichment and separation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.7</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Fabrication of the EC biosensor</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.8</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Experimental measurements</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SEM characteristics of the modified electrode</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>EC behaviors of the biosensor</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Optimization of annealing temperature and SA-MB concentration</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SWV responses and calibration curves</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Stability of the proposed EC biosensor</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Analysis of different treated samples</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.6.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>The proposed EC biosensor for different treated samples analysis</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.6.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>qRT-PCR for different treated samples analysis</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>OSAKABE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>86</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>CUTLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>651</xocs:ref-first-fp>
+            <xocs:ref-last-lp>679</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>KUSHIRO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1647</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1656</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>CHONO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>104</xocs:ref-first-fp>
+            <xocs:ref-last-lp>115</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>KONDO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>234</xocs:ref-first-fp>
+            <xocs:ref-last-lp>241</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>JI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>647</xocs:ref-first-fp>
+            <xocs:ref-last-lp>662</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>BUSTIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>597</xocs:ref-first-fp>
+            <xocs:ref-last-lp>601</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0040">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4743</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4748</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0045">
+            <xocs:ref-normalized-surname>GETTEMY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>569</xocs:ref-first-fp>
+            <xocs:ref-last-lp>574</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0050">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>123</xocs:ref-first-fp>
+            <xocs:ref-last-lp>131</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0055">
+            <xocs:ref-normalized-surname>ISLAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>227</xocs:ref-first-fp>
+            <xocs:ref-last-lp>233</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0060">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>48</xocs:ref-first-fp>
+            <xocs:ref-last-lp>54</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0065">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11207</xocs:ref-first-fp>
+            <xocs:ref-last-lp>11213</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0070">
+            <xocs:ref-normalized-surname>KOO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6781</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6788</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0075">
+            <xocs:ref-normalized-surname>ISLAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-article-number>1700131</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0080">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>94</xocs:ref-first-fp>
+            <xocs:ref-last-lp>100</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0085">
+            <xocs:ref-normalized-surname>VALLEEBELISLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15197</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15200</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0090">
+            <xocs:ref-normalized-surname>DANIEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>293</xocs:ref-first-fp>
+            <xocs:ref-last-lp>346</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0095">
+            <xocs:ref-normalized-surname>PRIYADARSHINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>888</xocs:ref-first-fp>
+            <xocs:ref-last-lp>902</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0100">
+            <xocs:ref-normalized-surname>JU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1903</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1910</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0105">
+            <xocs:ref-normalized-surname>SUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7</xocs:ref-first-fp>
+            <xocs:ref-last-lp>13</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0110">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>90</xocs:ref-first-fp>
+            <xocs:ref-last-lp>94</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0115">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9926</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9929</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0120">
+            <xocs:ref-normalized-surname>HAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1669</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1675</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0125">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>869</xocs:ref-first-fp>
+            <xocs:ref-last-lp>878</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0130">
+            <xocs:ref-normalized-surname>LEACH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>276</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>HANX2019X274</xocs:refkey3>
+         <xocs:refkey4lp>HANX2019X274X280</xocs:refkey4lp>
+         <xocs:refkey4ai>HANX2019X274XJ</xocs:refkey4ai>
+         <xocs:refkey5>HANX2019X274X280XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2020-10-10T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2020-10-10T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0925-4005(18)31778-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0925400518317787</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0925400518317787</xocs:eid>
+         <xocs:doi>10.1016/j.snb.2018.10.015</xocs:doi>
+         <xocs:cid>271353</xocs:cid>
+         <xocs:timestamp>2018-12-04T06:20:18.204766Z</xocs:timestamp>
+         <xocs:cover-date-start>2019-01-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/MAIN/application/pdf/8af54f05785c64fdd9c0ac9600febff7/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/MAIN/application/pdf/8af54f05785c64fdd9c0ac9600febff7/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2074955</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0925400518317787-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/PREVIEW/image/png/532c1142b768ed4dd6a5b1ebc00b70c8/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/PREVIEW/image/png/532c1142b768ed4dd6a5b1ebc00b70c8/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>53346</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/gr1/THUMBNAIL/image/gif/d1beb721b80d2a37e6b20ac31013cb77/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/gr1/THUMBNAIL/image/gif/d1beb721b80d2a37e6b20ac31013cb77/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>20093</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>218</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/gr2/THUMBNAIL/image/gif/717117fd04aa573c3152b8953b0216ae/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/gr2/THUMBNAIL/image/gif/717117fd04aa573c3152b8953b0216ae/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5834</xocs:filesize>
+               <xocs:pixel-height>84</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/gr3/THUMBNAIL/image/gif/c8919168ffa9a612b335bfca60c06281/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/gr3/THUMBNAIL/image/gif/c8919168ffa9a612b335bfca60c06281/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6366</xocs:filesize>
+               <xocs:pixel-height>83</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/gr4/THUMBNAIL/image/gif/2d4e0686a1cb54ce45b747651803b585/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/gr4/THUMBNAIL/image/gif/2d4e0686a1cb54ce45b747651803b585/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8563</xocs:filesize>
+               <xocs:pixel-height>83</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/gr5/THUMBNAIL/image/gif/b251d9cc21c54049bbac9938809318b0/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/gr5/THUMBNAIL/image/gif/b251d9cc21c54049bbac9938809318b0/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7939</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>194</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-sc1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/sc1/THUMBNAIL/image/gif/336d0c10d63b0903a7996707f94c8470/sc1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/sc1/THUMBNAIL/image/gif/336d0c10d63b0903a7996707f94c8470/sc1.sml</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11974</xocs:filesize>
+               <xocs:pixel-height>120</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/gr1/DOWNSAMPLED/image/jpeg/5f6f3c573685b158a3d2caad4c675c04/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/gr1/DOWNSAMPLED/image/jpeg/5f6f3c573685b158a3d2caad4c675c04/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>110860</xocs:filesize>
+               <xocs:pixel-height>512</xocs:pixel-height>
+               <xocs:pixel-width>679</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/gr2/DOWNSAMPLED/image/jpeg/06ce4d50e735ad748c71bcc804716b09/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/gr2/DOWNSAMPLED/image/jpeg/06ce4d50e735ad748c71bcc804716b09/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>29600</xocs:filesize>
+               <xocs:pixel-height>217</xocs:pixel-height>
+               <xocs:pixel-width>567</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/gr3/DOWNSAMPLED/image/jpeg/ccd2f6968e2d9c86447cf572ede3b502/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/gr3/DOWNSAMPLED/image/jpeg/ccd2f6968e2d9c86447cf572ede3b502/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>50486</xocs:filesize>
+               <xocs:pixel-height>273</xocs:pixel-height>
+               <xocs:pixel-width>718</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/gr4/DOWNSAMPLED/image/jpeg/2d1d843f8a6e1f62b7b16d8ac03cf1e7/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/gr4/DOWNSAMPLED/image/jpeg/2d1d843f8a6e1f62b7b16d8ac03cf1e7/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34561</xocs:filesize>
+               <xocs:pixel-height>214</xocs:pixel-height>
+               <xocs:pixel-width>566</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/gr5/DOWNSAMPLED/image/jpeg/09de92ce806a31093691c50b394cee08/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/gr5/DOWNSAMPLED/image/jpeg/09de92ce806a31093691c50b394cee08/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>23648</xocs:filesize>
+               <xocs:pixel-height>277</xocs:pixel-height>
+               <xocs:pixel-width>328</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-sc1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/sc1/DOWNSAMPLED/image/jpeg/5f6d17af5dbe78cc27a6e24658984c4c/sc1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/sc1/DOWNSAMPLED/image/jpeg/5f6d17af5dbe78cc27a6e24658984c4c/sc1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>79324</xocs:filesize>
+               <xocs:pixel-height>391</xocs:pixel-height>
+               <xocs:pixel-width>717</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/gr1/HIGHRES/image/jpeg/7489a0c5820bed67f5141017a4b04dd8/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/gr1/HIGHRES/image/jpeg/7489a0c5820bed67f5141017a4b04dd8/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1617851</xocs:filesize>
+               <xocs:pixel-height>2266</xocs:pixel-height>
+               <xocs:pixel-width>3008</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/gr2/HIGHRES/image/jpeg/944193c478d67131fa8bcc64661c7eed/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/gr2/HIGHRES/image/jpeg/944193c478d67131fa8bcc64661c7eed/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>277688</xocs:filesize>
+               <xocs:pixel-height>962</xocs:pixel-height>
+               <xocs:pixel-width>2510</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/gr3/HIGHRES/image/jpeg/cd144b52b0dab2d2f1b5d1a3cf7ad429/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/gr3/HIGHRES/image/jpeg/cd144b52b0dab2d2f1b5d1a3cf7ad429/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>411340</xocs:filesize>
+               <xocs:pixel-height>1210</xocs:pixel-height>
+               <xocs:pixel-width>3177</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/gr4/HIGHRES/image/jpeg/bf97db3e491075d675a8c03313315b74/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/gr4/HIGHRES/image/jpeg/bf97db3e491075d675a8c03313315b74/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>269675</xocs:filesize>
+               <xocs:pixel-height>947</xocs:pixel-height>
+               <xocs:pixel-width>2508</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/gr5/HIGHRES/image/jpeg/7a6b63d8c6fbbba608ae933649bc36b5/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/gr5/HIGHRES/image/jpeg/7a6b63d8c6fbbba608ae933649bc36b5/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>166099</xocs:filesize>
+               <xocs:pixel-height>1228</xocs:pixel-height>
+               <xocs:pixel-width>1453</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-sc1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/sc1/HIGHRES/image/jpeg/b5d3bff1c2492d707cc95af35f57a9ee/sc1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/sc1/HIGHRES/image/jpeg/b5d3bff1c2492d707cc95af35f57a9ee/sc1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>672270</xocs:filesize>
+               <xocs:pixel-height>1733</xocs:pixel-height>
+               <xocs:pixel-width>3175</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-mmc1.doc</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518317787/mmc1/MAIN/application/msword/ab41d10ec11e1c4d6cc7d88bd835e2e7/mmc1.doc</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400518317787/mmc1/MAIN/application/msword/ab41d10ec11e1c4d6cc7d88bd835e2e7/mmc1.doc</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.doc</xocs:filename>
+               <xocs:extension>doc</xocs:extension>
+               <xocs:filesize>6438400</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518317787-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>1322635</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10551SJ56XF/MAIN/application/pdf/c0ef5ba81f1b5592822d4788fcad3e76/am.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10551SJ56XF/MAIN/application/pdf/c0ef5ba81f1b5592822d4788fcad3e76/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.5" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>SNB</jid>
+            <aid>25448</aid>
+            <ce:pii>S0925-4005(18)31778-7</ce:pii>
+            <ce:doi>10.1016/j.snb.2018.10.015</ce:doi>
+            <ce:copyright type="full-transfer" year="2018">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0005">
+               <ce:label>Scheme 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="spar0005" view="all">Schematic illustration of (A) signal tag (Thi-dsDNA@SA-MB) preparation and (B) EC biosensor fabrication process (AuNS/PAMAM-Gra/DpAu/GCE) for <ce:italic>CYP707A1</ce:italic> expression detection directly from <ce:italic>Triticum astivum</ce:italic>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0375" role="short">Scheme 1</ce:alt-text>
+               <ce:link locator="sc1" xlink:href="pii:S0925400518317787/sc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0010">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="spar0010" view="all">The stepwise biosensor fabrication process is illustrated by SEM: (A) DpAu, (B) PAMAM-Gra/DpAu, and (C) AuNS/PAMAM-Gra/DpAu. (D) SEM of AuNS.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0380" role="short">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:href="pii:S0925400518317787/gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0015">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="spar0015" view="all">(A) CV curves of different modified electrodes performed in PBS (pH 7.4) containing 5 mM [Fe(CN)<ce:inf loc="post">6</ce:inf>]<ce:sup loc="post">4−/3−</ce:sup> as redox probe: (a) bare GCE, (b) DpAu/GCE, (c) PAMAM-Gra/DpAu/GCE, (d) AuNS/PAMAM-Gra/DpAu/GCE. (B) CV curves and the linear relations of the as-prepared electrode (AuNS/PAMAM-Gra/DpAu/GCE) with different scan rates: 0.02, 0.05, 0.08, 0.1, 0.12, 0.15, 0.2, 0.22, 0.25, 0.3, 0.35, 0.4, 0.45 and 0.5 V s<ce:sup loc="post">−1</ce:sup> in 5 mM [Fe(CN)<ce:inf loc="post">6</ce:inf>]<ce:sup loc="post">4−/3−</ce:sup> as redox probe.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0385" role="short">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:href="pii:S0925400518317787/gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0020">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="spar0020" view="all">(A) SWV curves of the resulting biosensor incubation with segregated gradient dilution of DNA (Thi-dsDNA@SA-MB), respectively. SWV signals were measured in HAc-NaAc buffer solution (pH 5.5). (B) The corresponding calibration curve of the biosensor for RT-PCR products of <ce:italic>CYP707A1</ce:italic> gene assay (error bars, SD; <ce:italic>n</ce:italic> = 3).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0390" role="short">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:href="pii:S0925400518317787/gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0025">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="spar0025" view="all">(A) Stability of the as-proposed biosensor incubated with 128 nM target DNA fragments (<ce:italic>c<ce:inf loc="post">Intial</ce:inf>
+                     </ce:italic>/32) for intermittent SWV scanning (<ce:italic>n</ce:italic> = 20). (B) The longterm storage stability of the as-prepared electrodes (AuNS/PAMAM-Gra/DpAu/GCE) incubated with the mixture of segregated Thi-DNA@SA-MB over a period of 15 days (error bars, SD; <ce:italic>n</ce:italic> = 3). All SWV signals were measured in HAc-NaAc buffer solution (pH 5.5).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0395" role="short">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:href="pii:S0925400518317787/gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0030">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="spar0030" view="all">Gold standard (qRT-PCR) and our method (EC-RT-PCR) for relative expression of <ce:italic>CYP707A1</ce:italic> gene in different treated <ce:italic>T. aestivum</ce:italic>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0400" role="short">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:href="pii:S0925400518317787/gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="spar0035" view="all">The relative expression of <ce:italic>CYP707A1</ce:italic> gene in different treated <ce:italic>T. aestivum</ce:italic>, SWV response and concentration of RT-PCR products were studied by the proposed method.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0405" role="short">Table 1</ce:alt-text>
+               <tgroup cols="4">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <thead valign="top">
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Sample</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">SWV peak value (μA)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Concentration of<br/>PCR products (nM)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Relative expression</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">14.047</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">9.954</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">D24</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">17.096</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">142.212</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">14.29</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">D48</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">16.350</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">74.192</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">7.45</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">D96</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">16.231</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">66.878</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">6.72</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">D144</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">16.771</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">107.110</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">10.76</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">D168</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">15.200</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">27.212</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2.73</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">D192</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">15.373</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">31.643</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3.18</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Y24</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">15.780</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">45.128</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">4.53</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Y48</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">15.503</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">35.443</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3.56</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Y96</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">16.414</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">78.452</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">7.88</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Y144</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">15.910</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">50.547</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.08</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Y168</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">17.010</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">131.935</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">13.25</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Y192</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">16.079</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">58.574</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.88</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">Reliable and quantitative electrochemical platform for direct detection of <ce:italic>CYP707A1</ce:italic> gene expression from wheat leaves</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" biographyid="vt0005" author-id="S0925400518317787-f33c7d2d36abd944103fa5cdea230e0d">
+                  <ce:given-name>Jing</ce:given-name>
+                  <ce:surname>Han</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0010" refid="fn0005">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0010" biographyid="vt0010" author-id="S0925400518317787-e6853510db34e71257601be6004cb84a">
+                  <ce:given-name>Nan</ce:given-name>
+                  <ce:surname>Yu</ce:surname>
+                  <ce:cross-ref id="crf0015" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0020" refid="fn0005">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0015" biographyid="vt0015" author-id="S0925400518317787-83d4571d1b2924f4a296df5cc1e89f5f">
+                  <ce:given-name>Xiaoli</ce:given-name>
+                  <ce:surname>Ma</ce:surname>
+                  <ce:cross-ref id="crf0025" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0020" biographyid="vt0020" author-id="S0925400518317787-ab3cbd1a1b8b2a17e0a290b5ef2247cd">
+                  <ce:given-name>Huaitian</ce:given-name>
+                  <ce:surname>Bu</ce:surname>
+                  <ce:cross-ref id="crf0030" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0025" biographyid="vt0025" author-id="S0925400518317787-84d85ec3210d41c72579dc5ef0db741b">
+                  <ce:given-name>Jiangqiang</ce:given-name>
+                  <ce:surname>Xu</ce:surname>
+                  <ce:cross-ref id="crf0035" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0030" biographyid="vt0030" author-id="S0925400518317787-5fac11930e44868c81d502d58d0609a2">
+                  <ce:given-name>Huaiyu</ce:given-name>
+                  <ce:surname>Bu</ce:surname>
+                  <ce:cross-ref id="crf0040" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0045" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S0925400518317787-ff47ae28d7e5eb5a73fa401cd343ca20">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Shaanxi Provincial Key Laboratory of Biotechnology, Key Laboratory of Resource Biology and Biotechnology in Western China (Ministry of Education), Northwest University, Xi’an, Shaanxi, 710069, PR China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Shaanxi Provincial Key Laboratory of Biotechnology</sa:organization>
+                     <sa:organization>Key Laboratory of Resource Biology and Biotechnology in Western China (Ministry of Education)</sa:organization>
+                     <sa:organization>Northwest University</sa:organization>
+                     <sa:city>Xi’an</sa:city>
+                     <sa:state>Shaanxi</sa:state>
+                     <sa:postal-code>710069</sa:postal-code>
+                     <sa:country>PR China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010" affiliation-id="S0925400518317787-4b6cea55dd06c2550c0c1c0d7a93c078">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Key Laboratory of Synthetic and Natural Functional Molecule Chemistry of Ministry of Education, College of Chemistry &amp; Materials Science, Northwest University, Xi’an, Shaanxi, 710127, PR China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Key Laboratory of Synthetic and Natural Functional Molecule Chemistry of Ministry of Education</sa:organization>
+                     <sa:organization>College of Chemistry &amp; Materials Science</sa:organization>
+                     <sa:organization>Northwest University</sa:organization>
+                     <sa:city>Xi’an</sa:city>
+                     <sa:state>Shaanxi</sa:state>
+                     <sa:postal-code>710127</sa:postal-code>
+                     <sa:country>PR China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0015" affiliation-id="S0925400518317787-2430890f74c59c9b7164de9c18ebb37f">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>SINTEF Industry, P.O. Box 124, Blindern, Oslo, N-0314, Norway</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>SINTEF Industry</sa:organization>
+                     <sa:address-line>P.O. Box 124</sa:address-line>
+                     <sa:address-line>Blindern</sa:address-line>
+                     <sa:city>Oslo</sa:city>
+                     <sa:postal-code>N-0314</sa:postal-code>
+                     <sa:country>Norway</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+               <ce:footnote id="fn0005">
+                  <ce:label>1</ce:label>
+                  <ce:note-para id="npar0005" view="all">These authors contributed equally to this work.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="25" month="5" year="2018"/>
+            <ce:date-revised day="30" month="9" year="2018"/>
+            <ce:date-accepted day="4" month="10" year="2018"/>
+            
+            <ce:abstract id="abs0010" view="all" class="author"><ce:abstract-sec id="abst0010" view="all">
+                  <ce:simple-para id="spar0045" view="all">Gene-expression analysis is increasingly important in biological research, measuring the level of a particular gene expressed within a cell or tissue can provide a lot of valuable information. In this paper, we present a simple electrochemical (EC) biosensor that is capable of detecting <ce:italic>CYP707A1</ce:italic> gene expression. Briefly, the target <ce:italic>CYP707A1</ce:italic> gene was amplified by reverse transcription-polymerase chain reaction (RT-PCR) extraction from the leaves of <ce:italic>Triticum aestivum</ce:italic> (wheat). Due to the 5′ end of primers for PCR amplification modified with biotin and thiol separately, signal tag (Thi-dsDNA@SA-MB bioconjugate) was formed. The sensing platform was simply constructed by the assembly of typical gold nanostar and graphene with good repeatability. When the Thi-dsDNA@SA-MB bioconjugate was captured onto the sensing interface, numerous redox molecule thionine (Thi) could be introduced, producing a significant EC response. As a result, the proposed EC biosensor sensitively detects <ce:italic>CYP707A1</ce:italic> express products of <ce:italic>T. aestivum</ce:italic> with the detection limit is as low as 13 pM. Importantly, the accuracy and reproducibility of this methodology, is comparable favorably with that of real-time RT-PCR (qRT-PCR), the benchmark technology for expression profiling of selected <ce:italic>CYP707A1</ce:italic> gene in different drought-treated samples of <ce:italic>T. aestivum</ce:italic>.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0015">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Electrochemical biosensor</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>Direct detection</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>
+                     <ce:italic>CYP707A1</ce:italic> gene expression</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>
+                     <ce:italic>Triticum aestivum</ce:italic>
+                  </ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0005" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0020">Introduction</ce:section-title>
+                  <ce:para id="par0025" view="all">The well-being of human being is, to a large extent, relying on food. Triticum aestivum (wheat) is a vital crop for the food supply, accounting for almost 20% of the world’s daily food consumption. Drought negatively impacts the plant growth and the productivity of crops [<ce:cross-ref id="crf0050" refid="bib0005">1</ce:cross-ref>]. Abscisic acid (ABA), a “stress hormone”, is accumulated to improve drought responses and tolerance in a variety of crops [<ce:cross-ref id="crf0055" refid="bib0010">2</ce:cross-ref>]. The level of ABA is controlled by a balance between the biosynthesis and catabolism of ABA. The cytochrome P450 monooxygenase <ce:italic>707A1</ce:italic> (<ce:italic>CYP707A1</ce:italic>) gene encoded ABA catabolic enzyme, ABA8′-hydroxylase, plays an important role in controlling ABA content in the plant tissue [<ce:cross-ref id="crf0060" refid="bib0015">3</ce:cross-ref>,<ce:cross-ref id="crf0065" refid="bib0020">4</ce:cross-ref>]. Measurement of gene expression has been used extensively in monitoring biological responses to various stimuli, therefore, monitoring <ce:italic>CYP707A1</ce:italic> expression provides worthy insight into plant growth under drought stress [<ce:cross-ref id="crf0070" refid="bib0025">5</ce:cross-ref>,<ce:cross-ref id="crf0075" refid="bib0030">6</ce:cross-ref>]. Reverse transcription-polymerase chain reaction (RT-PCR), using PCR to amplify cDNA products reverse transcribed from mRNA, is a technique commonly used in molecular biology to detect RNA expression. Compared to other RNA quantification methods, such as northern blot, the real-time quantitative RT-PCR (qRT-PCR) is considered to be the most powerful, sensitive and quantitative assay for the detection of RNA levels, has become the gold standard method for validating results [<ce:cross-ref id="crf0080" refid="bib0035">7</ce:cross-ref>]. However, qRT-PCR, a combination of real fluorescence quantitative detection and RT-PCR amplification, requires high-precision equipment and expensive fluorescent reagent to obtain signal readout [<ce:cross-ref id="crf0085" refid="bib0040">8</ce:cross-ref>]. Further, the extreme sensitivity of the technique has become a double-edged sword since even the slightest DNA contamination can lead to undesirable results [<ce:cross-ref id="crf0090" refid="bib0045">9</ce:cross-ref>], which dramatically hampers their implementation for wider and more versatile applications [<ce:cross-ref id="crf0095" refid="bib0050">10</ce:cross-ref>,<ce:cross-ref id="crf0100" refid="bib0055">11</ce:cross-ref>]. Consequently, the development of highly sensitive, low-complexity and handy methods for monitoring gene expression in plant growth is expected to be of great biological significance.</ce:para>
+                  <ce:para id="par0030" view="all">Electrochemical (EC) technique has been used widely as a detection method in biosensing, owing to their distinct feature in terms of simple equipment, ease of miniaturization, high sensitivity, rapid response as well as potential low-cost [<ce:cross-refs id="crfs0005" refid="bib0060 bib0065 bib0070 bib0075">12–15</ce:cross-refs>]. Zhang and co-workers [<ce:cross-ref id="crf0105" refid="bib0080">16</ce:cross-ref>] fabricated a simple EC biosensor based on cerium dioxide-functionalized carboxyl fullerene supported by Pt nanoparticles (cC<ce:inf loc="post">60</ce:inf>/CeO<ce:inf loc="post">2</ce:inf>/PtNPs) for signal amplification to achieve accurate quantitative detection of <ce:italic>CYP2C19*2</ce:italic> gene in human serum samples. Xia's group [<ce:cross-ref id="crf0110" refid="bib0085">17</ce:cross-ref>] demonstrated a versatile, DNA-based EC “switch” for the quantitative detection of specific antibodies with low-nanomolar concentrations in the complicated clinical samples. Of particular note, this detection approach has merit of simplicity and low cost because of the distinct feature of EC technique. With these advantages, the EC method could potentially realize the monitoring of gene expression in a simple and sensitive fashion. However, a challenge still remains toward making EC technology more biologically practical because of the rapidly altered levels of a specific sequence of mRNA when the cells react to a particular treatment.</ce:para>
+                  <ce:para id="par0035" view="all">As mentioned above, RT-PCR has permitted the rapid analysis of the abundance of specific different RNA molecules in a complex biological sample precisely and efficiently. Herein, the aim of the present study is adequately utilizing RT-PCR to design a simple EC biosensor for direct detection of <ce:italic>T. aestivum CYP707A1</ce:italic> expression with high reliability and accuracy. Briefly, the target <ce:italic>CYP707A1</ce:italic> gene was amplified by PCR using a cDNA template, which was synthesized from total RNA isolated from the leaves of <ce:italic>T. aestivum</ce:italic>. Due to the 5′ end of primers for PCR amplification modified with biotin and thiol separately, the signal tag (Thi-dsDNA@SA-MB bioconjugate) was formed. Further, to obtain a reliable and repeatable biosensor, gold nanoparticles (AuNPs) were introduced, which are well-known bio-nanomaterials with excellent biocompatibility, large specific surface area and good conductivity [<ce:cross-refs id="crfs0010" refid="bib0090 bib0095 bib0100">18–20</ce:cross-refs>]. The sensing platform was constructed as follows: first, a layer of porous AuNPs film was electrochemically deposited onto the glassy carbon electrode (GCE). Subsequently, aminoterminated polyamidoamine (PAMAM) functionalized graphene and gold nanostar (AuNS) were assembled onto DpAu (the deposition of gold nanoparticles)/GCE <ce:italic>via</ce:italic> thiols-Au bonding. The self-assembling is a simply yet effective approach that can realize precise control of the composition and nanostructure of the AuNS/PAMAM-Gra film on the surface of DpAu/GCE [<ce:cross-ref id="crf0115" refid="bib0105">21</ce:cross-ref>]. As noticed, when thiolated Thi-dsDNA@SA-MB bioconjugate was captured onto electrode through Au-S bonding, numerous redox molecule (Thi) could be introduced to the sensing interface, producing a significant EC signal output. As a result, the presented biosensor (EC-RT-PCR) shows a good performance in <ce:italic>CYP707A1</ce:italic> gene expression differences of <ce:italic>T. aestivum</ce:italic> seedlings with drought treatment. Most notably, results performed by the EC-RT-PCR are in good consistence with that of validated by the gold standard, qRT-PCR. Importantly, the presented EC approach not only offers the potential advantages over real fluorescence quantitative detection for monitoring <ce:italic>CYP707A1</ce:italic> expression but also provides a versatile method for other gene expression of plant directly. The response performance of the proposed EC biosensor for <ce:italic>CYP707A1</ce:italic> expression detection is shown in <ce:cross-ref id="crf0120" refid="fig0005">Scheme 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig0005"/>.</ce:para>
+               </ce:section>
+               <ce:section id="sec0010" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0025">Experimental</ce:section-title>
+                  <ce:section id="sec0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sect0030">Reagent and materials</ce:section-title>
+                     <ce:para id="par0040" view="all">Streptavidin-coated magnetic bead (SA-MB), gold chloride (HAuCl<ce:inf loc="post">4</ce:inf>), thionine (Thi), aminoterminated polyamidoamine (PAMAM) dendrimer, acetic acid (HAc) and sodium acetate (NaAc) were obtained from Sigma-Aldrich Co. (St. Louis, MO, U.S.A.). Graphene (Gra) and gold nanostars (AuNS) were received from XF NANO (Nanjing, China). Agarose was purchased from GeneTech Co. Ltd. (Shanghai, China). 2×Taq PCR Mastermix and agarose gel DNA extraction kit were obtained from TianGen Biotech Co. Ltd. (Beijing, China). DL5000 DNA Marker, SYBR Premix Ex Taq II and PrimerScript ™ RT reagent Kit were received from Takara Biotechnology Co. Ltd. (Dalian, China). Trizol Reagent and RNase-free DNase I were purchased from Invitrogen Co. Ltd. (Carlsbad, CA, USA). Seeds of <ce:italic>T. aestivum</ce:italic> (Shannong 138) were obtained from Northwest Agriculture University (Shaanxi, China). Ultrapure water was used in all of the experimental processes.</ce:para>
+                     <ce:para id="par0045" view="all">The oligonucleotides (forward and reverse primers) used in the experiment were designed by DNAMAN software according to the NCBI <ce:italic>T. aestivum CYP707A1</ce:italic> sequence (GenBank: <ce:inter-ref id="intr0005" xlink:href="ncbi-n:EU430344.1" xlink:type="simple">EU430344.1</ce:inter-ref>) and synthesized by Sangon Biological Engineering Technology Co. Ltd. (Shanghai, China). The sequences of oligonucleotides are listed as follows:<ce:display>
+                           <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0010" frame="topbot" rowsep="0" colsep="0">
+                              <tgroup cols="3">
+                                 <colspec colname="col1"/>
+                                 <colspec colname="col2"/>
+                                 <colspec colname="col3"/>
+                                 <tbody>
+                                    <row>
+                                       <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Gene</entry>
+                                       <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Primer Sequence (5′– 3′)</entry>
+                                       <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Amplification size (bp)</entry>
+                                    </row>
+                                    <row>
+                                       <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">
+                                          <italic>CYP707A1</italic>
+                                       </entry>
+                                       <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Forward Primer (<bold>FP</bold>) 5′-Bio-GCGCACCTCTTCAAGCCTA-3′<br/>Reverse Primer (<bold>RP</bold>) 5′-SH-CGAAGATGGACAGCAATGC-3′</entry>
+                                       <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">262</entry>
+                                    </row>
+                                 </tbody>
+                              </tgroup>
+                           </ce:table>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="par0050" view="all">The buffers used in this experiment were: Probe immobilization buffer (IB, pH 7.4) containing 10 mM tris(2-carboxyethyl)phosphine hydrochloride (TCEP), 1.0 mM ethylenediaminetetraacetic acid (EDTA), 10 mM Tris−HCl and 0.1 M NaCl; 1% HAuCl<ce:inf loc="post">4</ce:inf> solution was prepared using ultrapure water as a solvent; Phosphate-buffered saline (PBS, 0.1 M, pH 7.4) containing KH<ce:inf loc="post">2</ce:inf>PO<ce:inf loc="post">4</ce:inf>, Na<ce:inf loc="post">2</ce:inf>HPO<ce:inf loc="post">4</ce:inf> and KCl as electrolyte solution; 5 mM [Fe(CN)<ce:inf loc="post">6</ce:inf>]<ce:sup loc="post">4−/3−</ce:sup> solution containing 0.1 M KCl as a redox probe for cyclic voltammetry (CV) measurements; HAc-NaAc (0.1 M, pH 5.5) as detection buffer to investigate the performance of electrodes.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sect0035">Apparatus</ce:section-title>
+                     <ce:para id="par0055" view="all">Square wave voltammetry (SWV) and CV measurements were carried out with a CHI 660E electrochemical workstation (Chenhua, China). All EC measurements were performed on a three-electrode system with modified glassy carbon electrode (GCE, <ce:italic>Φ</ce:italic>  = 4 mm) as working electrode, a saturated calomel as reference electrode and a platinum wire as auxiliary electrode. The stepwise biosensor fabrication process was characterized by scanning electron microscope (SEM, S-4800, Hitachi, Japan). PCR was performed in a T100 TM Thermal Cycler (BioRad, USA) and qRT-PCR was carried out on CFX96 Real-Time PCR Detection System (BioRad, USA). Total RNA, cDNA and the PCR products of <ce:italic>CYP707A1</ce:italic> gene were determined by NanoDrop ND-1000 spectrophotometer (NanoDrop Technologies, USA). Agarose gel electrophoresis was performed using a JY-330E Electrophoresis System (Beijing Junyi-Dongfang Electrophoresis Equipment Co., Ltd., Beijing, China).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sect0040">Plant materials and stress treatments</ce:section-title>
+                     <ce:para id="par0060" view="all">The surface sterilized seeds of <ce:italic>T. aestivum</ce:italic> were germinated in soil mixture (soil, vermiculite and farm yard manure in 1:1:1 ratio) and grown in chambers at 22 °C/18 °C (day/night) with light intensity of 150 μmol m<ce:sup loc="post">−2</ce:sup> s<ce:sup loc="post">−1</ce:sup> and 16 h/8 h light/dark photoperiod. The 10-day-old seedlings were sprayed with 100 μM hexoxazole copper complex solutions, which were synthesized and dissolved as described before [<ce:cross-ref id="crf0125" refid="bib0110">22</ce:cross-ref>], while the controls were treated with water for 8 days. Both treated (<ce:bold>Y</ce:bold> group) and control seedlings (<ce:bold>D</ce:bold> group) were subjected to drought treatment for 8 days counted from the last spray. The leaves were collected for transcription analysis after being treated for 0, 24, 48, 96, 144, 168 and 192 h, respectively. All tissue samples were quickly frozen in liquid nitrogen and stored at −80 °C.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sect0045">RNA extraction and synthesis of cDNA</ce:section-title>
+                     <ce:para id="par0065" view="all">Total RNA was extracted from the leaves of <ce:italic>T. aestivum</ce:italic> seedlings using Trizol Reagent according to the manufacturer's instruction, and was subsequently treated with RNase-free DNase I to eliminate genomic DNA contamination. First-strand cDNA was synthesized from 1 μg treated RNA using PrimerScript ™ RT reagent Kit (Takara, Dalian, China). The resultant cDNA (D or Y group) was denoted as 0, D24, D48, D96, D144, D168, D192, Y24, Y48, Y96, Y144, Y168 and Y192 (the number represents treatment time in hours), respectively.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0035" view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title id="sect0050">Synthesis of target DNA fragments</ce:section-title>
+                     <ce:para id="par0070" view="all">100 ng cDNA captured from control seedlings (0 h) was used for PCR amplification with the 0.8 μmol gene-specific primers (FP, RP) and 10 μL 2 × PCR master mix in a 20 μL reaction volume. The reaction conditions were as follows: 95 °C, 3 min, then 29 cycles at 95 °C, 30 s; 61 °C, 30 s; 72 °C, 30 s.</ce:para>
+                     <ce:para id="par0075" view="all">The PCR products were separated by 1% agarose gel electrophoresis and the amplified target <ce:italic>CYP707A1</ce:italic> fragments were recovered and purified using agarose gel DNA extraction kit. The resulting recovered product was quantified with NanoDrop ND-1000 Spectrophotometer, then diluted to multiple degrees and stored at 4 °C.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0040" view="all">
+                     <ce:label>2.6</ce:label>
+                     <ce:section-title id="sect0055">Target DNA fragments enrichment and separation</ce:section-title>
+                     <ce:para id="par0080" view="all">10 μL <ce:italic>CYP707A1</ce:italic> gel recovered product (target dsDNA fragments) with different concentrations, were mixed with 10 μL of SA-MB (0.8 mg mL<ce:sup loc="post">−1</ce:sup>) and 10 μL of Thi (5 mg mL<ce:sup loc="post">−1</ce:sup>) under gentle shaking for 30 min. Then the SA-MB bioconjugated with Thi-dsDNA was enriched by the external magnetic field from the mixed solution. Finally, the obtained Thi-dsDNA@SA-MB (signal tag) was re-dispersed in 10 μL of the probe immobilization buffer (IB) and stored at 4 °C for subsequent use.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0045" view="all">
+                     <ce:label>2.7</ce:label>
+                     <ce:section-title id="sect0060">Fabrication of the EC biosensor</ce:section-title>
+                     <ce:para id="par0085" view="all">To construct the EC biosensor, GCE (<ce:italic>Φ</ce:italic> = 4 mm) was first pretreated according to our previous method [<ce:cross-ref id="crf0130" refid="bib0115">23</ce:cross-ref>] to obtain a fresh surface. Then the well-polished GCE was immersed in 2 mL of HAuCl<ce:inf loc="post">4</ce:inf> solution (1%) under the potential of -0.2 V for 30 s to gain a porous nano-Au layer. Next, 15 μL of Gra suspension dispersed with PAMAM was dropped onto the DpAu/GCE and dried at room temperature to obtain PAMAM-Gra/DpAu/GCE. Later on, the obtained electrode was soaked into AuNS solution to facilitate self-assembling of AuNS/PAMAM-Gra/DpAu/GCE. Here PAMAM dendrimers are hyper-branched and three-dimensional macromolecules, possessing abundant amine groups (-NH<ce:inf loc="post">2</ce:inf>) for further modification [<ce:cross-ref id="crf0135" refid="bib0120">24</ce:cross-ref>]. The unique space structures can be efficiently attracted AuNS noto the surface of PAMAM-Gra <ce:italic>via</ce:italic> strong amino-Au affinity between AuNS and -NH<ce:inf loc="post">2</ce:inf> of PAMAM. After every step, the modified electrode was extensively rinsed with ultrapure water to avoid the physical adsorption.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0050" view="all">
+                     <ce:label>2.8</ce:label>
+                     <ce:section-title id="sect0065">Experimental measurements</ce:section-title>
+                     <ce:para id="par0090" view="all">EC detection of target DNA fragments: The resultant electrodes were incubated with signal tag Thi-dsDNA@SA-MB at 4 °C overnight <ce:italic>via</ce:italic> Au-S affinity between gold nanostars on the modified electrode and abundant -SH groups on the surface of Thi-dsDNA@SA-MB. To investigate the detection efficiency of the as-proposed biosensor for <ce:italic>CYP707A1</ce:italic> expression, SWV detection was carried out in 0.1 M HAc-NaAc (pH 5.5) with the potential ranging from 0.2 V to -0.5 V. For stepwise characterization of biosensor fabrication process, CV measurements were taken from -0.2 V to 0.6 V at a scan rate of 0.05 V s<ce:sup loc="post">−1</ce:sup> in 0.1 M PBS (pH 7.4) containing 5 mM [Fe(CN)<ce:inf loc="post">6</ce:inf>]<ce:sup loc="post">4−/3−</ce:sup> as redox probe.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0055" role="discussion" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0070">Results and discussion</ce:section-title>
+                  <ce:section id="sec0060" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sect0075">SEM characteristics of the modified electrode</ce:section-title>
+                     <ce:para id="par0095" view="all">The surface images of different nanomaterials modified electrodes were characterized by SEM (<ce:cross-ref id="crf0140" refid="fig0010">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig0010"/>). As shown in <ce:cross-ref id="crf0145" refid="fig0010">Fig. 1</ce:cross-ref>A, the deposited gold nanoparticles (DpAu) show quite uniform flower-like structure with diameter of 300–500 nm. The wrinkled paper-like Gra sheets were dispersed by PAMAM on the surface of the DpAu/GCE (<ce:cross-ref id="crf0150" refid="fig0010">Fig. 1</ce:cross-ref>B). When the gold nanostars (AuNS) was self-assembled onto the surface of PAMAM-Gra, it is found that the AuNS (<ce:cross-ref id="crf0155" refid="fig0010">Fig. 1</ce:cross-ref>D) is wrapped on the top of or under the wrinkled paper-like Gra sheets, so the outline of typical pentagrams structure looks a little blurred (<ce:cross-ref id="crf0160" refid="fig0010">Fig. 1</ce:cross-ref>C).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0065" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sect0080">EC behaviors of the biosensor</ce:section-title>
+                     <ce:para id="par0100" view="all">To confirm the electrode assembling process of the designed biosensor, the interface properties of the modified electrode were studied by CV measurement in 5 mM [Fe(CN)<ce:inf loc="post">6</ce:inf>]<ce:sup loc="post">4−/3−</ce:sup> (acting as redox probe). As displayed in <ce:cross-ref id="crf0165" refid="fig0015">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig0015"/>A, the unmodified GCE gives a pair of reversible redox peaks with a peak current response of about 219.6 μA (<ce:cross-ref id="crf0170" refid="fig0015">Fig. 2</ce:cross-ref>A, curve a), corresponding to the typical redox property of [Fe(CN)<ce:inf loc="post">6</ce:inf>]<ce:sup loc="post">4−/3−</ce:sup>. When nano-Au was electrodeposited onto GCE surface, the current response increased significantly to 265.1 μA (<ce:cross-ref id="crf0175" refid="fig0015">Fig. 2</ce:cross-ref>A, curve b), indicating that nano-Au layer could provide a larger EC surface area and excellent conductivity to accelerate the electron transfer. Further on, when PAMAM-Gra and AuNS are successively immobilized onto the DpAu/GCE, the redox currents are increased accordingly (curves c and d), owing to the large surface area and good conductivity of Gra and AuNS. Obviously, the CV results reveal the successful construction of the biosensing interface.</ce:para>
+                     <ce:para id="par0105" view="all">The electro-active surface area is of great importance in improving the reactivity of the electrode. To testify the assumption, the sensing platform (AuNS/PAMAM-Gra/DpAu/GCE) was carried out by using CV measurement in 5 mM [Fe(CN)<ce:inf loc="post">6</ce:inf>]<ce:sup loc="post">4−/3−</ce:sup> from -0.2 to 0.6 V at different scan rates. As shown in <ce:cross-ref id="crf0180" refid="fig0015">Fig. 2</ce:cross-ref>B, the peak currents are increased with increasing of the scan rates from 20 to 500 mV s<ce:sup loc="post">-1</ce:sup>. In addition, the peak current <ce:italic>versus</ce:italic> the square of root of scan rate plot is shown in inset of <ce:cross-ref id="crf0185" refid="fig0015">Fig. 2</ce:cross-ref>B, which depicts a linear relationship, suggesting that the reaction is a diffusion-controlled process. According to the Randles-Sevcik equation [<ce:cross-ref id="crf0190" refid="bib0125">25</ce:cross-ref>], the electro-active surface area of the resultant electrode is estimated to be 10.92 mm<ce:sup loc="post">2</ce:sup> (<ce:italic>I</ce:italic>
+                        <ce:inf loc="post">p</ce:inf> = 265.1 μA), which is higher than that of bare GCE (<ce:italic>I</ce:italic>
+                        <ce:inf loc="post">p</ce:inf> = 219.6 μA, <ce:italic>A</ce:italic> = 9.06 mm<ce:sup loc="post">2</ce:sup>).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0070" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sect0085">Optimization of annealing temperature and SA-MB concentration</ce:section-title>
+                     <ce:para id="par0110" view="all">Nonspecific secondary bands may form after the PCR reaction, which hinder further analysis and unequivocal assessment of the PCR result. In order to improve the accuracy and specificity of the biosensor, a gradient PCR amplification for <ce:italic>CYP707A1</ce:italic> was carried out by varying annealing temperature from 55 to 63 °C. The results of PCR products were analyzed by 1% agarose gel electrophoresis. An expected 262 bp targeted band yielded in all reactions (Fig. S1D, lines 1–9). However, the low annealing temperatures of 55 and 56 °C (lines 8–9) resulted in the appearance of unspecific secondary products and primer-dimers (less than 100 bp). By increasing the temperature from 61 to 63 °C, the copy number of target products was decreased as well as the potentially unspecific sites (lines 2–4). Thus, the temperature of 61 °C was chosen as the optimal annealing temperature and performed in subsequent experiments.</ce:para>
+                     <ce:para id="par0115" view="all">To achieve the optimal biosensor response, the concentration of SA-MB was also investigated. The maximum concentration of recovered <ce:italic>CYP707A1</ce:italic> fragments (undiluted) as immobilized objects, the effect of different concentrations of SA-MB (0.1–1 mg mL<ce:sup loc="post">−1</ce:sup>) on peak current was tested by SWV assay. It can be seen in Fig. S1E that the SWV current increases with the increasing concentration of SA-MB, the maximum SWV response occurs at the concentration of 0.8 mg mL<ce:sup loc="post">−1</ce:sup>. As a result, the concentration of 0.8 mg mL<ce:sup loc="post">−1</ce:sup> SA-MB was chosen as the optimal concentration in the study.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0075" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="sect0090">SWV responses and calibration curves</ce:section-title>
+                     <ce:para id="par0120" view="all">After optimizing the experimental conditions, the analytical performance of the as-prepared biosensors at different dilution ratios of target DNA fragments was recorded (<ce:cross-ref id="crf0195" refid="fig0020">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig0020"/>). The recovered <ce:italic>CYP707A1</ce:italic> product was quantified as 663 ng μL<ce:sup loc="post">−1</ce:sup> by NanoDrop ND-1000 spectrophotometer, and was calculated as 4.1 μM according to its sequence composition. Therefore, the gradient diluted <ce:italic>CYP707A1</ce:italic> DNA had concentrations (<ce:italic>c<ce:inf loc="post">Sample</ce:inf>
+                        </ce:italic>) of 4.1 μM, 256 nM, 128 nM, 32 nM, 8 nM, 4 nM, 800 pM, 400 pM, 80 pM and 40 pM, correspond to diluting <ce:italic>c<ce:inf loc="post">Intial</ce:inf>
+                        </ce:italic> to 1, 16, 32, 128, 512, 1024, 5120, 10240, 51,200 and 102,400 times, respectively. As can be seen from <ce:cross-ref id="crf0200" refid="fig0020">Fig. 3</ce:cross-ref>A, SWV response of the biosensor enhances accordingly as the concentration of the target DNA fragments increasing. It can be seen in <ce:cross-ref id="crf0205" refid="fig0020">Fig. 3</ce:cross-ref>B that the calibration plot exhibits good linear relationship between the SWV responses and the logarithm of target DNA concentrations ranging from 40 pM to 4.1 μM (the reciprocal of the dilution factor). The linear regression equation is <ce:italic>I</ce:italic> (μA) = 2.640 lg (<ce:italic>c<ce:inf loc="post">Sample</ce:inf>/c<ce:inf loc="post">Intial</ce:inf>
+                        </ce:italic>) + 20.95 (<ce:italic> r</ce:italic>
+                        <ce:sup loc="post">2</ce:sup> = 0.998) and the detection limit is estimated to be 13 pM (S/N = 3).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0080" view="all">
+                     <ce:label>3.5</ce:label>
+                     <ce:section-title id="sect0095">Stability of the proposed EC biosensor</ce:section-title>
+                     <ce:para id="par0125" view="all">To validate the long-term stability of the prepared EC biosensor in the repetitive testing process, the stability was evaluated using the same modified electrode at the same conditions. As shown in <ce:cross-ref id="crf0210" refid="fig0025">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig0025"/>A, there were no apparent signal changes for intermittent SWV measurements after 20 times (<ce:italic>RSD</ce:italic> = 1.579%, <ce:italic>n</ce:italic> = 20). In addition, the long-term storage stability of the biosensor was also explored. A batch of modified electrodes (AuNS/PAMAM-Gra/DpAu/GCE) and Thi-dsDNA@SA-MB bioconjugate were stored in the refrigerator. Every 2–5 days, the above modified electrodes were taken out to incubate with 10 μL of Thi-dsDNA@SA-MB overnight, and the SWV responses of the fabricated biosensor were recorded. As shown in <ce:cross-ref id="crf0215" refid="fig0025">Fig. 4</ce:cross-ref>B, there was no remarkable change of current during 15 days, and the current response maintained 96.4% of the initial value. Thus, the stability results clearly show that the proposed biosensor has acceptable stability.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0085" view="all">
+                     <ce:label>3.6</ce:label>
+                     <ce:section-title id="sect0100">Analysis of different treated samples</ce:section-title>
+                     <ce:section id="sec0090" view="all">
+                        <ce:label>3.6.1</ce:label>
+                        <ce:section-title id="sect0105">The proposed EC biosensor for different treated samples analysis</ce:section-title>
+                        <ce:para id="par0130" view="all">A total of 13 cDNA samples in two groups (0, D24, D48, D96, D144, D168, D192, Y24, Y48, Y96, Y144, Y168 and Y192) were quantified and diluted to 100 ng μL<ce:sup loc="post">−1</ce:sup>, then amplified by PCR. The quantification of amplification products was performed using the EC strategy, and the results were showed in Fig. S3. According to the calibration curve, the concentration of the target DNA fragments in each PCR product was calculated (<ce:cross-ref id="crf0220" refid="tbl0005">Table 1</ce:cross-ref>
+                           <ce:float-anchor refid="tbl0005"/>), in which the relative transcript expression of different treated samples was normalized against sample 0 (set as the baseline 1).</ce:para>
+                     </ce:section>
+                     <ce:section id="sec0095" view="all">
+                        <ce:label>3.6.2</ce:label>
+                        <ce:section-title id="sect0110">qRT-PCR for different treated samples analysis</ce:section-title>
+                        <ce:para id="par0135" view="all">To further validate the feasibility of the proposed EC biosensor, the <ce:italic>CYP707A1</ce:italic> gene expressions of treated samples were analyzed by qRT-PCR, which was performed on a CFX96 Real-Time PCR Detection System using SYBR Premix Ex Taq II. Each PCR mixture in a 20 μL reaction volume contained 2 × SYBR Green Supermix, 0.8 μmol primers and 100 ng of cDNA. The reaction conditions were 95 °C for 3 min, followed by 40 cycles of 95 °C for 30 s; 61 °C for 30 s and 72 °C for 30 s. Primer specificity was confirmed by analysis of the melting curves (Fig. S4). It can be seen in <ce:cross-ref id="crf0225" refid="fig0030">Fig. 5</ce:cross-ref>
+                           <ce:float-anchor refid="fig0030"/> and Table S1 that the results of <ce:italic>CYP707A1</ce:italic> gene expression profiles performed by qRT-PCR are in good consistence with that of the proposed EC biosensor. As is well known, <ce:italic>T. aestivum</ce:italic> has a complex and hexaploid genome, involving three diploid donor species (A, B and D homoeologous chromosome sets) each with 7 pairs of chromosomes [<ce:cross-ref id="crf0230" refid="bib0130">26</ce:cross-ref>]. Based on the above results, it is clear that the proposed strategy has the potential to analyze specialized gene expression under different stress treatments of <ce:italic>T. aestivum</ce:italic> samples. It is not difficult to anticipate that the proposed strategy can be further extended to other crop plants.</ce:para>
+                     </ce:section>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0100" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0115">Conclusions</ce:section-title>
+                  <ce:para id="par0140" view="all">In this study, we have developed a fast, convenient and fluorescence-free quantification assay for realizing <ce:italic>CYP707A1</ce:italic> expression detection directly from <ce:italic>T. aestivum</ce:italic> with high precision and accuracy. Compared with the gold standard, qRT-PCR, the presented EC approach is simple and inexpensive because it does not need any sophisticated equipment and expensive fluorescently labeled oligonucleotide probes. It is worth mentioning that the designed EC approach presents direct and accurate detection of <ce:italic>CYP707A1</ce:italic> gene expression in <ce:italic>T. aestivum</ce:italic>, which has a large, complex and hexaploid genome. We believe that the proposed EC assay can be used as a feasible approach for detecting gene expression of various crop plants under different stress treatments.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0120">Acknowledgments</ce:section-title>
+               <ce:para id="par0145" view="all">We gratefully acknowledge financial support from the <ce:grant-sponsor id="gs0005" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">NNSF of China</ce:grant-sponsor> (<ce:grant-number refid="gs0005">21473135</ce:grant-number>, <ce:grant-number refid="gs0005">21673180</ce:grant-number>, <ce:grant-number refid="gs0005">21605121</ce:grant-number>), the <ce:grant-sponsor id="gs0010" sponsor-id="https://doi.org/10.13039/501100007128" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Natural Science Foundation of Shaanxi Province</ce:grant-sponsor> (<ce:grant-number refid="gs0010">2017JM3028</ce:grant-number>), <ce:grant-sponsor id="gs0015" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Education Committee of Shaanxi Province</ce:grant-sponsor> (<ce:grant-number refid="gs0015">15JS109</ce:grant-number>), the <ce:grant-sponsor id="gs0020" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">59th China Postdoctoral Science Foundation Funded Project</ce:grant-sponsor> (<ce:grant-number refid="gs0020">2016M590966</ce:grant-number>) and the <ce:grant-sponsor id="gs0025" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Young Talent fund of University Association for Science and Technology in Shaanxi, China</ce:grant-sponsor> (<ce:grant-number refid="gs0025">20170705</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="sec0105" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sect0125">Supplementary data</ce:section-title>
+                  <ce:para id="par0150" view="all">Supplementary material related to this article can be found, in the online version, at doi:<ce:inter-ref id="intr0010" xlink:href="https://doi.org/10.1016/j.snb.2018.10.015" xlink:type="simple">https://doi.org/10.1016/j.snb.2018.10.015</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="sec0110" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sect0130">Supplementary data</ce:section-title>
+                  <ce:para id="par0155" view="all">The following is Supplementary data to this article:<ce:display>
+                        <ce:e-component id="upi0005">
+                           <ce:link xlink:href="pii:S0925400518317787/mmc1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" locator="mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0135">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Osakabe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Osakabe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Shinozaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Lam-Son P.</ce:given-name>
+                                 <ce:surname>Tran</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Response of plants to water stress</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Front. Plant Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>86</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Cutler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>Rodriguez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.R.</ce:given-name>
+                                 <ce:surname>Finkelstein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Abrams</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Abscisic acid: emergence of a core signaling network</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annu. Rev. Plant Biol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>651</sb:first-page>
+                              <sb:last-page>679</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kushiro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Okamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nakabayashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yamagishi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kitamura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Asami</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Hirai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Koshiba</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kamiya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Nambara</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Arabidopsis cytochrome P450 <ce:italic>CYP707A</ce:italic> encodes ABA 8′-hydroxylases: key enzymes in ABA catabolism</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>EMBO J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1647</sb:first-page>
+                              <sb:last-page>1656</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chono</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Matsunaka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Seki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Fujita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kiribuchi-Otobe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Oda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kojima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kobayashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Kawakami</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Isolation of a wheat (<ce:italic>Triticum aestivum</ce:italic> L.) mutant in ABA 8′-hydroxylase gene: effect of reduced ABA catabolism on germination inhibition under field condition</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Breed. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>104</sb:first-page>
+                              <sb:last-page>115</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kondo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sugaya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sugawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ninomiya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kittikorn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Okawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ohara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ueno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Todoroki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mizutani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Hirai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dehydration tolerance in apple seedlings is affected by an inhibitor of ABA 8′-hydroxylase CYP707A</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Plant Physiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>169</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>234</sb:first-page>
+                              <sb:last-page>241</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.M.</ce:given-name>
+                                 <ce:surname>Ji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.D.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Shiran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Talbot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Edlington</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hughes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>White</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Gubler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Dolferus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Control of abscisic acid catabolism and abscisic acid homeostasis is important for reproductive stage stress tolerance in cereals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Plant Physiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>156</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>647</sb:first-page>
+                              <sb:last-page>662</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Bustin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Benes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Nolan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.W.</ce:given-name>
+                                 <ce:surname>Pfaffl</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Quantitative real-time RT-PCR - a perspective</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mol. Endocrinol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>597</sb:first-page>
+                              <sb:last-page>601</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Stasheuski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Wegman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.B.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Hayder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Yousef</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.N.</ce:given-name>
+                                 <ce:surname>Krylov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Accurate microRNA analysis in crude cell lysate by capillary electrophoresis-based hybridization assay in comparison with quantitative reverse transcription-polymerase chain reaction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4743</sb:first-page>
+                              <sb:last-page>4748</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Gettemy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Alic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Gold</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reverse transcription-PCR analysis of the regulation of the manganese peroxidase gene family</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Environ. Microbiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>569</sb:first-page>
+                              <sb:last-page>574</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.F.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.J.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.L.</ce:given-name>
+                                 <ce:surname>Cao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.D.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Abd El-Aty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A simple and sensitive competitive bio-barcode immunoassay for triazophos based on multi-modified gold nanoparticles and fluorescent signal amplification</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>999</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>123</sb:first-page>
+                              <sb:last-page>131</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.N.</ce:given-name>
+                                 <ce:surname>Islam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Gopalan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Haque</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.K.</ce:given-name>
+                                 <ce:surname>Masud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Al Hossain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yamauchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.T.</ce:given-name>
+                                 <ce:surname>Nguyen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.Y.</ce:given-name>
+                                 <ce:surname>Lam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.A.</ce:given-name>
+                                 <ce:surname>Shiddiky</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A PCR-free electrochemical method for messenger RNA detection in cancer tissue samples</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>227</sb:first-page>
+                              <sb:last-page>233</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.F.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.J.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A label-free and lectin-based sandwich aptasensor for detection of carcinoembryonic antigen</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sens. Actuators B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>260</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>48</sb:first-page>
+                              <sb:last-page>54</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dauphin-Ducharme</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Ortega</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.W.</ce:given-name>
+                                 <ce:surname>Plaxco</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Calibration-free electrochemical biosensors supporting accurate molecular measurements directly in undiluted whole blood</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>139</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11207</sb:first-page>
+                              <sb:last-page>11213</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Koo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.G.</ce:given-name>
+                                 <ce:surname>Carrascosa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.A.</ce:given-name>
+                                 <ce:surname>Shiddiky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Trau</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Amplification-free detection of gene fusions in prostate cancer urinary samples using mRNA-gold affinity interactions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6781</sb:first-page>
+                              <sb:last-page>6788</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.N.</ce:given-name>
+                                 <ce:surname>Islam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.K.</ce:given-name>
+                                 <ce:surname>Masud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Haque</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.A.</ce:given-name>
+                                 <ce:surname>Hossain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yamauchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.T.</ce:given-name>
+                                 <ce:surname>Nguyen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.A.</ce:given-name>
+                                 <ce:surname>Shiddiky</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>RNA biomarkers: diagnostic and prognostic potentials and recent developments of electrochemical biosensors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Small Methods</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:article-number>1700131</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Niu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cerium dioxide-doped carboxyl fullerene as novel nanoprobe and catalyst in electrochemical biosensor for amperometric detection of the <ce:italic>CYP2C19*2</ce:italic> allele in human serum</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>94</sb:first-page>
+                              <sb:last-page>100</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Vallée-Bélisle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Ricci</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Uzawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.W.</ce:given-name>
+                                 <ce:surname>Plaxco</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Bioelectrochemical switches for the quantitative detection of antibodies directly in whole blood</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>134</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15197</sb:first-page>
+                              <sb:last-page>15200</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Daniel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Astruc</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Gold nanoparticles: assembly, supramolecular chemistry, quantum-size-related properties, and applications toward biology, catalysis, and nanotechnology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>293</sb:first-page>
+                              <sb:last-page>346</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Priyadarshini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Pradhan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Gold nanoparticles as efficient sensors in colorimetric detection of toxic metal ions: a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sens. Actuators B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>238</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>888</sb:first-page>
+                              <sb:last-page>902</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ju</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>In situ growth of surfactant-free gold nanoparticles on nitrogen-doped graphene quantum dots for electrochemical detection of hydrogen peroxide in biological environments</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1903</sb:first-page>
+                              <sb:last-page>1910</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.X.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enzyme-free and sensitive electrochemical determination of the FLT3 gene based on a dual signal amplified strategy: controlled nanomaterial multilayers and a target-catalyzed hairpin assembly</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7</sb:first-page>
+                              <sb:last-page>13</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Y.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ch.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Bu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hexaconazole-Cu complex improves the salt tolerance of <ce:italic>Triticum aestivum</ce:italic> seedlings</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Pesticide Biochem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>127</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>90</sb:first-page>
+                              <sb:last-page>94</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Rare Co/Fe-MOFs exhibiting high catalytic activity in electrochemical aptasensors for ultrasensitive detection of ochratoxin A</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9926</sb:first-page>
+                              <sb:last-page>9929</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhuo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Q.</ce:given-name>
+                                 <ce:surname>Chai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>New type of redox nanoprobe: C<ce:inf loc="post">60</ce:inf>-based nanomaterial and its application in electrochemical immunoassay for doping detection</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1669</sb:first-page>
+                              <sb:last-page>1675</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.P.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.H.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabrication of graphene-quantum dots composites for sensitive electrogenerated chemiluminescence immunosensing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Funct. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>869</sb:first-page>
+                              <sb:last-page>878</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Leach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.J.</ce:given-name>
+                                 <ce:surname>Belfield</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Brown</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mithani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.P.</ce:given-name>
+                                 <ce:surname>Harberd</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Patterns of homoeologous gene expression shown by RNA sequencing in hexaploid bread wheat</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>BMC Genom.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>276</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+            <ce:biography id="vt0005" view="all">
+               <ce:simple-para id="spar0050" view="all">
+                  <ce:bold>Jing Han</ce:bold> is an associate professor of chemistry in Northwest University, China. She received her PhD degree in analytical chemistry from Southwest University in 2015. Her main research interests are the development of biosensors and bioelectroanalysis.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt0010" view="all">
+               <ce:simple-para id="spar0055" view="all">
+                  <ce:bold>Nan Yu</ce:bold> is a MS candidate in the college of Life Sciences of Northwest University, China. His main research interest is biosensors.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt0015" view="all">
+               <ce:simple-para id="spar0060" view="all">
+                  <ce:bold>Xiaoli Ma</ce:bold> is a MS candidate in the college of Life Sciences of Northwest University, China. Her main research interest is plant biotechnology.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt0020" view="all">
+               <ce:simple-para id="spar0065" view="all">
+                  <ce:bold>Huaitian Bu</ce:bold> is a senior research scientist at SINTEF Industry, Norway. She received her PhD in polymer chemistry and physics from Institute of Chemistry, Chinese Academy of Sciences in 2002. Her main research interests are smart responsive materials and recycling and recovery of polymer and composite materials.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt0025" view="all">
+               <ce:simple-para id="spar0070" view="all">
+                  <ce:bold>Jiangqiang Xu</ce:bold> is a MS candidate in the college of Life Sciences of Northwest University, China. His main research interest is plant physiology.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt0030" view="all">
+               <ce:simple-para id="spar0075" view="all">
+                  <ce:bold>Huaiyu Bu</ce:bold> is a professor of Life Sciences in Northwest University, China. She received her PhD degree in Life Sciences from this university in 2000. The main research interests of Professor Bu are plant biotechnology and resistance physiology.</ce:simple-para>
+            </ce:biography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

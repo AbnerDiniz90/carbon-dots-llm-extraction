@@ -1,0 +1,88 @@
+{
+  "input_source": "artigo15.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "Amine-functionalized fluorescent carbon dots with positive charge",
+        "iupac_name": null,
+        "alternative_names": "[MISSING]"
+      },
+      "synthesis": {
+        "method": {
+          "type": "citrate reduction",
+          "conditions": "200°C for 5h in a Teflon-lined stainless steel autoclave (25mL)",
+          "catalysts": null
+        },
+        "precursors": {
+          "source": [
+            "citric acid (1.0g)"
+          ],
+          "dopants": [
+            "ethylenediamine (335μL)"
+          ]
+        },
+        "post_treatment": [
+          "Natural cooling to room temperature",
+          "Dialysis against ultrapure water for 24 hours",
+          "Lyophilization",
+          "Redispersion in ultrapure water"
+        ]
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": "[MISSING]",
+            "reference_material": null
+          },
+          "excitation_max": "337 nm",
+          "emission_max": "438 nm",
+          "fluorescence_lifetime": "[MISSING]"
+        },
+        "structural": {
+          "size": {
+            "avg": "diameter 2.7 nm",
+            "distribution": "[MISSING]"
+          },
+          "morphology": "uniformly dispersed",
+          "crystallinity": "[MISSING]"
+        },
+        "chemical": {
+          "surface_groups": [
+            "C-OH",
+            "C=O",
+            "CH2",
+            "N-H",
+            "Amine groups"
+          ],
+          "elemental_composition": {
+            "C": "[MISSING]",
+            "N": "[MISSING]",
+            "O": "[MISSING]"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "Ratiometric Optical Sensing (H2O2)",
+          "performance": "Linear range: 0-20 µM and 40-200 µM; Limit of Detection: 0.86 µM",
+          "comparative_advantage": "Dual-signal response provides self-calibration and better anti-interference compared to single-signal assays"
+        },
+        {
+          "domain": "Ratiometric detection (Glucose)",
+          "performance": "Linear range: 0-60 µM and 80-1000 µM; Limit of Detection: 0.96 µM",
+          "comparative_advantage": "Successful detection in human serum with recoveries of 95-112%"
+        },
+        {
+          "domain": "Glucose oxidase (GOx) activity assay",
+          "performance": "Linear range: 1-10 U L-1 and 20-100 U L-1; Limit of Detection: 0.98 U L-1",
+          "comparative_advantage": "The experimental results indicate that the CDs/AgNPs system is qualified to ratiometrically detect GOx activity."
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Bad",
+    "score": 2.0,
+    "expert_comment": "Omission Error: The field 'carbon_dots -> general_info -> alternative_names' contained '['CDs', 'Amine-functionalized CD', 'Fluorescent carbon dots']' in the source text, but it was extracted as null/missing. | Contextual Error: The correct text for carbon_dots -> synthesis -> precursors -> dopants was 'null', but the model wrongly classified the 'ethylenediamine (335μL)' a precursor as a dopant. | Contextual Error: The correct text for carbon_dots -> synthesis -> method -> type was 'citrate reduction', but the model wrongly extracted 'hydrothermal'."
+  }
+}

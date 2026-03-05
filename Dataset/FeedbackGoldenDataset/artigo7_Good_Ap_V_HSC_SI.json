@@ -1,0 +1,81 @@
+{
+  "input_source": "artigo7.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "Amino-functionalized graphene quantum dots",
+        "iupac_name": null,
+        "alternative_names": [
+          "af-GQDs"
+        ]
+      },
+      "synthesis": {
+        "method": {
+          "type": "pyrolysis",
+          "conditions": "heated at 175°C for 30 min in oil bath until colorless solid changed to orange liquid",
+          "catalysts": null
+        },
+        "precursors": {
+          "source": [
+            "citric acid 0.5g",
+            "aqueous ammonia 7mL"
+          ],
+          "dopants": [
+            "amino-functionalized"
+          ]
+        },
+        "post_treatment": [
+          "Ultrasonication with ammonia",
+          "dialysis (300 D)"
+        ]
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": null,
+            "reference_material": null
+          },
+          "excitation_max": "345 nm",
+          "emission_max": "443 nm",
+          "fluorescence_lifetime": null
+        },
+        "structural": {
+          "size": {
+            "avg": "5 nm",
+            "distribution": "[MISSING]"
+          },
+          "morphology": "well dispersed and reasonably uniform",
+          "crystallinity": "[MISSING]"
+        },
+        "chemical": {
+          "surface_groups": [
+            "C=O",
+            "C-O"
+          ],
+          "elemental_composition": {
+            "C": "[MISSING]",
+            "N": "[MISSING]",
+            "O": "[MISSING]"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "determination of copper ions",
+          "performance": "Af-GQDs exhibited strong fluorescence intensity and it could be effectively quenched by the latter due to photo-induced electron transfer.",
+          "comparative_advantage": "a great promise in the development of a sensitive fluorescence sensor for the determination of copper ions."
+        },
+        {
+          "domain": "Cellular Analysis",
+          "performance": "Analysis of Cu2+ uptake in HeLa and HeLa/DDP cells",
+          "comparative_advantage": "Capable of monitoring Cu2+ into tumor cells"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Good",
+    "score": 5.0,
+    "expert_comment": "Applicability Verified: The extracted aplication domains align perfectly with those mentioned in the source text. The model accurately identified, listed and described all relevant application areas for the Carbon Dots used in the article. | High Scientific Context: Scientific data relative to Carbon Dots was extracted with high precision. The model successfully preserved scientific context (e.g., general information and synthesis) and handled nomenclature and experimental details as requested in the 'Data Quality' section. | Structural Integrity: The output matches the required JSON schema perfectly. Complex nested arrays (such as precursors/dopants and application domains) were populated correctly without truncating list items or breaking the syntax."
+  }
+}

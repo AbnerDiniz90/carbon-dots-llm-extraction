@@ -1,0 +1,2076 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1566119917304500</prism:url><dc:identifier>doi:10.1016/j.orgel.2017.09.012</dc:identifier><eid>1-s2.0-S1566119917304500</eid><prism:doi>10.1016/j.orgel.2017.09.012</prism:doi><pii>S1566-1199(17)30450-0</pii><dc:title>Flexible frequency selective passive circuits based on memristor and capacitor </dc:title><prism:publicationName>Organic Electronics</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>15661199</prism:issn><prism:volume>51</prism:volume><prism:startingPage>119</prism:startingPage><prism:endingPage>127</prism:endingPage><prism:pageRange>119-127</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2017-12-31</prism:coverDate><prism:coverDisplayDate>December 2017</prism:coverDisplayDate><prism:copyright>© 2017 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Ali, Shawkat</dc:creator><dc:creator>Hassan, Arshad</dc:creator><dc:creator>Hassan, Gul</dc:creator><dc:creator>Bae, Jinho</dc:creator><dc:creator>Lee, Chong Hyun</dc:creator><dc:description>
+                  In analog electronic communication and signal processing applications, programmable analog filters are desirable to reduce the hardware requirement. Memristor is two states configurable nonvolatile resistor, which is small size, low power, and fast switching device. To achieve tunable cut-off frequency and bandwidth, flexible memristor-capacitor (MC) circuits are proposed, which can be applied as low pass, high pass, and band pass filters. They can be fabricated on a flexible polyethylene terephthalate (PET) substrate through electrohydrodynamic (EHD) technique. In the proposed filters, two cut-off frequencies are selected through switching two resistive states of the memristor either in high resistance state (HRS) or low resistance state (LRS), whereas the capacitor has a fixed value. The memristor is composed of graphene quantum dots (GQDs)/poly 4-vinlyphenol (PVP) composite to achieve highly stable and linear behavior and the dielectric layer of capacitor is consisted of graphene/PVP composite. The fabricated MC filters are electrically and mechanically characterized, which are matched quite well with theoretical results. From these results, it can be a good basis for tunable analog filters in wearable electronics.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Memristor-capacitor filters</dcterms:subject><dcterms:subject>Inkjet printing</dcterms:subject><dcterms:subject>Flexible circuits</dcterms:subject><dcterms:subject>Programmable filters</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1566119917304500" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1566119917304500" rel="scidir"/></coredata><objects><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="151" size="24183">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="205" height="164" size="18467">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="57" size="12516">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="104" size="18850">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="216" height="164" size="17834">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="195" height="164" size="17753">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="167" height="164" size="27783">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="90" size="13534">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="160" size="18544">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="127" height="163" size="13912">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="290" height="200" size="50158">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="624" height="500" size="85953">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="557" height="146" size="34705">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="758" height="360" size="89030">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="669" height="507" size="86907">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="624" height="525" size="86700">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="557" height="546" size="126143">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="602" height="248" size="56181">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="758" height="552" size="121156">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="602" height="774" size="109916">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1287" height="886" size="258668">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2762" height="2212" size="409655">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2469" height="647" size="182696">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3354" height="1592" size="617303">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2961" height="2246" size="759353">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2764" height="2324" size="795884">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2469" height="2419" size="886594">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2665" height="1097" size="269348">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3354" height="2443" size="636714">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr8_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2665" height="3426" size="591198">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-gr9_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="94" height="39" size="599">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si10" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="297" height="49" size="1340">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-si10.gif?httpAccept=%2A%2F%2A</object><object ref="si11" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="7" height="5" size="109">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-si11.gif?httpAccept=%2A%2F%2A</object><object ref="si12" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="69" height="15" size="309">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-si12.gif?httpAccept=%2A%2F%2A</object><object ref="si13" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="74" height="15" size="351">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-si13.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="74" height="32" size="396">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="8" height="8" size="121">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="25" height="12" size="182">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="19" height="12" size="168">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="17" height="10" size="161">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-si6.gif?httpAccept=%2A%2F%2A</object><object ref="si7" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="12" height="11" size="135">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-si7.gif?httpAccept=%2A%2F%2A</object><object ref="si8" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="14" height="14" size="149">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-si8.gif?httpAccept=%2A%2F%2A</object><object ref="si9" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="94" height="36" size="545">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304500-si9.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>85029432901</scopus-id><scopus-eid>2-s2.0-85029432901</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85029432901" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272178</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291802</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Organic Electronics</xocs:srctitle>
+      <xocs:normalized-srctitle>ORGANICELECTRONICS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170909">2017-09-09</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170909">2017-09-09</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170922">2017-09-22</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170922">2017-09-22</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2018-11-24T00:05:14</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1566119917304500</xocs:eid>
+      <xocs:pii-formatted>S1566-1199(17)30450-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1566119917304500</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.orgel.2017.09.012</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.5</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1566119917X00104</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20181124">2018-11-24T00:14:25.871123Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20171201</xocs:date-search-begin>
+      <xocs:date-search-end>20171231</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1504975063">2017-09-09T16:37:43.04039Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst orcid primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1566-1199</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>15661199</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>51</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>51</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 51</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>22</xocs:sort-order>
+      <xocs:first-fp>119</xocs:first-fp>
+      <xocs:last-lp>127</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>119</xocs:first-page>
+         <xocs:last-page>127</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201712</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>December 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-12-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Research Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>FLEXIBLEFREQUENCYSELECTIVEPASSIVECIRCUITSBASEDMEMRISTORCAPACITOR</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ALI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>The proposed MC filters</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>MC filter circuits</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>2.2.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Fabrication</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>2.2.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Characterizations</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussions</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Experimental results</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Theoretical results of the proposed MC filters</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>SRIPRACHUABWONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>929</xocs:ref-first-fp>
+            <xocs:ref-last-lp>932</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>2010ECTIINTERNATIONALCONFERNCEELECTRICALENGINEERINGELECTRONICSCOMPUTERTELECOMMUNICATIONSINFORMATIONTECHNOLOGY</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>SIMPLERCLOWPASSFILTERCIRCUITFABRICATEDBYUNMODIFIEDDESKTOPINKJETPRINTERECTICON2010</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>CHUA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>507</xocs:ref-first-fp>
+            <xocs:ref-last-lp>519</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>STRUKOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>80</xocs:ref-first-fp>
+            <xocs:ref-last-lp>83</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>WASER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>833</xocs:ref-first-fp>
+            <xocs:ref-last-lp>840</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>ALI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>121</xocs:ref-first-fp>
+            <xocs:ref-last-lp>128</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>BAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>237</xocs:ref-first-fp>
+            <xocs:ref-last-lp>238</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>EMBORAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6151</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6155</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>JO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1297</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1301</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>BAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>120502</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>TIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>088501</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>ALI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>73</xocs:ref-first-fp>
+            <xocs:ref-last-lp>78</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>CASTRO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>205</xocs:ref-first-fp>
+            <xocs:ref-last-lp>212</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>CASTRO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2631</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2636</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>CASTRO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12</xocs:ref-first-fp>
+            <xocs:ref-last-lp>19</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>ALI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1499</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1506</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ALIX2017X119</xocs:refkey3>
+         <xocs:refkey4lp>ALIX2017X119X127</xocs:refkey4lp>
+         <xocs:refkey4ai>ALIX2017X119XS</xocs:refkey4ai>
+         <xocs:refkey5>ALIX2017X119X127XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2019-09-22T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1566-1199(17)30450-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1566119917304500</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1566119917304500</xocs:eid>
+         <xocs:doi>10.1016/j.orgel.2017.09.012</xocs:doi>
+         <xocs:cid>272178</xocs:cid>
+         <xocs:timestamp>2018-11-24T00:14:25.871123Z</xocs:timestamp>
+         <xocs:cover-date-start>2017-12-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/MAIN/application/pdf/d4871bb68565ce92532a40ec4d799b42/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2868055</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>9</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1566119917304500-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/PREVIEW/image/png/86937677af9f21db234f1ed7bcb1895e/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>57779</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/fx1/THUMBNAIL/image/gif/c89985194c41414e40ec860c37592497/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>24183</xocs:filesize>
+               <xocs:pixel-height>151</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr1/THUMBNAIL/image/gif/782682c73fb608f29f356447b48163fd/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18467</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>205</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr2/THUMBNAIL/image/gif/4d344beef8ca89b83191a59ff96a1082/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12516</xocs:filesize>
+               <xocs:pixel-height>57</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr3/THUMBNAIL/image/gif/f84f92705ffdc39bf11dabe412ffca3b/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18850</xocs:filesize>
+               <xocs:pixel-height>104</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr4/THUMBNAIL/image/gif/245c083d66900566c0c4ccf94e84e57b/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17834</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>216</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr5/THUMBNAIL/image/gif/b2dbce794818824212a236f1d305bdef/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17753</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>195</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr6/THUMBNAIL/image/gif/6be01941488dbe152c56080dd2e6be7f/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>27783</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>167</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr7/THUMBNAIL/image/gif/c389f27155c0531686c4cd664dc43c14/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13534</xocs:filesize>
+               <xocs:pixel-height>90</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr8/THUMBNAIL/image/gif/ebddadcbe3e22f8cba5bddcb6c0f37d2/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18544</xocs:filesize>
+               <xocs:pixel-height>160</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr9/THUMBNAIL/image/gif/9751ada36dd9653be9a0b26115dba25c/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13912</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>127</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/fx1/DOWNSAMPLED/image/jpeg/a8e92bdde57188b6e38bcf136fe57938/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>50158</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>290</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr1/DOWNSAMPLED/image/jpeg/70dada7842f686256596fc0c73b3aa0c/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>85953</xocs:filesize>
+               <xocs:pixel-height>500</xocs:pixel-height>
+               <xocs:pixel-width>624</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr2/DOWNSAMPLED/image/jpeg/1793e25ff3e9fcfa67e67214c4fb9488/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34705</xocs:filesize>
+               <xocs:pixel-height>146</xocs:pixel-height>
+               <xocs:pixel-width>557</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr3/DOWNSAMPLED/image/jpeg/7b9a15ea4e4cb6b8ff6bb2c6099f80c3/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>89030</xocs:filesize>
+               <xocs:pixel-height>360</xocs:pixel-height>
+               <xocs:pixel-width>758</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr4/DOWNSAMPLED/image/jpeg/b7e0982d06d1b302a52e7e1d47995b4d/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>86907</xocs:filesize>
+               <xocs:pixel-height>507</xocs:pixel-height>
+               <xocs:pixel-width>669</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr5/DOWNSAMPLED/image/jpeg/58c8c3c7ab36988ecceb190e88c6269d/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>86700</xocs:filesize>
+               <xocs:pixel-height>525</xocs:pixel-height>
+               <xocs:pixel-width>624</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr6/DOWNSAMPLED/image/jpeg/edd3058942be0ce5bde6a76beae41330/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>126143</xocs:filesize>
+               <xocs:pixel-height>546</xocs:pixel-height>
+               <xocs:pixel-width>557</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr7/DOWNSAMPLED/image/jpeg/bda079cc3a12c690cb2adf972a7a844e/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>56181</xocs:filesize>
+               <xocs:pixel-height>248</xocs:pixel-height>
+               <xocs:pixel-width>602</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr8/DOWNSAMPLED/image/jpeg/1457480c296bbc28b4581d45e380eb89/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>121156</xocs:filesize>
+               <xocs:pixel-height>552</xocs:pixel-height>
+               <xocs:pixel-width>758</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr9/DOWNSAMPLED/image/jpeg/7a62061e7d8165f8bf73228a20d076c2/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>109916</xocs:filesize>
+               <xocs:pixel-height>774</xocs:pixel-height>
+               <xocs:pixel-width>602</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/fx1/HIGHRES/image/jpeg/80eddd68617e51e390a7e728679f0fd6/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>258668</xocs:filesize>
+               <xocs:pixel-height>886</xocs:pixel-height>
+               <xocs:pixel-width>1287</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr1/HIGHRES/image/jpeg/53994e22f1a89e29d080f69a807f913e/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>409655</xocs:filesize>
+               <xocs:pixel-height>2212</xocs:pixel-height>
+               <xocs:pixel-width>2762</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr2/HIGHRES/image/jpeg/ad83521d56ba77ff2f1da529ffe1814f/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>182696</xocs:filesize>
+               <xocs:pixel-height>647</xocs:pixel-height>
+               <xocs:pixel-width>2469</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr3/HIGHRES/image/jpeg/472b75c982c76293a762260f99722689/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>617303</xocs:filesize>
+               <xocs:pixel-height>1592</xocs:pixel-height>
+               <xocs:pixel-width>3354</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr4/HIGHRES/image/jpeg/f01267662c58678f09432a3a7650d6e4/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>759353</xocs:filesize>
+               <xocs:pixel-height>2246</xocs:pixel-height>
+               <xocs:pixel-width>2961</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr5/HIGHRES/image/jpeg/50090a446d7debde49d5bf0520413d49/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>795884</xocs:filesize>
+               <xocs:pixel-height>2324</xocs:pixel-height>
+               <xocs:pixel-width>2764</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr6/HIGHRES/image/jpeg/a2de662931ac61b2c7e3f6870d182d66/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>886594</xocs:filesize>
+               <xocs:pixel-height>2419</xocs:pixel-height>
+               <xocs:pixel-width>2469</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr7/HIGHRES/image/jpeg/19c9e0b64cf50f6b42b7fc4a56081b7d/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>269348</xocs:filesize>
+               <xocs:pixel-height>1097</xocs:pixel-height>
+               <xocs:pixel-width>2665</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr8_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr8/HIGHRES/image/jpeg/26524643cc8ccff107fcb12f3d5255b8/gr8_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>636714</xocs:filesize>
+               <xocs:pixel-height>2443</xocs:pixel-height>
+               <xocs:pixel-width>3354</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-gr9_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/gr9/HIGHRES/image/jpeg/9c43cb098e1dffbced738e841bab2cdf/gr9_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>591198</xocs:filesize>
+               <xocs:pixel-height>3426</xocs:pixel-height>
+               <xocs:pixel-width>2665</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/STRIPIN/image/gif/55eff8b64d6b68667cb5c8e2992c1292/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>599</xocs:filesize>
+               <xocs:pixel-height>39</xocs:pixel-height>
+               <xocs:pixel-width>94</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-si10.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/STRIPIN/image/gif/d17f72d73387c5281d7c4860a6aa744e/si10.gif</xocs:ucs-locator>
+               <xocs:file-basename>si10</xocs:file-basename>
+               <xocs:filename>si10.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1340</xocs:filesize>
+               <xocs:pixel-height>49</xocs:pixel-height>
+               <xocs:pixel-width>297</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-si11.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/STRIPIN/image/gif/6097d0e6c4a9c45bb216612c4251b5f5/si11.gif</xocs:ucs-locator>
+               <xocs:file-basename>si11</xocs:file-basename>
+               <xocs:filename>si11.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>109</xocs:filesize>
+               <xocs:pixel-height>5</xocs:pixel-height>
+               <xocs:pixel-width>7</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-si12.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/STRIPIN/image/gif/bcb8e756c923f45b5e3d6fe8e86deade/si12.gif</xocs:ucs-locator>
+               <xocs:file-basename>si12</xocs:file-basename>
+               <xocs:filename>si12.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>309</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>69</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-si13.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/STRIPIN/image/gif/4087bbabdc37edd1cee5de51ecb83855/si13.gif</xocs:ucs-locator>
+               <xocs:file-basename>si13</xocs:file-basename>
+               <xocs:filename>si13.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>351</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>74</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/STRIPIN/image/gif/957b4a9e53f412e5f3945cc50377e987/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>396</xocs:filesize>
+               <xocs:pixel-height>32</xocs:pixel-height>
+               <xocs:pixel-width>74</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/STRIPIN/image/gif/a3bd99c04679571054b4be6723b25880/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>121</xocs:filesize>
+               <xocs:pixel-height>8</xocs:pixel-height>
+               <xocs:pixel-width>8</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/STRIPIN/image/gif/307b7feddc235271ead755eab392a97a/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>182</xocs:filesize>
+               <xocs:pixel-height>12</xocs:pixel-height>
+               <xocs:pixel-width>25</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/STRIPIN/image/gif/1d0b6cece302282f77611b120b5f14b4/si5.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>168</xocs:filesize>
+               <xocs:pixel-height>12</xocs:pixel-height>
+               <xocs:pixel-width>19</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-si6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/STRIPIN/image/gif/1cc02b351d42b44651e1af533b4c3c7c/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>161</xocs:filesize>
+               <xocs:pixel-height>10</xocs:pixel-height>
+               <xocs:pixel-width>17</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-si7.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/STRIPIN/image/gif/19cf030e8f2ddf1f2193684f9d0c0f06/si7.gif</xocs:ucs-locator>
+               <xocs:file-basename>si7</xocs:file-basename>
+               <xocs:filename>si7.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>135</xocs:filesize>
+               <xocs:pixel-height>11</xocs:pixel-height>
+               <xocs:pixel-width>12</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-si8.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/STRIPIN/image/gif/fe6b578ab257628cca1c9ad03f308136/si8.gif</xocs:ucs-locator>
+               <xocs:file-basename>si8</xocs:file-basename>
+               <xocs:filename>si8.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>149</xocs:filesize>
+               <xocs:pixel-height>14</xocs:pixel-height>
+               <xocs:pixel-width>14</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304500-si9.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304500/STRIPIN/image/gif/53c123404115a716fbc4830a59343a83/si9.gif</xocs:ucs-locator>
+               <xocs:file-basename>si9</xocs:file-basename>
+               <xocs:filename>si9.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>545</xocs:filesize>
+               <xocs:pixel-height>36</xocs:pixel-height>
+               <xocs:pixel-width>94</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>ORGELE</jid>
+            <aid>4293</aid>
+            <ce:pii>S1566-1199(17)30450-0</ce:pii>
+            <ce:doi>10.1016/j.orgel.2017.09.012</ce:doi>
+            <ce:copyright type="full-transfer" year="2017">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Schematic diagrams and layout diagrams for MC filters, (a) low pass MC filter, (b) high pass MC filter, and (c) band pass MC filter.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0015">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1566119917304500/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">Different modes of the EHD as a function of applied voltage, (a) Dripping mode, (b) Unstable cone jet mode, (c) Stable cone jet mode, and (d) Multi jet mode.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0020">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1566119917304500/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Fabrication steps of the filter's components on a single substrate, (a) ITO coated PET substrate, (b) Deposition of sandwich layers of memristor and capacitor on masked ITO coated PET substrate, (c) Curing the sample, (d) Deposition of the top electrodes and unmasking, (e) Fabricated capacitor and memristor, (f) Proposed device with contact pads, (g) SEM image of memristor active layer (GQDs/PVP), and (h) cross-sectional image of memristor showing three layers of Ag/Active layer (GQDs/PVP)/ITO.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1566119917304500/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Electrical characteristics of (a) memristor I-V curve showing set/reset on ±4 V, the inset show absolute I-V curve on semi-log scale, (b) Endurance test of the memristor for 100 cycles, (c) Capacitance vs. frequency analysis of the capacitor, and (d) Capacitance Vs voltage analysis of the capacitor.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0030">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1566119917304500/gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">Measured results of MC filters. (a) Low pass filter response in HRS and LRS. (b) High pass filter response in HRS and LRS. (c) Band pass filter response when M1 in LRS and M<ce:inf loc="post">2</ce:inf> in HRS, and M<ce:inf loc="post">1</ce:inf> in HRS and M<ce:inf loc="post">2</ce:inf> in LRS. (d) Band pass filter response when M<ce:inf loc="post">1</ce:inf> &amp; M<ce:inf loc="post">2</ce:inf> in HRS and M<ce:inf loc="post">1</ce:inf> &amp; M<ce:inf loc="post">2</ce:inf> in LRS.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0035">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1566119917304500/gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">Experimental setup for bending test of the proposed device under different radii such as (a) 10 mm (b) 16 mm (c) 14 mm (d) 12 mm, and (f) 8 mm. The bending results of the device over different diameters by using metallic rods having diameter from 20 mm down to 8 mm for (g) memristor and (h) capacitance.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0040">Fig. 6</ce:alt-text>
+               <ce:link locator="gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1566119917304500/gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="fspara0040" view="all">Effect of bending on (a) HPF and (b) LPF.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0045">Fig. 7</ce:alt-text>
+               <ce:link locator="gr7" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1566119917304500/gr7"/>
+            </ce:figure>
+            <ce:figure id="fig8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="fspara0045" view="all">Simulation results of frequency selective MC filters (a) low pass MC filter with dual cut-off frequencies <ce:italic>f</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>c1</ce:italic>
+                     </ce:inf> and <ce:italic>f</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>c2</ce:italic>
+                     </ce:inf>, (b) High pass MC filter with dual cut-off <ce:italic>f</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>c1</ce:italic>
+                     </ce:inf> and <ce:italic>f</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>c2</ce:italic>
+                     </ce:inf>, (c) MC tunable bandwidth filter, and (d) MC band selective filter.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0050">Fig. 8</ce:alt-text>
+               <ce:link locator="gr8" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1566119917304500/gr8"/>
+            </ce:figure>
+            <ce:figure id="fig9">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="fspara0050" view="all">Simulation results showing the effect of bending on (a) HPF and (b) LPF. Here, the cutoff frequency is shifted toward higher frequency due to bending.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0055">Fig. 9</ce:alt-text>
+               <ce:link locator="gr9" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1566119917304500/gr9"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Flexible frequency selective passive circuits based on memristor and capacitor</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S1566119917304500-e17e5975f1b721c8359915bdc604fab0">
+                  <ce:given-name>Shawkat</ce:given-name>
+                  <ce:surname>Ali</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff2" id="crosref0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au2" author-id="S1566119917304500-4352eaf1aa2ba16920fb37b811e1e17c">
+                  <ce:given-name>Arshad</ce:given-name>
+                  <ce:surname>Hassan</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au3" author-id="S1566119917304500-c6e3d8d521ca81135bb74d63999f4a96">
+                  <ce:given-name>Gul</ce:given-name>
+                  <ce:surname>Hassan</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0025">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au4" orcid="0000-0002-5298-0122" author-id="S1566119917304500-7faca2e487a859a5385998ba820fee18">
+                  <ce:given-name>Jinho</ce:given-name>
+                  <ce:surname>Bae</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0030">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="crosref0035">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au5" author-id="S1566119917304500-a39f2781c873d55db3ef81d9e1c3f890">
+                  <ce:given-name>Chong Hyun</ce:given-name>
+                  <ce:surname>Lee</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0040">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S1566119917304500-c9a0ea6b706e7dd55c95f5750b08e878">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Ocean System Engineering, Jeju National University, 102 Jejudaehakro, Jeju 63243, South Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Ocean System Engineering</sa:organization>
+                     <sa:organization>Jeju National University</sa:organization>
+                     <sa:address-line>102 Jejudaehakro</sa:address-line>
+                     <sa:city>Jeju</sa:city>
+                     <sa:postal-code>63243</sa:postal-code>
+                     <sa:country>South Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S1566119917304500-b9b3e03d8c0cd9c9d0599ff7946e7e20">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Electrical Engineering, National University of Computer and Emerging Sciences FAST, H 11/4, Islamabad 44000, Pakistan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Electrical Engineering</sa:organization>
+                     <sa:organization>National University of Computer and Emerging Sciences FAST</sa:organization>
+                     <sa:address-line>H 11/4</sa:address-line>
+                     <sa:city>Islamabad</sa:city>
+                     <sa:postal-code>44000</sa:postal-code>
+                     <sa:country>Pakistan</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="19" month="5" year="2017"/>
+            <ce:date-revised day="6" month="9" year="2017"/>
+            <ce:date-accepted day="8" month="9" year="2017"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">In analog electronic communication and signal processing applications, programmable analog filters are desirable to reduce the hardware requirement. Memristor is two states configurable nonvolatile resistor, which is small size, low power, and fast switching device. To achieve tunable cut-off frequency and bandwidth, flexible memristor-capacitor (MC) circuits are proposed, which can be applied as low pass, high pass, and band pass filters. They can be fabricated on a flexible polyethylene terephthalate (PET) substrate through electrohydrodynamic (EHD) technique. In the proposed filters, two cut-off frequencies are selected through switching two resistive states of the memristor either in high resistance state (HRS) or low resistance state (LRS), whereas the capacitor has a fixed value. The memristor is composed of graphene quantum dots (GQDs)/poly 4-vinlyphenol (PVP) composite to achieve highly stable and linear behavior and the dielectric layer of capacitor is consisted of graphene/PVP composite. The fabricated MC filters are electrically and mechanically characterized, which are matched quite well with theoretical results. From these results, it can be a good basis for tunable analog filters in wearable electronics.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract class="graphical" id="abs0015" view="all">
+               <ce:section-title id="sectitle0015">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="abssec0015" view="all">
+                  <ce:simple-para id="abspara0015" view="all">
+                     <ce:display>
+                        <ce:figure id="undfig1">
+                           <ce:alt-text role="short" id="alttext0010">Image 1</ce:alt-text>
+                           <ce:link locator="fx1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1566119917304500/fx1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0025">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Memristor-capacitor filters</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Inkjet printing</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Flexible circuits</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Programmable filters</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0030">Introduction</ce:section-title>
+                  <ce:para id="p0030" view="all">In modern electronic circuits, the essential demands of a circuit are flexible, small size, low power, and programmable. Among analog circuits, analog filters are the basic building blocks of electronic systems <ce:cross-ref refid="bib1" id="crosref0045">[1]</ce:cross-ref>. To overcome the circuit constraints of size, power, and configurability, a memristor is the best candidate for resistor capacitor RC filters. To memorize the state in memristor, if charge flows in one direction, the resistance of memristor device increases, and if charge flows in the opposite direction, resistance decreases which makes memristor a charge-controlled device that can switch between two resistive levels in analog way called high resistance state (HRS) and low resistance state (LRS) <ce:cross-refs refid="bib2 bib3" id="crosrefs0010">[2,3]</ce:cross-refs>. Once it is switched in either state, it behaves like a linear resistor under its threshold voltage levels. This resistive switching feature of the memristor can apply a non-volatile memory device as well as the replacement of a transistor. The memristor behavior was investigated mathematically in 1971 by Leon O. Chua <ce:cross-ref refid="bib2" id="crosref0050">[2]</ce:cross-ref>, in 2008, the HP labs fabricate the first memristor and they physically demonstrate the properties of this special circuit component <ce:cross-ref refid="bib3" id="crosref0055">[3]</ce:cross-ref>. The resistive switching mechanism of a memristor is based on thermal, electrical, and ion-migration-induced switching <ce:cross-ref refid="bib4" id="crosref0060">[4]</ce:cross-ref>. Due to a simple structure and small size, memristor is being researched in many applications including resistive memory ReRAM, neuromorphic, logic circuits, and analog circuits <ce:cross-refs refid="bib5 bib6 bib7 bib8" id="crosrefs0015">[5–8]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0035" view="all">Based on the memristor, various applications such as analog filters, oscillators, and chaotic circuits have been investigated by many researchers <ce:cross-refs refid="bib9 bib10" id="crosrefs0020">[9,10]</ce:cross-refs>. To fulfill the demands of smart circuits, the analog filter should have small size, dissipate low power, and easily programmable. The memristor has a small nanometer size, nonvolatile memory, and works at extreme low currents <ce:cross-ref refid="bib11" id="crosref0065">[11]</ce:cross-ref>. Furthermore, due to the memristor switching time is in sub-nanosecond range, all these advantages of a memristor makes it potential candidate for the configurable analog filter applications. Several researchers have been applied memristor in filtering applications, but their work is mostly based on simulation <ce:cross-refs refid="bib9 bib10" id="crosrefs0025">[9,10]</ce:cross-refs>. In simulation, memristor and capacitor are represented by their mathematical models which are stable against endurance cycles. However, in real scenario, memristor shows drift in LRS and HRS against endurance cycles, hence, the performance is not stable. To overcome this problem, a stable memristor and capacitor with a simple fabrication process are essential for printed electronics applications. In the literature <ce:cross-ref refid="bib12" id="crosref0070">[12]</ce:cross-ref>, all inkjet printable first and second order filters have been proposed, which were consisted of resistor, inductor, and transistor. In filters design, the inkjet printed organic thin-film transistors (OTFTs) were applied <ce:cross-refs refid="bib13 bib14" id="crosrefs0030">[13,14]</ce:cross-refs> to adjust the cutoff frequency of filters ranging from 82 Hz to 740 Hz. In the proposed filters, memristor is utilized instead of transistors to increase the tuning capability of the printed device.</ce:para>
+                  <ce:para id="p0040" view="all">In this paper, we propose stable printed memristor-capacitor (MC) circuits for frequency selective low pass, high pass, and band pass filters. The cut-off frequencies are tuned by switching the memristor in either HRS or LRS state while the capacitor is keeping on a fixed value. The proposed MC filters can tune the cutoff frequency of filters ranging from several hundred kHz to several MHz e.g., LPF can adjust the frequency from 380 kHz to 4 MHz. All MC filters utilize graphene/PVP for dielectric of capacitors and GQDs/PVP for the active layer of memristor. Both components of MC filters are fabricated on the flexible PET substrate through EHD technique. These proposed filters are electrically analyzed for their frequency and phase responses by applying variable frequencies at the input, and their responses are recorded for both HRS and LRS of the memristor. The proposed MC filters are also mechanically characterized for wearable electronics application.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0035">The proposed MC filters</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sectitle0040">MC filter circuits</ce:section-title>
+                     <ce:para id="p0045" view="all">In this paper, MC low pass, high pass, and band pass configurations are designed and implemented. The low pass filter schematic and layout diagram is shown in <ce:cross-ref refid="fig1" id="crosref0075">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>a, where, input signal is provided to memristor and output is taken across the capacitor. By switching two memristor states of high resistance state (HRS) and low resistance state (LRS), a cut-off frequency can be selected, whereas the value of the capacitance is fixed. When the memristor is in LRS state, it makes a combination with capacitor and provides a cut-off frequency based on the current state resistance and capacitance. As the memristor is switched to its HRS state while the capacitor is the same, the cut-off frequency changes to the lower value as the RC combination is changed. In the same way, a high pass filter is designed based on MC components as shown in <ce:cross-ref refid="fig1" id="crosref0080">Fig. 1</ce:cross-ref>b, where, the input is provided to capacitor and output is taken across the memristor. In this configuration, the memristor has a role to select one in two different cut-off frequencies by switching in both HRS and LRS. Band pass filter can be designed by combining two filters in cascade as shown in <ce:cross-ref refid="fig1" id="crosref0085">Fig. 1</ce:cross-ref>c, where, M<ce:inf loc="post">1</ce:inf> and C<ce:inf loc="post">1</ce:inf> are making high pass MC filter, and M<ce:inf loc="post">2</ce:inf> and C<ce:inf loc="post">2</ce:inf> are making low pass MC filter. The cut-off frequencies of the band pass filter also can be controlled by switching the memristors M<ce:inf loc="post">1</ce:inf> and M<ce:inf loc="post">2</ce:inf> in their either LRS or HRS resistive states. Here, C<ce:inf loc="post">1</ce:inf> is not equal to C<ce:inf loc="post">2</ce:inf> but memristors are the same.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" role="materials-methods" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sectitle0045">Materials and methods</ce:section-title>
+                     <ce:para id="p0050" view="all">Graphene quantum dots (purchased from sigma Aldrich) 10 mg (2–4 nm particle size) is dispersed in 1 ml ethanol, stirred on magnetic stirrer for 2 h, and it took bath sonication for 30 min. Poly(4-vinylphenol) (PVP) polymer was dispersed 10% by weight in ethanol, and stirred for 1 h on magnetic stirrer. Both inks were prepared separately, and then mixed with different ratios to obtain the optimum switching of the memristive device. The best ratio experimentally observed of GQDs and PVP was 1:0.5. Ink for the capacitor dielectric layer was prepared as: the graphene platelets (&lt;4 layers and surface area &gt;750 m<ce:sup loc="post">2</ce:sup>/g) of 0.84 mg and PVP of 0.4 g, purchased from cheap tube and sigma Aldrich, and were dispersed in NMP (4 ml) solvent by bath sonication for 30 min at room temperature. The supernatant containing in PVP/graphene was collected by centrifugation at 3000 rpm for 20 min. Silver nanoparticle (ANPs) ink for the electrodes was prepared by diluting the Ag nanopaste (PARU Corp.) by adding ethylene glycol as solvent in a 50% concentration by weight. The solution was stirred for 15 min followed by bath sonication for further 15 min.</ce:para>
+                     <ce:section id="sec2.2.1" view="all">
+                        <ce:label>2.2.1</ce:label>
+                        <ce:section-title id="sectitle0050">Fabrication</ce:section-title>
+                        <ce:para id="p0055" view="all">The setting parameters of EHD system were tuned for each of the materials by adjusting applied voltage, ink flow rate, and stand-off distance. Initially, flow rate and applied voltage values were kept 50 μl/h and 0 V, and then increased gradually to observe a stable con jet mode. In the case of graphene/PVP dielectric layer deposition, ink flow rate was 280 μl/h, and the applied voltage was varied from 0 kV to 6.1 kV. By varying the voltage, different spray modes were observed including dripping mode, unstable con jet mode, stable cone jet, and multi jet mode as shown in <ce:cross-ref refid="fig2" id="crosref0090">Fig. 2</ce:cross-ref>
+                           <ce:float-anchor refid="fig2"/>(a–d) respectively. To set up parameters, the same procedure was followed for the GQDs/PVP for memristor active layer and silver for electrodes. Details about the EHD fabrication technique can be found in our previous published work <ce:cross-refs refid="bib5 bib15" id="crosrefs0035">[5,15]</ce:cross-refs>. Prior to EHD fabrication for the devices capacitor and memristor, the PET substrate was rinsed with ethanol and then deionized water for 5 min each, and then dried to remove the contamination from the commercialized PET. After confirmation of the EHD stable cone jet, the ITO coated substrate was masked as shown in <ce:cross-ref refid="fig3" id="crosref0095">Fig. 3</ce:cross-ref>
+                           <ce:float-anchor refid="fig3"/> and placed for the fabrication of active layer of memristor and dielectric layer of capacitor. The purpose of the substrate masking is to avoid unwanted material deposition on the substrate. The deposited both layers were deposited and cured at 130 °C for 1h. To deposit the top electrodes of the devices, mask according to the plate area of the capacitor (with 1.64 mm diameter) was placed on the capacitor dielectric layer and silver material was deposited to make the top plate of capacitor. The top electrode of the memristor was deposited by masking and then depositing the silver material through EHD system as the fabrication steps shown in <ce:cross-ref refid="fig3" id="crosref0100">Fig. 3</ce:cross-ref>a-d. All these fabrication steps were performed at ambient conditions. After finishing these steps, the devices were again cured at 100 °C for 30 min and the fabricated MC components are shown in <ce:cross-ref refid="fig3" id="crosref0105">Fig. 3</ce:cross-ref>e. The contact pads are attached with the device as shown in <ce:cross-ref refid="fig3" id="crosref0110">Fig. 3</ce:cross-ref>f.</ce:para>
+                     </ce:section>
+                     <ce:section id="sec2.2.2" view="all">
+                        <ce:label>2.2.2</ce:label>
+                        <ce:section-title id="sectitle0055">Characterizations</ce:section-title>
+                        <ce:para id="p0060" view="all">The surface morphology of the MC filter components were analyzed using Scanning Electron Microscope (SEM) images as shown in <ce:cross-ref refid="fig3" id="crosref0115">Fig. 3</ce:cross-ref>g, which shows smooth and uniform surface on the circuit elements. For the memristor device, its cross-sectional SEM analysis was also carried out by using Jeol JSM-7600F. Here, we cut the device in cross-section and took its SEM image as shown in <ce:cross-ref refid="fig3" id="crosref0120">Fig. 3</ce:cross-ref>h. In the image, three smooth layers of Ag/active layer (GQDs/PVP)/ITO are clearly visible. To electrical characterize MC filters, we have used Agilent impedance analyzer 4395A (100 kHz–500 MHz) and Agilent semiconductor analyzer B5100. To study the mechanical characteristics of the proposed MC filter, we mechanically bended the device on different diameters. For this experiment, the flexible device was wrapped around metallic rods having diameter from 20 mm down to 4 mm. The experimental setup for bending test is shown in <ce:cross-ref refid="fig6" id="crosref0125">Fig. 6</ce:cross-ref>(a–f). The device is placed on metallic rods of different radii for bending test. The electrical characterization has been recorded through Agilent impedance analyzer. All the measurements have been carried out at ambient conditions.</ce:para>
+                     </ce:section>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0060">Results and discussions</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sectitle0065">Experimental results</ce:section-title>
+                     <ce:para id="p0065" view="all">The measured current of GQDs/PVP based memristor against the sweeping voltage is shown in <ce:cross-ref refid="fig4" id="crosref0130">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/>a. The memristor shows switching behavior at ±4 V and the maximum current approaches to 133 mA. The memristor switches from LRS to HRS at −4 V and vice versa at 4 V. The measured HRS and LRS of the memristor are 400 kΩ and 300 Ω respectively. The fabricated memristor has stable behavior under endurance test as shown in <ce:cross-ref refid="fig4" id="crosref0135">Fig. 4</ce:cross-ref>b. The average HRS and LRS value remains stable to 400 kKΩ and 300 Ω in HRS and LRS respectively against 100 endurance cycles. The response of the capacitor against frequency sweep was measured using impedance analyzer, which shows that the capacitance of the printed G/PVP based capacitor decreases with the increase on frequency. The capacitance changes from 127 pF to 90 pF under frequency sweep up to 10.1 MHz as in <ce:cross-ref refid="fig4" id="crosref0140">Fig. 4</ce:cross-ref>c. However, when we observed the capacitance at particular frequency 5 MHz the capacitor shows very stable behavior under sweep voltage from −3 V to 3 V with average 100 pF as shown in <ce:cross-ref refid="fig4" id="crosref0145">Fig. 4</ce:cross-ref>d. The responses of low pass, high pass, and band pass MC filters were measured as shown in <ce:cross-ref refid="fig5" id="crosref0150">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/>(a–c)<ce:float-anchor refid="fig6"/>, respectively. In LPF response, the cutoff frequency increased from 380 kHz to 4 MHz when memristor switched from HRS to LRS. The cutoff frequency of the HPF was controlled through HRS and LRS of memristor. The lower and upper cutoff frequencies of HPF are 0.4 MHz–5 MHz, respectively as shown in <ce:cross-ref refid="fig5" id="crosref0155">Fig. 5</ce:cross-ref>b. The response of BPF shows that the bandwidth is controlled through memristor states. When the memristor M<ce:inf loc="post">1</ce:inf> is in LRS and M<ce:inf loc="post">2</ce:inf> in HRS the bandwidth of the BPF is wide, while the memristor switches to opposite states the bandwidth reduced as shown in <ce:cross-ref refid="fig5" id="crosref0160">Fig. 5</ce:cross-ref>c. In BPF, we can shift the bandwidth by using the same state of memristors in HPF and LPF stages. In HRS states of M<ce:inf loc="post">1</ce:inf> and M<ce:inf loc="post">2</ce:inf> memristors, the bandwidth of the BPF is shifted to lower center frequency 0.4 MHz as shown in <ce:cross-ref refid="fig5" id="crosref0165">Fig. 5</ce:cross-ref>d, while it shifted to 5 MHz when memristors are in LRS. Therefore, BPF can select either band depending upon the application requirement.</ce:para>
+                     <ce:para id="p0070" view="all">From the bending experimental results shown in <ce:cross-ref refid="fig6" id="crosref0170">Fig. 6</ce:cross-ref>g, the memristor showed normal characteristics under bending down to 8 mm diameter because both states HRS and LRS did not changed, significantly. Here, the HRS and LRS of the memristor changed from 4 kΩ to 3.525 kΩ and 300 Ω–150 Ω, respectively, under 20 mm bending diameter. However, it can be seen that the resistance of device increased under 8 mm diameter, because the silver electrodes broke down due to high mechanical stress. The capacitor was also characterized for bending test, and it showed very less changed under bending. The capacitor value did not change under bending up to 6 mm. However, when it was bent beyond 6 mm, its value is changed as shown in <ce:cross-ref refid="fig6" id="crosref0175">Fig. 6</ce:cross-ref>h. Under 20 mm bending diameter, it exhibits only 2% change in its capacitance as shown in zoomed image of <ce:cross-ref refid="fig6" id="crosref0180">Fig. 6</ce:cross-ref>h. By the bending effects on 20 mm diameter, the HP and LP MC filter devices responses are varied as shown in <ce:cross-ref refid="fig7" id="crosref0185">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fig7"/>a and b, respectively, but the proposed device is not changed, significantly.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sectitle0070">Theoretical results of the proposed MC filters</ce:section-title>
+                     <ce:para id="p0075" view="all">In this section, three types of MC filters, low pass, high pass, and band pass MC filters are theoretically analyzed using Matlab R2015a. In the theoretical analysis, the cut-off frequency is controlled through the resistive state of the memristor (HRS or LRS). Here, the transfer function and its cutoff frequency of low pass filter is given as following equations:<ce:display>
+                           <ce:formula id="fd1">
+                              <ce:label>(1)</ce:label>
+                              <mml:math display="block" altimg="si1.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>V</mml:mi>
+                                             <mml:mrow>
+                                                <mml:mi>o</mml:mi>
+                                                <mml:mi>u</mml:mi>
+                                                <mml:mi>t</mml:mi>
+                                                <mml:mrow>
+                                                   <mml:mo>(</mml:mo>
+                                                   <mml:mi>s</mml:mi>
+                                                   <mml:mo>)</mml:mo>
+                                                </mml:mrow>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>V</mml:mi>
+                                             <mml:mrow>
+                                                <mml:mi>i</mml:mi>
+                                                <mml:mi>n</mml:mi>
+                                                <mml:mrow>
+                                                   <mml:mo>(</mml:mo>
+                                                   <mml:mi>s</mml:mi>
+                                                   <mml:mo>)</mml:mo>
+                                                </mml:mrow>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mfrac>
+                                             <mml:mn>1</mml:mn>
+                                             <mml:mrow>
+                                                <mml:mi>M</mml:mi>
+                                                <mml:mi>C</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mfrac>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                          <mml:mo>+</mml:mo>
+                                          <mml:mfrac>
+                                             <mml:mn>1</mml:mn>
+                                             <mml:mrow>
+                                                <mml:mi>M</mml:mi>
+                                                <mml:mi>C</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mfrac>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                        <ce:display>
+                           <ce:formula id="fd2">
+                              <ce:label>(2)</ce:label>
+                              <mml:math display="block" altimg="si2.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mi>f</mml:mi>
+                                       <mml:mi>c</mml:mi>
+                                    </mml:msub>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mn>1</mml:mn>
+                                       <mml:mrow>
+                                          <mml:mn>2</mml:mn>
+                                          <mml:mi>π</mml:mi>
+                                          <mml:mi>M</mml:mi>
+                                          <mml:mi>C</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <mml:math altimg="si3.gif" overflow="scroll">
+                           <mml:mi>s</mml:mi>
+                        </mml:math> is complex input frequency, <mml:math altimg="si4.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>V</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mi>o</mml:mi>
+                                    <mml:mi>u</mml:mi>
+                                    <mml:mi>t</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                              <mml:mspace width="0.25em"/>
+                           </mml:mrow>
+                        </mml:math> is output voltage, <mml:math altimg="si5.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>V</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mi>i</mml:mi>
+                                    <mml:mi>n</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> is input voltage, <mml:math altimg="si6.gif" overflow="scroll">
+                           <mml:mi>M</mml:mi>
+                        </mml:math> is the memristive resistance, <mml:math altimg="si7.gif" overflow="scroll">
+                           <mml:mi>C</mml:mi>
+                        </mml:math> represents capacitance, and <mml:math altimg="si8.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>f</mml:mi>
+                                 <mml:mi>c</mml:mi>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> is cutoff frequency. The memristive resistance can switch its state from HRS to LRS and vice versa. In simulation, we have selected the average values of HRS and LRS states are 4 kΩ and 300 Ω, respectively, and the value of capacitor is fixed.</ce:para>
+                     <ce:para id="p0080" view="all">Since the memristor can be switched in both HRS and LRS states, this effect changes in cut-off frequency of MC filters according to equation <ce:cross-ref refid="fd2" id="crosref0190">(2)</ce:cross-ref>. The cutoff frequency is low when the memristor in HRS state, hence, we can control the cutoff frequency of the MC low pass filter accordingly. <ce:cross-ref refid="fig8" id="crosref0195">Fig. 8</ce:cross-ref>
+                        <ce:float-anchor refid="fig8"/>a shows the magnitude and phase response of the low pass filter, which can be observed that the cutoff frequency is changed from low to high when the memristor switched from HRS to LRS states. Equation <ce:cross-ref refid="fd3" id="crosref0200">(3)</ce:cross-ref> shows the transfer function of the high pass filter. The transfer function is simulated with same HRS and LRS states values as same applied ones in low pass filter. The capacitor of 100 pF is used for high pass. Using these parameters, the response of this equation is shown in <ce:cross-ref refid="fig8" id="crosref0205">Fig. 8</ce:cross-ref>b.<ce:display>
+                           <ce:formula id="fd3">
+                              <ce:label>(3)</ce:label>
+                              <mml:math display="block" altimg="si9.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>V</mml:mi>
+                                             <mml:mrow>
+                                                <mml:mi>o</mml:mi>
+                                                <mml:mi>u</mml:mi>
+                                                <mml:mi>t</mml:mi>
+                                                <mml:mrow>
+                                                   <mml:mo>(</mml:mo>
+                                                   <mml:mi>s</mml:mi>
+                                                   <mml:mo>)</mml:mo>
+                                                </mml:mrow>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>V</mml:mi>
+                                             <mml:mrow>
+                                                <mml:mi>i</mml:mi>
+                                                <mml:mi>n</mml:mi>
+                                                <mml:mrow>
+                                                   <mml:mo>(</mml:mo>
+                                                   <mml:mi>s</mml:mi>
+                                                   <mml:mo>)</mml:mo>
+                                                </mml:mrow>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mi>s</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                          <mml:mo>+</mml:mo>
+                                          <mml:mfrac>
+                                             <mml:mn>1</mml:mn>
+                                             <mml:mrow>
+                                                <mml:mi>M</mml:mi>
+                                                <mml:mi>C</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mfrac>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="p0085" view="all">The transfer function of band pass filter (BPF) design is given in equation <ce:cross-ref refid="fd4" id="crosref0210">(4)</ce:cross-ref>, which can be obtained by cascading a high pass filter (HPF) and a low pass filter (LPF). The memristors used in BPF can switch to either LRS or in HRS, and the HRS and the LRS values are the same that those in case of LPF and HPF, similarly capacitance of 100 pF is used for band pass MC filter design. The magnitude and phase plot of the HPF design is shown in <ce:cross-ref refid="fig8" id="crosref0215">Fig. 8</ce:cross-ref>b, and it can be observed that the frequency band changed with the transition of memristors from HRS to LRS or vice versa.<ce:display>
+                           <ce:formula id="fd4">
+                              <ce:label>(4)</ce:label>
+                              <mml:math display="block" altimg="si10.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>V</mml:mi>
+                                             <mml:mrow>
+                                                <mml:mi>o</mml:mi>
+                                                <mml:mi>u</mml:mi>
+                                                <mml:mi>t</mml:mi>
+                                                <mml:mrow>
+                                                   <mml:mo>(</mml:mo>
+                                                   <mml:mi>s</mml:mi>
+                                                   <mml:mo>)</mml:mo>
+                                                </mml:mrow>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>V</mml:mi>
+                                             <mml:mrow>
+                                                <mml:mi>i</mml:mi>
+                                                <mml:mi>n</mml:mi>
+                                                <mml:mrow>
+                                                   <mml:mo>(</mml:mo>
+                                                   <mml:mi>s</mml:mi>
+                                                   <mml:mo>)</mml:mo>
+                                                </mml:mrow>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                          <mml:mfrac>
+                                             <mml:mn>1</mml:mn>
+                                             <mml:mrow>
+                                                <mml:msub>
+                                                   <mml:mi>M</mml:mi>
+                                                   <mml:mn>2</mml:mn>
+                                                </mml:msub>
+                                                <mml:msub>
+                                                   <mml:mi>C</mml:mi>
+                                                   <mml:mn>2</mml:mn>
+                                                </mml:msub>
+                                             </mml:mrow>
+                                          </mml:mfrac>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:msup>
+                                             <mml:mi>s</mml:mi>
+                                             <mml:mn>2</mml:mn>
+                                          </mml:msup>
+                                          <mml:mo>+</mml:mo>
+                                          <mml:mi>s</mml:mi>
+                                          <mml:mrow>
+                                             <mml:mo>(</mml:mo>
+                                             <mml:mrow>
+                                                <mml:mspace width="0.25em"/>
+                                                <mml:mfrac>
+                                                   <mml:mn>1</mml:mn>
+                                                   <mml:mrow>
+                                                      <mml:msub>
+                                                         <mml:mi>M</mml:mi>
+                                                         <mml:mn>1</mml:mn>
+                                                      </mml:msub>
+                                                      <mml:msub>
+                                                         <mml:mi>C</mml:mi>
+                                                         <mml:mn>1</mml:mn>
+                                                      </mml:msub>
+                                                   </mml:mrow>
+                                                </mml:mfrac>
+                                                <mml:mo>+</mml:mo>
+                                                <mml:mspace width="0.25em"/>
+                                                <mml:mfrac>
+                                                   <mml:mn>1</mml:mn>
+                                                   <mml:mrow>
+                                                      <mml:msub>
+                                                         <mml:mi>M</mml:mi>
+                                                         <mml:mn>2</mml:mn>
+                                                      </mml:msub>
+                                                      <mml:msub>
+                                                         <mml:mi>C</mml:mi>
+                                                         <mml:mn>1</mml:mn>
+                                                      </mml:msub>
+                                                   </mml:mrow>
+                                                </mml:mfrac>
+                                                <mml:mo>+</mml:mo>
+                                                <mml:mfrac>
+                                                   <mml:mn>1</mml:mn>
+                                                   <mml:mrow>
+                                                      <mml:msub>
+                                                         <mml:mi>M</mml:mi>
+                                                         <mml:mn>2</mml:mn>
+                                                      </mml:msub>
+                                                      <mml:msub>
+                                                         <mml:mi>C</mml:mi>
+                                                         <mml:mn>2</mml:mn>
+                                                      </mml:msub>
+                                                   </mml:mrow>
+                                                </mml:mfrac>
+                                             </mml:mrow>
+                                             <mml:mo>)</mml:mo>
+                                          </mml:mrow>
+                                          <mml:mo>+</mml:mo>
+                                          <mml:mspace width="0.25em"/>
+                                          <mml:mspace width="0.25em"/>
+                                          <mml:mfrac>
+                                             <mml:mn>1</mml:mn>
+                                             <mml:mrow>
+                                                <mml:msub>
+                                                   <mml:mi>M</mml:mi>
+                                                   <mml:mn>1</mml:mn>
+                                                </mml:msub>
+                                                <mml:msub>
+                                                   <mml:mi>C</mml:mi>
+                                                   <mml:mn>1</mml:mn>
+                                                </mml:msub>
+                                                <mml:msub>
+                                                   <mml:mi>M</mml:mi>
+                                                   <mml:mn>2</mml:mn>
+                                                </mml:msub>
+                                                <mml:msub>
+                                                   <mml:mi>C</mml:mi>
+                                                   <mml:mn>2</mml:mn>
+                                                </mml:msub>
+                                             </mml:mrow>
+                                          </mml:mfrac>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="p0090" view="all">
+                        <ce:cross-ref refid="fig8" id="crosref0220">Fig. 8</ce:cross-ref>a shows the magnitude and phase plot of the low pass filter. The magnitude plot shows that the cutoff frequency of filter changed when the memristor switches from LRS to HRS state or vice versa. On LRS state, the cutoff frequency is a high while in HRS state the cutoff frequency is low. The −3 dB cutoff frequency for LRS state is 5.3 MHz and in HRS, and its value is 397 kHz. The difference between upper cutoff frequency and low cutoff frequency is 4.903 MHz, which is 12.35 times of low cutoff frequency of the lowest cutoff frequency or decrease the band accordingly. The phase response of LPF shows that both graphs start from the same 0<mml:math altimg="si11.gif" overflow="scroll">
+                           <mml:mo>°</mml:mo>
+                        </mml:math> phase while change of −45<mml:math altimg="si11.gif" overflow="scroll">
+                           <mml:mo>°</mml:mo>
+                        </mml:math> occurs at 2.51 MHz and 33.4 MHz in HRS and LRS state respectively. HRS achieves −90<mml:math altimg="si11.gif" overflow="scroll">
+                           <mml:mo>°</mml:mo>
+                        </mml:math> phase round about <mml:math altimg="si12.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mn>2.77</mml:mn>
+                              <mml:mspace width="0.25em"/>
+                              <mml:mo>×</mml:mo>
+                              <mml:msup>
+                                 <mml:mrow>
+                                    <mml:mn>10</mml:mn>
+                                 </mml:mrow>
+                                 <mml:mn>9</mml:mn>
+                              </mml:msup>
+                           </mml:mrow>
+                        </mml:math> Hz and LRS achieves at <mml:math altimg="si13.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mn>3.66</mml:mn>
+                              <mml:mspace width="0.25em"/>
+                              <mml:mo>×</mml:mo>
+                              <mml:msup>
+                                 <mml:mrow>
+                                    <mml:mn>10</mml:mn>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mn>10</mml:mn>
+                                 </mml:mrow>
+                              </mml:msup>
+                           </mml:mrow>
+                        </mml:math> Hz. As the bode plot of HPF design shown in <ce:cross-ref refid="fig8" id="crosref0225">Fig. 8</ce:cross-ref>b, the response shows that HPF can start at different frequencies depending upon the state of the memristor. In HRS the -3 dB response starts from 397 kHz and LRS response at 5.3 MHz. Therefore, this HPF can select its start point either 397 kHz or 5.3 MHz depending upon its HRS or LRS states respectively. Similarly, HPF can achieve 45<mml:math altimg="si11.gif" overflow="scroll">
+                           <mml:mo>°</mml:mo>
+                        </mml:math> phase at 397 kHz in HRS state and at 5.3 MHz in LRS state. Hence, it has a degree of freedom of 2.</ce:para>
+                     <ce:para id="p0095" view="all">The magnitude and phase response of the band pass filter (BPF) design with controllable bandwidth is <ce:cross-ref refid="fig8" id="crosref0230">Fig. 8</ce:cross-ref>c. The magnitude response shows that the BPF can switch to sharp band or a wide band depending upon the memristors states, when M<ce:inf loc="post">1</ce:inf> in HRS and M<ce:inf loc="post">2</ce:inf> in LRS the bandwidth of BPF becomes wide (11.01 MHz) and becomes narrow (6.01 MHz) when M1 in LRS and M<ce:inf loc="post">2</ce:inf> in HRS. The -3 dB bandwidth of BPF can be switched between 11.01 MHz and 6.01 MHz, and also we can tune the bandwidth by using variable capacitor. The phase plot of BPF shows that both HRS and LRS phase response starts from 90<mml:math altimg="si11.gif" overflow="scroll">
+                           <mml:mo>°</mml:mo>
+                        </mml:math> and ends at −90<mml:math altimg="si11.gif" overflow="scroll">
+                           <mml:mo>°</mml:mo>
+                        </mml:math> as it is second order system and shows 180<mml:math altimg="si11.gif" overflow="scroll">
+                           <mml:mo>°</mml:mo>
+                        </mml:math> phase shift. The phase plot shows shifting of phase from positive to negative at 1.46 MHz. The bandwidth of BPF can be shifted from one band to another band as shown in <ce:cross-ref refid="fig8" id="crosref0235">Fig. 8</ce:cross-ref>d. The center frequency of BFP is 0.25 MHz when M<ce:inf loc="post">1</ce:inf> and M<ce:inf loc="post">2</ce:inf> are in HRS and shifted to 33.42 MHz when M<ce:inf loc="post">1</ce:inf> and M<ce:inf loc="post">2</ce:inf> switched to LRS. Similarly, the phase shift from positive to negative occurs at 2.5 MHz and 33.4 MHz for HRS and LRS cases, respectively.</ce:para>
+                     <ce:para id="p0100" view="all">To study the bending effect theoretically, the MC filter device was also simulated under bending as the results of LPF and HPF shown in <ce:cross-ref refid="fig9" id="crosref0240">Fig. 9</ce:cross-ref>
+                        <ce:float-anchor refid="fig9"/>a and b, respectively. In LPF design, the cutoff frequency of the MC filter changed from 398 kHz to 406 kHz under 20 mm bending as shown in <ce:cross-ref refid="fig9" id="crosref0245">Fig. 9</ce:cross-ref>a when memristor was in HRS. In LRS state of memristor, the cutoff frequency of LP MC filter device changed from 5.28 MHz to 10.8 MHz under bending diameter down to 20 mm as shown in <ce:cross-ref refid="fig9" id="crosref0250">Fig. 9</ce:cross-ref>b. Theses response showed similar trend as the cutoff frequency shifted to higher frequency under bending in HRS and LRS. The characterizations of the MC filter devices lead toward the flexible, robust, and durable printed electronic applications.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0075">Conclusion</ce:section-title>
+                  <ce:para id="p0105" view="all">In this paper, we have successfully demonstrated low pass, high pass, and band pass MC filters fabricated on flexible PET substrate through EHD technique. The circuit elements memristor active layer and dielectric layer of capacitor were fabricated by using GQDs/PVP and G/PVP composites, respectively. The cut-off frequencies of the filters were controlled through resistive states of the memristor (HRS/LRS), as the cut-off frequency is shifted by change in resistance value. By selecting a resistance state, the cut off frequencies can be selected between two frequencies, and the band width and frequency band of MC filters can be also tuned. The simulated results were compared with measured results, and we have achieved almost same behaviors. The proposed devices have been also characterized for bendability test and showed stable response under bending from 20 mm to 8 mm. Hence, the proposed MC filters can be applied to achieve stable response in flexible analog filter applications.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0080">Acknowledgements</ce:section-title>
+               <ce:para id="p0110" view="all">This work was supported by the <ce:grant-sponsor id="gs1" sponsor-id="http://dx.doi.org/10.13039/501100003725" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Research Foundation of Korea</ce:grant-sponsor> (NRF) grant funded by the Korea government (<ce:grant-sponsor id="gs3" sponsor-id="http://dx.doi.org/10.13039/501100003621" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">MSIP</ce:grant-sponsor>) (<ce:grant-number refid="gs3">NRF-2016R1A2B4015627</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0085">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Sriprachuabwong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Srichan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Lomas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Tuantranont</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Simple RC low pass filter circuit fabricated by unmodified desktop inkjet printer, ECTI-CON2010</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>The 2010 ECTI International Confernce on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2010</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>929</sb:first-page>
+                              <sb:last-page>932</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chua</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Memristor-The missing circuit element</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Circuit Theory</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>507</sb:first-page>
+                              <sb:last-page>519</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Strukov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.S.</ce:given-name>
+                                 <ce:surname>Snider</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Stewart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Williams</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The missing memristor found</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>453</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>80</sb:first-page>
+                              <sb:last-page>83</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Waser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Aono</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanoionics-based resistive switching memories</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>833</sb:first-page>
+                              <sb:last-page>840</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ali</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bae</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Doh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.P.</ce:given-name>
+                                 <ce:surname>Kobayashi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Organic non-volatile memory cell based on resistive elements through electro-hydrodynamic technique</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Org. Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>121</sb:first-page>
+                              <sb:last-page>128</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>Bao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Steady periodic memristor oscillator with transient chaotic behaviours</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electron. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>237</sb:first-page>
+                              <sb:last-page>238</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Emboras</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Goykhman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Desiatov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Mazurski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Stern</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Shappir</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Levy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanoscale plasmonic memristor with optical readout functionality</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6151</sb:first-page>
+                              <sb:last-page>6155</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Jo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Ebong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.B.</ce:given-name>
+                                 <ce:surname>Bhadviya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Mazumder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanoscale memristor device as synapse in neuromorphic systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1297</sb:first-page>
+                              <sb:last-page>1301</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.-C.</ce:given-name>
+                                 <ce:surname>Bao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-P.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.-H.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.-H.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chaotic memristive circuit: equivalent circuit realization and dynamical analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chin. Phys. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>120502</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.-B.</ce:given-name>
+                                 <ce:surname>Tian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The design and simulation of a titanium oxide memristor-based programmable analog filter in a simulation program with integrated circuit emphasis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chin. Phys. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>088501</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ali</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bae</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.P.</ce:given-name>
+                                 <ce:surname>Kobayashi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ultra-low power non-volatile resistive crossbar memory based on pull up resistors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Org. Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>73</sb:first-page>
+                              <sb:last-page>78</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.F.</ce:given-name>
+                                 <ce:surname>Castro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Correia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Sowade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.Y.</ce:given-name>
+                                 <ce:surname>Mitra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Rocha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.R.</ce:given-name>
+                                 <ce:surname>Baumann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lanceros-Méndez</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>All-inkjet-printed low-pass filters with adjustable cutoff frequency consisting of resistors, inductors and transistors for sensor applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Org. Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>205</sb:first-page>
+                              <sb:last-page>212</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.F.</ce:given-name>
+                                 <ce:surname>Castro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Sowade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Rocha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Alpuim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lanceros-Méndez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.R.</ce:given-name>
+                                 <ce:surname>Baumann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>All-inkjet-printed bottom-gate thin-film transistors using UV curable dielectric for well-defined source-drain electrodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2631</sb:first-page>
+                              <sb:last-page>2636</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.F.</ce:given-name>
+                                 <ce:surname>Castro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Sowade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Rocha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Alpuim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Machado</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.R.</ce:given-name>
+                                 <ce:surname>Baumann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lanceros-Méndez</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Degradation of all-inkjet-printed organic thin-film transistors with TIPS-pentacene under processes applied in textile manufacturing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Org. Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12</sb:first-page>
+                              <sb:last-page>19</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ali</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bae</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Design of versatile printed organic resistor based on resistivity (ρ) control</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>119</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1499</sb:first-page>
+                              <sb:last-page>1506</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

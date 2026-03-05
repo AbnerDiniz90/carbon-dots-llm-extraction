@@ -1,0 +1,39 @@
+   {
+     "carbon_dots": {
+       "general_info": {
+         "definition": "boronic-acid-modified carbon dots",
+         "iupac_name": null,
+         "alternative_names": ["C-dots"]
+       },
+       "synthesis": {
+         "method": {"type": "hydrothermal", "conditions": "0.2 g 3-pyridylboronic acid in 20 mL deionized water; N2 bubbling for 1 h; sealed Teflon-lined reactor; 160 °C for 8 h", "catalysts": null},
+         "precursors": {"source": ["3-pyridineboronic acid 0.2g"], "dopants": null},
+         "post_treatment": ["Dissolved (20mL Di water)", "bubbling (N2 for 1h)", "centrifugation (10,000rpm)", "dialysis membrane (molecular weight cut-off = 1000) for 24h"]
+       },
+       "properties": {
+         "optical": {
+           "quantum_yield": {"value": null, "reference_material": "[MISSING]"},
+           "excitation_max": "330 nm",
+           "excitation_min": "280 nm",
+           "emission_max": "390 nm",
+           "fluorescence_lifetime": null
+         },
+         "structural": {
+           "size": {"avg": "3.5 nm", "distribution": "[MISSING]"},
+           "morphology": "Monodisperse and uniform",
+           "crystallinity": null
+         },
+         "chemical": {
+           "surface_groups": ["O-H ", "C-N", "B-O", "B-O-H"],
+           "elemental_composition": {"C": "37.59%", "N": "8.52%", "O": "31.79%", "B":" 22.08%"}
+         }
+       },
+       "applications": [
+         {
+           "domain": "detection of sialic acid",
+           "performance": "linear relationship of 80-4000μM, with a limit of detection of 54μM (S/N=3)",
+           "comparative_advantage": "high selectivity for SA, shorter obtaination time"
+         }
+       ]
+     }
+   }

@@ -1,0 +1,45 @@
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition": "Nitrogen and sulfur co-doped carbon dots (N,S-CDs) derived from egg-white proteins",
+            "iupac_name": null,
+            "alternative_names": ["N,S-CDs", "N,S-codoped carbon dots"]
+        },
+        "synthesis": {
+            "method": {"type": "hydrothermal followed by annealing", 
+            "conditions": "egg-white freeze-drieded and grinded; egg-white powder and 35mL of reduced graphene oxide ultrasonically treated for 1h; kept at 250°C for 12h;  annealed at 800°C for 2h under N2 gas flow at a rate of 10°C min−1 ", 
+            "catalysts": null},
+            "precursors": {"source": ["Egg-white proteins (freeze-dried, 2 g)", "Graphene oxide (35 mL, 4 mg/mL aqueous solution)"], "dopants": ["Nitrogen", "Sulfur"]},
+            "post_treatment": ["Dispersion in diluted HCl and stirring overnight", "Vacuum filtration and washing to pH 7", "Drying and grinding"]
+        },
+        "properties": {
+            "optical": {
+                "quantum_yield": {"value": "[MISSING]", "reference_material": "[MISSING]"},
+                "excitation_max": "[MISSING]",
+                "emission_max": "[MISSING]",
+                "fluorescence_lifetime": null
+            },
+            "structural": {
+                "size": {"avg": "[MISSING]", "distribution": "0.6-1.8 nm"},
+                "morphology": "anchored on the surface of graphene",
+                "crystallinity": "(100) crystal face of graphite and graphitic crystallites"
+            },
+            "chemical": {
+                "surface_groups": ["C=C/C-C", "C-O", "O-C=O", "C-N/C-S", "Pyridinic N", "Pyrrolic N", "Graphitic N", "Oxidized N", "Thiophonic S (C=S, C-S-C)", "Oxidized S (SOx)"],
+                "elemental_composition": {
+                    "C": "[MISSING]",
+                    "N": "2.77 at.% (after annealing) vs 7.66 at.% (before annealing)",
+                    "O": "[MISSING]",
+                    "S": "3.55 at.% (after annealing) vs 0.89 at.% (before annealing)"
+                }
+            }
+        },
+        "applications": [
+            {
+                "domain": "Lithium-Sulfur (Li-S) Battery Cathode Host",
+                "performance": "Composite (N,S-CDs/rGO@S65) delivers 1550 mAh g-1 at 0.5 C; retains 427.9 mAh g⁻¹ after 600 cycles at 5 C",
+                "comparative_advantage": "Significantly higher rate capability and high sulfur utilization"
+            }
+        ]
+    }
+}

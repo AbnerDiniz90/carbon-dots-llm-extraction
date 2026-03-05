@@ -1,0 +1,80 @@
+{
+  "input_source": "artigo7.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "Amino-functionalized graphene quantum dots",
+        "iupac_name": null,
+        "alternative_names": [
+          "af-GQDs"
+        ]
+      },
+      "synthesis": {
+        "method": {
+          "type": "pyrolysis",
+          "conditions": "heated at 175°C for 30 min in oil bath until colorless solid changed to orange liquid"
+        },
+        "precursors": {
+          "source": [
+            "citric acid 0.5g",
+            "aqueous ammonia 7mL"
+          ],
+          "dopants": [
+            "amino-functionalized"
+          ]
+        },
+        "post_treatment": [
+          "Ultrasonication with ammonia",
+          "dialysis (300 D)"
+        ]
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": null,
+            "reference_material": null
+          },
+          "excitation_max": "345 nm",
+          "emission_max": "443 nm",
+          "fluorescence_lifetime": null
+        },
+        "structural": {
+          "size": {
+            "avg": null,
+            "distribution": "[MISSING]"
+          },
+          "morphology": "well dispersed and reasonably uniform",
+          "crystallinity": "[MISSING]"
+        },
+        "chemical": {
+          "surface_groups": [
+            "C=O",
+            "C-O"
+          ],
+          "elemental_composition": {
+            "C": "[MISSING]",
+            "N": "[MISSING]",
+            "O": "[MISSING]"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "determination of copper ions",
+          "performance": "Af-GQDs exhibited strong fluorescence intensity and it could be effectively quenched by the latter due to photo-induced electron transfer.",
+          "comparative_advantage": "a great promise in the development of a sensitive fluorescence sensor for the determination of copper ions."
+        },
+        {
+          "domain": "Cellular Analysis",
+          "performance": "Analysis of Cu2+ uptake in HeLa and HeLa/DDP cells",
+          "comparative_advantage": "Capable of monitoring Cu2+ into tumor cells"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Bad",
+    "score": 1.0,
+    "expert_comment": "Omission Error: The field 'carbon_dots -> properties -> structural -> size -> avg' contained '5 nm' in the source text, but it was extracted as null/missing. | Incomplete Structure: The entire section 'carbon_dots -> synthesis -> method -> catalysts' was incorrectly omitted. The JSON is missing a mandatory structural block."
+  }
+}

@@ -1,0 +1,48 @@
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition": "High fluorescence carbon dots synthesized from a natural plant source (Lawsonia inermis, Henna), without adding any chemical reagent exhibit high stability under various conditions and exceptionally solubility in hydrophilic solvents",
+            "iupac_name":  null,
+            "alternative_names": ["Henna CDs", "Carbon dots", "CDs"]
+        },
+        "synthesis": {
+            "method": {"type": "Hydrothermal", "conditions": "Stirred solution of Henna leaf powder and  40mL of distilled water. Then heated at 180°C for 12h in Teflon-lined stainless-steel autoclave", "catalysts": null},
+            "precursors": {"source": ["0.5g  Henna leaf powder (Lawsonia inermis)"], "dopants": null},
+            "post_treatment": [
+                "Centrifugation at 12000 rpm for 20 min",
+                "Filtration with 0.22 μm membrane",
+                "Purification with centrifugal filters (10 kDa MW cutoff)",
+                "Drying under vacuum for overnight"
+            ]
+        },
+        "properties": {
+            "optical": {
+                "quantum_yield": {"value": " 28.7%", "reference_material": "Rhodamine B (QY = 0.89)"},
+                "excitation_max": "360 nm (maximum emission intensity), 440 nm selected for sensing experiments",
+                "emission_max": "430 nm (core emission) with shoulder at 500 nm",
+                "fluorescence_lifetime": "[MISSING]"
+            },
+            "structural": {
+                "size": {"avg": "diameter 5nm", "distribution": "3-7nm"},
+                "morphology": "narrow size distribution, quasi-spherical and well dispersed",
+                "crystallinity": "Raman intensity ratio of the D and G band equals 0.74 indicating amorphous carbons"
+            },
+            "chemical": {
+                "surface_groups": ["-COOH", "-OH", "-NH2"],
+                "elemental_composition": { "C": "[MISSING]", "N": "[MISSING]", "O": "[MISSING]" }
+            }
+        },
+        "applications": [
+            {
+                "domain": "Sensing of anti-cancer drug (Methotrexate, MTX)",
+                "performance": "Linear range: 0.02-18 μmol/L; Limit of detection (LOD): 7 nmol/L; RSD: 1.7-2.6% for five repeated measurements of (2.0μmolL-1) and (0.15 μmolL-1) MTX, respectively.",
+                "comparative_advantage": "Green synthesis, low-cost, comparable LOD and dynamic range compared with other reported methods."
+            },
+            {
+                "domain": "Antibacterial agent",
+                "performance": "Effective against Escherichia coli (Gram-negative) and Staphylococcus aureus (Gram-positive). Antibacterial effects of CDs, on Gram-negative bacteria,were observed in more concentrations.",
+                "comparative_advantage": "Henna CDs show antibacterial activity at much lower concentrations than raw Henna plant extract. Effective against both Gram-positive and Gram-negative bacteria, unlike many conventional agents."
+            }
+        ]
+    }
+}

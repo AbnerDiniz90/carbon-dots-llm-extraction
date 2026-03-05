@@ -1,0 +1,45 @@
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition": "0-dimension graphene quantum dots derived from graphene domains",
+            "iupac_name": "string | null",
+            "alternative_names": ["GQDs", "Graphene Quantum Dots", "0-dimension graphene quantum dots"]
+        },
+        "synthesis": {
+            "method": {
+                "type": "electrochemical cyclic voltammetry",
+                "conditions": "Potential window from -3.0 V to +3.0 V for 2000 cycles in 0.5 M sodium phosphate buffer (pH 6.8) using reduced graphene oxide (rGO) as working electrode)", 
+                "catalysts":  null
+        },
+            "precursors": {
+                "source": ["reduced graphene oxide film"],
+                "dopants": null
+        },
+            "post_treatment": ["dialysis for two days (MD 8000-10000 dialysis membrane)", "freeze-drying"]
+        },
+        "properties": {
+            "optical": {
+                "quantum_yield": {"value": "[MISSING]", "reference_material": "[MISSING]"},
+                "excitation_max": "340 nm",
+                "emission_max": "430 nm",
+                "fluorescence_lifetime": "4.8 ns"
+            },
+            "structural": {
+                "size": {"avg": "[MISSING]", "distribution": "2-3nm"},
+                "morphology": "[MISSING]",
+                "crystallinity": "Fringe width is 0.21 nm"
+            },
+            "chemical": {
+                "surface_groups": ["oxygen vacancies (presence of D-band in the Raman spectra)"],
+                "elemental_composition": { "C": "[MISSING]", "N": "[MISSING]", "O": "[MISSING]" }
+            }
+        },
+        "applications": [
+            {
+                "domain": "Photovoltaics (Dye-sensitized solar cells)",
+                "performance": "photo conversion efficiency (4.2%e4.43%), relatively better photocurrent and photo output potential difference increase",
+                "comparative_advantage": " increment in power conversion efficiency by 5.48%, when compared with those with DSSC build with just a TiO2 photoanode"
+            }
+        ]
+    }
+}

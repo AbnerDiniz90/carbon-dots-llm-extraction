@@ -1,0 +1,2530 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1566119917304433</prism:url><dc:identifier>doi:10.1016/j.orgel.2017.09.005</dc:identifier><eid>1-s2.0-S1566119917304433</eid><prism:doi>10.1016/j.orgel.2017.09.005</prism:doi><pii>S1566-1199(17)30443-3</pii><dc:title>Highly-reproducible nonvolatile memristive devices based on polyvinylpyrrolidone: Graphene quantum-dot nanocomposites </dc:title><prism:publicationName>Organic Electronics</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>15661199</prism:issn><prism:volume>51</prism:volume><prism:startingPage>156</prism:startingPage><prism:endingPage>161</prism:endingPage><prism:pageRange>156-161</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2017-12-31</prism:coverDate><prism:coverDisplayDate>December 2017</prism:coverDisplayDate><prism:copyright>© 2017 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Kim, Do Hyeong</dc:creator><dc:creator>Kim, Woo Kyum</dc:creator><dc:creator>Woo, Sung Jun</dc:creator><dc:creator>Wu, Chaoxing</dc:creator><dc:creator>Kim, Tae Whan</dc:creator><dc:description>
+                  The properties of nonvolatile memristive devices (NMD) fabricated utilizing organic/inorganic hybrid nanocomposites were investigated due to their superior advantages such as mechanical flexibility, low cost, low-power consumption, simple technological process in fabrication and high reproducibility. The current-voltage (I-V) curves for the Al/polyvinylpyrrolidone (PVP): graphene quantum-dot (GQD)/indium-tin-oxide (ITO) memristive devices showed current bistability characteristics at 300 K. The window margins corresponding to the high-conductivity (ON) state and the low-conductivity (OFF) state of the devices increased with increasing concentration of the GQDs. The ON/OFF ratio of the optimized device was 1 × 104, which was the largest memory margin among the devices fabricated in this research. The endurance number of ON/OFF switching was above 1 × 102 cycles, and the retention time was relatively constant, maintaining a value above 104 s. The devices showed high reproducibility with the writing voltage being distributed between −0.5 and −1.5 V and the erasing voltage being distributed between 2 and 3 V. The ON state currents remained between 0.02 and 0.03 A, and the OFF state currents stayed between 10−6 and 10−4 A. The carrier transport mechanisms are illustrated by using both the results obtained by fitting the I-V curves and the energy band diagrams of the devices.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Memristive device</dcterms:subject><dcterms:subject>Graphene quantum-dot</dcterms:subject><dcterms:subject>PVP</dcterms:subject><dcterms:subject>Hybrid nanocomposite</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1566119917304433" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1566119917304433" rel="scidir"/></coredata><objects><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="90" size="16097">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="114" height="164" size="17201">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="100" height="164" size="15691">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="103" height="163" size="11461">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="211" height="164" size="16783">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="81" size="13686">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="487" height="200" size="55843">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="379" height="544" size="57756">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="379" height="622" size="100086">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="378" height="599" size="62256">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="378" height="293" size="56140">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="701" height="260" size="68790">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2159" height="886" size="331597">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1681" height="2411" size="355547">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1681" height="2761" size="714333">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1673" height="2653" size="327599">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1675" height="1298" size="259189">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3106" height="1151" size="385549">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="41" height="14" size="225">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="206" height="41" size="1132">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="107" height="36" size="652">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="12" height="9" size="137">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="24" height="15" size="188">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="51" height="15" size="233">https://api.elsevier.com/content/object/eid/1-s2.0-S1566119917304433-si6.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>85029532563</scopus-id><scopus-eid>2-s2.0-85029532563</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85029532563" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272178</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291802</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Organic Electronics</xocs:srctitle>
+      <xocs:normalized-srctitle>ORGANICELECTRONICS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170909">2017-09-09</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170909">2017-09-09</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170922">2017-09-22</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170922">2017-09-22</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2018-11-24T00:05:14</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1566119917304433</xocs:eid>
+      <xocs:pii-formatted>S1566-1199(17)30443-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1566119917304433</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.orgel.2017.09.005</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.5</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1566119917X00104</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20220621">2022-06-21T08:26:32.950841Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20171201</xocs:date-search-begin>
+      <xocs:date-search-end>20171231</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1504918845">2017-09-09T01:00:45.267118Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst orcid primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1566-1199</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>15661199</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>51</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>51</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 51</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>27</xocs:sort-order>
+      <xocs:first-fp>156</xocs:first-fp>
+      <xocs:last-lp>161</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>156</xocs:first-page>
+         <xocs:last-page>161</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201712</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>December 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-12-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Research Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>HIGHLYREPRODUCIBLENONVOLATILEMEMRISTIVEDEVICESBASEDPOLYVINYLPYRROLIDONEGRAPHENEQUANTUMDOTNANOCOMPOSITES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KIM</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>D</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental details</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>MA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3962</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3966</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>YUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>320</xocs:ref-first-fp>
+            <xocs:ref-last-lp>324</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>UOYAMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>234</xocs:ref-first-fp>
+            <xocs:ref-last-lp>240</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1602890</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>HEREMANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>341</xocs:ref-first-fp>
+            <xocs:ref-last-lp>358</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>BOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>013301</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>ROY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>826</xocs:ref-first-fp>
+            <xocs:ref-last-lp>830</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>HONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1005</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1007</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>SON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>021105</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>GU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>554</xocs:ref-first-fp>
+            <xocs:ref-last-lp>559</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>SON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2441</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2447</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>GEIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1530</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1534</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>SONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1016</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1023</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>JI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>145204</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>JOO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>255203</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>103105</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>ZHUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>45214</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>KALITA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>143104</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3517</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3522</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>PAUL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>145</xocs:ref-first-fp>
+            <xocs:ref-last-lp>151</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>ALIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5068</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5078</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>KANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>38423</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>CHOI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>197</xocs:ref-first-fp>
+            <xocs:ref-last-lp>201</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>MA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2997</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10683</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref27">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref28">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>042108</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref29">
+            <xocs:ref-normalized-surname>SONGMUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>141914</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref30">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>095003</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref31">
+            <xocs:ref-normalized-surname>DEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>36560</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KIMX2017X156</xocs:refkey3>
+         <xocs:refkey4lp>KIMX2017X156X161</xocs:refkey4lp>
+         <xocs:refkey4ai>KIMX2017X156XD</xocs:refkey4ai>
+         <xocs:refkey5>KIMX2017X156X161XD</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2019-09-22T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2022-06-10T20:24:03.264Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Ministry of Education, Science and Technology</xocs:funding-agency-matched-string>
+            <xocs:funding-id>2016R1A2A1A05005502</xocs:funding-id>
+            <xocs:funding-agency-acronym>MEST</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Ministry of Education, Science and Technology</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100004085</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1835841/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>National Research Foundation of Korea</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>NRF</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Research Foundation of Korea</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100003725</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1835841/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>This research was supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education, Science and Technology ( 2016R1A2A1A05005502 ).</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1566-1199(17)30443-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1566119917304433</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1566119917304433</xocs:eid>
+         <xocs:doi>10.1016/j.orgel.2017.09.005</xocs:doi>
+         <xocs:cid>272178</xocs:cid>
+         <xocs:timestamp>2018-11-24T00:14:25.837372Z</xocs:timestamp>
+         <xocs:cover-date-start>2017-12-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/MAIN/application/pdf/fa3cb49f3f21941d118400a2dbf70553/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1121779</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1566119917304433-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/PREVIEW/image/png/4d6132ff3cfc54d6fb331bfc1b228b0b/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>58159</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/fx1/THUMBNAIL/image/gif/47c2ba68de8223ddbfab502f7d8620d1/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16097</xocs:filesize>
+               <xocs:pixel-height>90</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/gr1/THUMBNAIL/image/gif/9b606f6c92a959dd220c54eef16a7097/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17201</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>114</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/gr2/THUMBNAIL/image/gif/6e2ab9c544ab9b961ef71a6389153710/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15691</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>100</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/gr3/THUMBNAIL/image/gif/b68c1d2a52bd83c9d98ea1530dafc583/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11461</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>103</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/gr4/THUMBNAIL/image/gif/0a0a3c1b8bd8f8db6cc6b6160b9f04c8/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16783</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>211</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/gr5/THUMBNAIL/image/gif/8ae53346634523bb669cdb60ee936f01/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13686</xocs:filesize>
+               <xocs:pixel-height>81</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/fx1/DOWNSAMPLED/image/jpeg/e967958cd3d04cb02ce43a226f9c4e66/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>55843</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>487</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/gr1/DOWNSAMPLED/image/jpeg/fb91d50f08447e1b181c626ee25e9965/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>57756</xocs:filesize>
+               <xocs:pixel-height>544</xocs:pixel-height>
+               <xocs:pixel-width>379</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/gr2/DOWNSAMPLED/image/jpeg/5ce4554647aaf1800345c221b1bc3c2b/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>100086</xocs:filesize>
+               <xocs:pixel-height>622</xocs:pixel-height>
+               <xocs:pixel-width>379</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/gr3/DOWNSAMPLED/image/jpeg/0b79649edeefedbeb32604f5a8e98eb9/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>62256</xocs:filesize>
+               <xocs:pixel-height>599</xocs:pixel-height>
+               <xocs:pixel-width>378</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/gr4/DOWNSAMPLED/image/jpeg/1eb598fbb87389bb10070e9aaf33874a/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>56140</xocs:filesize>
+               <xocs:pixel-height>293</xocs:pixel-height>
+               <xocs:pixel-width>378</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/gr5/DOWNSAMPLED/image/jpeg/387748ff6106e274b79062828d12a3d5/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>68790</xocs:filesize>
+               <xocs:pixel-height>260</xocs:pixel-height>
+               <xocs:pixel-width>701</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/fx1/HIGHRES/image/jpeg/684ca765725aa4993645de7d3a4c6372/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>331597</xocs:filesize>
+               <xocs:pixel-height>886</xocs:pixel-height>
+               <xocs:pixel-width>2159</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/gr1/HIGHRES/image/jpeg/960feb0accd258e779fe4244114973cf/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>355547</xocs:filesize>
+               <xocs:pixel-height>2411</xocs:pixel-height>
+               <xocs:pixel-width>1681</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/gr2/HIGHRES/image/jpeg/e6a2906e9d1f223ff9677ebfdf73fd2a/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>714333</xocs:filesize>
+               <xocs:pixel-height>2761</xocs:pixel-height>
+               <xocs:pixel-width>1681</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/gr3/HIGHRES/image/jpeg/56c71eeb01fbe8b3c751a298518e4d7f/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>327599</xocs:filesize>
+               <xocs:pixel-height>2653</xocs:pixel-height>
+               <xocs:pixel-width>1673</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/gr4/HIGHRES/image/jpeg/7e94703be26be73a3aad397e94abd5ec/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>259189</xocs:filesize>
+               <xocs:pixel-height>1298</xocs:pixel-height>
+               <xocs:pixel-width>1675</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/gr5/HIGHRES/image/jpeg/fdffa4d3bb1eaf9c8cfd5352c9a40ba0/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>385549</xocs:filesize>
+               <xocs:pixel-height>1151</xocs:pixel-height>
+               <xocs:pixel-width>3106</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/STRIPIN/image/gif/a42f09cb487fc32cc4c855ff5fa11145/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>225</xocs:filesize>
+               <xocs:pixel-height>14</xocs:pixel-height>
+               <xocs:pixel-width>41</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/STRIPIN/image/gif/8f07364bc14dc36db8bdd9600d6b1d18/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1132</xocs:filesize>
+               <xocs:pixel-height>41</xocs:pixel-height>
+               <xocs:pixel-width>206</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/STRIPIN/image/gif/83e4d50b96226c86187b794dafc110c1/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>652</xocs:filesize>
+               <xocs:pixel-height>36</xocs:pixel-height>
+               <xocs:pixel-width>107</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/STRIPIN/image/gif/58644019028832bbc78a17aa8e92d46f/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>137</xocs:filesize>
+               <xocs:pixel-height>9</xocs:pixel-height>
+               <xocs:pixel-width>12</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/STRIPIN/image/gif/8aa89be0b7264e2963087b40e3d65d4a/si5.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>188</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>24</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1566119917304433-si6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1566119917304433/STRIPIN/image/gif/a2fea8e3f9932b892b27d94fa2f99479/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>233</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>51</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>ORGELE</jid>
+            <aid>4286</aid>
+            <ce:pii>S1566-1199(17)30443-3</ce:pii>
+            <ce:doi>10.1016/j.orgel.2017.09.005</ce:doi>
+            <ce:copyright type="full-transfer" year="2017">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">(a) Schematic diagram of the Al/PVP:GQD/ITO devices. (b) Cross-sectional scanning electron microscopy image of the PVP:GQD/ITO device.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0015">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1566119917304433/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">(a) Current-voltage curves for the Al/PVP:GQD/ITO-coated glass devices. The inset of (a) shows currents of the ON/OFF at 0.5964 and 1.4778 wt%, and (b) retention characteristics of the Al/PVP:GQDs/ITO devices at a read voltage of 1 V. The inset of (b) shows currents of the ON/OFF at 1 V for 100 cycles for the devices with GQD concentrations of 0.5964 wt%.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0020">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1566119917304433/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">(a) Threshold voltage probability distributions for the “write” and the “erase” processes for the devices. (b) Cumulative probability data for the ON and the OFF states of the Al/PVP:GQD/ITO-coated glass devices.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1566119917304433/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">(a) Results from fitting the <ce:italic>I-V</ce:italic> curve on a log-log scale for the ON and OFF states of the devices at voltages between 0 and 3 V.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0030">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1566119917304433/gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">(a, b) Schematic diagrams of the energy bands showing the carrier transport behaviors corresponding to the carrier transport mechanisms for the OFF state of the Al/PVP:GQD/ITO devices. (c, d) Schematic diagrams of the energy bands showing the carrier transport behaviors corresponding to the carrier transport mechanisms for the ON state of the devices (negative and positive biases, respectively).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0035">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1566119917304433/gr5"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Highly-reproducible nonvolatile memristive devices based on polyvinylpyrrolidone: Graphene quantum-dot nanocomposites</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S1566119917304433-63f4a84d778dfac735d730f3b345772a">
+                  <ce:given-name>Do Hyeong</ce:given-name>
+                  <ce:surname>Kim</ce:surname>
+               </ce:author>
+               <ce:author id="au2" author-id="S1566119917304433-450fd8f54b31702acdc754a5225739f2">
+                  <ce:given-name>Woo Kyum</ce:given-name>
+                  <ce:surname>Kim</ce:surname>
+               </ce:author>
+               <ce:author id="au3" author-id="S1566119917304433-cee71c9ed5db040f934c07ba21ccf1b7">
+                  <ce:given-name>Sung Jun</ce:given-name>
+                  <ce:surname>Woo</ce:surname>
+               </ce:author>
+               <ce:author id="au4" orcid="0000-0002-1231-2699" author-id="S1566119917304433-307c4abec68021f4ceb9e5da47c0fe02">
+                  <ce:given-name>Chaoxing</ce:given-name>
+                  <ce:surname>Wu</ce:surname>
+               </ce:author>
+               <ce:author id="au5" author-id="S1566119917304433-3b9a04df43c616f4b2c4d14fabb97d7a">
+                  <ce:given-name>Tae Whan</ce:given-name>
+                  <ce:surname>Kim</ce:surname>
+                  <ce:cross-ref refid="cor1" id="crosref0010">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S1566119917304433-4a509e158158d4174401a57647186068">
+                  <ce:textfn>Department of Electronics and Computer Engineering, Hanyang University, Seoul, 04763, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Electronics and Computer Engineering</sa:organization>
+                     <sa:organization>Hanyang University</sa:organization>
+                     <sa:city>Seoul</sa:city>
+                     <sa:postal-code>04763</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="30" month="5" year="2017"/>
+            <ce:date-revised day="6" month="9" year="2017"/>
+            <ce:date-accepted day="7" month="9" year="2017"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">The properties of nonvolatile memristive devices (NMD) fabricated utilizing organic/inorganic hybrid nanocomposites were investigated due to their superior advantages such as mechanical flexibility, low cost, low-power consumption, simple technological process in fabrication and high reproducibility. The current-voltage (<ce:italic>I-V</ce:italic>) curves for the Al/polyvinylpyrrolidone (PVP): graphene quantum-dot (GQD)/indium-tin-oxide (ITO) memristive devices showed current bistability characteristics at 300 K. The window margins corresponding to the high-conductivity (ON) state and the low-conductivity (OFF) state of the devices increased with increasing concentration of the GQDs. The ON/OFF ratio of the optimized device was 1 × 10<ce:sup loc="post">4</ce:sup>, which was the largest memory margin among the devices fabricated in this research. The endurance number of ON/OFF switching was above 1 × 10<ce:sup loc="post">2</ce:sup> cycles, and the retention time was relatively constant, maintaining a value above 10<ce:sup loc="post">4</ce:sup> s. The devices showed high reproducibility with the writing voltage being distributed between −0.5 and −1.5 V and the erasing voltage being distributed between 2 and 3 V. The ON state currents remained between 0.02 and 0.03 A, and the OFF state currents stayed between 10<ce:sup loc="post">−6</ce:sup> and 10<ce:sup loc="post">−4</ce:sup> A. The carrier transport mechanisms are illustrated by using both the results obtained by fitting the <ce:italic>I-V</ce:italic> curves and the energy band diagrams of the devices.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract class="graphical" id="abs0015" view="all">
+               <ce:section-title id="sectitle0015">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="abssec0015" view="all">
+                  <ce:simple-para id="abspara0015" view="all">
+                     <ce:display>
+                        <ce:figure id="undfig1">
+                           <ce:alt-text role="short" id="alttext0010">Image 1</ce:alt-text>
+                           <ce:link locator="fx1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1566119917304433/fx1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0025">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Memristive device</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Graphene quantum-dot</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>PVP</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Hybrid nanocomposite</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0030">Introduction</ce:section-title>
+                  <ce:para id="p0030" view="all">Nonvolatile memristive devices (NMDs) based on hybrid inorganic/organic nanocomposites have been particularly attractive owing to their superior advantages of having a simple fabrication process, low fabrication cost, high-mechanical flexibility, and low-power consumption <ce:cross-refs refid="bib1 bib2 bib3 bib4" id="crosrefs0010">[1–4]</ce:cross-refs>. Recently, many memristive devices have been fabricated utilizing various materials, such as metal oxides <ce:cross-ref refid="bib5" id="crosref0015">[5]</ce:cross-ref>, polymers <ce:cross-ref refid="bib6" id="crosref0020">[6]</ce:cross-ref>, organic/inorganic hybrid materials <ce:cross-ref refid="bib7" id="crosref0025">[7]</ce:cross-ref>, graphene <ce:cross-ref refid="bib8" id="crosref0030">[8]</ce:cross-ref>, and graphene oxide <ce:cross-ref refid="bib9" id="crosref0035">[9]</ce:cross-ref>, as active layers in attempts to achieve excellent resistive switching behaviors.</ce:para>
+                  <ce:para id="p0035" view="all">Among various promising materials, graphene-based materials are currently of interest due to their high optical absorptivity, large flexibility, high transparency, and wide, tunable bandgap <ce:cross-refs refid="bib10 bib11 bib12 bib13" id="crosrefs0015">[10–13]</ce:cross-refs>. Chemical-vapor-deposited graphene, reduced graphene oxide, graphene oxide, and graphene quantum-dots (GQDs) have been receiving considerable attention for potential applications in electronic and optoelectronic devices operating with lower power consumption <ce:cross-ref refid="bib14" id="crosref0040">[14]</ce:cross-ref>. In particular, GQD materials have strong excitation luminescence and a non-zero bandgap due to the quantum confinement and the edge effects, which might provide more carrier occupation sites for NMDs <ce:cross-refs refid="bib15 bib16 bib17" id="crosrefs0020">[15–17]</ce:cross-refs>. Because the GQDs exhibit semiconductor-like properties, they can be utilized as an active layer in NMDs <ce:cross-refs refid="bib18 bib19" id="crosrefs0025">[18,19]</ce:cross-refs>. Polyvinylpyrrolidone (PVP) materials are highly soluble in most solvents containing water and have good biocompatibility, low toxicity, good adhesion, and complex compound-forming ability <ce:cross-refs refid="bib20 bib21" id="crosrefs0030">[20,21]</ce:cross-refs>. Even though some studies on the electrical characteristics of GQD-based nonvolatile memory devices have been performed <ce:cross-ref refid="bib22" id="crosref0045">[22]</ce:cross-ref>, very few investigations concerning the carrier transport mechanisms of bipolar NMDs based on hybrid PVP/GQD nanocomposites have not yet been conducted.</ce:para>
+                  <ce:para id="p0040" view="all">This paper reports the electrical characteristics of highly-reproducible NMDs fabricated utilizing PVP:GQD nanocomposites. The effects of the GQD concentration on the electrical characteristics of the NMDs based on PVP:GQD nanocomposites were observed and compared with those of the NMDs containing only a PVP active layer. The nanometer-sized GQD obtained from the graphene particle is a biocompatible, stable material, which can compensate for the disadvantages of conventional QDs <ce:cross-ref refid="bib23" id="crosref0055">[23]</ce:cross-ref>. This indicates that NMDs based on PVP:GQD nanocomposites hold promise for potential application in wearable memristive devices. Scanning electron microscopy (SEM) measurements were performed to investigate the structural properties of the devices. Current-voltage (<ce:italic>I-V</ce:italic>) measurements were carried out to investigate the electrical bistability properties of the Al/PVP:GQD/ITO and the Al/PVP/ITO devices. The number of retention cycles and the endurance times of the NMDs were measured to investigate the stability of the devices. The carrier transport mechanisms are illustrated based on both the energy band diagrams of the devices and the results obtained by fitting the <ce:italic>I-V</ce:italic> curves.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0035">Experimental details</ce:section-title>
+                  <ce:para id="p0045" view="all">The NMDs with active layers consisting of PVP:GQD nanocomposites were fabricated on ITO-coated glass substrates. For the NMD fabrication, ITO-coated glass substrates were cleaned by using ultra-sonication with acetone, methanol, and deionized water sequentially <ce:cross-ref refid="bib24" id="crosref0060">[24]</ce:cross-ref>. Then, the cleaned substrates were dried using N<ce:inf loc="post">2</ce:inf> gas, which was followed by an optical treatment with an ultraviolet ozone cleaner for 20 min. A GQD solution with a concentration of 1 mg of GQDs per ml of deionized water was purchased from ACS Material. The nanocomposites used as active layers were prepared by mixing 100 mg of PVP in 5 ml of ethanol: 0.1, 0.2, 0.3, 0.6, or 1.5 ml of the GQD solution was added to the PVP-ethanol solution to investigate the effect of the GQD concentration on the electrical characteristics of the NMDs. The actual GQD concentrations of the prepared samples are 0.0999, 0.1996, 0.2991, 0.5964, and 1.4778 wt%, respectively. Subsequently, the PVP and GQD mixed solutions were sonicated for 20 min in order to obtain uniformly dissolved solutions The PVP:GQD solutions acting as an active layer, were deposited onto the cleaned ITO-coated glass substrates by using a spin-coating technique. The spin-coating speeds for depositing the PVP:GQD nanocomposites with thicknesses of 150 nm onto the ITO layers at 300 K were 300 rpm for 5 s, 1000 rpm for 10 s, 2000 rpm for 10 s, 3000 rpm for 30 s, 2000 rpm for 10 s, 1000 rpm for 10 s, and 300 rpm for 5 s. Then, the nanocomposites deposited on the substrates were baked on a hot plate at 135 °C for 20 min in order to remove any residual solvent. Finally, Al top electrodes with thicknesses of 200 nm and diameters of 1 mm were deposited on the active layer by using the thermal evaporation method at a pressure of 1 × 10<ce:sup loc="post">−6</ce:sup> Torr. The <ce:italic>I-V</ce:italic> curves of the Al/PVP:GQD/ITO devices were measured by using a Keithley 2400 digital source meter. SEM images were obtained by using a NOVA Nano Scanning Electron Microscope 450 operating at 5 kV.</ce:para>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0040">Results and discussion</ce:section-title>
+                  <ce:para id="p0050" view="all">
+                     <ce:cross-ref refid="fig1" id="crosref0065">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/>(a) shows a schematic diagram of the NMDs fabricated utilizing PVP:GQD nanocomposites deposited on ITO-coated glass substrates. The structure of the device consists of a PVP active layer containing GQDs separated from the Al by ITO electrodes. The thickness of the active layer, as determined from the cross-sectional SEM image of <ce:cross-ref refid="fig1" id="crosref0070">Fig. 1</ce:cross-ref>(b), was about 285 nm. The PVP:GQD active layer was uniformly deposited on the ITO bottom electrode. The ITO layer, acting as a bottom electrode, was grounded for the <ce:italic>I-V</ce:italic> measurements. The bias voltage for measuring the <ce:italic>I-V</ce:italic> curves was applied to the Al top electrode.</ce:para>
+                  <ce:para id="p0055" view="all">The <ce:italic>I-V</ce:italic> curves for the NMDs displayed two distinct resistive states, a low-resistance (ON) state and a high-resistance (OFF) state. The voltages applied to the Al top electrode were swept from −3 to +3 V for the devices with a GQD concentration of 0.5964 wt%. Initially, when the applied voltage was swept from −3 to +2.4 V, the device stayed in the ON state. However, the current in the ON state for the device abruptly decreased as the applied voltage was increased above 2.4 V, as shown in <ce:cross-ref refid="fig2" id="crosref0075">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/>(a). Therefore, the resistivity of the OFF state became relatively large compared to that of the ON state. The ON and the OFF currents at an applied voltage of 1 V were 2.2 × 10<ce:sup loc="post">−2</ce:sup> and 1.79 × 10<ce:sup loc="post">−6</ce:sup> A, respectively. The transition process from the ON to the OFF states is equivalent to the erase mode in a digital memory cell <ce:cross-ref refid="bib25" id="crosref0080">[25]</ce:cross-ref>. After the state transition from the ON to the OFF state, the OFF current constantly decreased with decreasing applied voltage to about 0 V. When the applied voltage went to from 0 to −3 V, the current of the device constantly increased, and then the electrical behaviors of the NMDs transited from the OFF to the ON states.</ce:para>
+                  <ce:para id="p0060" view="all">The maximum ON/OFF current ratio of the devices based on PVP:GQD nanocomposites in the positive voltage region at a read voltage of +1 V was approximately 1.21 × 10<ce:sup loc="post">4</ce:sup>, which was large enough to decrease the misread probability of the digital mode for the Al/PVP:GQD/ITO devices <ce:cross-refs refid="bib26 bib27" id="crosrefs0035">[26,27]</ce:cross-refs>. Subsequently, when negative bias voltages were applied to the device, the state of the device abruptly switched to the ON state at about −1 V, as shown in <ce:cross-ref refid="fig2" id="crosref0085">Fig. 2</ce:cross-ref>(a). The transition from the OFF to the ON states is identical to the writing mode in a digital memory cell. Therefore, this behavior of the devices based on PVP:GQD nanocomposites can be attributed to bipolar memory characteristics <ce:cross-ref refid="bib8" id="crosref0090">[8]</ce:cross-ref>. Furthermore, not only a single cell, but also several other cells, of the Al/PVP:GQD/ITO devices were investigated to confirm their electrical bistabilities and reproducibilities. The maximum current ratio of the NMDs with a GQD concentration of 0.5964 wt% at a read voltage of 1 V was approximately 1.21 × 10<ce:sup loc="post">4</ce:sup>, as shown in <ce:cross-ref refid="fig2" id="crosref0095">Fig. 2</ce:cross-ref>(a). Therefore, the memory margin of the NMDs is sufficient to remove the probability of misreading the signal.</ce:para>
+                  <ce:para id="p0065" view="all">The ON/OFF current ratio of the devices gradually increased with increasing GQD concentration up to 0.5964 wt%, as seen in <ce:cross-ref refid="fig2" id="crosref0100">Fig. 2</ce:cross-ref>(a). This indicates that the GQDs act as carrier trap sites in the devices, resulting in an increase in the number of electrons trapped in the active layer at the OFF state with increasing GQD concentration, as shown in <ce:cross-ref refid="fig2" id="crosref0105">Fig. 2</ce:cross-ref>(a). Because the number of trap sites also increases with increasing GQD concentration, the conductivity of the OFF state for the device decreases <ce:cross-ref refid="bib19" id="crosref0110">[19]</ce:cross-ref>. Therefore, a larger bipolar memory margin of the NMDs can be achieved by adjusting the GQD concentration. However, the ON/OFF current ratio for the NMDs abruptly decreased to 79 as the GQD concentration was increased beyond 0.5964 to 1.4778 wt%, as shown in inset of <ce:cross-ref refid="fig2" id="crosref0115">Fig. 2</ce:cross-ref>(a). The decrease in the ON/OFF ratio for the NMDs at higher GQD concentrations can be attributed to an interruption of the internal electric field due to the high concentration of GQDs <ce:cross-ref refid="bib28" id="crosref0120">[28]</ce:cross-ref>. The interruption of the internal electrical field might suppress the trapped electrons injected from the Al electrode <ce:cross-refs refid="bib29 bib30" id="crosrefs0040">[29,30]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0070" view="all">The current retention characteristics of the ON and the OFF states for the devices at a read voltage of 1 V play an important role for promising applications of NMDs in mass production. The ON/OFF ratio of about 1.28 × 10<ce:sup loc="post">4</ce:sup> remains almost the same without any significant degradation until a testing time of about 1.2 × 10<ce:sup loc="post">4</ce:sup> s, as shown in <ce:cross-ref refid="fig2" id="crosref0125">Fig. 2</ce:cross-ref>(b), indicating that the NMDs demonstrate good storage stability under ambient conditions. When the number of endurance cycles for the NMDs with 0.0999-wt% GQDs with a maximum ON/OFF ratio of about 10 reached 30 cycles, their memory margins were significantly degraded. The degradation of the memory margins for the devices might be attributed to the aggregation or nonuniformity of the GQDs dispersed into the organic PVP matrix resulting from the small amount of the GQD. However, no significant decrease in the maximum ON/OFF ratio of the NMDs based on PVP:GQD nanocomposites was observed until 100 cycles, as shown in inset of <ce:cross-ref refid="fig2" id="crosref0130">Fig. 2</ce:cross-ref>(b). Therefore, the retention and the endurance characteristics of the NMDs based on PVP:GQD nanocomposites indicate that the device have excellent stability and reliability.</ce:para>
+                  <ce:para id="p0075" view="all">Investigating the device-to-device reproducibility of the memory devices is very important for practical applications in mass production. <ce:cross-ref refid="fig3" id="crosref0135">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/>(a) shows the probability distributions of the threshold voltages in the forward and the reverse bias region. The “erase” threshold voltages of the NMDs based on PVP:GQD nanocomposites at applied voltages between 2 and 3 V, which correspond to the threshold voltage distributions for the “erasing” mode of the NMDs, are indicative of NMDs with excellent reliability. The writing threshold voltages of the NMDs are distributed between −0.5 and −1.5 V. <ce:cross-ref refid="fig3" id="crosref0140">Fig. 3</ce:cross-ref>(b) shows the cumulative probability data for the two states of the Al/PVP:GQD/ITO devices. The cumulative probability represents the distribution of the resistance values for 20 random cells in the devices. The ON state current remains between 0.02 and 0.03 A, and the OFF state current remains between 10<ce:sup loc="post">−6</ce:sup> and 10<ce:sup loc="post">−4</ce:sup> A. The difference between the currents in the ON and the OFF states is more than two orders of magnitude, clearly demonstrating that the NMDs can be applied as stable memory devices.</ce:para>
+                  <ce:para id="p0080" view="all">The carrier transport mechanisms of the NMDs based on PVP:GQD nanocomposites can be presented on the basis of the results obtained by fitting the <ce:italic>I-V</ce:italic> curves, as shown in <ce:cross-ref refid="fig4" id="crosref0145">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig4"/>(a) and (b). The Ohmic conduction, the thermionic emission (TE), and the space charge limited current (SCLC) models are introduced to illustrate the conduction mechanisms of the devices. The Ohmic conduction model for the ON state <ce:cross-ref refid="bib27" id="crosref0150">[27]</ce:cross-ref> and the TE and the SCLC conduction models for the OFF state can be given by the following equations <ce:cross-refs refid="bib30 bib31" id="crosrefs0045">[30,31]</ce:cross-refs>:<ce:display>
+                        <ce:formula id="fd1">
+                           <ce:label>(1)</ce:label>
+                           <mml:math display="block" altimg="si1.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mspace width="0.25em"/>
+                                 <mml:mtext>J</mml:mtext>
+                                 <mml:mo>∝</mml:mo>
+                                 <mml:msup>
+                                    <mml:mi>V</mml:mi>
+                                    <mml:mi>α</mml:mi>
+                                 </mml:msup>
+                                 <mml:mtext>,</mml:mtext>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                     <ce:display>
+                        <ce:formula id="fd2">
+                           <ce:label>(2)</ce:label>
+                           <mml:math display="block" altimg="si2.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mtext>ln</mml:mtext>
+                                 <mml:mrow>
+                                    <mml:mo>(</mml:mo>
+                                    <mml:mtext>J</mml:mtext>
+                                    <mml:mo>)</mml:mo>
+                                 </mml:mrow>
+                                 <mml:mo>∝</mml:mo>
+                                 <mml:mi>ln</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mo>(</mml:mo>
+                                    <mml:mrow>
+                                       <mml:mi>A</mml:mi>
+                                       <mml:msup>
+                                          <mml:mi>T</mml:mi>
+                                          <mml:mn>2</mml:mn>
+                                       </mml:msup>
+                                    </mml:mrow>
+                                    <mml:mo>)</mml:mo>
+                                 </mml:mrow>
+                                 <mml:mo>−</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi>q</mml:mi>
+                                       <mml:mi>Ф</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>k</mml:mi>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mi>q</mml:mi>
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mo>(</mml:mo>
+                                          <mml:mrow>
+                                             <mml:mfrac>
+                                                <mml:mrow>
+                                                   <mml:msup>
+                                                      <mml:mi>q</mml:mi>
+                                                      <mml:mn>3</mml:mn>
+                                                   </mml:msup>
+                                                   <mml:mi>V</mml:mi>
+                                                </mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mn>4</mml:mn>
+                                                   <mml:mi>π</mml:mi>
+                                                   <mml:mi>ε</mml:mi>
+                                                </mml:mrow>
+                                             </mml:mfrac>
+                                          </mml:mrow>
+                                          <mml:mo>)</mml:mo>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mfrac>
+                                          <mml:mn>1</mml:mn>
+                                          <mml:mn>2</mml:mn>
+                                       </mml:mfrac>
+                                    </mml:mrow>
+                                 </mml:msup>
+                                 <mml:mtext>,</mml:mtext>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                     <ce:display>
+                        <ce:formula id="fd3">
+                           <ce:label>(3)</ce:label>
+                           <mml:math altimg="si3.gif" overflow="scroll">
+                              <mml:mtext>J</mml:mtext>
+                              <mml:mo>∝</mml:mo>
+                              <mml:mtext> </mml:mtext>
+                              <mml:mfrac>
+                                 <mml:mrow>
+                                    <mml:mn>9</mml:mn>
+                                    <mml:mo>µ</mml:mo>
+                                    <mml:msub>
+                                       <mml:mi>ε</mml:mi>
+                                       <mml:mn>0</mml:mn>
+                                    </mml:msub>
+                                    <mml:msub>
+                                       <mml:mi>ε</mml:mi>
+                                       <mml:mi>r</mml:mi>
+                                    </mml:msub>
+                                 </mml:mrow>
+                                 <mml:mn>8</mml:mn>
+                              </mml:mfrac>
+                              <mml:mspace width="0.25em"/>
+                              <mml:mfenced>
+                                 <mml:mfrac>
+                                    <mml:msup>
+                                       <mml:mi>v</mml:mi>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:msup>
+                                    <mml:msup>
+                                       <mml:mi>d</mml:mi>
+                                       <mml:mn>3</mml:mn>
+                                    </mml:msup>
+                                 </mml:mfrac>
+                              </mml:mfenced>
+                              <mml:mtext>,</mml:mtext>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>J</ce:italic>, <ce:italic>V</ce:italic>, <ce:italic>A, T,</ce:italic> ε, <mml:math altimg="si4.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mtext>ε</mml:mtext>
+                              <mml:mi>r</mml:mi>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math>, φ, <ce:italic>k, q</ce:italic>, and <ce:italic>µ</ce:italic> represent the current density, the applied voltage, the Richardson constant, the absolute temperature, the dielectric permittivity, the relative dielectric constant, the barrier height, the Boltzmann constant, the electronic charge, and the carrier mobility, respectively.</ce:para>
+                  <ce:para id="p0085" view="all">The TE conduction model is dominantly attributed to the carrier transport in the OFF state of the device, where the applied voltage is swept from 0 to 0.6 V. In the plot of ln <ce:italic>I</ce:italic> versus <mml:math altimg="si5.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:msup>
+                              <mml:mi>V</mml:mi>
+                              <mml:mrow>
+                                 <mml:mn>0.5</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:mrow>
+                     </mml:math>, as shown in the inset of <ce:cross-ref refid="fig4" id="crosref0155">Fig. 4</ce:cross-ref>(a), the slope of the curve in the lower voltage region up to 0.6 V can be well fitted to the TE conduction model <ce:cross-refs refid="bib5 bib30" id="crosrefs0050">[5,30]</ce:cross-refs>. A few carriers at low bias voltages can overcome the energy barrier formed due to the difference in the potential between the Al electrode and the lowest unoccupied molecular orbital (LUMO) of the PVP and the GQD <ce:cross-ref refid="bib30" id="crosref0160">[30]</ce:cross-ref>. Therefore, a few hot carriers contribute to the conductivity of the device <ce:cross-ref refid="bib31" id="crosref0165">[31]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0090" view="all">After the voltage applied to the device in the OFF state is swept pass 0.6 V a log-log plot of the <ce:italic>I-V</ce:italic> curve has a linear fit to <mml:math altimg="si6.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:mi>I</mml:mi>
+                           <mml:mo>∼</mml:mo>
+                           <mml:msup>
+                              <mml:mi>V</mml:mi>
+                              <mml:mrow>
+                                 <mml:mn>1.7</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:mrow>
+                     </mml:math>, showing that the SCLC conduction model is dominant. At these higher biases, a greater number of hot carriers are able to overcome the energy barrier via a SCLC conduction process, unlike the conduction mechanism in the low-bias voltage region <ce:cross-ref refid="bib30" id="crosref0170">[30]</ce:cross-ref>. The conductive carriers increasingly accumulate in the GQDs with increasing applied voltage, resulting in the formation of a space-charge region in the device <ce:cross-refs refid="bib29 bib31" id="crosrefs0055">[29,31]</ce:cross-refs>. Therefore, a large number of hot carriers contribute to the conductivity of the device, as shown in <ce:cross-ref refid="fig4" id="crosref0175">Fig. 4</ce:cross-ref>(a).</ce:para>
+                  <ce:para id="p0095" view="all">
+                     <ce:cross-ref refid="fig4" id="crosref0180">Fig. 4</ce:cross-ref>(a) presents a linear fitting of the <ce:italic>I-V</ce:italic> curve, plotted on a log-log scale, at the ON state of the device for a voltage sweep from 0 to 2 V. Only one distinct region, which can be fitted by using an <ce:italic>I ∼ V</ce:italic> fitting curve with a linear slope, can be seen during the voltage sweep from 0 to 2 V; consequently, the variation in the current is almost proportional to the applied voltage, as shown in <ce:cross-ref refid="fig4" id="crosref0185">Fig. 4</ce:cross-ref>(a). As a result of the <ce:italic>I-V</ce:italic> fitting, the active layer is filled by injected electrons <ce:cross-ref refid="bib27" id="crosref0190">[27]</ce:cross-ref>. The TE and the SCLC conduction models in the OFF state of the device are suitable for fitting the results with two distinct slopes, but the conduction mechanism of the device at the ON state is consistent with the Ohmic conduction model <ce:cross-refs refid="bib27 bib28 bib29" id="crosrefs0060">[27–29]</ce:cross-refs>. Therefore, the carrier transport mechanisms of the NMDs based on PVP:GQD nanocomposites can be described on the basis of the above results.</ce:para>
+                  <ce:para id="p0100" view="all">
+                     <ce:cross-ref refid="fig5" id="crosref0195">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig5"/> shows the carrier transport behaviors by using the energy band diagrams of the NMDs to describe the carrier conduction mechanisms of the devices at the OFF and the ON states, respectively. When low bias voltages between 0 and 0.6 V are applied to the devices at the OFF state, a few electrons are injected through the top Al electrode and are trapped in the trap sites of the GQDs in the active layer, as shown in <ce:cross-ref refid="fig5" id="crosref0200">Fig. 5</ce:cross-ref>(a). More electrons injected from the top Al electrode are trapped in GQD trap sites with increasing applied voltage when the applied voltage is larger than the energy barrier, as shown in <ce:cross-ref refid="fig5" id="crosref0205">Fig. 5</ce:cross-ref>(b). The electrical characteristics show that for the NMDs at the ON state, the injected electrons are able to fill the GQD trap sites when the bias voltage exceeds the energy barrier due to the difference in potential between the LUMO of the PVP and the GQDs, as shown in <ce:cross-ref refid="fig5" id="crosref0210">Fig. 5</ce:cross-ref>(c). The electrons injected from the ITO electrode under positive bias occupied in GQD trap sites, resulting in a decrease in the current, as shown in <ce:cross-ref refid="fig5" id="crosref0215">Fig. 5</ce:cross-ref>(d). Consequently, the current can flow more easily because conduction filaments are formed in the active layer <ce:cross-ref refid="bib12" id="crosref0220">[12]</ce:cross-ref>. However, when the positive voltage applied to the Al electrode is above 2.4 V, the electrons captured in the GQDs are released to the Al electrode, resulting in the disappearance of the internal electric field <ce:cross-ref refid="bib30" id="crosref0225">[30]</ce:cross-ref>. Thus, the device switches from the ON to the OFF states. While the carrier transport mechanism for the device at the ON state can be attributed to Ohmic conduction model, the carrier transport mechanisms for the device at the OFF state are related to TE and SCLC conduction models.</ce:para>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0045">Conclusion</ce:section-title>
+                  <ce:para id="p0105" view="all">Highly-reproducible nonvolatile memristive devices (NMD) based on organic/inorganic hybrid nanocomposites were investigated due to their superior advantages of mechanical flexibility, low cost, low-power consumption, and simple fabrication process. The electrical characteristics of NMDs based on PVP:GQD nanocomposites were investigated in order to understand their conduction mechanisms. The <ce:italic>I-V</ce:italic> curves for the NMDs demonstrated electrical bistability with a high ON/OFF ratio of 1.21 × 10<ce:sup loc="post">4</ce:sup> and a long retention time larger than 10<ce:sup loc="post">4</ce:sup>. The ON/OFF ratio of the NMDs increased with increasing GQD concentration up to 0.5964 wt%. The electrical characteristics of the NMDs based on PVP:GQD nanocomposites demonstrated good endurance and retention without any significant electrical degradation. On the basis of both energy band diagrams and the results of fitting the <ce:italic>I-V</ce:italic> curves at the ON and the OFF states, the carrier transport mechanisms taking place in the NMDs could be explained by using the Ohmic, TE, and SCLC conduction models to describe the ways in which electrons injected from the Al electrode occupied GQD trap sites. These results indicate that NMDs based on PVP:GQD nanocomposites hold promise for potential application in next-generation memristive devices.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0050">Acknowledgement</ce:section-title>
+               <ce:para id="p0110" view="all">This research was supported by the Basic Science Research Program through the <ce:grant-sponsor id="gs1" sponsor-id="http://dx.doi.org/10.13039/501100003725" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Research Foundation of Korea</ce:grant-sponsor> (NRF) funded by the <ce:grant-sponsor id="gs3" sponsor-id="http://dx.doi.org/10.13039/501100004085" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Ministry of Education, Science and Technology</ce:grant-sponsor> (<ce:grant-number refid="gs3">2016R1A2A1A05005502</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0055">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.W.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.L.</ce:given-name>
+                                 <ce:surname>Kwan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrical memory devices based on inorganic/organic nanocomposites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>NPG Asia Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>e18–1-e18-12</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.H.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.C.</ce:given-name>
+                                 <ce:surname>Ooi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.Y.</ce:given-name>
+                                 <ce:surname>Yun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.W.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrical bistabilities and conduction mechanisms of nonvolatile memories based on a polymethylsilsesquioxane insulating layer containing CdSe/ZnS quantum dots</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3962</sb:first-page>
+                              <sb:last-page>3966</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.Y.</ce:given-name>
+                                 <ce:surname>Yun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.S.</ce:given-name>
+                                 <ce:surname>Arul</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.U.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.W.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Memory stabilities and mechanisms of organic bistable devices with giant memory margins based on Cu<ce:inf loc="post">2</ce:inf>ZnSnS<ce:inf loc="post">4</ce:inf> nanoparticles/PMMA nanocomposites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Org. Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>320</sb:first-page>
+                              <sb:last-page>324</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Uoyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Goushi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Shizu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nomura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Adachi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Highly efficient organic light-emitting diodes from delayed fluorescence</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>492</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>234</sb:first-page>
+                              <sb:last-page>240</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.W.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.U.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Joshua Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mimicking classical conditioning based on a single flexible memristor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1602890</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Heremans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.H.</ce:given-name>
+                                 <ce:surname>Gelinck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Muller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Baeg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.Y.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Noh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Polymer and organic nonvolatile memory devices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>341</sb:first-page>
+                              <sb:last-page>358</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Bok</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.W.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Operating mechanisms of highly-reproducible write-once-read-many-times memory devices based on graphene quantum dot:poly(methyl silsesquioxane) nanocomposites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>110</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>013301</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Roy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Padmanabhan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Goswami</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Sai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Ramalingam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Raghavan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ghosh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Graphene–MoS<ce:inf loc="post">2</ce:inf> hybrid structures for multifunctional photoresponsive memory devices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Nanotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>826</sb:first-page>
+                              <sb:last-page>830</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Hong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.O.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Flexible resistive switching memory device based on graphene oxide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Electron Device Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1005</sb:first-page>
+                              <sb:last-page>1007</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.I.</ce:given-name>
+                                 <ce:surname>Son</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.W.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.I.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Photoresponse mechanisms of ultraviolet photodetectors based on colloidal ZnO quantum dot-graphene nanocomposites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>021105</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Gu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Petrone</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>McMillan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>van der Zande</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.Q.</ce:given-name>
+                                 <ce:surname>Lo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Kwong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hone</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Wong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Regenerative oscillation and four-wave mixing in graphene optoelectronics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Photonics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>554</sb:first-page>
+                              <sb:last-page>559</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.I.</ce:given-name>
+                                 <ce:surname>Son</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.W.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Shim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Jung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.U.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.I.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.K.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Flexible organic bistable devices based on graphene embedded in an insulating poly(methyl methacrylate) polymer layer</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2441</sb:first-page>
+                              <sb:last-page>2447</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Geim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Graphene: status and prospects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1530</sb:first-page>
+                              <sb:last-page>1534</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Jang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Hur</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Yoo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Jeon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Highly efficient light-emitting diode of graphene quantum dots fabricated from graphite intercalation compounds</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Opt. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1016</sb:first-page>
+                              <sb:last-page>1023</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Ji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.N.</ce:given-name>
+                                 <ce:surname>Cha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Suh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Bae</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Moon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.W.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Graphene quantum dots as a highly efficient solution-processed charge trapping medium for organic nano-floating gate memory</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanotechnology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>145204</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Joo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.K.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Hwang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Graphene-quantum-dot nonvolatile charge trap flash memories</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanotechnology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>255203</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.R.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.E.</ce:given-name>
+                                 <ce:surname>Jo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.T.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Sung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.Y.</ce:given-name>
+                                 <ce:surname>Won</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrostatically transparent graphene quantum-dot trap layers for efficient nonvolatile memory</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>106</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>103105</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhuang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Coexistence of negative photoconductivity and hysteresis in semiconducting graphene</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>AIP Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>45214</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kalita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Shinde</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.K.</ce:given-name>
+                                 <ce:surname>Pillai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Aslam</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hysteresis and charge trapping in graphene quantum dots</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>143104</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Cao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.L.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Preparation of MoS2–polyvinylpyrrolidone nanocomposites for flexible nonvolatile rewritable memory devices with reduced graphene oxide electrodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Small</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>143</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3517</sb:first-page>
+                              <sb:last-page>3522</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Paul</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kanwal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chhowalla</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Memory effect in thin films of insulating polymer and C<ce:inf loc="post">60</ce:inf> nanocomposites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanotechnology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>145</sb:first-page>
+                              <sb:last-page>151</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Alia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Siddiquia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Yanga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.T.</ce:given-name>
+                                 <ce:surname>Leeb</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Um</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Direct synthesis of graphene quantum dots from multilayer graphene flakes through grinding assisted co-solvent ultrasonication for all-printed resistive switching arrays</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>RCS Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5068</sb:first-page>
+                              <sb:last-page>5078</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Mhin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>H</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Jones</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Ryu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.B.</ce:given-name>
+                                 <ce:surname>Shim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ultrafast method for selective design of graphene quantum dots with highly efficient blue emission</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Rep.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>38423</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Jeon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Choo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.W.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhancement of out-coupling efficiency due to an organic scattering layer in organic light-emitting devices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Org. Electron</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>197</sb:first-page>
+                              <sb:last-page>201</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.P.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Organic electrical bistable devices and rewritable memory cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2997</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.T.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.B.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhuang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Sonar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.A.L.</ce:given-name>
+                                 <ce:surname>Roy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ultra-flexible nonvolatile memory based on donor-acceptor diketopyrrolopyrrole polymer blends</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Rep.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10683</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.X.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.L.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Efficient tristable resistive memory based on single layer graphene/insulating polymer multi-stacking layer</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>183105–1-183105-5</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Highly reproducible memory effect of organic multilevel resistive-switch device utilizing graphene oxide sheets/polyimide hybrid nanocomposite</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>99</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>042108</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sref29">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Songmuang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kalita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Sinha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Hertog</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Andre</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ben</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Gonzalez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Mariette</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Monroy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Strong suppression of internal electric field in GaN/AlGaN multi-layer quantum dots in nanowires</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>99</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>141914</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.W.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carrier transport in volatile memory device with SnO<ce:inf loc="post">2</ce:inf> quantum dots embedded in a polyimide layer</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jpn. J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>095003</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="sref31">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Dey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Layek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Roychowdhury</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Das</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Datta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Middya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dasc</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.P.</ce:given-name>
+                                 <ce:surname>Ray</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigation of charge transport properties in less defective nanostructured ZnO based Schottky diode</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>RSC Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>36560</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

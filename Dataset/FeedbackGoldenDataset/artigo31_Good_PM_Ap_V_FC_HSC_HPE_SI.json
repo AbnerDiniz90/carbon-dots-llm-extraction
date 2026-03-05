@@ -1,0 +1,88 @@
+{
+  "input_source": "artigo31.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "Nitrogen and phosphorous doped carbon quantum dots for sensing dopamine (DA) and temperature in aqueous medium",
+        "iupac_name": null,
+        "alternative_names": [
+          "N, P doped CQDs",
+          "Carbon quantum dots (CQDs)"
+        ]
+      },
+      "synthesis": {
+        "method": {
+          "type": "one-step microwave digestion",
+          "conditions": "150°C in 1min using 850W microwave irradiations. Reaction was proceeded at this temperature for 30min through controlling the duration of microwave ir radiation (700W)",
+          "catalysts": null
+        },
+        "precursors": {
+          "source": [
+            "0.2g urea phosphate",
+            "0.3g citric acid",
+            "875μL ethylenediamine"
+          ],
+          "dopants": [
+            "Nitrogen",
+            "Phosphorous"
+          ]
+        },
+        "post_treatment": [
+          "Centrifugation at 10,000 rpm for 15 min",
+          "Filtration through 0.22 μm membrane"
+        ]
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": "44.2%",
+            "reference_material": "quinine sulfate"
+          },
+          "excitation_max": "350nm",
+          "emission_max": "441nm",
+          "fluorescence_lifetime": null
+        },
+        "structural": {
+          "size": {
+            "avg": "diameter 2.7 ± 0.6nm",
+            "distribution": "2-4nm"
+          },
+          "morphology": "Narrow size distribution with spherical shape",
+          "crystallinity": "resolvable broad peak centred at 25. 8°"
+        },
+        "chemical": {
+          "surface_groups": [
+            "O-H",
+            "N-H",
+            "C-H",
+            "C=O",
+            "C=C",
+            "C-N",
+            "P-O",
+            "P=O",
+            "P-OH",
+            "P-C"
+          ],
+          "elemental_composition": {
+            "C": "25.02% (atomic), 0.58% (weight)",
+            "N": "37.78% (atomic), 36.62% (weight)",
+            "O": " 38.15% (atomic), 31.71% (weight)",
+            "P": "28.85% (atomic), 1.29%(weight)"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "Dopamine sensing",
+          "performance": "Linear range: 10-500 μM (R²=0.994), detection limit: 0.021 μM",
+          "comparative_advantage": "good quantum yield of 44% in a simple as well as greener way, tremendous optical performance, notable fluorescence, excellent water solubility and thermosensitivity."
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Good",
+    "score": 5.0,
+    "expert_comment": "Perfect Match: The extraction captures all relevant technical details defined in the 'Extraction Scope'. Synthesis methods, precursors, and optical properties align precisely with the source text, demonstrating full compliance with the expert guidelines. | Applicability Verified: The extracted aplication domains align perfectly with those mentioned in the source text. The model accurately identified, listed and described all relevant application areas for the Carbon Dots used in the article. | Field Completeness: All mandatory fields were populated correctly. The synthesis method, precursors, and post-treatment sections contain comprehensive details as specified in the source document. Additional fields were filled only with extrictly necessary and relevant information. | High Scientific Context: Scientific data relative to Carbon Dots was extracted with high precision. The model successfully preserved scientific context (e.g., general information and synthesis) and handled nomenclature and experimental details as requested in the 'Data Quality' section. | High Precision Extraction: Numerical values (such as Quantum Yield, Size, and Chemical) were extracted with correct units and significant figures. The model accurately reflects the quantitative data from the source text. | Structural Integrity: The output matches the required JSON schema perfectly. Complex nested arrays (such as precursors/dopants and application domains) were populated correctly without truncating list items or breaking the syntax."
+  }
+}

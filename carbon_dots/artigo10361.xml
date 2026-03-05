@@ -1,0 +1,2634 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925400517300771</prism:url><dc:identifier>doi:10.1016/j.snb.2017.01.070</dc:identifier><eid>1-s2.0-S0925400517300771</eid><prism:doi>10.1016/j.snb.2017.01.070</prism:doi><pii>S0925-4005(17)30077-1</pii><dc:title>High photoluminescent TPA and the ratiometric sensor for free chlorine </dc:title><prism:publicationName>Sensors and Actuators B: Chemical</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09254005</prism:issn><prism:volume>244</prism:volume><prism:startingPage>771</prism:startingPage><prism:endingPage>776</prism:endingPage><prism:pageRange>771-776</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2017-06-30</prism:coverDate><prism:coverDisplayDate>June 2017</prism:coverDisplayDate><prism:copyright>© 2017 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Fang, Qingqing</dc:creator><dc:creator>Wang, Qian</dc:creator><dc:creator>Lin, Wei</dc:creator><dc:creator>You, Xu</dc:creator><dc:creator>Dong, Yongqiang</dc:creator><dc:creator>Chi, Yuwu</dc:creator><dc:description>
+                  A facile and high yield method is introduced to synthesize 3,5-dihydro-5-oxo-2H-thiazolo[3,2-a]pyridine-3,7-dicarboxylic acid (TPA) through the “one-step” condensation reaction of citric acid and l-cysteine. For the first time, the produced TPA molecules are purified by the simple crystallization, and the photoluminescence (PL) properties of the TPA are investigated. The obtained purified TPA shows bright blue PL, with a PL quantum yield as high as 90.5%. The sulfur atom of TPA molecule can be selectively oxidized by free chlorine into sulfoxide, which is a strong electron withdrawing group. As a result, the conjugation is decreased, leading to a great PL quenching. On the basis, a sensitive and selective PL sensor is developed for the detection of free chlorine. Furthermore, tris(2,2-bipyridine)ruthenium(II) chloride hexahydrate, whose red PL signal is inert to the free chlorine, can be used to provide a background PL signal. Thus, a visual PL ratiometric sensor is developed, which is convenient for the on-site and on-line detection of free chlorine.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>3,5-Dihydro-5-oxo-2H-thiazolo[3,2-a]pyridine-3,7-dicarboxylic acid</dcterms:subject><dcterms:subject>Synthesis</dcterms:subject><dcterms:subject>Photoluminescence</dcterms:subject><dcterms:subject>Free chlorine</dcterms:subject><dcterms:subject>Sensor</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925400517300771" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925400517300771" rel="scidir"/></coredata><objects><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="201" height="164" size="10853">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="fx2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="201" height="164" size="15289">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx2.sml?httpAccept=%2A%2F%2A</object><object ref="fx3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="201" height="164" size="17340">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx3.sml?httpAccept=%2A%2F%2A</object><object ref="fx4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="201" height="164" size="15709">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx4.sml?httpAccept=%2A%2F%2A</object><object ref="fx5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="201" height="164" size="15841">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx5.sml?httpAccept=%2A%2F%2A</object><object ref="fx6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="201" height="164" size="15949">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx6.sml?httpAccept=%2A%2F%2A</object><object ref="fx7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="201" height="164" size="14298">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx7.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="166" height="164" size="5321">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="147" size="10951">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="152" size="16823">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="138" size="6376">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="190" height="164" size="9235">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="91" size="15088">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="sc1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="142" size="5663">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-sc1.sml?httpAccept=%2A%2F%2A</object><object ref="sc2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="65" size="3407">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-sc2.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="245" size="16612">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="245" size="13452">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx2.jpg?httpAccept=%2A%2F%2A</object><object ref="fx3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="245" size="12816">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx3.jpg?httpAccept=%2A%2F%2A</object><object ref="fx4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="245" size="11188">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx4.jpg?httpAccept=%2A%2F%2A</object><object ref="fx5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="245" size="12537">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx5.jpg?httpAccept=%2A%2F%2A</object><object ref="fx6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="245" size="11464">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx6.jpg?httpAccept=%2A%2F%2A</object><object ref="fx7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="245" size="10758">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="371" size="18882">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="252" size="27507">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="489" height="338" size="63502">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="237" size="15664">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="324" size="30971">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="157" size="15529">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="244" size="15291">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-sc1.jpg?httpAccept=%2A%2F%2A</object><object ref="sc2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="111" size="8503">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-sc2.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1333" height="1085" size="127218">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="fx2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1333" height="1085" size="117162">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="fx3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1333" height="1085" size="119881">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="fx4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1333" height="1085" size="102814">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="fx5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1333" height="1085" size="118282">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="fx6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1333" height="1085" size="110833">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="fx7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1333" height="1085" size="90737">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-fx7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1667" height="1646" size="133110">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1667" height="1118" size="214637">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2167" height="1500" size="478570">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1667" height="1049" size="136922">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1667" height="1438" size="236593">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1667" height="694" size="149028">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1667" height="1083" size="100980">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-sc1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="sc2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1667" height="493" size="52904">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-sc2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="805376">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400517300771-mmc1.doc?httpAccept=%2A%2F%2A</object></objects><scopus-id>85009455589</scopus-id><scopus-eid>2-s2.0-85009455589</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85009455589" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271353</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291685</xocs:ssid>
+         <xocs:ssid type="subj">291718</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Sensors and Actuators B: Chemical</xocs:srctitle>
+      <xocs:normalized-srctitle>SENSORSACTUATORSBCHEMICAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170112">2017-01-12</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170112">2017-01-12</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170117">2017-01-17</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170117">2017-01-17</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-11-05T06:46:35</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0925400517300771</xocs:eid>
+      <xocs:pii-formatted>S0925-4005(17)30077-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0925400517300771</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.snb.2017.01.070</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0925400516X00184</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20191105">2019-11-05T10:53:41.590534Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170601</xocs:date-search-begin>
+      <xocs:date-search-end>20170630</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1484200137">2017-01-12T05:48:57.636827Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst primabst ref specialabst vitae</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0925-4005</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09254005</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>244</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>244</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 244</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>87</xocs:sort-order>
+      <xocs:first-fp>771</xocs:first-fp>
+      <xocs:last-lp>776</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>771</xocs:first-page>
+         <xocs:last-page>776</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201706</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>June 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-06-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-06-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>General Section</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>HIGHPHOTOLUMINESCENTTPARATIOMETRICSENSORFORFREECHLORINE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>FANG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Q</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Synthesis of TPA</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Instrumentation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Analysis of real sample</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>PL properties of TPA</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Principle of the PL sensor for free chlorine based on TPA</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Establishment of the PL sensing for free chlorine</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Visual PL ratiometric sensor</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>128</xocs:ref-first-fp>
+            <xocs:ref-last-lp>132</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>KASPRZYK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6445</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6447</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>DONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7800</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7804</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>SONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5976</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5984</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>KOTAKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>181</xocs:ref-first-fp>
+            <xocs:ref-last-lp>184</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>WHITE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HANDBOOKCHLORINATION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>MATSUMOTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0040">
+            <xocs:ref-normalized-surname>TOFANT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>394</xocs:ref-first-fp>
+            <xocs:ref-last-lp>398</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0045">
+            <xocs:ref-normalized-surname>SIMPSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1522</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1528</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0050">
+            <xocs:ref-normalized-surname>MOBERG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>127</xocs:ref-first-fp>
+            <xocs:ref-last-lp>133</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0055">
+            <xocs:ref-normalized-surname>MARINO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>455</xocs:ref-first-fp>
+            <xocs:ref-last-lp>458</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0060">
+            <xocs:ref-normalized-surname>CLAVER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>267</xocs:ref-first-fp>
+            <xocs:ref-last-lp>273</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0065">
+            <xocs:ref-normalized-surname>HALLAJ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>789</xocs:ref-first-fp>
+            <xocs:ref-last-lp>796</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0070">
+            <xocs:ref-normalized-surname>TANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4528</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4535</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0075">
+            <xocs:ref-normalized-surname>MURATA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>29</xocs:ref-first-fp>
+            <xocs:ref-last-lp>36</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0080">
+            <xocs:ref-normalized-surname>KISHIOKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>724</xocs:ref-first-fp>
+            <xocs:ref-last-lp>726</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0085">
+            <xocs:ref-normalized-surname>PAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10734</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10737</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0090">
+            <xocs:ref-normalized-surname>JOVIC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>171</xocs:ref-first-fp>
+            <xocs:ref-last-lp>178</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0095">
+            <xocs:ref-normalized-surname>SULLIVAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>113</xocs:ref-first-fp>
+            <xocs:ref-last-lp>121</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0100">
+            <xocs:ref-normalized-surname>WATANABE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>397</xocs:ref-first-fp>
+            <xocs:ref-last-lp>400</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0105">
+            <xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9775</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9781</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0110">
+            <xocs:ref-normalized-surname>XUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>50</xocs:ref-first-fp>
+            <xocs:ref-last-lp>56</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0115">
+            <xocs:ref-normalized-surname>XIONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>790</xocs:ref-first-fp>
+            <xocs:ref-last-lp>795</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0120">
+            <xocs:ref-normalized-surname>DONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8378</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8382</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0125">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2037</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2041</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0130">
+            <xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5351</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5357</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0135">
+            <xocs:ref-normalized-surname>PEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>909</xocs:ref-first-fp>
+            <xocs:ref-last-lp>914</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0140">
+            <xocs:ref-normalized-surname>QU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>136</xocs:ref-first-fp>
+            <xocs:ref-last-lp>142</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0145">
+            <xocs:ref-normalized-surname>ROZWADOWSKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2329</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2333</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0150">
+            <xocs:ref-normalized-surname>AOKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>209</xocs:ref-first-fp>
+            <xocs:ref-last-lp>212</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0155">
+            <xocs:ref-normalized-surname>ROSALAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>196</xocs:ref-first-fp>
+            <xocs:ref-last-lp>201</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>FANGX2017X771</xocs:refkey3>
+         <xocs:refkey4lp>FANGX2017X771X776</xocs:refkey4lp>
+         <xocs:refkey4ai>FANGX2017X771XQ</xocs:refkey4ai>
+         <xocs:refkey5>FANGX2017X771X776XQ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2019-01-17T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2019-03-16T01:20:32.367Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>National Basic Research Program of China</xocs:funding-agency-matched-string>
+            <xocs:funding-id>2010CB732400</xocs:funding-id>
+            <xocs:funding-agency>National Basic Research Program of China (973 Program)</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100012166</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>National Natural Science Foundation of China</xocs:funding-agency-matched-string>
+            <xocs:funding-id>21375020</xocs:funding-id>
+            <xocs:funding-id>21675026</xocs:funding-id>
+            <xocs:funding-id>21675027</xocs:funding-id>
+            <xocs:funding-agency>National Natural Science Foundation of China</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100001809</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Program for Changjiang Scholars and Innovative Research Team in University</xocs:funding-agency-matched-string>
+            <xocs:funding-id>IRT1116</xocs:funding-id>
+         </xocs:funding>
+         <xocs:funding-text>This study was financially supported by National Natural Science Foundation of China (21675026, 21675027, 21375020), National Basic Research Program of China (2010CB732400), and the Program for Changjiang Scholars and Innovative Research Team in University (No. IRT1116).</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0925-4005(17)30077-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0925400517300771</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0925400517300771</xocs:eid>
+         <xocs:doi>10.1016/j.snb.2017.01.070</xocs:doi>
+         <xocs:cid>271353</xocs:cid>
+         <xocs:timestamp>2019-11-05T10:53:41.590534Z</xocs:timestamp>
+         <xocs:cover-date-start>2017-06-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-06-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/MAIN/application/pdf/00429b056007fa3d8a47e0fe18e359ff/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1784376</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0925400517300771-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/PREVIEW/image/png/4ad3dc9328103689197e3cc46880f8e8/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>58745</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx1/THUMBNAIL/image/gif/2d10be11da56c611933ecb522404f2d9/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10853</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>201</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx2/THUMBNAIL/image/gif/cc7ccf87782603beaff06267bafac738/fx2.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx2</xocs:file-basename>
+               <xocs:filename>fx2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15289</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>201</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx3/THUMBNAIL/image/gif/6d0d01b379836e0233ccd1c10e0d4a2b/fx3.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx3</xocs:file-basename>
+               <xocs:filename>fx3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17340</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>201</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx4/THUMBNAIL/image/gif/c5eb20e890608af073e4734da7f32ad3/fx4.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx4</xocs:file-basename>
+               <xocs:filename>fx4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15709</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>201</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx5/THUMBNAIL/image/gif/734bf8f8924f6073d3aebb469a9d09f0/fx5.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx5</xocs:file-basename>
+               <xocs:filename>fx5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15841</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>201</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx6/THUMBNAIL/image/gif/cf53da8ce752cbafe7bd2e03c8bf3a2f/fx6.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx6</xocs:file-basename>
+               <xocs:filename>fx6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15949</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>201</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx7/THUMBNAIL/image/gif/237506609636cac996db5ccc5cb2ca6e/fx7.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx7</xocs:file-basename>
+               <xocs:filename>fx7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14298</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>201</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/gr1/THUMBNAIL/image/gif/0b452ae01aa8c6b881dd74952a904478/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5321</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>166</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/gr2/THUMBNAIL/image/gif/12227de41665737c6ee4a16f8e673554/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10951</xocs:filesize>
+               <xocs:pixel-height>147</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/gr3/THUMBNAIL/image/gif/a0a16e372878b03666fdd097a3ac20bd/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16823</xocs:filesize>
+               <xocs:pixel-height>152</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/gr4/THUMBNAIL/image/gif/0824ff87ae1e2c01a1396d51c7aaaa30/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6376</xocs:filesize>
+               <xocs:pixel-height>138</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/gr5/THUMBNAIL/image/gif/7295e23ea5f11025a7babea9aec34f26/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9235</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>190</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/gr6/THUMBNAIL/image/gif/3959663cbc3c05ff792a2301ab9730aa/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15088</xocs:filesize>
+               <xocs:pixel-height>91</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-sc1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/sc1/THUMBNAIL/image/gif/0f3ebc863b17e8a3f1de074a5c6f0c95/sc1.sml</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5663</xocs:filesize>
+               <xocs:pixel-height>142</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-sc2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/sc2/THUMBNAIL/image/gif/454ddb4d0dad266c1cd9547b7d5ab015/sc2.sml</xocs:ucs-locator>
+               <xocs:file-basename>sc2</xocs:file-basename>
+               <xocs:filename>sc2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3407</xocs:filesize>
+               <xocs:pixel-height>65</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx1/DOWNSAMPLED/image/jpeg/8f168947c4066ac8a2edef14b2b9021a/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16612</xocs:filesize>
+               <xocs:pixel-height>245</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx2/DOWNSAMPLED/image/jpeg/b30cbbdb25afcc0dd28567772b84de6f/fx2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx2</xocs:file-basename>
+               <xocs:filename>fx2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>13452</xocs:filesize>
+               <xocs:pixel-height>245</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx3/DOWNSAMPLED/image/jpeg/4ef8d0b63315a95261657b185d9d9561/fx3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx3</xocs:file-basename>
+               <xocs:filename>fx3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>12816</xocs:filesize>
+               <xocs:pixel-height>245</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx4/DOWNSAMPLED/image/jpeg/dfbf8579c46cbbd2c52089ed9003b434/fx4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx4</xocs:file-basename>
+               <xocs:filename>fx4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>11188</xocs:filesize>
+               <xocs:pixel-height>245</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx5/DOWNSAMPLED/image/jpeg/d636c5b7ee56db9eedb1e51caf611ca7/fx5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx5</xocs:file-basename>
+               <xocs:filename>fx5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>12537</xocs:filesize>
+               <xocs:pixel-height>245</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx6/DOWNSAMPLED/image/jpeg/405666282a0672db704a49fe6b5f0a28/fx6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx6</xocs:file-basename>
+               <xocs:filename>fx6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>11464</xocs:filesize>
+               <xocs:pixel-height>245</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx7/DOWNSAMPLED/image/jpeg/9401fbd432a9e77b24aaf16e0f42b477/fx7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx7</xocs:file-basename>
+               <xocs:filename>fx7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>10758</xocs:filesize>
+               <xocs:pixel-height>245</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/gr1/DOWNSAMPLED/image/jpeg/e67852d4e02ef874d45686af8a953ab1/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>18882</xocs:filesize>
+               <xocs:pixel-height>371</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/gr2/DOWNSAMPLED/image/jpeg/9a0b424b61a60ffb4fc837d118944383/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>27507</xocs:filesize>
+               <xocs:pixel-height>252</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/gr3/DOWNSAMPLED/image/jpeg/cecf9234cebdccef315234f9c04b4c1b/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>63502</xocs:filesize>
+               <xocs:pixel-height>338</xocs:pixel-height>
+               <xocs:pixel-width>489</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/gr4/DOWNSAMPLED/image/jpeg/e1ee57dd73ed1ea5f1f0e3de6b9af343/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>15664</xocs:filesize>
+               <xocs:pixel-height>237</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/gr5/DOWNSAMPLED/image/jpeg/6a61d9d9510aea28e401846dc7419e60/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30971</xocs:filesize>
+               <xocs:pixel-height>324</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/gr6/DOWNSAMPLED/image/jpeg/9020e9e534e6c71f50a266a324db8203/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>15529</xocs:filesize>
+               <xocs:pixel-height>157</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-sc1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/sc1/DOWNSAMPLED/image/jpeg/34eeaffb2e81503f92176c419f198166/sc1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>15291</xocs:filesize>
+               <xocs:pixel-height>244</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-sc2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/sc2/DOWNSAMPLED/image/jpeg/0383dcecc1c773ae22031d89f26fc333/sc2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc2</xocs:file-basename>
+               <xocs:filename>sc2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>8503</xocs:filesize>
+               <xocs:pixel-height>111</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx1/HIGHRES/image/jpeg/e7fc9abd030a0e9522dc4a0c224a957e/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>127218</xocs:filesize>
+               <xocs:pixel-height>1085</xocs:pixel-height>
+               <xocs:pixel-width>1333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx2/HIGHRES/image/jpeg/0770ea3f5d0ee8f15b7c10813cbe8601/fx2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx2</xocs:file-basename>
+               <xocs:filename>fx2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>117162</xocs:filesize>
+               <xocs:pixel-height>1085</xocs:pixel-height>
+               <xocs:pixel-width>1333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx3/HIGHRES/image/jpeg/c02da1518e24798084c913373caf59fa/fx3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx3</xocs:file-basename>
+               <xocs:filename>fx3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>119881</xocs:filesize>
+               <xocs:pixel-height>1085</xocs:pixel-height>
+               <xocs:pixel-width>1333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx4/HIGHRES/image/jpeg/a12e966e079528bae7908a1a551161fe/fx4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx4</xocs:file-basename>
+               <xocs:filename>fx4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>102814</xocs:filesize>
+               <xocs:pixel-height>1085</xocs:pixel-height>
+               <xocs:pixel-width>1333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx5/HIGHRES/image/jpeg/141d22255887318435e9f76bb0135940/fx5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx5</xocs:file-basename>
+               <xocs:filename>fx5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>118282</xocs:filesize>
+               <xocs:pixel-height>1085</xocs:pixel-height>
+               <xocs:pixel-width>1333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx6/HIGHRES/image/jpeg/4e25f2abacee7715f65c44a523c4f153/fx6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx6</xocs:file-basename>
+               <xocs:filename>fx6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>110833</xocs:filesize>
+               <xocs:pixel-height>1085</xocs:pixel-height>
+               <xocs:pixel-width>1333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-fx7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/fx7/HIGHRES/image/jpeg/970eae5e408f13c9a949d9bc14cd16b2/fx7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx7</xocs:file-basename>
+               <xocs:filename>fx7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>90737</xocs:filesize>
+               <xocs:pixel-height>1085</xocs:pixel-height>
+               <xocs:pixel-width>1333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/gr1/HIGHRES/image/jpeg/5cde5490da7775ab69bd1722c3404b97/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>133110</xocs:filesize>
+               <xocs:pixel-height>1646</xocs:pixel-height>
+               <xocs:pixel-width>1667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/gr2/HIGHRES/image/jpeg/5dba493f58a1c001329cf896a4de5250/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>214637</xocs:filesize>
+               <xocs:pixel-height>1118</xocs:pixel-height>
+               <xocs:pixel-width>1667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/gr3/HIGHRES/image/jpeg/c1f0b1cd8b3a0965cad06aa41cd2ce6d/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>478570</xocs:filesize>
+               <xocs:pixel-height>1500</xocs:pixel-height>
+               <xocs:pixel-width>2167</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/gr4/HIGHRES/image/jpeg/bacaf5465827d674e9477dd0bdc15692/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>136922</xocs:filesize>
+               <xocs:pixel-height>1049</xocs:pixel-height>
+               <xocs:pixel-width>1667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/gr5/HIGHRES/image/jpeg/72eec53553a010f3304e9e89da40aeab/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>236593</xocs:filesize>
+               <xocs:pixel-height>1438</xocs:pixel-height>
+               <xocs:pixel-width>1667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/gr6/HIGHRES/image/jpeg/01bee8f89edc1393dbbfa569d0c2862f/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>149028</xocs:filesize>
+               <xocs:pixel-height>694</xocs:pixel-height>
+               <xocs:pixel-width>1667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-sc1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/sc1/HIGHRES/image/jpeg/c126526b5598a9f9cba415a0d1328436/sc1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>100980</xocs:filesize>
+               <xocs:pixel-height>1083</xocs:pixel-height>
+               <xocs:pixel-width>1667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-sc2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/sc2/HIGHRES/image/jpeg/97b20291bf3a47395aa5d21149b069cc/sc2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc2</xocs:file-basename>
+               <xocs:filename>sc2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>52904</xocs:filesize>
+               <xocs:pixel-height>493</xocs:pixel-height>
+               <xocs:pixel-width>1667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400517300771-mmc1.doc</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925400517300771/mmc1/MAIN/application/msword/29e696fd07f4e22b059b50dfa0a0f5fb/mmc1.doc</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.doc</xocs:filename>
+               <xocs:extension>doc</xocs:extension>
+               <xocs:filesize>805376</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.4" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>SNB</jid>
+            <aid>21595</aid>
+            <ce:pii>S0925-4005(17)30077-1</ce:pii>
+            <ce:doi>10.1016/j.snb.2017.01.070</ce:doi>
+            <ce:copyright type="full-transfer" year="2017">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0005">
+               <ce:label>Scheme 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="spar0005" view="all">Synthesis of TPA from the condensation reaction between citric acid and <ce:small-caps>l</ce:small-caps>-cysteine.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0085" role="short">Scheme 1</ce:alt-text>
+               <ce:link locator="sc1" xlink:href="pii:S0925400517300771/sc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0010">
+               <ce:label>Scheme 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="spar0010" view="all">Reaction mechanism of TPA towards free chlorine.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0090" role="short">Scheme 2</ce:alt-text>
+               <ce:link locator="sc2" xlink:href="pii:S0925400517300771/sc2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0015">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="spar0015" view="all">Mass spectra of TPA (a) and the oxidation product (b).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0095" role="short">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:href="pii:S0925400517300771/gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0020">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="spar0020" view="all">UV and PL (Ex: 345<ce:hsp sp="0.25"/>nm) spectra of 10<ce:hsp sp="0.25"/>μM TPA solution in the absence and presence of 14<ce:hsp sp="0.25"/>μM free chlorine (pH<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>4). The inset shows the corresponding PL photos under the irradiation of 365<ce:hsp sp="0.25"/>nm UV light.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0100" role="short">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:href="pii:S0925400517300771/gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0025">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="spar0025" view="all">Effect of pH value on the PL response of 10<ce:hsp sp="0.25"/>μM TPA in the absence and presence of 10<ce:hsp sp="0.25"/>μM NaClO, and the corresponding pH-dependent quenching efficiency (reaction time: 20<ce:hsp sp="0.25"/>min, Ex: 345<ce:hsp sp="0.25"/>nm, Em: 415<ce:hsp sp="0.25"/>nm).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0105" role="short">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:href="pii:S0925400517300771/gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0030">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="spar0030" view="all">Selectivity of the TPA-based sensor for free chlorine over other ions (pH: 4, reaction time: 20<ce:hsp sp="0.25"/>min, Ex: 345<ce:hsp sp="0.25"/>nm, Em: 415<ce:hsp sp="0.25"/>nm). The concentration of TPA is 10<ce:hsp sp="0.25"/>μM. All the interference ions are 100<ce:hsp sp="0.25"/>μM, except for MnO<ce:inf loc="post">4</ce:inf>
+                     <ce:sup loc="post">−</ce:sup> and Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">7</ce:inf>
+                     <ce:sup loc="post">2−</ce:sup> are 10<ce:hsp sp="0.25"/>μM.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0110" role="short">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:href="pii:S0925400517300771/gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0035">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="spar0035" view="all">PL intensities of 10<ce:hsp sp="0.25"/>μM TPA upon addition of various concentrations of NaClO (from top to down: 0, 0.2, 0.4, 0.6, 0.8, 1, 2, 4, 6, 8, 10, 12, 14<ce:hsp sp="0.25"/>μM, pH: 4, reaction time: 20<ce:hsp sp="0.25"/>min, Ex: 345<ce:hsp sp="0.25"/>nm). Inset: Stern-Volmer plot of PL quenching efficiency of the TPA by free chlorine.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0115" role="short">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:href="pii:S0925400517300771/gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0040">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="spar0040" view="all">Visual PL photos of the mixed solution (10<ce:hsp sp="0.25"/>μM TPA<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>28<ce:hsp sp="0.25"/>μM Ru(bpy)<ce:inf loc="post">3</ce:inf>Cl<ce:inf loc="post">2</ce:inf>·6H<ce:inf loc="post">2</ce:inf>O) added with various concentrations of free chlorine under 365<ce:hsp sp="0.25"/>nm UV light.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0120" role="short">Fig. 6</ce:alt-text>
+               <ce:link locator="gr6" xlink:href="pii:S0925400517300771/gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">High photoluminescent TPA and the ratiometric sensor for free chlorine</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" biographyid="vt0005" author-id="S0925400517300771-894232e7c45a09c279db4984db302bb7">
+                  <ce:given-name>Qingqing</ce:given-name>
+                  <ce:surname>Fang</ce:surname>
+               </ce:author>
+               <ce:author id="aut0010" biographyid="vt0010" author-id="S0925400517300771-fff7e6373e3d128a5cb3fee3cf2c4303">
+                  <ce:given-name>Qian</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+               </ce:author>
+               <ce:author id="aut0015" biographyid="vt0015" author-id="S0925400517300771-61c739ee2fcaf9fa48536af62bf414b7">
+                  <ce:given-name>Wei</ce:given-name>
+                  <ce:surname>Lin</ce:surname>
+               </ce:author>
+               <ce:author id="aut0020" biographyid="vt0020" author-id="S0925400517300771-17770f59abf8795565afbf52c17a7a79">
+                  <ce:given-name>Xu</ce:given-name>
+                  <ce:surname>You</ce:surname>
+               </ce:author>
+               <ce:author id="aut0025" biographyid="vt0025" author-id="S0925400517300771-741c0b3f7f46d7e840eb00c249130866">
+                  <ce:given-name>Yongqiang</ce:given-name>
+                  <ce:surname>Dong</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="aut0030" biographyid="vt0030" author-id="S0925400517300771-24931ee1d8542e066bc0686e2f1d8596">
+                  <ce:given-name>Yuwu</ce:given-name>
+                  <ce:surname>Chi</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:textfn>MOE Key Laboratory of Analysis and Detection Technology for Food Safety, Fujian Provincial Key Laboratory of Analysis and Detection Technology for Food Safety, and Department of Chemistry, Fuzhou University, Fujian, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>MOE Key Laboratory of Analysis and Detection Technology for Food Safety</sa:organization>
+                     <sa:organization>Fujian Provincial Key Laboratory of Analysis and Detection Technology for Food Safety</sa:organization>
+                     <sa:organization>Department of Chemistry</sa:organization>
+                     <sa:organization>Fuzhou University</sa:organization>
+                     <sa:city>Fujian</sa:city>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="18" month="9" year="2016"/>
+            <ce:date-revised day="9" month="1" year="2017"/>
+            <ce:date-accepted day="10" month="1" year="2017"/>
+            <ce:abstract id="abs0005" class="graphical" view="all">
+               <ce:section-title id="sect0005">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0045" view="all">A high photoluminescent pyridine-derivative, 3,5-dihydro-5-oxo-2<ce:italic>H</ce:italic>-thiazolo[3,2-<ce:italic>a</ce:italic>]pyridine-3,7-dicarboxylic acid, was synthesized and used as the probe for free chlorine detection.</ce:simple-para>
+                  <ce:simple-para id="spar0050" view="all">
+                     <ce:display>
+                        <ce:figure id="fig0045">
+                           <ce:link xlink:href="pii:S0925400517300771/fx1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" locator="fx1" xlink:type="simple"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:abstract id="abs0015" view="all" class="author"><ce:abstract-sec id="abst0015" view="all">
+                  <ce:simple-para id="spar0060" view="all">A facile and high yield method is introduced to synthesize 3,5-dihydro-5-oxo-2<ce:italic>H</ce:italic>-thiazolo[3,2-<ce:italic>a</ce:italic>]pyridine-3,7-dicarboxylic acid (TPA) through the “one-step” condensation reaction of citric acid and <ce:small-caps>l</ce:small-caps>-cysteine. For the first time, the produced TPA molecules are purified by the simple crystallization, and the photoluminescence (PL) properties of the TPA are investigated. The obtained purified TPA shows bright blue PL, with a PL quantum yield as high as 90.5%. The sulfur atom of TPA molecule can be selectively oxidized by free chlorine into sulfoxide, which is a strong electron withdrawing group. As a result, the conjugation is decreased, leading to a great PL quenching. On the basis, a sensitive and selective PL sensor is developed for the detection of free chlorine. Furthermore, tris(2,2-bipyridine)ruthenium(II) chloride hexahydrate, whose red PL signal is inert to the free chlorine, can be used to provide a background PL signal. Thus, a visual PL ratiometric sensor is developed, which is convenient for the on-site and on-line detection of free chlorine.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0020">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>3,5-Dihydro-5-oxo-2<ce:italic>H</ce:italic>-thiazolo[3,2-<ce:italic>a</ce:italic>]pyridine-3,7-dicarboxylic acid</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>Synthesis</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>Photoluminescence</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Free chlorine</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text>Sensor</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0005" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0025">Introduction</ce:section-title>
+                  <ce:para id="par0025" view="all">Recently, citric acid (CA) coupled with some amino groups containing molecules have been well used in high photoluminescent (PL) materials, including polymers and carbon based dots (CDs) <ce:cross-refs id="crfs0005" refid="bib0005 bib0010 bib0015 bib0020">[1–4]</ce:cross-refs>. It was proposed that some high PL pyridine-derivatives are produced as by-products during the preparation of these materials <ce:cross-refs id="crfs0010" refid="bib0005 bib0010">[1,2]</ce:cross-refs>. However, the pyridine-derivatives are usually difficult to be separated from the materials, usually using the high efficiency liquid chromatography and chromatography <ce:cross-refs id="crfs0015" refid="bib0005 bib0010">[1,2]</ce:cross-refs>. Therefore, the pure pyridine-derivatives are difficult to be largely obtained. As a result, the PL properties of the molecules can not be studied in detail, which is unfavorable for studying the roles of these pyridine-derivatives in the PL of CDs and polymers. What’s worse, the applications of these pyridine-derivatives are limited. Herein, we develop a facile method to synthesize a blue emissive molecule, 3,5-dihydro-5-oxo-2<ce:italic>H</ce:italic>-thiazolo[3,2-<ce:italic>a</ce:italic>]pyridine-3,7-dicarboxylic acid (TPA), using CA and <ce:small-caps>l</ce:small-caps>-cysteine. The as-synthesized TPA can be easily purified by crystallization. Then, the luminescent properties of the TPA are investigated for the first time. The obtained purified TPA molecule exhibits bright blue emission in aqueous solution, with a PL quantum yield as high as 90.5%, which is comparable with those of the well-known blue emissive fluorine and fluorine derivatives <ce:cross-ref id="crf0010" refid="bib0025">[5]</ce:cross-ref>. Furthermore, the TPA shows good solubility in aqueous solution. The results indicate that the TPA is an excellent blue PL phosphor, which can be applied in sensing. For instance, the TPA can act as an excellent PL probe for the detection of free chlorine.</ce:para>
+                  <ce:para id="par0030" view="all">Free chlorine, including chlorine, hypochlorous acid and hypochlorite, are widely used as a disinfectant and bleaching agent in water treatment <ce:cross-ref id="crf0015" refid="bib0030">[6]</ce:cross-ref>. Usually, the concentration of free chlorine in the treated water needs to be controlled strictly, making sure that the pathogenic bacteria and viruses in the water can be killed effectively while the residual free chlorine level is not too high to produce any negative side effect <ce:cross-refs id="crfs0020" refid="bib0035 bib0040 bib0045">[7–9]</ce:cross-refs>. Accordingly, monitoring the concentration of free chlorine in water is quite necessary. Besides the most popular colorimetry method based on N<ce:glyph name="sbnd"/>N-diethyl-<ce:italic>p</ce:italic>-phenylenediamine (DPD) <ce:cross-ref id="crf0020" refid="bib0050">[10]</ce:cross-ref>, many efforts have been made to develop alternative detection methods based on different principles, including chemiluminescence <ce:cross-refs id="crfs0025" refid="bib0055 bib0060 bib0065 bib0070">[11–14]</ce:cross-refs>, electrochemical <ce:cross-refs id="crfs0030" refid="bib0075 bib0080 bib0085 bib0090">[15–18]</ce:cross-refs> and liquid chromatography <ce:cross-refs id="crfs0035" refid="bib0095 bib0100">[19,20]</ce:cross-refs>. In particular, the PL methods based on various nanomaterials usually show many advantages <ce:cross-refs id="crfs0040" refid="bib0105 bib0110 bib0115 bib0120 bib0125 bib0130 bib0135 bib0140">[21–28]</ce:cross-refs>, such as good selectivity and sensitivity, fast response and low cost. However, these nanomaterials are usually inconvenient to be quantified, leading to serious difficulties in popularizing these methods. In this paper, it is found that the blue PL emission of TPA can be selectively quenched by the strongly oxidative free chlorine. After investigating the quenching mechanism and optimizing the experimental conditions, a sensitive and selective PL sensor is developed for free chlorine using TPA as the PL probe. Furthermore, tris(2,2-bipyridine)ruthenium(II) chloride hexahydrate (Ru(bpy)<ce:inf loc="post">3</ce:inf>Cl<ce:inf loc="post">2</ce:inf>·6H<ce:inf loc="post">2</ce:inf>O), whose red PL signal is inert to the free chlorine, is used to provide a background signal. As a result, a sensitive and visual PL ratiometric sensing system for the detection of residual free chlorine is developed, which is quite convenient for the on-site and on-line detection.</ce:para>
+               </ce:section>
+               <ce:section id="sec0010" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0030">Experimental</ce:section-title>
+                  <ce:section id="sec0015" role="materials-methods" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sect0035">Materials</ce:section-title>
+                     <ce:para id="par0035" view="all">CA (99+%), <ce:small-caps>l</ce:small-caps>-cysteine(97.0%) and Ru(bpy)<ce:inf loc="post">3</ce:inf>Cl<ce:inf loc="post">2</ce:inf>•6H<ce:inf loc="post">2</ce:inf>O (98%) were purchased from Sigma Aldrich. A 10% sodium hypochlorite (NaClO) standardized by iodometric titration was used for daily preparation of diluted working standards. Phosphate buffered saline (PBS) solutions of different pH values were prepared by titrating 0.1<ce:hsp sp="0.25"/>mol<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> phosphoric acid solution with a concentrated sodium hydroxide solution (2<ce:hsp sp="0.25"/>mol<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>) to the required pH values. Other reagents were of analytical grade and used as received. Doubly distilled (DI) water was used throughout the experiment.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sect0040">Synthesis of TPA</ce:section-title>
+                     <ce:para id="par0040" view="all">As shown in <ce:cross-ref id="crf0025" refid="fig0005">Scheme 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig0005"/>, the TPA is synthesized through the condensation reaction between CA and <ce:small-caps>l</ce:small-caps>-cysteine <ce:cross-ref id="crf0030" refid="bib0010">[2]</ce:cross-ref>. In a typical experiment, 5.0<ce:hsp sp="0.25"/>g citric acid and 2.9<ce:hsp sp="0.25"/>g <ce:small-caps>l</ce:small-caps>-cysteine were put in a 100<ce:hsp sp="0.25"/>mL beaker and dissolved in 10<ce:hsp sp="0.25"/>mL DI water, then dried at 70<ce:hsp sp="0.25"/>°C for 12<ce:hsp sp="0.25"/>h to form a yellow slurry. Subsequently, the slurry was dissolved with 10<ce:hsp sp="0.25"/>mL concentrated H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> and heated at 120<ce:hsp sp="0.25"/>°C for 3<ce:hsp sp="0.25"/>h. Finally, the reaction was terminated by adding 50<ce:hsp sp="0.25"/>mL DI water. The resulted solution was placed quietly for 2<ce:hsp sp="0.25"/>day at room temperature. A lot of yellow crystals were formed at the bottom of the beaker. After a thorough wash with DI water, the crystals were collected and dried at 60<ce:hsp sp="0.25"/>°C. About 1.6<ce:hsp sp="0.25"/>g TPA crystals were finally obtained.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sect0045">Instrumentation</ce:section-title>
+                     <ce:para id="par0045" view="all">Fourier transform infrared (FT-IR) spectrum was measured on an FT-IR spectrophotometer (Thermo Nicolet 360). UV−vis absorption spectra were characterized by a UV/vis/NIR spectrophotometer (Lambda 750). All PL spectra were obtained by a FL spectrophotometer (F 4600). Mass spectra of TPA and the oxidation product were measured using an Exactive Plus mass spectrometer.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sect0050">Analysis of real sample</ce:section-title>
+                     <ce:para id="par0050" view="all">A local tap water sample was collected and used to evaluate the operability of the developed sensor. Aliquots (500<ce:hsp sp="0.25"/>μL) of the water sample spiked with standard NaClO solutions (10<ce:hsp sp="0.25"/>μL, final concentration 0–10<ce:hsp sp="0.25"/>μM) were diluted to 1<ce:hsp sp="0.25"/>mL with PBS containing TPA (the final concentration of TPA was 10<ce:hsp sp="0.25"/>μM). Then the PL intensities of the spiked solutions were measured.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0035" role="discussion" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0055">Results and discussion</ce:section-title>
+                  <ce:section id="sec0040" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sect0060">PL properties of TPA</ce:section-title>
+                     <ce:para id="par0055" view="all">The mass spectrum of the crystals exhibits a strong peak at <ce:italic>m</ce:italic>/<ce:italic>z</ce:italic> 241 (<ce:cross-ref id="crf0035" refid="fig0015">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig0015"/>a). The FTIR spectrum (Fig. S1) exhibits the absorption peaks of C<ce:glyph name="dbnd"/>C groups at around 1650<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>, the peaks of C<ce:glyph name="dbnd"/>O group at around 1731<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>, the peaks of COO<ce:sup loc="post">−</ce:sup> groups at 1528<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> and 1435<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>, and the peaks of C<ce:glyph name="sbnd"/>O, C<ce:glyph name="sbnd"/>N and/or C<ce:glyph name="sbnd"/>S groups at around 1217<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>. The results confirm the formation of TPA. As shown in <ce:cross-ref id="crf0040" refid="fig0020">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig0020"/>, the TPA solution shows a sharp absorption peak centered at around 345<ce:hsp sp="0.25"/>nm, and a strong emission peak with the maximum wavelength at around 415<ce:hsp sp="0.25"/>nm. The PL quantum yield of TPA is about 90.5%, calculated at the excitation of 345<ce:hsp sp="0.25"/>nm by selecting the quinine sulfate as the standard, and the calculation method is emerged in the supporting information. The results imply that TPA should be an excellent blue-emission phosphor.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0045" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sect0065">Principle of the PL sensor for free chlorine based on TPA</ce:section-title>
+                     <ce:para id="par0060" view="all">The PL signal of TPA can be quenched sensitively by the free chlorine. As shown in the inset of <ce:cross-ref id="crf0045" refid="fig0020">Fig. 2</ce:cross-ref>, the TPA solution emits strong blue PL signal under the excitation of 365<ce:hsp sp="0.25"/>nm UV light, however, the signal is quenched obviously as 14<ce:hsp sp="0.25"/>μM free chlorine is added. The corresponding PL spectra indicate that the PL intensity is decreased by 85%, without any wavelength shift. On the contrary, the absorption peak blue shifts with slight decrease in intensity. The results imply that the free chlorine may react with TPA to produce some molecules with lower conjugation, which have nearly no PL activity. The free chlorine is a strong oxidation agent, while the sulfur atom in the thiazolo group of TPA can be oxidized <ce:cross-ref id="crf0050" refid="bib0145">[29]</ce:cross-ref>. Therefore, TPA may be oxidized by free chlorine. The mass spectrum of the oxidation product (<ce:cross-ref id="crf0055" refid="fig0015">Fig. 1</ce:cross-ref>b) also implies that the sulfur atom of TPA molecule may be oxidized into sulfoxide (<ce:cross-ref id="crf0060" refid="fig0010">Scheme 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig0010"/>), which is a strong electron withdrawing group rather than an electron donating group. As a result, the conjugation is decreased, which agrees well with the result from UV–vis absorption spectra. The decrease of conjugation leads to the great PL quenching.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0050" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sect0070">Establishment of the PL sensing for free chlorine</ce:section-title>
+                     <ce:para id="par0065" view="all">It has been mentioned that the phosphor, TPA, shows the maximum absorption at 345<ce:hsp sp="0.25"/>nm, and exhibited the maximum emission at 415<ce:hsp sp="0.25"/>nm. Therefore, the PL sensor was excitated at 345<ce:hsp sp="0.25"/>nm to measure the PL intensity at 415<ce:hsp sp="0.25"/>nm. Furthermore, the concentration of TPA is a pivotal factor for this sensing system. It has been discussed above that free chlorine quench the PL of TPA by reacting it into a poor luminescent product. In other words, the change of PL intensity is caused by the change of TPA concentration. Therefore, to obtain the best sensitivity of the sensor, the concentration of TPA should be controlled in a range where the PL intensity is sensitive to the change of concentration. As shown in Fig. S2, the PL intensity increases linearly as the concentration of TPA increases from 0 to 10<ce:hsp sp="0.25"/>μM. However, the increasing tendency slows down when the concentration of TPA is further increased. Accordingly, 10<ce:hsp sp="0.25"/>μM TPA is applied in the sensor.</ce:para>
+                     <ce:para id="par0070" view="all">Time-dependent PL changes of 10<ce:hsp sp="0.25"/>μM TPA upon the addition of 10<ce:hsp sp="0.25"/>μM NaClO are investigated. As shown in Fig. S3, the decrease tendency of PL intensity is very sharp in 10<ce:hsp sp="0.25"/>min, and turns to slow down when the reaction time is further increased. The PL intensity comes to the minimum at 20<ce:hsp sp="0.25"/>min, and keeps stable during the following 40<ce:hsp sp="0.25"/>min observation. The result indicates that the oxidation reaction between TPA and free chlorine is complete within 20<ce:hsp sp="0.25"/>min. Therefore, the PL signal of the sensor is measured after the NaClO is added into the solution for 20<ce:hsp sp="0.25"/>min.</ce:para>
+                     <ce:para id="par0075" view="all">The effects of pH value on the sensing system are subsequently discussed. As shown in <ce:cross-ref id="crf0065" refid="fig0025">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig0025"/>, the PL intensity of TPA is relative strong and stable in neutral and alkaline solutions, but decreases with the pH value in acidic solution. In particular, the PL intensity decreases obviously when the pH value is lower than 4. The pH effect on the PL intensity of TPA may be related to the protonation deprotonation of the carboxyl groups on the TPA molecules. The pH value affects not only the PL intensity of TPA, but also the quenching effect of free chlorine. It can be seen that the quenching efficiency (I<ce:inf loc="post">0</ce:inf>/I, where I<ce:inf loc="post">0</ce:inf> and I are the PL intensity of TPA in the absence and presence of free chlorine, respectively) shows the maximum in pH 4, and decreases when the pH value is either increased or decreased. The results may be associated with the presence form of free chlorine <ce:cross-ref id="crf0070" refid="bib0150">[30]</ce:cross-ref>. It has been reported that free chlorine exists mainly as HClO when the pH value is around 4. However, it almost turns to Cl<ce:inf loc="post">2</ce:inf> as the pH value is decreased to 3. In contrary, when the pH value is increased, it turns gradually to ClO<ce:sup loc="post">−</ce:sup>, whose oxidation capability is weaker than that of HClO. Therefore, the quenching efficiency decreases gradually with increasing pH value. In particular, when the pH value is higher than 8, free chlorine has nearly no effect on the PL intensity of TPA due to the fact that it presents mainly as ClO<ce:sup loc="post">−</ce:sup>. Accordingly, the sensing system should be carried out in the solution of pH 4.</ce:para>
+                     <ce:para id="par0080" view="all">To evaluate the selectivity of the sensing system for free chlorine, effects of 22 common ions (Br<ce:sup loc="post">−</ce:sup>, NO<ce:inf loc="post">3</ce:inf>
+                        <ce:sup loc="post">−</ce:sup>, SO<ce:inf loc="post">4</ce:inf>
+                        <ce:sup loc="post">2−</ce:sup>, SO<ce:inf loc="post">3</ce:inf>
+                        <ce:sup loc="post">2−</ce:sup>, CO<ce:inf loc="post">3</ce:inf>
+                        <ce:sup loc="post">2−</ce:sup>, CH<ce:inf loc="post">3</ce:inf>CO<ce:inf loc="post">2</ce:inf>
+                        <ce:sup loc="post">−</ce:sup>, PO<ce:inf loc="post">4</ce:inf>
+                        <ce:sup loc="post">3−</ce:sup>, Ag<ce:sup loc="post">+</ce:sup>, Na<ce:sup loc="post">+</ce:sup>, K<ce:sup loc="post">+</ce:sup>, NH<ce:inf loc="post">4</ce:inf>
+                        <ce:sup loc="post">+</ce:sup>, Mg<ce:sup loc="post">2+</ce:sup>, Zn<ce:sup loc="post">2+</ce:sup>, Cu<ce:sup loc="post">2+</ce:sup>, Ca<ce:sup loc="post">2+</ce:sup>, Fe<ce:sup loc="post">2+</ce:sup>, Fe<ce:sup loc="post">3+</ce:sup>, Pb<ce:sup loc="post">2+</ce:sup>, Cd<ce:sup loc="post">2+</ce:sup>, Co<ce:sup loc="post">2+</ce:sup>, Cr<ce:sup loc="post">3+</ce:sup>, Al<ce:sup loc="post">3+</ce:sup>) and 4 oxidative agents (ClO<ce:inf loc="post">4</ce:inf>
+                        <ce:sup loc="post">−</ce:sup>, MnO<ce:inf loc="post">4</ce:inf>
+                        <ce:sup loc="post">−</ce:sup>, Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">7</ce:inf>
+                        <ce:sup loc="post">2−</ce:sup>, H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>) are investigated. As shown in <ce:cross-ref id="crf0075" refid="fig0030">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig0030"/>, none of the ions has detectable effect on the PL intensity of TPA even at a high concentration (all the ions are 100<ce:hsp sp="0.25"/>μM, except for MnO<ce:inf loc="post">4</ce:inf>
+                        <ce:sup loc="post">−</ce:sup> and Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">7</ce:inf>
+                        <ce:sup loc="post">2−</ce:sup> are 10<ce:hsp sp="0.25"/>μM to avoid the interference from the color at high concentrations). Apparently, the sensor shows excellent selectivity towards free chlorine.</ce:para>
+                     <ce:para id="par0085" view="all">Under the optimized conditions mentioned above, the PL intensities of TPA upon adding a series concentration of free chlorine are measured. As shown in <ce:cross-ref id="crf0080" refid="fig0035">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig0035"/>, the PL intensity of TPA at 415<ce:hsp sp="0.25"/>nm decreases gradually as the concentration of TPA is increased. The quenching efficiency increases linearly with the concentration of free chlorine in the range from 0.2 to 14<ce:hsp sp="0.25"/>μM (see inset of <ce:cross-ref id="crf0085" refid="fig0035">Fig. 5</ce:cross-ref> and Eq. <ce:cross-ref id="crf0090" refid="eq0005">(1)</ce:cross-ref>):<ce:display>
+                           <ce:formula id="eq0005">
+                              <ce:label>(1)</ce:label>
+                              <ce:chem>(I<ce:inf loc="post">0</ce:inf>-I)/I<ce:inf loc="post">0</ce:inf>
+                                 <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>63673C<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.0019</ce:chem>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="par0090" view="all">The detection limit is calculated to be about 0.2<ce:hsp sp="0.25"/>μM. The free chlorine concentration in most water sample is in the range of 0.05–5<ce:hsp sp="0.25"/>mg/L (1.4–140<ce:hsp sp="0.25"/>μM). For example, world health organization (WHO, 1993) sets that the residual free chlorine in drinking water should be around 0.2–0.3<ce:hsp sp="0.25"/>mg/L (5.6–8.4<ce:hsp sp="0.25"/>μM) for 30<ce:hsp sp="0.25"/>min contact time <ce:cross-ref id="crf0095" refid="bib0155">[31]</ce:cross-ref>. The residual free chlorine concentration in water discharge from water treatment plants is typically below 5<ce:hsp sp="0.25"/>mg/L (140<ce:hsp sp="0.25"/>μM) <ce:cross-ref id="crf0100" refid="bib0085">[17]</ce:cross-ref>. Apparently, the response range and the detection limit of the sensor are sufficient to meet the necessary in the common detection of free chlorine. Actually, if necessary, the response range and the detection limit of the sensor can be adjusted by changing the concentration of TPA. For example, when the concentration of TPA is decreased to 0.3<ce:hsp sp="0.25"/>μM, the linearly response range is 0.02–0.8<ce:hsp sp="0.25"/>μM and the detection limit is calculated to be 8<ce:hsp sp="0.25"/>nM (Fig. S4).</ce:para>
+                     <ce:para id="par0095" view="all">The applicability of the developed sensor is further evaluated by detecting the concentration of free chlorine in a local tap water sample. In the experiment, the standard addition method was applied (Fig. S5). The free chlorine was measured to be 6.11<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>0.05<ce:hsp sp="0.25"/>μM (n<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>10, confidence level of 95%), which agrees well with the result using the DPD colorimetric method (6.06<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>0.17<ce:hsp sp="0.25"/>μM). The results confirm the validity of the TPA-based PL sensor for the detection of free chlorine in real water samples.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0055" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="sect0075">Visual PL ratiometric sensor</ce:section-title>
+                     <ce:para id="par0100" view="all">Based on the results mentioned above, we further developed a PL ratiometric method for the detection of free chlorine. It can be seen that the change of PL intensity is difficult to be distinguished by naked eyes (Fig. S6). It is quite inconvenient for the on-site and on-line detection. Therefore, a small amount of red-emission Ru(bpy)<ce:inf loc="post">3</ce:inf>Cl<ce:inf loc="post">2</ce:inf>·6H<ce:inf loc="post">2</ce:inf>O is mixed with TPA. The red PL signal of Ru(bpy)<ce:inf loc="post">3</ce:inf>
+                        <ce:sup loc="post">2+</ce:sup> is almost inert towards free chlorine. As shown in Fig. S7, when the concentration of the added free chlorine in the mixed solution is increased from 0 to 15<ce:hsp sp="0.25"/>μM, the PL intensity of TPA at 415<ce:hsp sp="0.25"/>nm decreases gradually, while that of Ru(bpy)<ce:inf loc="post">3</ce:inf>Cl<ce:inf loc="post">2</ce:inf>·6H<ce:inf loc="post">2</ce:inf>O at 618<ce:hsp sp="0.25"/>nm is stable. As a result, continuous PL color changes from blue to red could be observed (<ce:cross-ref id="crf0105" refid="fig0040">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig0040"/>).Therefore, a ratiometric PL sensor has been developed, which should be great significant for the on-site and on-line detection of free chlorine.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0060" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0080">Conclusions</ce:section-title>
+                  <ce:para id="par0105" view="all">TPA molecule is synthesized by the condensation of CA and <ce:small-caps>l</ce:small-caps>-cysteine, and purified by crystallization. The purified TPA shows bright blue PL with a PLQY as high as 90.5%. It is found that the PL signal of TPA could be selectively quenched by the free chlorine, and the quenching mechanism is discussed. Based on the results, a sensitive and selective PL sensor of free chlorine is developed. Furthermore, using Ru(bpy)<ce:inf loc="post">3</ce:inf>Cl<ce:inf loc="post">2</ce:inf>·6H<ce:inf loc="post">2</ce:inf>O to provide a red background PL signal, a visible PL ratiometric sensor can be build, which is convenient for the on-site and on-line detection of free chlorine. This study provides not only a facile method to synthesize high PL TPA, but also the sensing application of TPA.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0085">Acknowledgements</ce:section-title>
+               <ce:para id="par0110" view="all">This study was financially supported by <ce:grant-sponsor id="gs0005" sponsor-id="http://dx.doi.org/10.13039/501100001809" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Natural Science Foundation of China</ce:grant-sponsor> (<ce:grant-number refid="gs0005">21675026</ce:grant-number>, <ce:grant-number refid="gs0005">21675027</ce:grant-number>, <ce:grant-number refid="gs0005">21375020</ce:grant-number>), <ce:grant-sponsor id="gs0010" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Basic Research Program of China</ce:grant-sponsor> (<ce:grant-number refid="gs0010">2010CB732400</ce:grant-number>), and the <ce:grant-sponsor id="gs0015" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Program for Changjiang Scholars and Innovative Research Team in University</ce:grant-sponsor> (No. <ce:grant-number refid="gs0015">IRT1116</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="sec0065" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sect0090">Supplementary data</ce:section-title>
+                  <ce:para id="par0115" view="all">Supplementary data associated with this article can be found, in the online version, at <ce:inter-ref id="intr0005" xlink:href="doi:10.1016/j.snb.2017.01.070" xlink:type="simple">http://dx.doi.org/10.1016/j.snb.2017.01.070</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="sec0070" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sect0095">Supplementary data</ce:section-title>
+                  <ce:para id="par0120" view="all">The following is Supplementary data to this article:<ce:display>
+                        <ce:e-component id="upi0005">
+                           <ce:link xlink:href="pii:S0925400517300771/mmc1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" locator="mmc1" xlink:type="simple"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0100">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Beyond bottom-up carbon nanodots: citric-acid derived organic molecules</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Today</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>128</sb:first-page>
+                              <sb:last-page>132</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Kasprzyk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bednarz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Bogdal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Luminescence phenomena of biodegradable photoluminescent poly(diol citrates)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6445</sb:first-page>
+                              <sb:last-page>6447</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Pang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.B.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon-based dots co-doped with nitrogen and sulfur for high quantum yield and excitation-independent emission</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7800</sb:first-page>
+                              <sb:last-page>7804</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigation from chemical structure to photoluminescent mechanism: a type of carbon dots from the pyrolysis of citric acid and an amine</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5976</sb:first-page>
+                              <sb:last-page>5984</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kotaka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.-I.</ce:given-name>
+                                 <ce:surname>Konishi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Mizuno</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis and photoluminescence properties of Π-extended fluorene derivatives: the first example of a fluorescent solvatochromic nitro-group-containing dye with a high fluorescence quantum yield</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Tetrahedron Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>181</sb:first-page>
+                              <sb:last-page>184</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.C.</ce:given-name>
+                                 <ce:surname>White</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Handbook of Chlorination</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>2nd ed.</sb:edition>
+                              <sb:date>1986</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Van Nostrand Reinhold Co. Inc.</sb:name>
+                                 <sb:location>New York, NY</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Matsumoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Mori</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hayakawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ohashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Dermatol</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of free residual chlorine on cultured human epidermal keratinocytes from normal skin and hypertrophic scars</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>7</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Tofant</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ostovic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wolf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.E.</ce:given-name>
+                                 <ce:surname>Kabalin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Pavicic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Grizelj</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Association between over-chlorinated drinking water and suckling, nursery and fattening pig death losses</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Vet. Med.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>394</sb:first-page>
+                              <sb:last-page>398</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.L.</ce:given-name>
+                                 <ce:surname>Simpson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.P.</ce:given-name>
+                                 <ce:surname>Hayes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Drinking water disinfection by-products: an Australian perspective</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1522</sb:first-page>
+                              <sb:last-page>1528</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Moberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Karlberg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An improved NN′-diethyl-p-phenylenediamine (DPD) method for the determination of free chlorine based on multiple wavelength detection</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>407</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>127</sb:first-page>
+                              <sb:last-page>133</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.F.</ce:given-name>
+                                 <ce:surname>Marino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.D.</ce:given-name>
+                                 <ce:surname>Ingle</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Determination of chlorine in water by luminol chemiluminescence</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>455</sb:first-page>
+                              <sb:last-page>458</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Claver</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.V.</ce:given-name>
+                                 <ce:surname>Mirón</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.F.</ce:given-name>
+                                 <ce:surname>Capitán-Vallvey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Determination of hypochlorite in water using a chemiluminescent test strip</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>522</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>267</sb:first-page>
+                              <sb:last-page>273</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hallaj</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Amjadi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Manzoori</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Shokri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemiluminescence reaction of glucose-derived graphene quantum dots with hypochlorite, and its application to the determination of free chlorine</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microchim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>182</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>789</sb:first-page>
+                              <sb:last-page>796</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lv</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon nitride quantum dots: a novel chemiluminescence system for selective detection of free chlorine in water</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4528</sb:first-page>
+                              <sb:last-page>4535</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Murata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Ivandini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Shibata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Nomura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Fujishima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Einaga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical detection of free chlorine at highly boron-doped diamond electrodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electroanal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>612</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>29</sb:first-page>
+                              <sb:last-page>36</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.-Y.</ce:given-name>
+                                 <ce:surname>Kishioka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kosugi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Yamada</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical determination of a free chlorine residual using cathodic potential-step chronocoulometry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electroanalytical</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>724</sb:first-page>
+                              <sb:last-page>726</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Deen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ghosh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Low-cost graphite-based free chlorine sensor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10734</sb:first-page>
+                              <sb:last-page>10737</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jović</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Cortés-Salazar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Lesch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Amstutz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Bi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.H.</ce:given-name>
+                                 <ce:surname>Girault</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical detection of free chlorine at inkjet printed silver electrodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electroanal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>756</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>171</sb:first-page>
+                              <sb:last-page>178</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sullivan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Douek</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Determination of inorganic chlorine species in kraft mill bleach effluents by ion chromatography</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chromatogr. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>804</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>113</sb:first-page>
+                              <sb:last-page>121</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Watanabe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Idehara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yoshimura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nakazawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Simultaneous determination of chlorine dioxide and hypochlorite in water by high-performance liquid chromatography</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chromatogr. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>796</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>397</sb:first-page>
+                              <sb:last-page>400</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.W.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>CdSe-ZnS quantum dots for selective and sensitive detection and quantification of hypochlorite</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9775</sb:first-page>
+                              <sb:last-page>9781</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Lan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>nitrogen and sulfur co-doped carbon dots: a facile and green fluorescence probe for free chlorine</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sens. Actuators B: Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>219</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>50</sb:first-page>
+                              <sb:last-page>56</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Xiong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A label-free fluorescent assay for free chlorine in drinking water based on protein-stabilized gold nanoclusters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Talanta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>132</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>790</sb:first-page>
+                              <sb:last-page>795</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Graphene quantum dot as a green and facile sensor for free chlorine in drinking water</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8378</sb:first-page>
+                              <sb:last-page>8382</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Tian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Asiri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.O.</ce:given-name>
+                                 <ce:surname>Al-Youbi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrothermal treatment of grass: a low-cost green route to nitrogen-doped, carbon-rich, photoluminescent polymer nanodots as an effective fluorescent sensing platform for label-free detection of Cu(II) ions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2037</sb:first-page>
+                              <sb:last-page>2041</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Asiri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.O.</ce:given-name>
+                                 <ce:surname>Al-Youbi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Economical, green synthesis of fluorescent carbon nanoparticles and their use as probes for sensitive and selective detection of mercury(II) ions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5351</sb:first-page>
+                              <sb:last-page>5357</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sbref0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Pei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Graphene oxide quantum dots@silver core?shell nanocrystals as turn-on fluorescent nanoprobe for ultrasensitive detection of prostate specific antigen</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>74</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>909</sb:first-page>
+                              <sb:last-page>914</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sbref0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Pei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Novel turn-on fluorescent detection of alkaline phosphatase based on green synthesized carbon dots and MnO<ce:inf loc="post">2</ce:inf> nanosheets</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Talanta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>165</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>136</sb:first-page>
+                              <sb:last-page>142</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sbref0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Rozwadowska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sulima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Gzella</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis, crystal structure and oxidation of <ce:italic>(R)</ce:italic>-(+)-8, 9-dimethoxy-6, 10b-dihydro-5<ce:italic>H</ce:italic>-thiazolo[2, 3-a]isoquinolin-3-one</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Tetrahedron: Asymmetry</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2329</sb:first-page>
+                              <sb:last-page>2333</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0150">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sbref0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Aoki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Munemorl</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Continuous flow determination of free chlorine in water</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>209</sb:first-page>
+                              <sb:last-page>212</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0155">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="sbref0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.J.S.</ce:given-name>
+                                 <ce:surname>Rosalam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Krishnaiah</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Free chlorine residual content within the drinking water distribution systemInt</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>196</sb:first-page>
+                              <sb:last-page>201</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+            <ce:biography id="vt0005" view="all">
+               <ce:link xlink:href="pii:S0925400517300771/fx2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" locator="fx2" xlink:type="simple"/>
+               <ce:simple-para id="spar0065" view="all">
+                  <ce:bold>Qingqing Fang</ce:bold> received her BS (2014) from the College of Chemistry and Enviroment, Minna Normal University, China. She is currently pursuing her master’s degree under the supervision of Prof. Yongqiang at Fuzhou University, Fujian, China. She is actively engaged in novel synthesis of luminescent carbon based nanomaterials and their application in biosensing.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt0010" view="all">
+               <ce:link xlink:href="pii:S0925400517300771/fx3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" locator="fx3" xlink:type="simple"/>
+               <ce:simple-para id="spar0070" view="all">
+                  <ce:bold>Qian Wang</ce:bold> received her BS (2015) from the College of Chemistry, Fuzhou University, China. She is currently pursuing her master’s degree under the supervision of Prof. Yongqiang at Fuzhou University, Fujian, China. Her research interest focus on the carbon based nanomaterials/metal based nanomaterials hybrids and their sensing applications.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt0015" view="all">
+               <ce:link xlink:href="pii:S0925400517300771/fx4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" locator="fx4" xlink:type="simple"/>
+               <ce:simple-para id="spar0075" view="all">
+                  <ce:bold>Wei Lin</ce:bold> received his BS (2014) from the College of Chemistry, Fuzhou University, China. At present, he is studying for his doctorate (analytical chemistry) in Prof. YuWu Chi's group at Fuzhou University. The current field of interest is the synthesis and sensing application of carbon based catalysts.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt0020" view="all">
+               <ce:link xlink:href="pii:S0925400517300771/fx5" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" locator="fx5" xlink:type="simple"/>
+               <ce:simple-para id="spar0080" view="all">
+                  <ce:bold>Xu You</ce:bold> received his BS (2014) from the department of chemistry, Hebei Normal University. At present, he is studying for his doctorate (analytical chemistry) in Prof. YuWu Chi's group at Fuzhou University. His research interests mainly focus on Electrochemiluminescent nanomaterial and biosensor.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt0025" view="all">
+               <ce:link xlink:href="pii:S0925400517300771/fx6" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" locator="fx6" xlink:type="simple"/>
+               <ce:simple-para id="spar0085" view="all">
+                  <ce:bold>Yongqiang Dong</ce:bold> received his BS (2006) and PhD (2011) degrees from the department of chemistry, Fuzhou University, China. He entered Nanyang Technologic University, Singapore as a postdoctoral researcher from 2011 to 2013. Currently, he is an associate professor of chemistry at Fuzhou University. His research interests mainly relate to the synthesis, luminescent properties and sensing applications of carbon based dots.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt0030" view="all">
+               <ce:link xlink:href="pii:S0925400517300771/fx7" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" locator="fx7" xlink:type="simple"/>
+               <ce:simple-para id="spar0090" view="all">
+                  <ce:bold>Yuwu Chi</ce:bold> received his BS (1992) and MS (2000, Prof. Guonan Chen) degrees in Analytical Chemistry at Fuzhou University, and then a Ph D degree in applied physics (2005, Prof. Koichi Aoki) from the University of Fukui. From 1992–2002, he worked at Fuzhou University as a research assistant and a lecturer in turn. In 2005, he re-entered Fuzhou University after obtaining his Ph D degree in Japan, and worked as a professor at the College of Chemistry. Presently, his research interests focus on functional carbon materials, electrochemiluminescence, electroanalysis, chemical and biochemical sensing.</ce:simple-para>
+            </ce:biography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

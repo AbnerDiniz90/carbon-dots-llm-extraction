@@ -1,0 +1,68 @@
+{
+  "input_source": "artigo14.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "aminated graphene QDs",
+        "iupac_name": null,
+        "alternative_names": [
+          "AG-QDs"
+        ]
+      },
+      "synthesis": {
+        "method": {
+          "type": "Commercial Source",
+          "conditions": "Purchased suspended in deionized water (1000 μg/mL, pH 7.0)",
+          "catalysts": null
+        },
+        "precursors": {
+          "source": "[MISSING]",
+          "dopants": null
+        },
+        "post_treatment": null
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": null,
+          "excitation_max": null,
+          "emission_max": null,
+          "fluorescence_lifetime": null
+        },
+        "structural": {
+          "size": {
+            "avg": "[MISSING]",
+            "distribution": "4-6nm"
+          },
+          "morphology": "well dispersed with a single layer of oxidized graphene",
+          "crystallinity": "Rich defects with D and G bands"
+        },
+        "chemical": {
+          "surface_groups": [
+            "C=C/C-C",
+            "C-OH",
+            "C=O",
+            "O=C-OH",
+            "C-N"
+          ],
+          "elemental_composition": {
+            "C": "[MISSING]",
+            "N": "[MISSING]",
+            "O": "[MISSING]"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "Nanotoxicity/Genotoxicity Research",
+          "performance": "Genotoxic at 100 μg/mL (noncytotoxic dose) with 2898 differentially expressed genes",
+          "comparative_advantage": "Could contribute to the cellular recovery"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Good",
+    "score": 5.0,
+    "expert_comment": "Grounded Verification: All extracted content is fully supported by the source text. The model correctly returned 'null' or '[MISSING]' for fields absent in the document, avoiding unsupported inferences or hallucinations. | Applicability Verified: The extracted aplication domains align perfectly with those mentioned in the source text. The model accurately identified, listed and described all relevant application areas for the Carbon Dots used in the article. | Structural Integrity: The output matches the required JSON schema perfectly. Complex nested arrays (such as precursors/dopants and application domains) were populated correctly without truncating list items or breaking the syntax."
+  }
+}

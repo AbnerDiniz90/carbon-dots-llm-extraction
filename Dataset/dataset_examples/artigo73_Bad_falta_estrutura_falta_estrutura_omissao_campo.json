@@ -1,0 +1,61 @@
+{
+  "input_source": "artigo73.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "Highly blue luminescent carbon dots (CDs) introduced to synthesize CDs embedded metal-organic framework@ molecularly imprinted polymer nanoparticles (CDs@ZIF-8@MIP) acting as signal transducer and detectable fluorescence signals",
+        "iupac_name": null,
+        "alternative_names": null
+      },
+      "synthesis": {
+        "method": {
+          "type": "One-step thermal reaction",
+          "conditions": "Reaction of 10mL AEAPMS and 0.5g anhydrous citric acid at 240°C for 1min",
+          "catalysts": null
+        },
+        "precursors": {
+          "source": [
+            "0.5g Citric acid anhydrous",
+            "10mL N-(β-Aminoethyl)-γ-aminopropyl methyldimethoxysilane (AEAPMS)"
+          ]
+        },
+        "post_treatment": "[MISSING]"
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": "[MISSING]",
+            "reference_material": "[MISSING]"
+          },
+          "excitation_max": "365nm",
+          "emission_max": "[MISSING]",
+          "fluorescence_lifetime": "[MISSING]"
+        },
+        "structural": {
+          "morphology": "[MISSING]",
+          "crystallinity": "[MISSING]"
+        },
+        "chemical": {
+          "surface_groups": "[MISSING]",
+          "elemental_composition": {
+            "C": "[MISSING]",
+            "N": "[MISSING]",
+            "O": "[MISSING]"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "CDs@ZIF-8@MIP fluorescent Sensing (Quercetin detection)",
+          "performance": "Fluorescence presented a well linear decline with the increasing concentration of QCT from 0 0-50.0 µM; Limit of Detection (LOD): 2.9 nM (S/N=3); Precision for 0.5 µM QCT: 1.9% (n=11). Quenching follows a dynamic process via inner filter effect. Adsorption equilibrium time: 15 min (vs 210 min for CDs@MIP without ZIF-8).",
+          "comparative_advantage": "Superior to CDs@MIP (without ZIF-8): 1.8× higher adsorption capacity and faster equilibrium (15 min vs 210 min). High selectivity for QCT over structural analogs (isorhamnetin, epicatechin, daidzein, rutin). Validated in real Ginkgo biloba extract capsules with results matching HPLC."
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Bad",
+    "score": 0.0,
+    "expert_comment": "Incomplete Structure: The entire section 'carbon_dots -> synthesis -> precursors -> dopants' was incorrectly omitted. The JSON is missing a mandatory structural block. | Incomplete Structure: The entire section 'carbon_dots -> properties -> structural -> size' was incorrectly omitted. The JSON is missing a mandatory structural block. | Omission Error: The field 'carbon_dots -> general_info -> alternative_names' contained '['CDs', 'Carbon dots', 'Carbon quantum dots']' in the source text, but it was extracted as null/missing."
+  }
+}

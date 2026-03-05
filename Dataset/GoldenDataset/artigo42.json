@@ -1,0 +1,43 @@
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition": "Fluorescent carbon nanoparticles synthesized from tender coconut waste via hydrothermal treatment, exhibiting excellent aqueous solubility and photoluminescence properties.",
+            "iupac_name": null,
+            "alternative_names": ["C-CDs", "Carbon dots", "CDs", "Carbon nanodots"]
+        },
+        "synthesis": {
+            "method": {"type": "Hydrothermal", "conditions": "Carbonization of tender coconut waste, followed by hydrothermal treatment at 180°C for 4 hours", "catalysts": null},
+            "precursors": {"source": ["Tender coconut waste"], "dopants": null},
+            "post_treatment": ["Dispersed in distilled water", "Filtration through Whatman filter paper", "Centrifugation at 4000 rpm for 10 min", "Filtration through 0.45 μm PVDF membrane", "Dialysis (MWCO 3000 Da) against double distilled water for 24 h"]
+        },
+        "properties": {
+            "optical": {
+                "quantum_yield": {"value": "[MISSING]", "reference_material": "[MISSING]"},
+                "excitation_max": "320nm",
+                "emission_max": "430nm",
+                "fluorescence_lifetime": "2.1, 2.08 and 2.01ns with different concentrations of Ethionamide."
+            },
+            "structural": {
+                "size": {"avg": "2.5nm", "distribution": "[MISSING]"},
+                "morphology": "spherically shaped, smaller in size and well dispersed",
+                "crystallinity": "a broad diffraction peak suggest that amorphous nature of CDs"
+            },
+            "chemical": {
+                "surface_groups": ["O-H", "C-H", "C=O", "C=C", "C-O-C", "C-O)", "COOH"],
+                "elemental_composition": {"C": "72.08%", "N": "[MISSING]", "O": "27.92%"}
+            }
+        },
+        "applications": [
+            {
+                "domain": "Fluorescent Sensing (Drug Detection)",
+                "performance": "Selective detection of Ethionamide (ETA) via fluorescence quenching (Inner Filter Effect). Linear range: 0-2.4 μg mL⁻¹. Limit of Detection (LOD): 0.33 μg mL⁻¹. Recovery in spiked urine and tap water samples: 97.7-101.6%. Relative Standard Deviation (RSD) ~3%.",
+                "comparative_advantage": "First report of CDs for ETA detection. Method is simple, low-cost, green (uses waste biomass), selective and sensitive"
+            },
+            {
+                "domain": "Bioimaging (Yeast Cell Imaging)",
+                "performance": "Blue, green, and red fluorescence imaging of Saccharomyces cerevisiae yeast cells. Blue, green, and red emissions observed under 405, 488, and 561 nm excitation respectively.",
+                "comparative_advantage": "Low cytotoxicity, excellent biocompatibility, multicolor emission capability. Suitable alternative to hazardous semiconductor quantum dots for cell imaging."
+            }
+        ]
+    }
+}

@@ -1,0 +1,2553 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0956566323007595</prism:url><dc:identifier>doi:10.1016/j.bios.2023.115817</dc:identifier><eid>1-s2.0-S0956566323007595</eid><prism:doi>10.1016/j.bios.2023.115817</prism:doi><pii>S0956-5663(23)00759-5</pii><dc:title>Cheap and portable paper chip with terrific oxidase-like activity and SERS enhancement performance for SERS-colorimetric bimodal detection of intracellular glutathione </dc:title><prism:publicationName>Biosensors and Bioelectronics</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09565663</prism:issn><prism:volume>244</prism:volume><prism:startingPage>115817</prism:startingPage><prism:pageRange>115817</prism:pageRange><articleNumber>115817</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2024-01-15</prism:coverDate><prism:coverDisplayDate>15 January 2024</prism:coverDisplayDate><prism:copyright>© 2023 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Wang, Linjie</dc:creator><dc:creator>Chen, Yixin</dc:creator><dc:creator>Ji, Yang</dc:creator><dc:creator>Zheng, Shujun</dc:creator><dc:creator>Wang, Fei</dc:creator><dc:creator>Li, Caolong</dc:creator><dc:description>
+                  Glutathione (GSH) acts a crucial role in the normal operation of manifold life activities and is closely bound up with many human diseases. Here, a SERS-colorimetric bimodal paper-based biosensor based on Mn-doped CDs/silver nanoparticles (Mn-CDs/AgNPs) has been fabricated for high-efficiency quantification of intracellular GSH. The Mn-CDs/AgNPs with fine oxidase-like characteristic and SERS enhancement ability has been assembled onto the Whatman filter paper (WFP) to cleverly fabricate paper chip (Mn-CDs/AgNPs@WFP) which can trigger the oxidation of colorless 3,3′,5,5′-tetramethylbenzidine (TMB) into blue TMBox and simultaneously enhance the SERS signal of TMBox. However, the introduction of GSH inhibits the oxidation of TMB, leading to color fading of paper chip and diminishment of SERS signal. Considering this, the bimodal paper-based sensing platform can be exploited for SERS-colorimetric detection of GSH, manifesting excellent selectivity, reliable stability, and satisfactory precision. The detection limits of SERS and colorimetric detection modes are as low as 0.41 μM and 0.53 μM, respectively. Furthermore, this proposed bimodal biosensor has been successfully utilized for the determination of intracellular GSH and validated by commercial GSH assay kit, which provides a mighty and convenient tool for intracellular GSH detection and can boost future effort about exploitation of other multimode paper-based biosensors as well as promote their appliances in disease diagnosis.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Glutathione</dcterms:subject><dcterms:subject>Bimodal paper-based biosensor</dcterms:subject><dcterms:subject>Mn-CDs/AgNPs@WFP</dcterms:subject><dcterms:subject>Oxidase-like characteristic</dcterms:subject><dcterms:subject>SERS enhancement ability</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0956566323007595" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0956566323007595" rel="scidir"/></coredata><objects><object ref="sc1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="691" height="371" size="173401">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-sc1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="811" height="874" size="368253">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="811" height="587" size="285604">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="535" height="452" size="162465">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="691" height="378" size="163666">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="811" height="659" size="249861">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="118" size="81634">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-sc1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="152" height="164" size="85970">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="158" size="87977">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="194" height="164" size="85679">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="120" size="80570">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="202" height="164" size="83658">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="sc1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3060" height="1645" size="797565">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-sc1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3591" height="3870" size="3417662">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3590" height="2597" size="2168802">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2370" height="2002" size="715715">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3058" height="1673" size="806828">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3592" height="2918" size="1256980">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc2" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="3070044">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-mmc2.docx?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="VIDEO" multimediatype="MPEG-4 movie" mimetype="video/mp4" size="8904278">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-mmc1.mp4?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="9704495">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323007595-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85175864903</scopus-id><scopus-eid>2-s2.0-85175864903</scopus-eid><pubmed-id>37944354</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85175864903" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271399</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291685</xocs:ssid>
+         <xocs:ssid type="subj">291850</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291880</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Biosensors and Bioelectronics</xocs:srctitle>
+      <xocs:normalized-srctitle>BIOSENSORSBIOELECTRONICS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20231106">2023-11-06</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20231106">2023-11-06</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20231107">2023-11-07</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20231107">2023-11-07</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2023-11-18T22:58:22</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0956566323007595</xocs:eid>
+      <xocs:pii-formatted>S0956-5663(23)00759-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0956566323007595</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.bios.2023.115817</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0956566323X00220</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240102">2024-01-02T08:56:08.237254Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20240115</xocs:date-search-begin>
+      <xocs:year-nav>2024</xocs:year-nav>
+      <xocs:indexeddate epoch="1699256516">2023-11-06T07:41:56.646079Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast footnotes grantnumber grantsponsor grantsponsorid orcid primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0956-5663</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09565663</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>244</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>244</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 244</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>22</xocs:sort-order>
+      <xocs:first-fp>115817</xocs:first-fp>
+      <xocs:article-number>115817</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>115817</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20240115</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 January 2024</xocs:cover-date-text>
+      <xocs:cover-date-start>2024-01-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2024</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Full Papers</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2023 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>CHEAPPORTABLEPAPERCHIPTERRIFICOXIDASELIKEACTIVITYSERSENHANCEMENTPERFORMANCEFORSERSCOLORIMETRICBIMODALDETECTIONINTRACELLULARGLUTATHIONE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>WANG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>L</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental section</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Investigation on the oxidase-like catalytic activity of Mn-CDs/AgNPs and Mn-CDs/AgNPs@WFP</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SERS characteristic of Mn-CDs/AgNPs@WFP</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SERS and colorimetric measurement of GSH</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Detection of intracellular GSH</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization of Mn-CDs and Mn-CDs/AgNPs</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization of Mn-CDs/AgNPs@WFP</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Oxidase-like performances of Mn-CDs/AgNPs and Mn-CDs/AgNPs@WFP</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SERS performance of Mn-CDs/AgNPs@WFP</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SERS-colorimetric dual-mode sensing strategy for GSH measurement</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Performance evaluation of dual-mode paper-based biosensor</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.7</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Dual-mode detection of GSH in cells</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>26216</xocs:ref-first-fp>
+            <xocs:ref-last-lp>26224</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>CHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2465</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2474</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-article-number>115602</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4289</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4297</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>LAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>114446</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1100</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1109</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>LIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>2100355</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>44762</xocs:ref-first-fp>
+            <xocs:ref-last-lp>44771</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>25253</xocs:ref-first-fp>
+            <xocs:ref-last-lp>25260</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>424</xocs:ref-first-fp>
+            <xocs:ref-last-lp>433</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>131616</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>MUSTAFA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9361</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9369</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>NAQVI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-article-number>114341</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>QI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10486</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10491</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>QIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>116371</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>RECKMEIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10591</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10604</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>ROBERT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6956</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6959</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>SCHNEIDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2014</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2022</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>SHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8907</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8915</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>SHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>340081</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>VALLVERDUQUERALT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>142</xocs:ref-first-fp>
+            <xocs:ref-last-lp>149</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>VARGASMUNOZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-article-number>108469</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>114388</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>128165</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>44762</xocs:ref-first-fp>
+            <xocs:ref-last-lp>44771</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref27">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>154125</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref28">
+            <xocs:ref-normalized-surname>WEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>18417</xocs:ref-first-fp>
+            <xocs:ref-last-lp>18422</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref29">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>11</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref30">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14642</xocs:ref-first-fp>
+            <xocs:ref-last-lp>14651</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref31">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>131750</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>WANGX2024X115817</xocs:refkey3>
+         <xocs:refkey4ai>WANGX2024X115817XL</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2025-11-07T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2025-11-07T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2023 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2023-11-14T16:13:37.627Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Shiyanjia Lab</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Science and Technology Program of Tibet Autonomous Region</xocs:funding-agency-matched-string>
+            <xocs:funding-id>XZ202301YD0018C</xocs:funding-id>
+         </xocs:funding>
+         <xocs:funding-text>The authors thank the financial support from the Science and Technology Program of Tibet Autonomous Region ( XZ202301YD0018C ). The authors would like to thank Shiyanjia Lab ( www.shiyanjia.com ) for the support of XPS , XRD , TEM , SEM , and so on. </xocs:funding-text>
+         <xocs:funding-text>The authors thank the financial support from the Science and Technology Program of Tibet Autonomous Region (XZ202301YD0018C). The authors would like to thank Shiyanjia Lab (www.shiyanjia.com) for the support of XPS, XRD, TEM, SEM, and so on.</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework>
+         <xocs:asf-license>https://doi.org/10.15223/policy-017</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-037</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-012</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-029</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-004</xocs:asf-license>
+      </xocs:article-sharing-framework>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0956-5663(23)00759-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0956566323007595</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0956566323007595</xocs:eid>
+         <xocs:doi>10.1016/j.bios.2023.115817</xocs:doi>
+         <xocs:cid>271399</xocs:cid>
+         <xocs:timestamp>2024-01-02T08:56:08.237254Z</xocs:timestamp>
+         <xocs:cover-date-start>2024-01-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/MAIN/application/pdf/827ceb738c377e6f0d018af1dd56f515/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>10742872</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>9</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0956566323007595-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/PREVIEW/image/png/afb7e6690edc6a4852fdaf3f3ba546e6/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>58521</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-sc1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/sc1/DOWNSAMPLED/image/jpeg/1865b4ce9ff814e1d923f3ab36e0035c/sc1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>173401</xocs:filesize>
+               <xocs:pixel-height>371</xocs:pixel-height>
+               <xocs:pixel-width>691</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/gr1/DOWNSAMPLED/image/jpeg/aa694d33a3b197bb55057c2efcc2997d/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>368253</xocs:filesize>
+               <xocs:pixel-height>874</xocs:pixel-height>
+               <xocs:pixel-width>811</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/gr2/DOWNSAMPLED/image/jpeg/1eb1308b38974d2ea181b54800fb7472/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>285604</xocs:filesize>
+               <xocs:pixel-height>587</xocs:pixel-height>
+               <xocs:pixel-width>811</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/gr5/DOWNSAMPLED/image/jpeg/d2958a74bf5754d3c1f875eb530453e2/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>162465</xocs:filesize>
+               <xocs:pixel-height>452</xocs:pixel-height>
+               <xocs:pixel-width>535</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/gr3/DOWNSAMPLED/image/jpeg/1e2c11fd52b3c879c8e553ea819cb3f3/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>163666</xocs:filesize>
+               <xocs:pixel-height>378</xocs:pixel-height>
+               <xocs:pixel-width>691</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/gr4/DOWNSAMPLED/image/jpeg/0adf17ba92e52fffa2f75a21f58f183e/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>249861</xocs:filesize>
+               <xocs:pixel-height>659</xocs:pixel-height>
+               <xocs:pixel-width>811</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-sc1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/sc1/THUMBNAIL/image/gif/df6989c486ded723aafa146ebe16efca/sc1.sml</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>81634</xocs:filesize>
+               <xocs:pixel-height>118</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/gr1/THUMBNAIL/image/gif/e12d18073a8b68cf2067252cd394c797/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>85970</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>152</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/gr2/THUMBNAIL/image/gif/3f3162d6aa47a96d74a49e0b72776f74/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>87977</xocs:filesize>
+               <xocs:pixel-height>158</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/gr5/THUMBNAIL/image/gif/266ae6b872d7c7471a4714df1979bf3d/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>85679</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>194</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/gr3/THUMBNAIL/image/gif/b1ccf5c48542a4e8be600030b8533e6d/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>80570</xocs:filesize>
+               <xocs:pixel-height>120</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/gr4/THUMBNAIL/image/gif/38214d8de7e8641498875cd3ebe273e0/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>83658</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>202</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-sc1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/HIGHRES/image/jpeg/2455054256b69cc1182db33debd6fc7e/sc1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>797565</xocs:filesize>
+               <xocs:pixel-height>1645</xocs:pixel-height>
+               <xocs:pixel-width>3060</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/HIGHRES/image/jpeg/1ec35f27392d7460d4c552a7ea5a2f54/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>3417662</xocs:filesize>
+               <xocs:pixel-height>3870</xocs:pixel-height>
+               <xocs:pixel-width>3591</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/HIGHRES/image/jpeg/ebec3285e85bdbf6fc1c34633ad0371b/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>2168802</xocs:filesize>
+               <xocs:pixel-height>2597</xocs:pixel-height>
+               <xocs:pixel-width>3590</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/HIGHRES/image/jpeg/9ea251a18bda55048ec095954d662e7e/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>715715</xocs:filesize>
+               <xocs:pixel-height>2002</xocs:pixel-height>
+               <xocs:pixel-width>2370</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/HIGHRES/image/jpeg/a888e8c6e981fcbb14e1b7193f3dd5cc/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>806828</xocs:filesize>
+               <xocs:pixel-height>1673</xocs:pixel-height>
+               <xocs:pixel-width>3058</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/HIGHRES/image/jpeg/b370bf6b6af9297e4b70139f4da90f0c/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1256980</xocs:filesize>
+               <xocs:pixel-height>2918</xocs:pixel-height>
+               <xocs:pixel-width>3592</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-mmc2.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/mmc2/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/816d4fa20174574a16708bddcf230334/mmc2.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc2</xocs:file-basename>
+               <xocs:filename>mmc2.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>3070044</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-mmc1.mp4</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323007595/mmc1/MAIN/video/mp4/077b48e111b963106c5d5b89b1147cdc/mmc1.mp4</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.mp4</xocs:filename>
+               <xocs:extension>mp4</xocs:extension>
+               <xocs:filesize>8904278</xocs:filesize>
+               <xocs:attachment-type>VIDEO</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323007595-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>9704495</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10FZT62VFNP/MAIN/application/pdf/496f8f418fdca5f09d81de294c105594/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>BIOS</jid>
+            <aid>115817</aid>
+            <ce:article-number>115817</ce:article-number>
+            <ce:pii>S0956-5663(23)00759-5</ce:pii>
+            <ce:doi>10.1016/j.bios.2023.115817</ce:doi>
+            <ce:copyright type="full-transfer" year="2023">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">(A) The synthetic route and (B) XRD profiles of Mn-CDs and Mn-CDs/AgNPs. (C) TEM image of Mn-CDs (Inset: particle size distribution). (D) TEM image and (E) corresponding element mapping images of Mn-CDs/AgNPs (Inset: HRTEM image of Mn-CDs/AgNPs). (F) FT-IR and (G) the full XPS profiles of Mn-CDs and Mn-CDs/AgNPs. (H) The N 1s and (I) Mn 2p XPS spectra of Mn-CDs. (J) The Ag 3d XPS spectrum of Mn-CDs/AgNPs.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0020">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0956566323007595/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">(A) Synthesis pathway, (B) SEM image, and (C) corresponding elemental mappings of Mn-CDs/AgNPs@WFP. (D) The full XPS, (E) Mn 2p, (F) N 1s, and (G) Ag 3d XPS spectra of Mn-CDs/AgNPs@WFP.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0956566323007595/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">(A–C) UV–vis profiles of Mn-CDs/AgNPs + TMB, OPD, or ABTS system (Insets are the relevant physical photos). (D) EPR spectra of DMPO and DMPO + Mn-CDs/AgNPs. (E) Catalytic mechanism of Mn-CDs/AgNPs toward different colorimetric substrates. (F) R color channel value of various systems (The red histograms from left to right are: WFP, WFP + TMB, WFP + OPD, and WFP + ABTS; the blue histograms from left to right are: Mn-CDs/AgNPs@WFP, Mn-CDs/AgNPs@WFP + TMB, Mn-CDs/AgNPs@WFP + OPD, and Mn-CDs/AgNPs@WFP + ABTS). (n = 3).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0030">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0956566323007595/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Influence of GSH on (A) the SERS signal and (B) R color channel value of Mn-CDs/AgNPs@WFP + TMB system with or without GSH. (C) The SERS spectra and (D) corresponding curve of Mn-CDs/AgNPs@WFP + TMB system with various concentrations of GSH ranging from 1 to 1000 μM (Inset is the linear fitting curve between ΔI and GSH levels in the scope of 1–100 μM. ΔI = I<ce:inf loc="post">blank</ce:inf>-I<ce:inf loc="post">GSH</ce:inf>, I<ce:inf loc="post">blank</ce:inf>: the initial SERS intensity at 1606 cm<ce:sup loc="post">−1</ce:sup> of TMBox without GSH; I<ce:inf loc="post">GSH</ce:inf>: the SERS intensity at 1606 cm<ce:sup loc="post">−1</ce:sup> of TMBox with various levels of GSH). (E) The relationship curve between R values and GSH contents from 0 to 800 μM (Inset is the corresponding physical photo). (F) The linear fitting curve between R values and GSH levels in the range of 1–300 μM. (G) The SERS spectra of Mn-CDs/AgNPs@WFP + TMB system with GSH or other potential interferents, and (H) corresponding SERS intensities at 1606 cm<ce:sup loc="post">−1</ce:sup>. (I) The R value responses of GSH and other potential interferents toward Mn-CDs/AgNPs@WFP + TMB system (Inset is the relevant actual photograph). (n = 3).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0035">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0956566323007595/gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">(A) Schematic diagram of intracellular GSH detection. (B) The related linear relationship between A<ce:inf loc="post">562</ce:inf> and protein content. (C) Comparative results obtained by proposed dual-mode biosensor and commercial kit. (n = 3).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0040">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0956566323007595/gr5"/>
+            </ce:figure>
+            <ce:figure id="sch1">
+               <ce:label>Scheme 1</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">Illustration of (A) synthetic route, (B) exploration of oxidase-like activity and SERS property, (C) SERS-colorimetry analysis of intracellular GSH by using Mn-CDs/AgNPs@WFP.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0045">Scheme 1</ce:alt-text>
+               <ce:link locator="sc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0956566323007595/sc1"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Cheap and portable paper chip with terrific oxidase-like activity and SERS enhancement performance for SERS-colorimetric bimodal detection of intracellular glutathione</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S0956566323007595-dccf43046b062dc859615a791a71b883">
+                  <ce:given-name>Linjie</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:cross-ref refid="fn1" id="crosref0010">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au2" author-id="S0956566323007595-f7b67fc4db6023581f1b14d1393ab4ef">
+                  <ce:given-name>Yixin</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:cross-ref refid="fn1" id="crosref0015">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au3" author-id="S0956566323007595-29c19797d66461d6fd11a6cbb40c070c">
+                  <ce:given-name>Yang</ce:given-name>
+                  <ce:surname>Ji</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               </ce:author>
+               <ce:author id="au4" author-id="S0956566323007595-efb6110e6c898c102ade4a4107c123fc">
+                  <ce:given-name>Shujun</ce:given-name>
+                  <ce:surname>Zheng</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+               </ce:author>
+               <ce:author id="au5" author-id="S0956566323007595-bd60a8bfa0ddd44f905485fb63f3accc">
+                  <ce:given-name>Fei</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+                  <ce:cross-ref refid="cor2" id="crosref0020">
+                     <ce:sup loc="post">∗∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au6" orcid="0000-0001-9211-6454" author-id="S0956566323007595-b4d640c83ac09faa116ab4a039dca984">
+                  <ce:given-name>Caolong</ce:given-name>
+                  <ce:surname>Li</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+                  <ce:cross-ref refid="cor1" id="crosref0025">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S0956566323007595-0083cb3f98fb3865baa753db7dff94fd">
+                  <ce:textfn>Department of Chemistry, School of Science, China Pharmaceutical University, Nanjing, 211198, Jiangsu, PR China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemistry</sa:organization>
+                     <sa:organization>School of Science</sa:organization>
+                     <sa:organization>China Pharmaceutical University</sa:organization>
+                     <sa:city>Nanjing</sa:city>
+                     <sa:state>Jiangsu</sa:state>
+                     <sa:postal-code>211198</sa:postal-code>
+                     <sa:country>PR China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">Department of Chemistry, School of Science, China Pharmaceutical University, Nanjing, 211198, Jiangsu, PR China</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+               <ce:correspondence id="cor2">
+                  <ce:label>∗∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+               <ce:footnote id="fn1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para id="ntpara0010" view="all">Authors who equally contribute to this work.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="18" month="9" year="2023"/>
+            <ce:date-revised day="26" month="10" year="2023"/>
+            <ce:date-accepted day="31" month="10" year="2023"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">Glutathione (GSH) acts a crucial role in the normal operation of manifold life activities and is closely bound up with many human diseases. Here, a SERS-colorimetric bimodal paper-based biosensor based on Mn-doped CDs/silver nanoparticles (Mn-CDs/AgNPs) has been fabricated for high-efficiency quantification of intracellular GSH. The Mn-CDs/AgNPs with fine oxidase-like characteristic and SERS enhancement ability has been assembled onto the Whatman filter paper (WFP) to cleverly fabricate paper chip (Mn-CDs/AgNPs@WFP) which can trigger the oxidation of colorless 3,3′,5,5′-tetramethylbenzidine (TMB) into blue TMBox and simultaneously enhance the SERS signal of TMBox. However, the introduction of GSH inhibits the oxidation of TMB, leading to color fading of paper chip and diminishment of SERS signal. Considering this, the bimodal paper-based sensing platform can be exploited for SERS-colorimetric detection of GSH, manifesting excellent selectivity, reliable stability, and satisfactory precision. The detection limits of SERS and colorimetric detection modes are as low as 0.41 μM and 0.53 μM, respectively. Furthermore, this proposed bimodal biosensor has been successfully utilized for the determination of intracellular GSH and validated by commercial GSH assay kit, which provides a mighty and convenient tool for intracellular GSH detection and can boost future effort about exploitation of other multimode paper-based biosensors as well as promote their appliances in disease diagnosis.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0015">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Glutathione</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Bimodal paper-based biosensor</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Mn-CDs/AgNPs@WFP</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Oxidase-like characteristic</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>SERS enhancement ability</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:data-availability id="da0010" view="all">
+               <ce:section-title id="sectitle0020">Data availability</ce:section-title>
+               <ce:para id="p0010" view="all">Data will be made available on request.</ce:para>
+            </ce:data-availability>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0025">Introduction</ce:section-title>
+                  <ce:para id="p0015" view="all">Glutathione (GSH), as most plentiful intracellular nonprotein sulfhydryl oxidation inhibitor compound, acts essential roles for sustaining relative stability of various life activities including signal transduction, oxidative stress, immune response and so on (<ce:cross-ref refid="bib5" id="crosref0030">Lai et al., 2022</ce:cross-ref>; <ce:cross-ref refid="bib7" id="crosref0035">Liang et al., 2021</ce:cross-ref>). The abnormal expression of intracellular GSH is often closely related to the occurrence of numerous serious diseases, such as Alzheimer's disease, immune dysfunctions, liver injury, and even malignant cancer (<ce:cross-ref refid="bib30" id="crosref0040">Xu et al., 2022</ce:cross-ref>). In view of this, building a reliable, sensitive, and convenient sensing platform for monitoring GSH level is greatly meaningful for early disease diagnosis and maintenance of human health.</ce:para>
+                  <ce:para id="p0020" view="all">Up until now, multiple analytical means have been exploited and employed for determination of GSH, based on chromatography (<ce:cross-ref refid="bib21" id="crosref0045">Vallverdú-Queralt et al., 2015</ce:cross-ref>), fluorometry (<ce:cross-ref refid="bib20" id="crosref0050">Shu et al., 2022</ce:cross-ref>), electrochemistry (<ce:cross-ref refid="bib2" id="crosref0055">Cheng et al., 2022</ce:cross-ref>), colorimetry (<ce:cross-ref refid="bib31" id="crosref0060">Zhang et al., 2022</ce:cross-ref>), and surface-enhanced Raman scattering (SERS) (<ce:cross-ref refid="bib24" id="crosref0065">Wang et al., 2022a</ce:cross-ref>). Among them, optical sensors have raised intense attention benefited from their advantages in fast response, outstanding flexibility, and simple instrument procedures (<ce:cross-ref refid="bib12" id="crosref0070">Mustafa et al., 2021</ce:cross-ref>). Regretfully, current optical detection technologies mainly only focus on single signal output mode, which is susceptible to interferences from environmental and instrument fluctuations. In comparison, multimodal analysis strategies, which can provide more suitable sensing platform according to different application scenarios and improve detection accuracy via self-calibration function between various modes, unveil wider development prospect and precious practical application value (<ce:cross-ref refid="bib3" id="crosref0075">Hu et al., 2023</ce:cross-ref>; <ce:cross-ref refid="bib11" id="crosref0080">Liu et al., 2022</ce:cross-ref>; <ce:cross-ref refid="bib19" id="crosref0085">Shang et al., 2023</ce:cross-ref>). Evidently, the SERS sensor with low detection limit, high specificity, and nondestructive sample is integrated with colorimetric assay possessing intuitive read-out mode and easy operation to design a SERS-colorimetric bimodal biosensor, which can greatly improve the reliability and efficiency for biomarkers detection. However, general SERS-colorimetric sensors count upon solution system and SERS rigid substrates, which restricts their widespread applications in real-life scenarios owing to operational complexity and weak optical tunability. Accordingly, flexible paper-based biosensors are actually more attractive thanks to their portability, flexibility, ease-of-operation, and cost-effectiveness (<ce:cross-ref refid="bib13" id="crosref0090">Naqvi et al., 2023</ce:cross-ref>; <ce:cross-ref refid="bib14" id="crosref0095">Qi et al., 2023</ce:cross-ref>; <ce:cross-ref refid="bib15" id="crosref0100">Qin et al., 2021</ce:cross-ref>; <ce:cross-ref refid="bib25" id="crosref0105">Wang et al., 2022b</ce:cross-ref>). Meanwhile, the integration of smartphone as an emerging colorimetric reader with paper substrate can quantify the level of analyte based on color variance, which can be further combined with 3D-printed accessories to construct portable colorimetric sensing platform for target detection (<ce:cross-ref refid="bib22" id="crosref0110">Vargas-Muñoz et al., 2023</ce:cross-ref>). Apparently, the SERS-colorimetric bimodal paper-based assay system enables intuitive and rapid determination of disease biomarkers, which exhibits tremendous potentiality for convenient and precise early diagnosis of diseases.</ce:para>
+                  <ce:para id="p0025" view="all">Recently, nanomaterials with bioenzyme-mimetic properties (nanozymes) have attracted attention resulted from their lower costs, distinguished constancy, and catalytic capacity (<ce:cross-ref refid="bib17" id="crosref0115">Robert and Meunier, 2022</ce:cross-ref>). Among them, certain active metal doped carbon dots (CDs) with oxidase-like properties can directly catalyze the color reactions of chromogenic/SERS probes, accompanied by changes in SERS signal, which enables the construction of more convenient and suitable multimode optical sensors for multiple practical scenarios. More importantly, the CDs with generous surface functional groups can be employed as special reducing and connecting agents to prepare and crosslink precious metal nanoparticles (<ce:cross-ref refid="bib28" id="crosref0120">Wei et al., 2021</ce:cross-ref>), which reveals stronger SERS activity profited by abundant electromagnetic “hot spots” (<ce:cross-ref refid="bib1" id="crosref0125">Chen et al., 2022</ce:cross-ref>). With aforesaid considerations, a SERS-colorimetric bimodal paper-based biosensor based on Mn-doped CDs/silver nanoparticles (Mn-CDs/AgNPs) has been designed for high-efficiency quantification of intracellular GSH. As proved by <ce:cross-ref refid="sch1" id="crosref0130">Scheme 1</ce:cross-ref>
+                     <ce:float-anchor refid="sch1"/>A, the Mn-CDs were first synthesized via simple hydrothermal approach, and then were used as reducing and connecting agents to synthesize Mn-CDs/AgNPs which was assembled onto the Whatman filter paper (WFP) to cleverly fabricate paper chip (Mn-CDs/AgNPs@WFP). Interestingly, the Mn-CDs/AgNPs@WFP reveals good oxidase-like characteristic and SERS enhancement ability, which can induce the oxidation of colorless 3,3′,5,5′-tetramethylbenzidine (TMB) into blue TMBox and simultaneously enhance the SERS signal of TMBox (<ce:cross-ref refid="sch1" id="crosref0135">Scheme 1</ce:cross-ref>B). However, the addition of GSH inhibits the oxidation of TMB to TMBox, leading to color fading of paper chip and diminishment of SERS signals. Subsequently, the Raman spectrometer is applied to record and analyze these SERS signals for quantitative detection of GSH. Similarly, a smartphone-assisted 3D printing device has been designed, and the color information on the paper chip is converted into RGB values by using color recognition application called “Color Grab” on the smartphone. Here, the dual-mode paper-based biosensor has been constructed for rapid, sensitive, and credible analysis of intracellular GSH (<ce:cross-ref refid="sch1" id="crosref0140">Scheme 1</ce:cross-ref>C), which opened up a novel road for design and development of multimodal biosensors for disease diagnosis.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0030">Experimental section</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sectitle0035">Investigation on the oxidase-like catalytic activity of Mn-CDs/AgNPs and Mn-CDs/AgNPs@WFP</ce:section-title>
+                     <ce:para id="p0030" view="all">The oxidase-like performances of Mn-CDs/AgNPs and Mn-CDs/AgNPs@WFP were monitored with TMB, OPD and ABTS as chromogenic substrates. Specifically, 100 μL Mn-CDs/AgNPs (1 mg mL<ce:sup loc="post">−1</ce:sup>), 100 μL chromogenic substrate (5 mM), and 2.8 mL sodium acetate buffer (pH 4.0, 0.2 M) were mixed and incubated for 2 min. Afterwards, the corresponding UV-vis spectra and absorption signal at 652 nm, 450 nm, and 417 nm were measured and recorded, respectively. For Mn-CDs/AgNPs@WFP, 20 μL sodium acetate buffer (pH 4.0, 0.2 M) and 20 μL chromogenic substrate (5 mM) were uniformly dripped onto the Mn-CDs/AgNPs@WFP in sequence and incubated for 3 min. Subsequently, the corresponding color information such as RGB value was recorded through a free android smartphone application called “Color Grab”.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sectitle0040">SERS characteristic of Mn-CDs/AgNPs@WFP</ce:section-title>
+                     <ce:para id="p0035" view="all">DTNB was employed as a common Raman probe to investigate SERS characteristic of Mn-CDs/AgNPs@WFP. In detail, 20 μL DTNB solution (5 × 10<ce:sup loc="post">−4</ce:sup> M) was dropped onto the Mn-CDs/AgNPs@WFP, and then the SERS spectra were collected by utilizing the laser at 532 nm with power of 5 mW and acquisition time of 10 s.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.3" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sectitle0045">SERS and colorimetric measurement of GSH</ce:section-title>
+                     <ce:para id="p0040" view="all">For GSH detection, 20 μL acetate buffer (pH 4.0, 0.2 M), 20 μL TMB (5 mM), and 10 μL GSH with different concentrations were evenly dropped onto the Mn-CDs/AgNPs@WFP successively. After incubation for 3 min at room temperature, SERS spectra and relevant color parameters (RGB value) were collected immediately. Here, the GSH was quantified through the differences in SERS spectral intensity at 1606 cm<ce:sup loc="post">−1</ce:sup> and discrepancies in red channel values (R) separately.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.4" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sectitle0050">Detection of intracellular GSH</ce:section-title>
+                     <ce:para id="p0045" view="all">The determination of intracellular GSH was applied to testify the usefulness and reliability of developed dual-mode SERS-colorimetric biosensor. Firstly, several common cells such as L-02, MCF-7, and Hela cells were lysed and diluted five times as cell test samples. Secondly, 20 μL acetate buffer (pH 4.0, 0.2 M), 20 μL TMB (5 mM), and 10 μL cell test sample were evenly dropped onto the Mn-CDs/AgNPs@WFP successively and incubated for 3 min. Finally, SERS signal at 1606 cm<ce:sup loc="post">−1</ce:sup> and relevant R value were recorded immediately and brought into the established standard curve to calculate the corresponding GSH content. Besides, the commercial GSH assay kit was applied to verify the accuracy of our proposed method.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0055">Results and discussion</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sectitle0060">Characterization of Mn-CDs and Mn-CDs/AgNPs</ce:section-title>
+                     <ce:para id="p0050" view="all">The Mn-CDs were synthesized via simple hydrothermal approach. Such a simple process and affordable raw materials enabled it to be prepared on a large scale. Interestingly, the Mn-CDs were employed as special reducing and connecting agents to fabricate the Mn-CDs/AgNPs with excellent SERS enhancement performance through a facile one-pot reaction, and the relevant preparation processes were vividly indicated in <ce:cross-ref refid="fig1" id="crosref0145">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>A. Then the synthesized materials were systematically characterized through multifarious approaches. The XRD patterns (<ce:cross-ref refid="fig1" id="crosref0150">Fig. 1</ce:cross-ref>B) evidence a broad near 2θ = 24.5° assigned to Mn-CDs, which is consistent with previously reported literature (<ce:cross-ref refid="bib26" id="crosref0155">Wang et al., 2022c</ce:cross-ref>). And four sharp peaks at 38.3°, 44.6°, 64.6°, and 77.5° can be attributed to (111), (200), (220), and (311) planes of AgNPs, respectively (<ce:cross-ref refid="bib23" id="crosref0160">Wang et al., 2019</ce:cross-ref>). These results indicate existence of Mn-CDs and AgNPs in synthetized composite materials. Furthermore, the Mn-CDs appear near-spherical small granules with average particle diameter of about 1.8 nm (<ce:cross-ref refid="fig1" id="crosref0165">Fig. 1</ce:cross-ref>C), which distributes around and on the surface of AgNPs in the Mn-CDs/AgNPs (<ce:cross-ref refid="fig1" id="crosref0170">Fig. 1</ce:cross-ref>D). The classic lattice fringes with lattice spacing of 0.241 nm assigned to (111) planes of AgNPs in the Mn-CDs/AgNPs (Inset in <ce:cross-ref refid="fig1" id="crosref0175">Fig. 1</ce:cross-ref>D). Meanwhile, the element mappings further verify the distribution of Mn-CDs in the Mn-CDs/AgNPs (<ce:cross-ref refid="fig1" id="crosref0180">Fig. 1</ce:cross-ref>E). Subsequently, the FT-IR, XPS, and UV-vis spectra were collected for exploring the surface structure of synthesized materials. As described by <ce:cross-ref refid="fig1" id="crosref0185">Fig. 1</ce:cross-ref>F, the broad absorption bands at 3200-3600 cm<ce:sup loc="post">−1</ce:sup> are ascribed to O−H and N−H stretching vibrations. The absorbance peak at 1553 cm<ce:sup loc="post">−1</ce:sup> is assigned to bending vibration of N−H, while the characteristic stretching vibrations of C−N and C−O−C appear at 1395 cm<ce:sup loc="post">−1</ce:sup> and 1077 cm<ce:sup loc="post">−1</ce:sup>, respectively. These outcomes indicate the generation of amide groups during the synthesis process, demonstrating that the surface of Mn-CDs is functionalized by EDA (<ce:cross-ref refid="bib18" id="crosref0190">Schneider et al., 2017</ce:cross-ref>). This FT-IR result is also corroborated by C 1s and N 1s XPS profiles of Mn-CDs. More specifically, the high-resolution C 1s profile can be deconvoluted to C−C/C=C, C−N, C−O, and C=N/C=O at 283.95, 285.40, 286.26, and 287.53 eV, respectively (<ce:cross-ref refid="appsec1" id="crosref0195">Fig. S1</ce:cross-ref>). The N 1s spectrum supplies three peaks corresponded to pyridinic-N/Mn-N (398.70 eV), pyrrolic-N (399.50 eV), and graphitic-N (400.50 eV), respectively (<ce:cross-ref refid="fig1" id="crosref0200">Fig. 1</ce:cross-ref>H) (<ce:cross-ref refid="bib10" id="crosref0205">Liu et al., 2023c</ce:cross-ref>; <ce:cross-ref refid="bib29" id="crosref0210">Wu et al., 2023</ce:cross-ref>). In addition, the O 1s profile can be matched with the bonding information of C=O, C−O, and Mn-O at 530.69, 531.45, and 529.75 eV, respectively (<ce:cross-ref refid="appsec1" id="crosref0215">Fig. S2</ce:cross-ref>) (<ce:cross-ref refid="bib4" id="crosref0220">Huang et al., 2023</ce:cross-ref>). Besides, the UV-vis spectrum of Mn-CDs exhibits two absorption signals at ∼238 nm and ∼345 nm (<ce:cross-ref refid="appsec1" id="crosref0225">Fig. S3</ce:cross-ref>), originated from π−π* transition of C=C as well as n−π* transition of O−H and C=O/C=N, respectively, which once again confirms the previous conclusion (<ce:cross-ref refid="bib16" id="crosref0230">Reckmeier et al., 2016</ce:cross-ref>). The high-resolution Mn 2p spectrum reveals the presence of Mn<ce:sup loc="post">2+</ce:sup> (640.17 and 652.10 eV) and Mn<ce:sup loc="post">3+</ce:sup> (641.60 and 653.41 eV) with relevant shake-up peaks, demonstrating the existence of polyvalent manganese (Mn<ce:sup loc="post">2+</ce:sup> and Mn<ce:sup loc="post">3+</ce:sup>) in Mn-CDs (<ce:cross-ref refid="fig1" id="crosref0235">Fig. 1</ce:cross-ref>I) (<ce:cross-ref refid="bib26" id="crosref0240">Wang et al., 2022c</ce:cross-ref>). Meanwhile, the stretching vibration of Mn−N/Mn−O (577 cm<ce:sup loc="post">−1</ce:sup>) in FT-IR spectra indicates the presence of Mn active centers connected via C-bond and N-bond (<ce:cross-ref refid="bib9" id="crosref0245">Liu et al., 2023b</ce:cross-ref>), which is successfully cross verified with the analysis outcomes of XPS. Such abundant polyvalent Mn active sites endow Mn-CDs with excellent oxidase-like performance. Compared with Mn-CDs, characteristic peaks of C=O stretching vibration at 1745 cm<ce:sup loc="post">−1</ce:sup> and O−H bending vibration at 1452 cm<ce:sup loc="post">−1</ce:sup> appear in Mn-CDs/AgNPs, testifying the existence of generous carboxyl groups (<ce:cross-ref refid="bib1" id="crosref0250">Chen et al., 2022</ce:cross-ref>). Interestingly, abundant hydroxyl and amino groups on the surface of Mn-CDs enable them to become special reducing and connecting agents during the fabrication of Mn-CDs/AgNPs. Except for the expected signals of C 1s, N 1s, O 1s, and Mn 2p, a significant peak attributed to Ag 3d is discovered in the XPS full spectrum of Mn-CDs/AgNPs (<ce:cross-ref refid="fig1" id="crosref0255">Fig. 1</ce:cross-ref>G), which can be fitted with peaks of Ag 3d<ce:inf loc="post">5/2</ce:inf> at 367.68 eV and Ag 3d<ce:inf loc="post">3/2</ce:inf> at 373.68 eV (<ce:cross-ref refid="fig1" id="crosref0260">Fig. 1</ce:cross-ref>J) (<ce:cross-ref refid="bib23" id="crosref0265">Wang et al., 2019</ce:cross-ref>). Apparently, the high-resolution C 1s profile of Mn-CDs/AgNPs exists an emerging signal at 288.39 eV originated from O=C−O−Ag (<ce:cross-ref refid="appsec1" id="crosref0270">Fig. S4</ce:cross-ref>) (<ce:cross-ref refid="bib1" id="crosref0275">Chen et al., 2022</ce:cross-ref>). These XPS analysis results again prove the successful incorporation of AgNPs into the constructed composite nanomaterials. Similarly, a broad absorption band centered at around 460 nm resulted from the surface plasmon resonance (SPR) phenomena of AgNPs is observed in Mn-CDs/AgNPs (<ce:cross-ref refid="appsec1" id="crosref0280">Fig. S5</ce:cross-ref>) (<ce:cross-ref refid="bib27" id="crosref0285">Wang et al., 2022d</ce:cross-ref>), which is cross verified with the results of XPS and FT-IR.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sectitle0065">Characterization of Mn-CDs/AgNPs@WFP</ce:section-title>
+                     <ce:para id="p0055" view="all">The Mn-CDs/AgNPs@WFP was attained by immobilizing Mn-CDs/AgNPs onto WFP (<ce:cross-ref refid="fig2" id="crosref0290">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/>A). As depicted in <ce:cross-ref refid="fig2" id="crosref0295">Fig. 2</ce:cross-ref>B, the Mn-CDs/AgNPs nanoparticles are observed on the Whatman filter paper. Correspondingly, the existence of C, N, O, Mn, and Ag elements in Mn-CDs/AgNPs@WFP also proves this viewpoint (<ce:cross-ref refid="fig2" id="crosref0300">Fig. 2</ce:cross-ref>C). As expected, the signals corresponding to C, N, O, Mn, and Ag elements are surveyed in full XPS spectrum (<ce:cross-ref refid="fig2" id="crosref0305">Fig. 2</ce:cross-ref>D). Also, the deconvolution of high-resolution Mn 2p and N 1s XPS profiles of Mn-CDs/AgNPs@WFP are highly similar to those of Mn-CDs (<ce:cross-ref refid="fig2" id="crosref0310">Fig. 2</ce:cross-ref>E and F). However, the weak XPS signals are caused by the extremely low content of Mn-CDs/AgNPs on WFP. Besides, the Ag 3d XPS profile of Mn-CDs/AgNPs@WFP also exhibits this similar phenomenon. These above results fully demonstrate the successful preparation of paper chip.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.3" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sectitle0070">Oxidase-like performances of Mn-CDs/AgNPs and Mn-CDs/AgNPs@WFP</ce:section-title>
+                     <ce:para id="p0060" view="all">The oxidase-like performances of Mn-CDs/AgNPs and Mn-CDs/AgNPs@WFP were systematically explored by employing TMB, OPD, and ABTS as chromogenic substrates. Only when TMB and Mn-CDs/AgNPs are incubated together in acetate buffer, a distinctive absorbance peak appears at 652 nm, accompanied by a noticeable color variation from colorless to dark blue in solution (<ce:cross-ref refid="fig3" id="crosref0315">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/>A). Similarly, the appearance of visible absorbance peaks and color change in solution system also occur in Mn-CDs/AgNPs + OPD (ABTS) system, while this situation is absent in Mn-CDs/AgNPs or OPD (ABTS) alone system (<ce:cross-ref refid="fig3" id="crosref0320">Fig. 3</ce:cross-ref>B and C). Thus, the Mn-CDs/AgNPs exhibits excellent oxidase-like performance on various chromogenic substrates, and the oxidase-like activity is derived from Mn-CDs rather than AgNPs (<ce:cross-ref refid="appsec1" id="crosref0325">Fig. S6</ce:cross-ref>). Moreover, the catalytic reactions phenomena of Mn-CDs/AgNPs + TMB (OPD or ABTS) in air- or N<ce:inf loc="post">2</ce:inf>-saturated buffers were compared. Apparently, the color reactions of three substrates are significantly suppressed in N<ce:inf loc="post">2</ce:inf>-saturated buffer (<ce:cross-ref refid="appsec1" id="crosref0330">Fig. S7</ce:cross-ref>), testifying that Mn-CDs/AgNPs indeed acts as a catalyst rather than an oxidizer to catalyze the reactions of TMB and dissolved O<ce:inf loc="post">2</ce:inf>. Furthermore, the EPR technology was used to further explore the catalytic mechanism of Mn-CDs/AgNPs. Typical superoxide radical signals can be detected by utilizing DMPO as a capture agent (<ce:cross-ref refid="fig3" id="crosref0335">Fig. 3</ce:cross-ref>D) (<ce:cross-ref refid="bib8" id="crosref0340">Liu et al., 2023a</ce:cross-ref>), manifesting that abundant superoxide radicals are generated during this catalytic reaction. Therefore, the catalysis process can be described that Mn-CDs/AgNPs first catalyzes the decomposition of dissolved O<ce:inf loc="post">2</ce:inf> to produce rich superoxide radicals which then induce the oxidation of chromogenic substrates to corresponding products (<ce:cross-ref refid="fig3" id="crosref0345">Fig. 3</ce:cross-ref>E).</ce:para>
+                     <ce:para id="p0065" view="all">Afterwards, the steady-state kinetic assays were conducted for quantitative evaluation of oxidase-like catalytic capacity of Mn-CDs/AgNPs. The Michaelis-Menten constant (<ce:italic>K</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>m</ce:italic>
+                        </ce:inf>) and maximum reaction velocity (<ce:italic>V</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>max</ce:italic>
+                        </ce:inf>) toward TMB are recorded as 0.244 mM and 2.260 × 10<ce:sup loc="post">−7</ce:sup> M s<ce:sup loc="post">−1</ce:sup> separately (<ce:cross-ref refid="appsec1" id="crosref0350">Fig. S8</ce:cross-ref>). Compared with other reported oxidases (<ce:cross-ref refid="appsec1" id="crosref0355">Table S1</ce:cross-ref>), Mn-CDs/AgNPs possesses lower <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>m</ce:italic>
+                        </ce:inf> and higher <ce:italic>V</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>max</ce:italic>
+                        </ce:inf>, suggesting their strong substrate affinity and excellent catalytic efficiency. Similarly, the Mn-CDs/AgNPs@WFP also reveals terrific oxidase-like catalytic activity toward aforementioned three chromogenic substrates (<ce:cross-ref refid="fig3" id="crosref0360">Fig. 3</ce:cross-ref>F). Interestingly, the morphology of Mn-CDs/AgNPs@WFP remains basically unchanged before and after catalytic reaction, further proving that it is indeed a catalyst (<ce:cross-ref refid="appsec1" id="crosref0365">Fig. S9</ce:cross-ref>). Importantly, the optimal buffer pH was explored to maximize oxidase-like activity of Mn-CDs/AgNPs@WFP. As proved by <ce:cross-ref refid="appsec1" id="crosref0370">Fig. S10</ce:cross-ref>, the catalyze feature of Mn-CDs/AgNPs@WFP highly counts on pH condition, and the optimal activity is exhibited at pH 4.0. Thus, acetate buffer (pH 4.0) was selected for subsequent experiments.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.4" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="sectitle0075">SERS performance of Mn-CDs/AgNPs@WFP</ce:section-title>
+                     <ce:para id="p0070" view="all">As a classic Raman reporter molecule, DTNB was applied to evaluate the performance of Mn-CDs/AgNPs@WFP as a SERS substrate. Raman signal of DTNB solution and SERS signal enhanced by Mn-CDs/AgNPs@WFP were depicted in <ce:cross-ref refid="appsec1" id="crosref0375">Fig. S11</ce:cross-ref>. The SERS spectrum of DTNB exhibits apparent characteristic peaks at 847 cm<ce:sup loc="post">−1</ce:sup>, 1061 cm<ce:sup loc="post">−1</ce:sup>, 1154 cm<ce:sup loc="post">−1</ce:sup>, 1336 cm<ce:sup loc="post">−1</ce:sup>, and 1574 cm<ce:sup loc="post">−1</ce:sup>, which are highly correspond to most reported studies (<ce:cross-ref refid="bib6" id="crosref0380">Li et al., 2023</ce:cross-ref>). The strongest DTNB signal (1336 cm<ce:sup loc="post">−1</ce:sup>) is selected as a reference for calculating the SERS enhancement factor of Mn-CDs/AgNPs@WFP, and the calculation value is 1.0 × 10<ce:sup loc="post">4</ce:sup>. Such ideal SERS enhancement characteristic can improve the analytical ability of fabricated sensor. The repeatability and stability of SERS signals are extremely critical evaluation indicators for SERS substrates. The related SERS experiments such as reproducibility, long-term storage stability, and batch-to-batch repeatability were carried out. Through SERS profiles of 15 randomly selected points collected, the relative standard deviation (RSD) was controlled at 2.60% based on the peak of 1336 cm<ce:sup loc="post">−1</ce:sup> (<ce:cross-ref refid="appsec1" id="crosref0385">Fig. S12</ce:cross-ref>), suggesting outstanding reproducibility of prepared material as SERS substrate. Surprisingly, the enhancement effects of Mn-CDs/AgNPs@WFP on DTNB were almost consistent within 25 days (<ce:cross-ref refid="appsec1" id="crosref0390">Fig. S13</ce:cross-ref>), demonstrating its good storage stability. Meanwhile, the <ce:cross-ref refid="appsec1" id="crosref0395">Fig. S14</ce:cross-ref> indicates that Mn-CDs/AgNPs@WFP possesses ideal preparation reproducibility, which is extremely important for quantitative analysis in practical applications. Although the SERS bands of TMBox on Mn-CDs/AgNPs@WFP are lower than those on Si slice (<ce:cross-ref refid="appsec1" id="crosref0400">Fig. S15</ce:cross-ref>), the paper-based SERS sensor still displays satisfactory signal enhancement effect for subsequent experiments. More importantly, this paper-based SERS sensor possesses the following additional advantages: (1) Compared with rigid matrix, filter paper as flexible substrate has received extensive attention benefited by its high flexibility, ease in fabrication, tailorable ability, portability, and economic viability. (2) Paper-based SERS substrates as the universal sensor platforms are convenient for combination with other analytical approaches, which can output more accurate and stable analysis results via self-calibration function between multiple modes.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.5" view="all">
+                     <ce:label>3.5</ce:label>
+                     <ce:section-title id="sectitle0080">SERS-colorimetric dual-mode sensing strategy for GSH measurement</ce:section-title>
+                     <ce:para id="p0075" view="all">The aforementioned verifications exhibit that Mn-CDs/AgNPs@WFP possesses excellent oxidase-like activity and SERS performance, which can convert colorless TMB to blue TMBox with prominent SERS signal. However, GSH with antioxidant property can reduce TMBox to TMB, leading to color fading of paper chip and diminishment of SERS signals (<ce:cross-ref refid="fig4" id="crosref0405">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/>A and B). In view of this, a SERS-colorimetric dual-mode detection platform based on Mn-CDs/AgNPs@WFP was established for GSH analysis. Among them, the colorimetric assay was carried out through smartphone-assisted platform comprised of a smartphone and a portable 3D-printing device (<ce:cross-ref refid="appsec1" id="crosref0410">Fig. S16</ce:cross-ref>). A customized cylindrical box with 12 cm (high) × 8 cm (diameter) was applied to fix the distance between the camera on smartphone and test strip, which can be further divided into the following two parts: (1) the top part possesses a square hole for placing a smartphone to collect image information; (2) the circular turntable at the bottom as a testing zone contains six small discs with an inside diameter of 1 cm to hold test strip. Moreover, the optimal reaction time is set to 3 min for better sensing performance (<ce:cross-ref refid="appsec1" id="crosref0415">Fig. S17</ce:cross-ref>). And there is no significant difference in the RGB values read by various smartphones, indicating the good universality of this portable devices with smartphone (<ce:cross-ref refid="appsec1" id="crosref0420">Fig. S18</ce:cross-ref>). Under optimal conditions, GSH was quantitatively detected through SERS and colorimetric mode, respectively. As illustrated in <ce:cross-ref refid="fig4" id="crosref0425">Fig. 4</ce:cross-ref>C, the SERS signals of TMBox gradually decline with the increase of GSH concentrations from 0 to 1000 μM. Furthermore, the ΔI is linearly with GSH levels range from 1 to 100 μM, and the linear fitting equation is y = 48.70x + 1097.20 (R<ce:sup loc="post">2</ce:sup> = 0.9744) with the limit of detection (LOD) of 0.41 μM (<ce:cross-ref refid="fig4" id="crosref0430">Fig. 4</ce:cross-ref>D). Likewise, the visible cyan on the test strip gradually fades to colorless and R values converted from color information constantly increase with the increase of GSH level from 0 to 800 μM (<ce:cross-ref refid="fig4" id="crosref0435">Fig. 4</ce:cross-ref>E). Correspondingly, a terrific linear relationship between R value and GSH content is represent, offering equation as y = 0.44x + 31.27 (1–300 μM, R<ce:sup loc="post">2</ce:sup> = 0.9916), with LOD of 0.53 μM (<ce:cross-ref refid="fig4" id="crosref0440">Fig. 4</ce:cross-ref>F). In comparison with other detection strategies for GSH (<ce:cross-ref refid="appsec1" id="crosref0445">Table S2</ce:cross-ref>), the constructed SERS-colorimetric bimodal analysis platform reveals ideal detection range and satisfactory LOD.</ce:para>
+                     <ce:para id="p0080" view="all">To investigate the specificity of dual-mode sensing platform, several potential interfering substances such as Glu, Glucose, Gly, K<ce:sup loc="post">+</ce:sup>, Lys, Mg<ce:sup loc="post">2+</ce:sup>, Pro, and Cys were added to the CDs/AgNPs@WFP + TMB system. The concentrations of Cys and GSH at 50 μM were employed and other substances were selected as 100 μM. As described in <ce:cross-ref refid="fig4" id="crosref0450">Fig. 4</ce:cross-ref>G and J, these interference terms present little influence on the SERS-colorimetric dual-mode sensing system except for Cys. Fortunately, the content of Cys in cells is extremely low and even negligible compared to GSH. Accordingly, these dual-mode analysis strategy unveils high sensing sensitivity and good selectivity for intracellular GSH determination.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.6" view="all">
+                     <ce:label>3.6</ce:label>
+                     <ce:section-title id="sectitle0085">Performance evaluation of dual-mode paper-based biosensor</ce:section-title>
+                     <ce:para id="p0085" view="all">Reproducibility and stability are considerable valuation indicators of dual-mode biosensor in practical applications. Consequently, associated explorations containing reproducibility, long-term storage stability, and batch-to-batch repeatability were carried out. As indicated in <ce:cross-ref refid="appsec1" id="crosref0455">Fig. S19A</ce:cross-ref>, the SERS signals at around 1606 cm<ce:sup loc="post">−1</ce:sup> are acquired among 15 random selected tested points on Mn-CDs/AgNPs@WFP + TMB system and the RSD is calculated as 1.55%. Similarly, the colorimetric determination results of GSH (200 μM) from 10 test strips indicate excellent consistence, and the RSD is calculated as 1.47% on the basis of R values (<ce:cross-ref refid="appsec1" id="crosref0460">Fig. S20A</ce:cross-ref>). Surprisingly, the Mn-CDs/AgNPs@WFP can still maintain good performance for SERS (GSH: 50 μM) and colorimetric (GSH: 200 μM) tests within 25 days (<ce:cross-ref refid="appsec1" id="crosref0465">Fig. S19B</ce:cross-ref> and <ce:cross-ref refid="appsec1" id="crosref0470">Fig. S20B</ce:cross-ref>). Additionally, six different batches of test strips are used to collect SERS (GSH: 30 μM) and colorimetric (GSH: 200 μM) signals during the detection process, and the fluctuations between these signals are extremely slight, indicating excellent batch-to-batch repeatability of this dual-mode biosensor (<ce:cross-ref refid="appsec1" id="crosref0475">Fig. S19C</ce:cross-ref> and <ce:cross-ref refid="appsec1" id="crosref0480">Fig. S20C</ce:cross-ref>). All experimental outcomes declare that proposed dual-mode biosensor possesses exceptional reproducibility and stability in detection of GSH.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.7" view="all">
+                     <ce:label>3.7</ce:label>
+                     <ce:section-title id="sectitle0090">Dual-mode detection of GSH in cells</ce:section-title>
+                     <ce:para id="p0090" view="all">To inspect dependability and practicability under actual conditions, this dual-mode biosensor based on Mn-CDs/AgNPs@WFP was employed to monitor GSH contents inside healthy cell of L-02 as well as cancer cell of MCF-7 and Hela. As presented in <ce:cross-ref refid="fig5" id="crosref0485">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/>A, these three types of cells are decomposed and their cytosols are collected via centrifugation for subsequent experiments. In this study, the cellular protein content is applied as a quantitative basis for cytosol concentration, and relevant protein standard curve are established according to BCA Protein Assay Kit (<ce:cross-ref refid="fig5" id="crosref0490">Fig. 5</ce:cross-ref>B). Afterwards, the contents of GSH in L-02, MCF-7, and Hela cells are determined to be 22.79 and 23.09, 37.88 and 36.43, as well as 39.65 and 40.03 μmol gprot<ce:sup loc="post">−1</ce:sup> according to proposed SERS-colorimetric strategy. Apparently, these results are basically consistent with those obtained by commercial GSH assay kit (<ce:cross-ref refid="fig5" id="crosref0495">Fig. 5</ce:cross-ref>C), indicating excellent application prospect of developed dual-mode sensing platform based on paper chip for practical specimen analysis. More importantly, this dual-mode sensing platform also possesses multiple benefits including unique SERS fingerprint profiles, good stability, and simple detection process, compared to commercial GSH assay kits that easily suffered by influence from enzymatic property variation.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0095">Conclusions</ce:section-title>
+                  <ce:para id="p0095" view="all">In summary, reasonably integrating enhanced performance and oxidase-like property of Mn-CDs/AgNPs@WFP, a novel SERS-colorimetric bimodal paper-based biosensor by using TMB as a connecting bridge has been fabricated for quantitative detection of GSH. Benefiting from dual-signal output mode and visual read-out form, this biosensor possesses outstanding sensitivity, credibility, simplicity, and practicality. The LOD of SERS and colorimetric detection modes are calculated as 0.41 μM and 0.53 μM, respectively. More significantly, this biosensor has been successfully employed for intracellular GSH detection, and the test outcomes have been validated via commercial GSH assay kit. Hence, this bimodal paper-based biosensor provides new insights for indirect detection of GSH, as well as even inspire the design and development of desired cheap and portable paper chips for early diagnosis of various disease.</ce:para>
+               </ce:section>
+               <ce:section id="sec5" view="all">
+                  <ce:section-title id="sectitle0100">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p0100" view="all">
+                     <ce:bold>Linjie Wang:</ce:bold> Conceptualization, Methodology, Data curation, Writing – original draft. <ce:bold>Yixin Chen:</ce:bold> Formal analysis, Investigation, Methodology, Validation, Writing – review &amp; editing. <ce:bold>Yang Ji:</ce:bold> Formal analysis, Validation. <ce:bold>Shujun Zheng:</ce:bold> Validation. <ce:bold>Fei Wang:</ce:bold> Visualization, Supervision, Funding acquisition. <ce:bold>Caolong Li:</ce:bold> Supervision, Project administration, Funding acquisition.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0010" view="all">
+               <ce:section-title id="sectitle0105">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0105" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0110">Acknowledgements</ce:section-title>
+               <ce:para id="p0110" view="all">The authors thank the financial support from the <ce:grant-sponsor id="gs5" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Science and Technology Program of Tibet Autonomous Region</ce:grant-sponsor> (<ce:grant-number refid="gs5">XZ202301YD0018C</ce:grant-number>). The authors would like to thank Shiyanjia Lab (<ce:inter-ref xlink:href="http://www.shiyanjia.com" id="intref0010" xlink:type="simple">www.shiyanjia.com</ce:inter-ref>) for the support of <ce:grant-sponsor id="gs3" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">XPS</ce:grant-sponsor>, <ce:grant-sponsor id="gs4" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">XRD</ce:grant-sponsor>, <ce:grant-sponsor id="gs1" sponsor-id="https://doi.org/10.13039/501100001838" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">TEM</ce:grant-sponsor>, <ce:grant-sponsor id="gs2" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">SEM</ce:grant-sponsor>, and so on.</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="appsec1" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0115">Supplementary data</ce:section-title>
+                  <ce:para id="p0115" view="all">The following are the Supplementary data to this article:<ce:display>
+                        <ce:e-component id="mmc1">
+                           <ce:label>Multimedia component 1</ce:label>
+                           <ce:alt-text role="short" id="alttext0010">Multimedia component 1</ce:alt-text>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.2" xlink:href="pii:S0956566323007595/mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                     <ce:display>
+                        <ce:e-component id="mmc2">
+                           <ce:label>Multimedia component 2</ce:label>
+                           <ce:alt-text role="short" id="alttext0015">Multimedia component 2</ce:alt-text>
+                           <ce:link locator="mmc2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S0956566323007595/mmc2"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="appsec2" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0120">Supplementary data</ce:section-title>
+                  <ce:para id="p0120" view="all">Supplementary data to this article can be found online at <ce:inter-ref xlink:href="https://doi.org/10.1016/j.bios.2023.115817" id="intref0015" xlink:type="simple">https://doi.org/10.1016/j.bios.2023.115817</ce:inter-ref>.</ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0125">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>Chen et al., 2022</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>22</sb:issue-nr>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>26216</sb:first-page>
+                              <sb:last-page>26224</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0015">Chen, M., Zhang, J., Zhu, X., Liu, Z., Huang, J., Jiang, X., Fu, F., Lin, Z., Dong, Y., 2022. ACS Appl. Mater. Interfaces 14(22), 26216-26224.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>Cheng et al., 2022</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Sens.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2465</sb:first-page>
+                              <sb:last-page>2474</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0020">Cheng, D., Li, P., Xu, Z., Liu, X., Zhang, Y., Liu, M., Yao, S., 2022. ACS Sens. 7(8), 2465-2474.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>Hu et al., 2023</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Niu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>238</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:article-number>115602</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0025">Hu, P., Tang, Y., Zhu, H., Xia, C., Liu, J., Liu, B., Niu, X., 2023. Biosens. Bioelectron. 238, 115602.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>Huang et al., 2023</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biomater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4289</sb:first-page>
+                              <sb:last-page>4297</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">Huang, X., Wang, Z., Li, S., Lin, S., Zhang, L., Meng, Z., Zhang, X., Sun, S.K., 2023. Biomater. Sci. 11(12), 4289-4297.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>Lai et al., 2022</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Lai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Ning</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Ji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>213</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>114446</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0035">Lai, X., Shen, Y., Gao, S., Chen, Y., Cui, Y., Ning, D., Ji, X., Liu, Z., Wang, L., 2022. Biosens. Bioelectron. 213, 114446.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>Li et al., 2023</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Chem. Front.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1100</sb:first-page>
+                              <sb:last-page>1109</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0040">Li, S., Chen, J., Xu, W., Sun, B., Wu, J., Chen, Q., Liang, P., 2023. Mater. Chem. Front. 7(6), 1100-1109.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>Liang et al., 2021</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Funct. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>22</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>2100355</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0045">Liang, K., Sun, H., Yang, Z., Yu, H., Shen, J., Wang, X., Chen, H., 2021. Adv. Funct. Mater. 31(22), 2100355.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>Liu et al., 2023a</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Niu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>44762</sb:first-page>
+                              <sb:last-page>44771</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0050">Liu, B., Zhu, H., Liu, J., Wang, M., Pan, J., Feng, R., Hu, P., Niu, X., 2023a. ACS Appl. Mater. Interfaces 14, 44762-44771.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>Liu et al., 2023b</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>15</sb:issue-nr>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>25253</sb:first-page>
+                              <sb:last-page>25260</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0055">Liu, J., Gao, F., Zhao, L., Wu, Y., Wang, F., Dong, L., Jiang, Y., 2023b. Ceram. Int. 49(15), 25253-25260.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>Liu et al., 2023c</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Colloid Interface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>639</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>424</sb:first-page>
+                              <sb:last-page>433</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0060">Liu, L.L., Wu, D.H., Zhang, L., Feng, J.J., Wang, A.J., 2023c. J. Colloid Interface Sci. 639, 424-433.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>Liu et al., 2022</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Niu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sens. Actuators, B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>360</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>131616</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0065">Liu, P., Zhu, H., Wang, M., Wei, M., Liu, B., Hu, P., Lin, J., Niu, X., 2022. Sens. Actuators, B 360, 131616.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>Mustafa et al., 2021</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Mustafa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Carhart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Andreescu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Nano Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9361</sb:first-page>
+                              <sb:last-page>9369</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0070">Mustafa, F., Carhart, M., Andreescu, S., 2021. ACS Appl. Nano Mater. 4(9), 9361-9369.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>Naqvi et al., 2023</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.K.</ce:given-name>
+                                 <ce:surname>Naqvi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bajpai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Dwivedi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bhaiyya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Goel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Dwivedi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sens. Actuators, A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>356</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:article-number>114341</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0075">Naqvi, T.K., Bajpai, A., Dwivedi, S., Bhaiyya, M., Goel, S., Dwivedi, P.K., 2023. Sens. Actuators, A 356, 114341.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>Qi et al., 2023</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Qi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>95</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>28</sb:issue-nr>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10486</sb:first-page>
+                              <sb:last-page>10491</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0080">Qi, J., Li, B., Lin, D., Du, Z., Fu, L., Wang, X., Zhang, Z., Luo, L., Chen, L., 2023. Anal. Chem. 95(28), 10486-10491.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>Qin et al., 2021</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>TrAC, Trends Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>143</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>116371</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0085">Qin, X., Liu, J., Zhang, Z., Li, J., Yuan, L., Zhang, Z., Chen, L., 2021. TrAC, Trends Anal. Chem. 143, 116371.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>Reckmeier et al., 2016</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Reckmeier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Zboril</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Rogach</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>19</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10591</sb:first-page>
+                              <sb:last-page>10604</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0090">Reckmeier, C.J., Wang, Y., Zboril, R., Rogach, A.L., 2016. J. Phys. Chem. C 120(19), 10591-10604.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>Robert and Meunier, 2022</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Robert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Meunier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Nano</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6956</sb:first-page>
+                              <sb:last-page>6959</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0095">Robert, A., Meunier, B., 2022. Acs Nano 16(5), 6956-6959.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>Schneider et al., 2017</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Schneider</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Reckmeier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xiong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>von Seckendorff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Susha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Kasák</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Rogach</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>121</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2014</sb:first-page>
+                              <sb:last-page>2022</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0100">Schneider, J., Reckmeier, C.J., Xiong, Y., von Seckendorff, M., Susha, A.S., Kasak, P., Rogach, A.L., 2017. J. Phys. Chem. C 121(3), 2014-2022.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>Shang et al., 2023</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Shang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Nano Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8907</sb:first-page>
+                              <sb:last-page>8915</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0105">Shang, H., Zhang, X., Ding, M., Zhang, A., Wang, C., 2023. ACS Appl. Nano Mater. 6(10), 8907-8915.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>Shu et al., 2022</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Shu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Xiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1220</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>340081</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0110">Shu, W., Yu, J., Wang, H., Yu, A., Xiao, L., Li, Z., Zhang, H., Zhang, Y., Wu, Y., 2022. Anal. Chim. Acta 1220, 340081.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>Vallverdú-Queralt et al., 2015</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Vallverdú-Queralt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Verbaere</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Meudec</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Cheynier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Sommerer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Agric. Food Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>142</sb:first-page>
+                              <sb:last-page>149</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0115">Vallverdu-Queralt, A., Verbaere, A., Meudec, E., Cheynier, V., Sommerer, N., 2015. J. Agric. Food Chem. 63(1), 142-149.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>Vargas-Muñoz et al., 2023</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Vargas-Muñoz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Morales</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Cerdà</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Ferrer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Palacio</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microchem. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>188</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:article-number>108469</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0120">Vargas-Munoz, M., Morales, J., Cerda, V., Ferrer, L., Palacio, E., 2023. Microchem. J. 188, 108469.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>Wang et al., 2019</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Guan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Shan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microchim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>186</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>8</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0125">Wang, A., Guan, C., Shan, G., Chen, Y., Wang, C., Liu, Y., 2019. Microchim. Acta 186, 1-8.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>Wang et al., 2022a</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ying</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>215</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>114388</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0130">Wang, C., Gao, Y., Hu, S., Zhu, A., Ying, Y., Guo, X., Wu, Y., Wen, Y., Yang, H., 2022a. Biosens. Bioelectron. 215, 114388.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>Wang et al., 2022b</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Qi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Hazard Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>428</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>128165</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0135">Wang, L., Li, B., Wang, J., Qi, J., Li, J., Ma, J., Chen, L., 2022b. J. Hazard. Mater. 428, 128165.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>Wang et al., 2022c</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Niu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>39</sb:issue-nr>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>44762</sb:first-page>
+                              <sb:last-page>44771</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0140">Wang, M., Zhu, H., Liu, B., Hu, P., Pan, J., Niu, X., 2022c. ACS Appl. Mater. Interfaces 14(39), 44762-44771.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>Wang et al., 2022d</ce:label>
+                     <sb:reference id="sref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Mei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.F.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>600</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>154125</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0145">Wang, P., Song, Y., Mei, Q., Dong, W.F., Li, L., 2022d. Appl. Surf. Sci. 600, 154125.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>Wei et al., 2021</ce:label>
+                     <sb:reference id="sref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>RSC Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>30</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>18417</sb:first-page>
+                              <sb:last-page>18422</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0150">Wei, X., Cheng, F., Yao, Y., Yi, X., Wei, B., Li, H., Wu, Y., He, J., 2021. RSC Adv. 11(30), 18417-18422.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>Wu et al., 2023</ce:label>
+                     <sb:reference id="sref29">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ul Haq</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Colloid Interface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>647</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>11</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0155">Wu, D.H., Huang, H., Ul Haq, M., Zhang, L., Feng, J.J., Wang, A.J., 2023. J. Colloid Interface Sci. 647, 1-11.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>Xu et al., 2022</ce:label>
+                     <sb:reference id="sref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>42</sb:issue-nr>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>14642</sb:first-page>
+                              <sb:last-page>14651</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0160">Xu, Y., Yan, J., Zhu, Y., Chen, H., Wu, C., Zhu, X., Zhang, Y., Li, H., Liu, M., Yao, S., 2022. Anal. Chem. 94(42), 14642-14651.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>Zhang et al., 2022</ce:label>
+                     <sb:reference id="sref31">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sens. Actuators, B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>361</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>131750</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0165">Zhang, L., Wang, J., Zhao, C., Zhou, F., Yao, C., Song, C., 2022. Sens. Actuators, B 361, 131750.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

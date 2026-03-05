@@ -1,0 +1,71 @@
+{
+  "input_source": "artigo34.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "Fluorescent carbon nanoparticles, specifically nitrogen-doped carbon quantum dots, whose enhanced fluorescence may be attributed in part to oxidation of amine precursors during synthesis.",
+        "iupac_name": null,
+        "alternative_names": [
+          "carbon quantum dots",
+          "nitrogen-doped carbon nano dots",
+          "carbon nano dots"
+        ]
+      },
+      "synthesis": {
+        "method": {
+          "type": "[MISSING]",
+          "conditions": "[MISSING]",
+          "catalysts": null
+        },
+        "precursors": {
+          "source": null,
+          "dopants": [
+            "Nitrogen"
+          ]
+        },
+        "post_treatment": "[MISSING]"
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": "[MISSING]",
+            "reference_material": "[MISSING]"
+          },
+          "excitation_max": "[MISSING]",
+          "emission_max": "[MISSING]",
+          "fluorescence_lifetime": null
+        },
+        "structural": {
+          "size": {
+            "avg": "[MISSING]",
+            "distribution": "[MISSING]"
+          },
+          "morphology": "[MISSING]",
+          "crystallinity": "[MISSING]"
+        },
+        "chemical": {
+          "surface_groups": [
+            "[MISSING]"
+          ],
+          "elemental_composition": {
+            "C": "[MISSING]",
+            "N": "[MISSING]",
+            "O": "[MISSING]"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "Bioimaging (inferred from discussion)",
+          "performance": "[MISSING]",
+          "comparative_advantage": "Oxidation of amine precursors may contribute significantly to fluorescence enhancement, a mechanism potentially overlooked in previous studies on nitrogen-doped carbon dots"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Regular",
+    "score": 4.0,
+    "expert_comment": "Omission Error: The field 'carbon_dots -> synthesis -> precursors -> source' contained '['[MISSING]']' in the source text, but it was extracted as null/missing."
+  }
+}

@@ -1,0 +1,43 @@
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition":"Curved carbon dots (CDs) bottom- up fabricated using sputter-plasma assisted chemical vapour deposition (SPA-CVD) process",
+            "iupac_name": null,
+            "alternative_names": ["CDs", "Carbon dots", "Curved carbon dots"]
+        },
+        "synthesis": {
+            "method": {"type": "sputter-plasma assisted chemical vapour deposition", 
+            "conditions": "(a) Deposition system with radio-frequency sputtering and thermal evaporation system in ultra-high vacuum(10^-7 Torr base pressure). (b) Wafer-size Al foil and Si and BK7 glass used as substrate is placed on a rotatable stage. (c) 1-10 nm Cu is thermally evaporated (7.5 V, 65 A) onto the substrate to form a thin film, then placed in alumina crucibles. (d) C(1-16nm thickness) film is sputtered onto the Cu film to form a layered structure. (d) Annealing at 380°C for 1 h in situ simultaneously transforms the Cu film into nanoparticles, and the C film into CDs on top of Cu-NPs.",
+            "catalysts": ["copper nanoparticles"]},
+            "precursors": {"source": ["Graphite target (99.99% purity)", "Copper pellets (99.99% purity)"], "dopants": null},
+            "post_treatment": null
+        },
+        "properties": {
+            "optical": {
+                "quantum_yield": {
+                    "value": "[MISSING]",
+                    "reference_material": "[MISSING]"
+                },
+                "excitation_max": "405 nm",
+                "emission_max": "[MISSING]",
+                "fluorescence_lifetime": "[MISSING]"
+            },
+            "structural": {
+                "size": {"avg": "[MISSING]", "distribution": "monomodal distribution 9-10nm"},
+                "morphology": "Curved. Determined by the hemispherical shape of the nucleated Cu-NPs.",
+                "crystallinity": "partly disordered in nature"
+            },
+            "chemical": {
+                "surface_groups": ["C-C sp2", "C-O", "O-C=O", "C-C", "C=C", "C=O"],
+                "elemental_composition": {"C": "[MISSING]", "N": "[MISSING]", "O": "[MISSING]"}
+            }
+        },
+        "applications": [
+            {
+                "domain": "Resistive Memory Devices",
+                "performance": "Non-volatile memory with write (V_W = +8 V), erase (V_E = -6 V), read (V_R = 0.5 V) cycles. Current difference between states: ~6.0 ± 0.5 μA at V_R.",
+                "comparative_advantage": "Lower fabrication cost vs. silicon-based flash memory. Tunable CD size via deposition parameters."
+            }
+        ]
+    }
+}

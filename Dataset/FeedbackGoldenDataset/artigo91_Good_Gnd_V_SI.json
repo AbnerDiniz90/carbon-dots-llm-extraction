@@ -1,0 +1,57 @@
+{
+  "input_source": "artigo91.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": null,
+        "iupac_name": null,
+        "alternative_names": null
+      },
+      "synthesis": {
+        "method": {
+          "type": "[MISSING]",
+          "conditions": "[MISSING]",
+          "catalysts": null
+        },
+        "precursors": {
+          "source": null,
+          "dopants": null
+        },
+        "post_treatment": null
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": "[MISSING]",
+            "reference_material": "[MISSING]"
+          },
+          "excitation_max": "[MISSING]",
+          "emission_max": "[MISSING]",
+          "fluorescence_lifetime": null
+        },
+        "structural": {
+          "size": {
+            "avg": "[MISSING]",
+            "distribution": "[MISSING]"
+          },
+          "morphology": "[MISSING]",
+          "crystallinity": "[MISSING]"
+        },
+        "chemical": {
+          "surface_groups": [],
+          "elemental_composition": {
+            "C": "[MISSING]",
+            "N": "[MISSING]",
+            "O": "[MISSING]"
+          }
+        }
+      },
+      "applications": []
+    }
+  },
+  "feedback": {
+    "label": "Good",
+    "score": 5.0,
+    "expert_comment": "Grounded Verification: All extracted content is fully supported by the source text. The model correctly returned 'null' or '[MISSING]' for fields absent in the document, avoiding unsupported inferences or hallucinations. | Structural Integrity: The output matches the required JSON schema perfectly. Complex nested arrays (such as precursors/dopants and application domains) were populated correctly without truncating list items or breaking the syntax."
+  }
+}

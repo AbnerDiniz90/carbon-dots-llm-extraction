@@ -1,0 +1,64 @@
+{
+  "input_source": "artigo11.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "Graphene quantum dots",
+        "iupac_name": null,
+        "alternative_names": [
+          "GQDs"
+        ]
+      },
+      "synthesis": {
+        "method": {
+          "type": "hydrothermal",
+          "conditions": "dried at 110°C for 12h",
+          "catalysts": null
+        },
+        "precursors": {
+          "source": null,
+          "dopants": null
+        },
+        "post_treatment": "array | null"
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": null
+          },
+          "excitation_max": null,
+          "emission_max": null,
+          "fluorescence_lifetime": null
+        },
+        "structural": {
+          "size": {
+            "avg": "diameter 498.29nm",
+            "distribution": null
+          },
+          "morphology": null,
+          "crystallinity": null
+        },
+        "chemical": {
+          "surface_groups": null,
+          "elemental_composition": {
+            "C": "[MISSING]",
+            "N": "[MISSING]",
+            "O": "[MISSING]"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "Energy Storage (Lithium Ion Batteries)",
+          "performance": "It is demonstrated that the specific capacity, charge/discharge rate capability, and cycling stability of LiCoO2 can be enhanced by coating mRGO, pRGO or GQDs. The GQDs, owing to its shrunken lateral dimensions, cannot cover the surfaces of LiCoO2 as efficient as mRGO that weakens its effect on electrochemical properties of LiCoO2.",
+          "comparative_advantage": "null"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Bad",
+    "score": 0.0,
+    "expert_comment": "Incomplete Structure: The entire section 'carbon_dots -> properties -> optical -> quantum_yield -> reference_material' was incorrectly omitted. The JSON is missing a mandatory structural block. | Numerical Hallucination: The correct value for carbon_dots -> properties -> structural -> size -> avg was 'diameter 50nm', but the model hallucinated 'diameter 498.29nm'."
+  }
+}

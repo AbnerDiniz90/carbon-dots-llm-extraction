@@ -1,0 +1,2266 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1386142522011155</prism:url><dc:identifier>doi:10.1016/j.saa.2022.121967</dc:identifier><eid>1-s2.0-S1386142522011155</eid><prism:doi>10.1016/j.saa.2022.121967</prism:doi><pii>S1386-1425(22)01115-5</pii><dc:title>Biomimetic-compartmented nanoprobe for in-situ imaging of iron storage and release from ferritin in cells </dc:title><prism:publicationName>Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>13861425</prism:issn><prism:volume>286</prism:volume><prism:startingPage>121967</prism:startingPage><prism:pageRange>121967</prism:pageRange><articleNumber>121967</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2023-02-05</prism:coverDate><prism:coverDisplayDate>5 February 2023</prism:coverDisplayDate><prism:copyright>© 2022 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>He, Leiliang</dc:creator><dc:creator>Wang, Jingjing</dc:creator><dc:creator>Wan, Zhenzhen</dc:creator><dc:creator>Xiong, Yamin</dc:creator><dc:creator>Man, Jin</dc:creator><dc:creator>Wang, Ya</dc:creator><dc:creator>Mao, Guojiang</dc:creator><dc:creator>Yu, Fei</dc:creator><dc:description>
+                  Ferritin plays an important role in regulating the homeostasis of iron in cells by storing/releasing iron. Current methods usually explored the determination of iron content, but in-situ imaging of the iron storage/release from ferritin in cells cannot be achieved. Hence, an engineered self-assembled biomimetic-compartmented nanoprobe (APO@CDs) has been constructed. The protein shell of APO (apoferritin) acted as ion channel module to control iron ions entering/exiting ferritin cavity; the inner core of CDs (carbon dots) acted as signal module for iron ions response. Compared with CDs, the response sensitivity and specificity to iron ions (Fe3+) have been improved by using APO@CDs, and the cytotoxicity was significantly reduced. Additionally, compared with cells containing APO@CDs alone, the normalized fluorescence gray value of Fe3+-treated cells was significantly decreased (0.275), indicating that Fe3+ has effectively entered the ferritin. Furtherly, that of Fe3+-treated cells incubated with deferoxamine (DFO) was significantly enhanced (0.712), showing that Fe3+ was released from ferritin under the mediation of DFO. The results demonstrate that APO@CDs can be successfully applied to in-situ imaging of iron storage/release from ferritin in cells, providing a potential platform for the in-situ dynamic study of the iron storage/release in biomedical field.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Biomimetic-compartmented nanoprobe</dcterms:subject><dcterms:subject>Self-assembly</dcterms:subject><dcterms:subject>Iron storage</dcterms:subject><dcterms:subject>Iron release</dcterms:subject><dcterms:subject>Ferritin</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1386142522011155" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1386142522011155" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="578" height="579" size="71420">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="667" height="424" size="79193">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="390" height="200" size="29665">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-ga1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="383" height="483" size="35461">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="645" height="478" size="52110">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="578" height="436" size="52041">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="164" height="164" size="11518">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="139" size="11754">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="ga1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="112" size="16368">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-ga1.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="130" height="164" size="7086">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="162" size="8791">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="217" height="164" size="8436">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2559" height="2562" size="373722">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2953" height="1877" size="530641">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1726" height="886" size="176225">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-ga1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1697" height="2139" size="263808">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2854" height="2114" size="336384">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2560" height="1931" size="384869">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="257900">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="683709">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142522011155-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85140218944</scopus-id><scopus-eid>2-s2.0-85140218944</scopus-eid><pubmed-id>36274535</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85140218944" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271973</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291685</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy</xocs:srctitle>
+      <xocs:normalized-srctitle>SPECTROCHIMICAACTAPARTAMOLECULARBIOMOLECULARSPECTROSCOPY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20221012">2022-10-12</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20221012">2022-10-12</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20221021">2022-10-21</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20221021">2022-10-21</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2022-12-18T10:55:42</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1386142522011155</xocs:eid>
+      <xocs:pii-formatted>S1386-1425(22)01115-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1386142522011155</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.saa.2022.121967</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1386142522X00176</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240520">2024-05-20T11:24:14.468372Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20230205</xocs:date-search-begin>
+      <xocs:year-nav>2023</xocs:year-nav>
+      <xocs:indexeddate epoch="1665562523">2022-10-12T08:15:23.046966Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst otherkwds primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1386-1425</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>13861425</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>286</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>286</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 286</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>62</xocs:sort-order>
+      <xocs:first-fp>121967</xocs:first-fp>
+      <xocs:article-number>121967</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>121967</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20230205</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>5 February 2023</xocs:cover-date-text>
+      <xocs:cover-date-start>2023-02-05</xocs:cover-date-start>
+      <xocs:cover-date-year>2023</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Analytical Spectroscopy and New Methods</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2022 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>BIOMIMETICCOMPARTMENTEDNANOPROBEFORINSITUIMAGINGIRONSTORAGERELEASEFERRITININCELLS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>HE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>L</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental section</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of the biomimetic-compartmented nanoprobe</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization of the biomimetic-compartmented nanoprobe</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Performance investigation of the biomimetic-compartmented nanoprobe</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Detection of iron ions entering/exiting the ferritin in solution</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Cytotoxicity of the biomimetic-compartmented nanoprobe</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>
+                  <ce:italic>In-situ</ce:italic> imaging of iron storage/release from ferritin in cells</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussions</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Construction and detection principle of biomimetic-compartmented nanoprobe</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization of the biomimetic-compartmented nanoprobe</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Performance investigation of APO@CDs</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Detection of iron ions entering/exiting the ferritin in solution</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>
+                  <ce:italic>In-situ</ce:italic> imaging of iron ions storage/release from ferritin in cells</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary material</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>AROSIO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>457</xocs:ref-first-fp>
+            <xocs:ref-last-lp>463</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>HARRISON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>161</xocs:ref-first-fp>
+            <xocs:ref-last-lp>203</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>352</xocs:ref-first-fp>
+            <xocs:ref-last-lp>362</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>AROSIO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>589</xocs:ref-first-fp>
+            <xocs:ref-last-lp>599</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>HAYES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>167</xocs:ref-first-fp>
+            <xocs:ref-last-lp>197</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3505</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3510</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>TORTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1387</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1389</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>ROUAULT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>551</xocs:ref-first-fp>
+            <xocs:ref-last-lp>564</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>DUFAILLY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>214</xocs:ref-first-fp>
+            <xocs:ref-last-lp>221</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>ATSEVER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>113274</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>CHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>21</xocs:ref-first-fp>
+            <xocs:ref-last-lp>31</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1770</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1839</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12663</xocs:ref-first-fp>
+            <xocs:ref-last-lp>12672</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>HIRAYAMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4858</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4866</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>AUYEUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15165</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15173</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1245</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1251</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>ARON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14338</xocs:ref-first-fp>
+            <xocs:ref-last-lp>14346</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0090">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>33</xocs:ref-first-fp>
+            <xocs:ref-last-lp>41</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3953</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3957</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100">
+            <xocs:ref-normalized-surname>MIAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>100879</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>JUTZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1653</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1701</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0110">
+            <xocs:ref-normalized-surname>TETTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14933</xocs:ref-first-fp>
+            <xocs:ref-last-lp>14936</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0115">
+            <xocs:ref-normalized-surname>HE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>128661</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>ASPERTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>129</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0125">
+            <xocs:ref-normalized-surname>CHEUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5192</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5199</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>HEX2023X121967</xocs:refkey3>
+         <xocs:refkey4ai>HEX2023X121967XL</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2024-10-21T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2024-10-21T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2022 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2022-10-27T05:09:46.457Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>National Natural Science Foundation of China</xocs:funding-agency-matched-string>
+            <xocs:funding-id>82073606</xocs:funding-id>
+            <xocs:funding-id>82103893</xocs:funding-id>
+            <xocs:funding-agency-acronym>NSFC</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Natural Science Foundation of China</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100001809</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Key R&amp;D and Promotion Projects in Henan Province</xocs:funding-agency-matched-string>
+            <xocs:funding-id>212102310181</xocs:funding-id>
+            <xocs:funding-id>212102310337</xocs:funding-id>
+         </xocs:funding>
+         <xocs:funding-text>This work was funded by the National Natural Science Foundation of China ( 82073606, 82103893 ), the Key R&amp;D and Promotion Projects in Henan Province (212102310337, 212102310181). </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:article-sharing-framework>
+         <xocs:asf-license>https://doi.org/10.15223/policy-017</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-037</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-012</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-029</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-004</xocs:asf-license>
+      </xocs:article-sharing-framework>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1386-1425(22)01115-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1386142522011155</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1386142522011155</xocs:eid>
+         <xocs:doi>10.1016/j.saa.2022.121967</xocs:doi>
+         <xocs:cid>271973</xocs:cid>
+         <xocs:timestamp>2022-12-18T11:05:29.715166Z</xocs:timestamp>
+         <xocs:cover-date-start>2023-02-05</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/MAIN/application/pdf/c8e8ab6b0cfbc515fceca7d6d6f728ee/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2998209</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1386142522011155-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/PREVIEW/image/png/b5345986bb9326573b806d7b54c67336/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>47237</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/gr1/DOWNSAMPLED/image/jpeg/c8d1c27c64a5ebfe34a1d5701a26e91c/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>71420</xocs:filesize>
+               <xocs:pixel-height>579</xocs:pixel-height>
+               <xocs:pixel-width>578</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/gr2/DOWNSAMPLED/image/jpeg/eb1e88c409c3986f6959e65cf12630f8/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>79193</xocs:filesize>
+               <xocs:pixel-height>424</xocs:pixel-height>
+               <xocs:pixel-width>667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-ga1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/ga1/DOWNSAMPLED/image/jpeg/1f313f756451b0bd9688d5a433e71653/ga1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>29665</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>390</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/gr5/DOWNSAMPLED/image/jpeg/8c554330396a3fc96eb649dc9ed3cefc/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>35461</xocs:filesize>
+               <xocs:pixel-height>483</xocs:pixel-height>
+               <xocs:pixel-width>383</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/gr3/DOWNSAMPLED/image/jpeg/18259a9df69dd63a1fb8eda999055a4d/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>52110</xocs:filesize>
+               <xocs:pixel-height>478</xocs:pixel-height>
+               <xocs:pixel-width>645</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/gr4/DOWNSAMPLED/image/jpeg/f3b806935b61793f7f6a2940541a83b8/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>52041</xocs:filesize>
+               <xocs:pixel-height>436</xocs:pixel-height>
+               <xocs:pixel-width>578</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/gr1/THUMBNAIL/image/gif/9f8c4c42ba07c6e8b62a7761e7728f43/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11518</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>164</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/gr2/THUMBNAIL/image/gif/74e9aa72d3af8d341a3b2a165b605e07/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11754</xocs:filesize>
+               <xocs:pixel-height>139</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-ga1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/ga1/THUMBNAIL/image/gif/1ce1a5f70e14aa5602798b77f4edfad2/ga1.sml</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16368</xocs:filesize>
+               <xocs:pixel-height>112</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/gr5/THUMBNAIL/image/gif/3cb808b0b69d9476fd01aa46c87ecb6e/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7086</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>130</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/gr3/THUMBNAIL/image/gif/844b74ee11dc284afeb3393dbf6bcadc/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8791</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/gr4/THUMBNAIL/image/gif/3947150d9b9900eee4dbcdfe8045edb5/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8436</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>217</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/HIGHRES/image/jpeg/f8928eb723b1c40dba3e359d3749a7f3/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>373722</xocs:filesize>
+               <xocs:pixel-height>2562</xocs:pixel-height>
+               <xocs:pixel-width>2559</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/HIGHRES/image/jpeg/a03f6a204e8604dd1d3c346ddcde084d/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>530641</xocs:filesize>
+               <xocs:pixel-height>1877</xocs:pixel-height>
+               <xocs:pixel-width>2953</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-ga1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/HIGHRES/image/jpeg/cce79eaa23a2f340c06769f22951f463/ga1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>176225</xocs:filesize>
+               <xocs:pixel-height>886</xocs:pixel-height>
+               <xocs:pixel-width>1726</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/HIGHRES/image/jpeg/5db9832b336d482798eb0b08c55fa61e/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>263808</xocs:filesize>
+               <xocs:pixel-height>2139</xocs:pixel-height>
+               <xocs:pixel-width>1697</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/HIGHRES/image/jpeg/e0dc4a0205c0f9b12e38b0378cec7b88/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>336384</xocs:filesize>
+               <xocs:pixel-height>2114</xocs:pixel-height>
+               <xocs:pixel-width>2854</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/HIGHRES/image/jpeg/cd95392c33eb9f8da6a6816012f4fd72/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>384869</xocs:filesize>
+               <xocs:pixel-height>1931</xocs:pixel-height>
+               <xocs:pixel-width>2560</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386142522011155/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/17c1ea5ab0edaff3bbdc63aa4fdf902d/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>257900</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142522011155-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:1076N062Z92/MAIN/application/pdf/16413d93655a5eaa7dbe1c5baae4fd53/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>683709</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.6">
+         <item-info>
+            <jid>SAA</jid>
+            <aid>121967</aid>
+            <ce:article-number>121967</ce:article-number>
+            <ce:pii>S1386-1425(22)01115-5</ce:pii>
+            <ce:doi>10.1016/j.saa.2022.121967</ce:doi>
+            <ce:copyright type="full-transfer" year="2022">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0020" view="all">(A) Construction of biomimetic-compartmented nanoprobe (APO@CDs); (B)The principle diagram of detection of Fe<ce:sup loc="post">3+</ce:sup> entering/exiting the ferritin in solution; (C) <ce:italic>In-situ</ce:italic> imaging of iron storage/release from ferritin in cells.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1386142522011155/gr1" id="lk00005"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0025" view="all">(A) UV–vis absorption spectra of CDs, APO, APO@CDs; (B) Fluorescence spectra of CDs and APO@CDs; (C) TEM images of CDs; (D) TEM images of APO@CDs; (E) Zeta-potential of CDs and APO@CD.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1386142522011155/gr2" id="lk00010"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0030" view="all">(A) Temperature stability of the fluorescence of APO@CDs, F<ce:inf loc="post">0</ce:inf> is the average fluorescence intensity of APO@CDs at 37 °C; (B) The response of APO@CDs to Fe<ce:sup loc="post">3+</ce:sup> (50 µM) at different temperatures; (C) Selectivity comparison of APO@CDs and CDs response to various metal ions (the concentration of each metal ion was 50 µM), F<ce:inf loc="post">0</ce:inf> is the average fluorescence intensity of APO@CDs in the buffer. (D) Sensitivity comparison of the response of APO@CDs and CDs to Fe<ce:sup loc="post">3+</ce:sup>, the final concentration of APO@CDs or CDs was 172 µg/mL, F<ce:inf loc="post">0</ce:inf> is the average fluorescence intensity of APO@CDs or CDs in the absence of Fe<ce:sup loc="post">3+</ce:sup>. Error bars represent the standard deviations of three experiments.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1386142522011155/gr3" id="lk00015"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cn0020">
+                  <ce:simple-para id="sp0035" view="all">(A) Fluorescence spectra of APO@CDs in the presence of Fe<ce:sup loc="post">3+</ce:sup> with different concentrations; (B) Calibration curve of the APO@CDs response to Fe<ce:sup loc="post">3+</ce:sup>; (C) Response performance of APO@CDs in the presence of Fe<ce:sup loc="post">3+</ce:sup> and DFO, group a ∼ g represent the APO@CDs, APO@CDs + 100 µM DFO, APO@CDs + Fe<ce:sup loc="post">3+</ce:sup>, APO@CDs + Fe<ce:sup loc="post">3+</ce:sup>+50 µM DFO, APO@CDs + Fe<ce:sup loc="post">3+</ce:sup>+75 µM DFO, APO@CDs + Fe<ce:sup loc="post">3+</ce:sup>+100 µM DFO, and APO@CDs + Fe<ce:sup loc="post">3+</ce:sup>+150 µM DFO, respectively. F<ce:inf loc="post">0</ce:inf> is the average fluorescence intensity of APO@CDs (group a); (D) Viability of A549 cells incubated with the APO@CDs and CDs, respectively. Error bars represent the standard deviations of three experiments.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1386142522011155/gr4" id="lk00020"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cn0025">
+                  <ce:simple-para id="sp0040" view="all">(A) Confocal microscopy images of cells with different treatments (a ∼ c) and the corresponding brightfield (d ∼ f); (B) The normalized gray value of the fluorescence images corresponding to a ∼ c. Error bars represent the standard deviations of three experiments.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1386142522011155/gr5" id="lk00025"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Biomimetic-compartmented nanoprobe for <ce:italic>in-situ</ce:italic> imaging of iron storage and release from ferritin in cells</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005" author-id="S1386142522011155-09af693047ba163c4169081ec41e86d0">
+                  <ce:given-name>Leiliang</ce:given-name>
+                  <ce:surname>He</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+                  <ce:cross-ref refid="af005" id="c0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au010" author-id="S1386142522011155-e030e76960dcfcdacfaaf5f3fedafdd1">
+                  <ce:given-name>Jingjing</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:cross-ref refid="af005" id="c0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au015" author-id="S1386142522011155-97471facaff0c9a6d1f42559110ace5a">
+                  <ce:given-name>Zhenzhen</ce:given-name>
+                  <ce:surname>Wan</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:cross-ref refid="af005" id="c0015">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au020" author-id="S1386142522011155-1839cbc3fb88ed7a27d3aad2f8855f3b">
+                  <ce:given-name>Yamin</ce:given-name>
+                  <ce:surname>Xiong</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+                  <ce:cross-ref refid="af015" id="c0020">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au025" author-id="S1386142522011155-d49333a9f17d0c7f21d3a6cc0061f89b">
+                  <ce:given-name>Jin</ce:given-name>
+                  <ce:surname>Man</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:cross-ref refid="af005" id="c0025">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au030" author-id="S1386142522011155-77e08f1ada48eac893e87a1bcd3f6162">
+                  <ce:given-name>Ya</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:cross-ref refid="af005" id="c0030">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au035" author-id="S1386142522011155-9a4edbd2ee7af7a1f8bca50b1b965d9d">
+                  <ce:given-name>Guojiang</ce:given-name>
+                  <ce:surname>Mao</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:cross-ref refid="af010" id="c0035">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0040">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au040" author-id="S1386142522011155-710a2ec7e3a808fac0db2ad022cff615">
+                  <ce:given-name>Fei</ce:given-name>
+                  <ce:surname>Yu</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+                  <ce:cross-ref refid="af005" id="c0045">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0050">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af005" affiliation-id="S1386142522011155-5b3f81134f6e17c4c42a52e0e67e6ef8">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>College of Public Health, Zhengzhou University, Zhengzhou 450001, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>College of Public Health</sa:organization>
+                     <sa:organization>Zhengzhou University</sa:organization>
+                     <sa:city>Zhengzhou</sa:city>
+                     <sa:postal-code>450001</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx005">College of Public Health, Zhengzhou University, Zhengzhou 450001, China</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af010" affiliation-id="S1386142522011155-efea1537ae9ceaf94c977a1eb22fe86a">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>School of Chemistry and Chemical Engineering, Henan Normal University, Xinxiang 453007, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Chemistry and Chemical Engineering</sa:organization>
+                     <sa:organization>Henan Normal University</sa:organization>
+                     <sa:city>Xinxiang</sa:city>
+                     <sa:postal-code>453007</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx010">School of Chemistry and Chemical Engineering, Henan Normal University, Xinxiang 453007, China</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af015" affiliation-id="S1386142522011155-2898884aa1691821b6420570e6e522cb">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>School of Life Sciences, Zhengzhou University, Zhengzhou 450001, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Life Sciences</sa:organization>
+                     <sa:organization>Zhengzhou University</sa:organization>
+                     <sa:city>Zhengzhou</sa:city>
+                     <sa:postal-code>450001</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx015">School of Life Sciences, Zhengzhou University, Zhengzhou 450001, China</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding authors.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="2" month="8" year="2022"/>
+            <ce:date-revised day="16" month="9" year="2022"/>
+            <ce:date-accepted day="6" month="10" year="2022"/>
+            <ce:abstract class="graphical" xml:lang="en" id="ab005" view="all">
+               <ce:section-title id="st005">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="as005" view="all">
+                  <ce:simple-para id="sp0005" view="all">
+                     <ce:display>
+                        <ce:figure id="f0030">
+                           <ce:link locator="ga1" id="lk00030" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1386142522011155/ga1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:abstract class="author" id="ab015" view="all"><ce:abstract-sec id="as015" view="all">
+                  <ce:simple-para id="sp0015" view="all">Ferritin plays an important role in regulating the homeostasis of iron in cells by storing/releasing iron. Current methods usually explored the determination of iron content, but in-situ imaging of the iron storage/release from ferritin in cells cannot be achieved. Hence, an engineered self-assembled biomimetic-compartmented nanoprobe (APO@CDs) has been constructed. The protein shell of APO (apoferritin) acted as ion channel module to control iron ions entering/exiting ferritin cavity; the inner core of CDs (carbon dots) acted as signal module for iron ions response. Compared with CDs, the response sensitivity and specificity to iron ions (Fe3<ce:sup loc="post">+</ce:sup>) have been improved by using APO@CDs, and the cytotoxicity was significantly reduced. Additionally, compared with cells containing APO@CDs alone, the normalized fluorescence gray value of Fe<ce:sup loc="post">3+</ce:sup>-treated cells was significantly decreased (0.275), indicating that Fe<ce:sup loc="post">3+</ce:sup> has effectively entered the ferritin. Furtherly, that of Fe<ce:sup loc="post">3+</ce:sup>-treated cells incubated with deferoxamine (DFO) was significantly enhanced (0.712), showing that Fe<ce:sup loc="post">3+</ce:sup> was released from ferritin under the mediation of DFO. The results demonstrate that APO@CDs can be successfully applied to in-situ imaging of iron storage/release from ferritin in cells, providing a potential platform for the in-situ dynamic study of the iron storage/release in biomedical field.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st020">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Biomimetic-compartmented nanoprobe</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Self-assembly</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>Iron storage</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Iron release</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0025">
+                  <ce:text>Ferritin</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:keywords class="abr" id="kg010" view="all">
+               <ce:section-title id="st025">Abbreviations</ce:section-title>
+               <ce:keyword id="k0030">
+                  <ce:text>CDs</ce:text>
+                  <ce:keyword id="k0035">
+                     <ce:text>carbon dots</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="k0040">
+                  <ce:text>APO</ce:text>
+                  <ce:keyword id="k0045">
+                     <ce:text>apoferritin</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="k0050">
+                  <ce:text>TEM</ce:text>
+                  <ce:keyword id="k0055">
+                     <ce:text>transmission electron microscopy</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="k0060">
+                  <ce:text>LOD</ce:text>
+                  <ce:keyword id="k0065">
+                     <ce:text>limit of detection</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="k0070">
+                  <ce:text>DFO</ce:text>
+                  <ce:keyword id="k0075">
+                     <ce:text>deferoxamine</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:data-availability id="da005" view="all">
+               <ce:section-title id="st030">Data availability</ce:section-title>
+               <ce:para id="p0020" view="all">Data will be made available on request.</ce:para>
+            </ce:data-availability>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st035">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">Ferritin is the primary iron storing protein in living organisms, and its behavior of storing or releasing iron is closely related to the increase or decrease of iron levels <ce:cross-refs refid="b0005 b0010 b0015" id="r0005">[1–3]</ce:cross-refs>. Ferritin can regulate the dynamic balance of iron in cells or organisms, that is, once the available iron is insufficient, the stored iron will be released and utilized by the body; while the excessive iron can be uptake and stored in ferritin to reduce the iron levels, thereby protecting the organisms from oxidative damage <ce:cross-refs refid="b0020 b0025" id="r0010">[4,5]</ce:cross-refs>. Relevant studies have revealed that abnormal iron homeostasis is increasingly being recognized as an essential factor in the occurrence, progression or prognosis of cardiovascular diseases, Parkinson's disease, cancers, etc <ce:cross-refs refid="b0030 b0035 b0040" id="r0015">[6–8]</ce:cross-refs>. Therefore, an understanding of the management of iron in cells, especially the processes of iron storage and release behavior of ferritin, is of great significance.</ce:para>
+                  <ce:para id="p0030" view="all">Currently, the detection of iron has received extensive attention from researchers, and diverse detection methods have been developed. Several analytical methods such as inductively coupled plasma mass spectrometry <ce:cross-ref refid="b0045" id="c0055">[9]</ce:cross-ref> and atomic absorption spectrometry <ce:cross-ref refid="b0050" id="c0060">[10]</ce:cross-ref> have been reported for the determination of iron in different matrices. However, their application in in-situ detection was limited due to the need of complicated pre-processing and damage to the samples. Fortunately, fluorescence imaging technology with the advantages of high sensitivity, high temporal and spatial resolution, nondestructive and in-situ detection, can effectively solve the above problems. Moreover, the visualization of cell microstructure on the subcellular or molecular level can be realized by using fluorescence imaging <ce:cross-refs refid="b0055 b0060" id="r0020">[11,12]</ce:cross-refs>, and provides an important technical support for the study of iron in cells. However, the researches of intracellular iron based on fluorescence imaging technology generally focused on the determination of iron content <ce:cross-refs refid="b0065 b0070 b0075 b0080 b0085" id="r0025">[13–17]</ce:cross-refs>, while the in-situ imaging of iron storage/release from ferritin in cells was rarely reported. Therefore, we hypothesized that installing a protein shell of ferritin onto fluorescent nanoparticle would lead to a new generation of biomimetic-compartmented nanoprobe for evaluation of the iron storage and release behavior.</ce:para>
+                  <ce:para id="p0035" view="all">In view of this, just by simply mixing CDs <ce:cross-refs refid="b0090 b0095 b0100" id="r0030">[18–20]</ce:cross-refs> and bio-derived APO <ce:cross-refs refid="b0105 b0110 b0115" id="r0035">[21–23]</ce:cross-refs>, a self-assembled biomimetic-compartmented nanoprobe (APO@CDs) has been constructed. APO@CDs is composed of two functional modules: (1) APO serve as the ion channel module, the eight unique hydrophilic channels of protein shell allow metal ions (such as iron ions) enter/exit the ferritin cavity; (2) CDs are used as the signal module, and responsible for the specific response to iron ions. The engineered self-assembled APO@CDs act as a biomimetic-compartmented nanoprobe for detection of iron ions entering/exiting ferritin in solution, and further applied to the in-situ imaging of iron storage/release from ferritin in cells.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st040">Experimental section</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="st045">Preparation of the biomimetic-compartmented nanoprobe</ce:section-title>
+                     <ce:para id="p0040" view="all">5 μL APO was diluted with 195 μL ultrapure water, 0.1 M HCl was added dropwise to adjust the solution to acidic, and shook for 2.0 h at room temperature for the depolymerization of APO. Then, the depolymerized APO was added dropwise to 100 μL of CDs (1 mg/mL). After shaking for 40 min, pH of the mixture was adjusted to neutral by 0.1 M NaOH, and keep shaking for 2.0 h to allow the APO reassemble. Subsequently, the reaction product was filtered through 0.22 μm microporous membrane to remove the aggregates. The filtrate was collected and centrifuged five times by using an ultrafiltration device to remove free CDs (<ce:cross-ref refid="s0090" id="c0065">Fig. S1</ce:cross-ref>). Finally, the APO@CDs was collected and keep in 4 °C.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="st050">Characterization of the biomimetic-compartmented nanoprobe</ce:section-title>
+                     <ce:para id="p0045" view="all">The prepared APO@CDs was characterized to ensure that the CDs was successfully loaded in the cavity of APO. (1) UV–vis absorption spectra of CDs, APO and APO@CDs were recorded by DS5 UV–vis spectrophotometer (Edinburgh Instruments, UK). Meanwhile, a standard curve was established based on the characteristic absorption peak of CDs, and the loading rate of CDs in APO@CDs was calculated according to the following formula: loading rate (%) = (CDs amount of addition - CDs amount in filtrate) / CDs amount of addition × 100 %. (2) Fluorescence spectra of CDs and APO@CDs were measured by FS5 fluorescence spectrometer (Edinburgh Instruments, UK) with the excitation wavelength of 366 nm. (3) The zeta potential of CDs and APO@CDs in ultrapure water was determined by Zetasizer Nano S90 (Malvern Instruments, UK); the morphology and diameter of CDs and APO@CDs was investigated by using HT7700 Transmission electron microscopy (Hitachi, Japan).</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="st055">Performance investigation of the biomimetic-compartmented nanoprobe</ce:section-title>
+                     <ce:para id="p0050" view="all">The biomimetic-compartmented nanoprobe APO@CDs will be used to <ce:italic>in-situ</ce:italic> imaging of iron storage/release from ferritin in cells. Hence, the fluorescence stability of APO@CDs and the response performance of APO@CDs to Fe<ce:sup loc="post">3+</ce:sup> at different temperatures (25 °C, 37 °C and 50 °C) were investigated. Additionally, complex components in cells, especially other metal ions, may interfere with the response of APO@CDs to Fe<ce:sup loc="post">3+</ce:sup>. Therefore, the specificity of APO@CDs interacted with Fe<ce:sup loc="post">3+</ce:sup> was explored in presence of 9 metal ions (Fe<ce:sup loc="post">3+</ce:sup>, K<ce:sup loc="post">+</ce:sup>, Na<ce:sup loc="post">+</ce:sup>, Mg<ce:sup loc="post">2+</ce:sup>, Al<ce:sup loc="post">3+</ce:sup>, Fe<ce:sup loc="post">2+</ce:sup>, Cu<ce:sup loc="post">2+</ce:sup>, Zn<ce:sup loc="post">2+</ce:sup> and Ca<ce:sup loc="post">2+</ce:sup>), where the final concentration of APO@CDs and each metal ion were 172 µg/mL and 50 µM, respectively. Meanwhile, the response performance of CDs alone to the above 9 metal ions was also investigated as a control.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="st060">Detection of iron ions entering/exiting the ferritin in solution</ce:section-title>
+                     <ce:para id="p0055" view="all">(1) Detection of iron ions entering the ferritin in solution: 14 μL PBS was added into 40 μL APO@CDs (258 µg/mL, calculated by the amount of loading CDs), and then 6 μL Fe<ce:sup loc="post">3+</ce:sup> were added with different final concentrations (5, 10, 25, 50, 70, 100, 120 µM) and reacted for 40 min at 37 °C with shaking, and the APO@CDs without Fe<ce:sup loc="post">3+</ce:sup> was used as control. After that, the fluorescence intensity of APO@CDs was recorded by FS5 fluorescence spectrometer (Edinburgh Instruments, UK) with an excitation wavelength of 366 nm, a standard curve can be obtained by fitting the change of APO@CDs fluorescence intensity with the concentration of Fe<ce:sup loc="post">3+</ce:sup>.</ce:para>
+                     <ce:para id="p0060" view="all">The limit of detection (LOD) was obtained by detecting the Fe<ce:sup loc="post">3+</ce:sup> with low concentrations. Blank samples (in the absence of Fe<ce:sup loc="post">3+</ce:sup>) were detected to obtain ‾X-3SD, where ‾X and SD were the average fluorescence intensity and standard deviation of blank samples, respectively. The concentration of Fe<ce:sup loc="post">3+</ce:sup> corresponding to the fluorescence intensity lower than ‾X-3SD were considered to be the LOD.</ce:para>
+                     <ce:para id="p0065" view="all">(2) Detection of iron ions exiting the ferritin in solution: DFO competes with CDs for binding to Fe<ce:sup loc="post">3+</ce:sup> has been confirmed, and whether APO@CDs can be used for the detection of iron ions exiting the ferritin in solution was explored. Briefly, 7 experimental groups were designed: (a) APO@CDs; (b) APO@CDs + 100 µM DFO, incubated for 20 min at 37 °C; (c) APO@CDs + Fe<ce:sup loc="post">3+</ce:sup>, incubated for 40 min at 37 °C; (d) APO@CDs + Fe<ce:sup loc="post">3+</ce:sup>+50 µM DFO; (e) APO@CDs + Fe<ce:sup loc="post">3+</ce:sup>+75 µM DFO; (f) APO@CDs + Fe<ce:sup loc="post">3+</ce:sup>+100 µM DFO; (g) APO@CDs + Fe<ce:sup loc="post">3+</ce:sup>+150 µM DFO. The final concentration of APO@CDs and Fe<ce:sup loc="post">3+</ce:sup> was 172 µg/mL and 50 µM respectively; for groups (d)∼(g), APO@CDs was incubated with Fe<ce:sup loc="post">3+</ce:sup> at 37 °C for 40 min first, then added the DFO and keep incubating 20 min at 37 °C.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title id="st065">Cytotoxicity of the biomimetic-compartmented nanoprobe</ce:section-title>
+                     <ce:para id="p0070" view="all">CCK-8 assay was employed to evaluate the cytotoxicity of APO@CDs. Briefly, A549 cells were seeded into 96-well plates with 5 × 10<ce:sup loc="post">3</ce:sup> cells per well, and cultured at 37 °C and 5 % CO<ce:inf loc="post">2</ce:inf> incubator for 24 h. Subsequently, the cell culture medium was replaced by 90 µL 1640 medium, then 10 µL APO@CDs or CDs with different concentrations was added to the A549 cells and incubated for 12 h. The final concentrations of APO@CDs (or CDs) were 100, 250, 500 and 1000 µg/mL, calculated by the amount of CDs. Meanwhile, the culture medium and cells incubated with the culture medium only were served as the blank group and control group, respectively. Subsequently, the cells were washed with PBS, 90 µL 1640 medium and 10 μL CCK-8 solution were added to each well and incubated for another 2.0 h. The absorption at 450 nm (OD) were determined by using a microplate reader, and the cell viability was calculated according to the following formula:<ce:display>
+                           <ce:formula id="e0005">
+                              <ce:chem>Cell viability = (OD<ce:inf loc="post">(sample)</ce:inf> - OD<ce:inf loc="post">(blank)</ce:inf>) / (OD<ce:inf loc="post">(control)</ce:inf> - OD<ce:inf loc="post">(blank)</ce:inf>) × 100 %</ce:chem>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                  </ce:section>
+                  <ce:section id="s0040" view="all">
+                     <ce:label>2.6</ce:label>
+                     <ce:section-title id="st070">
+                        <ce:italic>In-situ</ce:italic> imaging of iron storage/release from ferritin in cells</ce:section-title>
+                     <ce:para id="p0075" view="all">Laser scanning confocal fluorescence imaging of cells was used to investigate whether APO@CDs can be effectively applied to evaluate the iron ions storage and release from ferritin in cells. A549 cells were incubated with 500 µg/mL APO@CDs for 12 h at 37 °C, and washed with 1 mL PBS three times. Then, 3 groups were set for the experiment: (a) control group: cells containing only APO@CDs; (b) iron ions storage in ferritin (Fe<ce:sup loc="post">3+</ce:sup>-treated cells group): cells containing APO@CDs were co-incubated with 300 µM Fe<ce:sup loc="post">3+</ce:sup> for 1.0 h; (c) iron ions release from ferritin (Fe<ce:sup loc="post">3+</ce:sup>/DFO-treated cells group): cells containing APO@CDs co-incubated with 300 µM Fe<ce:sup loc="post">3+</ce:sup> (1.0 h) were furtherly treated with 300 µM DFO for another 40 min. Finally, the laser scanning confocal fluorescence imaging of the above cells were measured by TCS-SP8 (Leica, Germany), the excitation wavelength was 405 nm and the images were collected in the ranges of 420 nm ∼ 540 nm.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0045" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st075">Results and discussions</ce:section-title>
+                  <ce:section id="s0050" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="st080">Construction and detection principle of biomimetic-compartmented nanoprobe</ce:section-title>
+                     <ce:para id="p0080" view="all">Based on the pH-dependent depolymerization/recombination characteristics of APO, the biomimetic-compartmented nanoprobe (APO@CDs) can be engineered with flexible one-step mixing. As shown in <ce:cross-ref refid="f0005" id="c0070">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="f0005"/>A, APO was depolymerized into subunits under acidic conditions, then CDs was added and adjusted the pH of the mixture to neutral, allowing the subunits of APO re-assemble into a spherical structure and loading the CDs in the internal cavity of APO. The detection of Fe<ce:sup loc="post">3+</ce:sup> entering the ferritin in solution can be realized based on the fluorescence quenching of APO@CDs by Fe<ce:sup loc="post">3+</ce:sup>, attributed to the Fe<ce:sup loc="post">3+</ce:sup> entering the APO cavity through the hydrophilic channel of APO and binding to CDs. Subsequently, DFO was employed to compete with CDs for binding to Fe<ce:sup loc="post">3+</ce:sup>, mediating the exfoliation of Fe<ce:sup loc="post">3+</ce:sup> from CDs surface and the fluorescence recovery of APO@CDs, thus the detection of Fe<ce:sup loc="post">3+</ce:sup> exiting the ferritin in solution can be achieved (<ce:cross-ref refid="f0005" id="c0075">Fig. 1</ce:cross-ref>B). Based on the above foundation, <ce:italic>in-situ</ce:italic> fluorescence imaging of iron storage/release from ferritin in cells can be achieved by using the APO@CDs (<ce:cross-ref refid="f0005" id="c0080">Fig. 1</ce:cross-ref>C).</ce:para>
+                  </ce:section>
+                  <ce:section id="s0055" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="st085">Characterization of the biomimetic-compartmented nanoprobe</ce:section-title>
+                     <ce:para id="p0085" view="all">The UV–vis absorption spectrum of APO@CDs showed a typical peak of APO at 280 nm, whereas the characteristic absorption of CDs (311 nm) cannot be observed obviously (<ce:cross-ref refid="f0010" id="c0085">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/>A). Therefore, whether the CDs successfully loaded in the APO was further verified by fluorescence spectroscopy. As displayed in <ce:cross-ref refid="f0010" id="c0090">Fig. 2</ce:cross-ref>B, the emission peaks of APO@CDs and CDs were 450 nm and 461 nm respectively, in which 366 nm was selected as the excitation wavelength of CDs (<ce:cross-ref refid="s0090" id="c0095">Fig. S2</ce:cross-ref>). The blue-shifted of APO@CDs emission peak may be caused by the dipole–dipole interaction between the multiple CDs in the APO cavity. The above results from UV–vis absorption and fluorescence spectra of APO@CDs demonstrated the successful preparation of APO@CDs. Furthermore, the fluorescence intensity of APO@CDs reach to the maximum when the concentration of CDs used for the preparation was 1.0 mg/mL (<ce:cross-ref refid="s0090" id="c0100">Fig. S3</ce:cross-ref>), and the corresponding loading rate of CDs in APO@CDs is 50.17 % (<ce:cross-ref refid="s0090" id="c0105">Table S1</ce:cross-ref>, <ce:cross-ref refid="s0090" id="c0110">Fig. S4</ce:cross-ref>).</ce:para>
+                     <ce:para id="p0090" view="all">Furtherly, the morphology and size of CDs and APO@CDs was investigated by TEM. APO@CDs (about 10 nm, marked with red circles) exhibited the spherical shell-core structures with the white-shell and black-core, because APO was surrounded by heavy metals with high electron density and the electron scattering ability was enhanced in the negatively stained pattern (<ce:cross-ref refid="f0010" id="c0115">Fig. 2</ce:cross-ref>C-D). Compared with CDs alone, the protein shell of APO around CDs provided further supplementary evidence for the successful preparation of APO@CDs. Moreover, the zeta-potential of APO@CDs (-21.1 mV) was exhibited an apparent negative shift than that of CDs (-2.45 mV), further indicating that the APO@CDs have been successfully fabricated (<ce:cross-ref refid="f0010" id="c0120">Fig. 2</ce:cross-ref>E).</ce:para>
+                  </ce:section>
+                  <ce:section id="s0060" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="st090">Performance investigation of APO@CDs</ce:section-title>
+                     <ce:para id="p0095" view="all">Firstly, The fluorescence of APO@CDs at different temperatures were investigated (<ce:cross-ref refid="f0015" id="c0125">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/>A), the fluorescence intensity of APO@CDs almost unchanged under 25 °C, 37 °C and 50 °C, indicating the temperature stability of fluorescence of APO@CDs. Subsequently, the response performance of APO@CDs to Fe<ce:sup loc="post">3+</ce:sup> at different temperatures was explored. As displayed in <ce:cross-ref refid="f0015" id="c0130">Fig. 3</ce:cross-ref>B, with the temperature changing, the fluorescence of APO@CDs quenched by Fe<ce:sup loc="post">3+</ce:sup> reached the maximum at 37 °C, showing that better performance of APO@CDs response to Fe<ce:sup loc="post">3+</ce:sup> can be achieved at 37 °C. This may be due to the fact that it was more conducive for Fe<ce:sup loc="post">3+</ce:sup> to enter the APO cavity through the hydrophilic channel of APO at 37 °C and bind to CDs, inducing a more obvious fluorescence quenching of APO@CDs.</ce:para>
+                     <ce:para id="p0100" view="all">Due to the protein shell of APO@CDs, ions need to get through the hydrophilic channel of the protein shell and then combine with the CDs in APO@CDs, which may influence the selectivity of APO@CDs to metal ions. Therefore, a comparative study on the selective response performance of APO@CDs and CDs to metal ions was carried out. Compared with CDs, APO@CDs exhibited a more specific response to Fe<ce:sup loc="post">3+</ce:sup>, evidenced by the significantly enhanced fluorescence quenching of APO@CDs by Fe<ce:sup loc="post">3+</ce:sup> (<ce:cross-ref refid="f0015" id="c0135">Fig. 3</ce:cross-ref>C).</ce:para>
+                     <ce:para id="p0105" view="all">As the natural protein for iron storage, ferritin has a native affinity to iron ions. Therefore, we hypothesized that the protein shell of APO@CDs will uptake iron ions like a “sponge soaks up water”, which is beneficial to enriching iron ions and enhancing the response sensitivity of APO@CDs to iron ions. Hence, the response of APO@CDs and CDs to different concentrations of Fe<ce:sup loc="post">3+</ce:sup> were investigated. As shown in <ce:cross-ref refid="f0015" id="c0140">Fig. 3</ce:cross-ref>D, the relative fluorescence intensity of APO@CDs and CDs both decreased gradually with the increasing concentration of Fe<ce:sup loc="post">3+</ce:sup>, and a more significant reduction of APO@CDs than that of CDs, demonstrating that APO@CDs has a higher response sensitivity to Fe<ce:sup loc="post">3+</ce:sup> than CDs due to the native affinity between the APO shell and iron ions.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0065" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="st095">Detection of iron ions entering/exiting the ferritin in solution</ce:section-title>
+                     <ce:para id="p0110" view="all">External iron ions can enter the inner cavity of ferritin through the hydrophilic channel of the protein shell.<ce:sup loc="post">21</ce:sup> In this study, by taking advantage of Fe<ce:sup loc="post">3+</ce:sup> entering the cavity of ferritin and specifically quenching CDs fluorescence, the detection of Fe<ce:sup loc="post">3+</ce:sup> entering the ferritin in solution can be achieved. The corresponding fluorescence spectra in the presence of various concentrations of Fe<ce:sup loc="post">3+</ce:sup> were shown in <ce:cross-ref refid="f0020" id="c0145">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="f0020"/>A. As the concentration of Fe<ce:sup loc="post">3+</ce:sup> increased, the corresponding fluorescence intensity gradually reduced, deriving from more Fe<ce:sup loc="post">3+</ce:sup> entering the ferritin and quenching the fluorescence of APO@CDs. In addition, the fluorescence intensity of APO@CDs at 450 nm exhibited a good linear relationship with Fe<ce:sup loc="post">3+</ce:sup> concentration in the range of 5.0 ∼ 120 µM (<ce:cross-ref refid="f0020" id="c0150">Fig. 4</ce:cross-ref>B). Furtherly, by gradual dilution, the measured LOD of 2.5 µM can be obtained for the detection of iron ions entering the ferritin.</ce:para>
+                     <ce:para id="p0115" view="all">As the iron storage protein in the organism, ferritin can not only uptake iron for storage but also release it. In vivo, the release of iron ions from ferritin can be achieved by deironing drugs such as DFO, deriving from chelating interactions between DFO and iron ions <ce:cross-refs refid="b0120 b0125" id="r0040">[24,25]</ce:cross-refs>. However, whether DFO can compete with CDs for binding Fe<ce:sup loc="post">3+</ce:sup> to restore the fluorescence of CDs was yet to be verified. Hence, the changes in fluorescence intensity of CDs in the presence of Fe<ce:sup loc="post">3+</ce:sup> and DFO was discussed (<ce:cross-ref refid="s0090" id="c0155">Fig. S5</ce:cross-ref>), the fluorescence intensity of CDs significantly decreased in the presence of Fe<ce:sup loc="post">3+</ce:sup>. Moreover, the quenched fluorescence of CDs by Fe<ce:sup loc="post">3+</ce:sup> can be restored once addition of DFO, and the normalized fluorescence intensity gradually increased with the increasing concentration of DFO, indicating that the DFO can compete with CDs to bind Fe<ce:sup loc="post">3+</ce:sup>, and can be used as a chelating agent for detection of iron ions exiting the ferritin in the subsequent experiments.</ce:para>
+                     <ce:para id="p0120" view="all">After confirming that DFO can compete with CDs for binding Fe<ce:sup loc="post">3+</ce:sup> to restore the fluorescence of CDs, the response performance of APO@CDs in the presence of Fe<ce:sup loc="post">3+</ce:sup> and DFO was further investigated (<ce:cross-ref refid="f0020" id="c0160">Fig. 4</ce:cross-ref>C). The decreased normalized fluorescence intensity in group <ce:italic>c</ce:italic> indicating that Fe<ce:sup loc="post">3+</ce:sup> was entered the ferritin and quenched the fluorescence of CDs. In addition, the quenched fluorescence of APO@CDs by Fe<ce:sup loc="post">3+</ce:sup> also could be restored in the presence of DFO, proving that Fe<ce:sup loc="post">3+</ce:sup> can exit from the ferritin under the chelation of DFO. With the increasing concentration of DFO, the normalized fluorescence intensity increases gradually. These above results indicated that APO@CDs can be apply to detect the iron ions entering/exiting the ferritin in solution.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0070" view="all">
+                     <ce:label>3.5</ce:label>
+                     <ce:section-title id="st100">
+                        <ce:italic>In-situ</ce:italic> imaging of iron ions storage/release from ferritin in cells</ce:section-title>
+                     <ce:para id="p0125" view="all">The viability of A549 cells was investigated by CCK-8 assay to evaluate the <ce:italic>in vitro</ce:italic> cytotoxicity of APO@CDs and CDs (<ce:cross-ref refid="f0020" id="c0165">Fig. 4</ce:cross-ref>D). The viability of cells was more than 90 % in the presence of 500 µg/mL APO@CDs (calculated by the amount of loaded CDs), and still higher than 78.8 % even the concentration of APO@CDs reached 1000 µg/mL. However, the viability of cells was remarkably decreased to 60.0 % and 27.0 % under 500 µg/mL and 1000 µg/mL CDs respectively, demonstrating the better biocompatibility of APO@CDs due to bio-derived APO shell.</ce:para>
+                     <ce:para id="p0130" view="all">On the basis of the successful detection of Fe<ce:sup loc="post">3+</ce:sup> entering/exiting the ferritin in solution, APO@CDs was further used for the evaluation of storage/release of Fe<ce:sup loc="post">3+</ce:sup> from ferritin in cells. The confocal microscopy images of cells with different treatments were displayed in <ce:cross-ref refid="f0025" id="c0170">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="f0025"/>. Bright blue fluorescence can be observed in cells containing APO@CDs (as control), indicating that APO@CDs could effectively enter the cells. This phenomenon is due to the over-expressed transferrin receptor on the surface of cancer cells facilitates the entry of APO@CDs into cells <ce:cross-refs refid="b0105 b0115" id="r0045">[21,23]</ce:cross-refs>. Compared with cells containing APO@CDs alone, the normalized gray value of fluorescence images of cells was significantly decreased (0.275) after the co-incubation of cells containing APO@CDs with Fe<ce:sup loc="post">3+</ce:sup> (Fe<ce:sup loc="post">3+</ce:sup>-treated cells), indicating that Fe<ce:sup loc="post">3+</ce:sup> in cells has stored in the ferritin and quench the fluorescence of APO@CDs. Moreover, the cells containing APO@CDs co-incubated with Fe<ce:sup loc="post">3+</ce:sup> were furtherly treated with DFO (Fe<ce:sup loc="post">3+</ce:sup>/DFO-treated cells). The cells exhibited expected bright blue fluorescence again, and the normalized gray value of fluorescence was significantly enhanced (0.712), showing that Fe<ce:sup loc="post">3+</ce:sup> was released from ferritin under the chelation of DFO and led to recovery of APO@CDs fluorescence. These results demonstrated that <ce:italic>in-situ</ce:italic> imaging of iron storage/release from ferritin in cells can be achieved by using the engineered biomimetic-compartmented nanoprobe (APO@CDs).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0075" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st105">Conclusions</ce:section-title>
+                  <ce:para id="p0135" view="all">In this study, an engineered biomimetic-compartmented nanoprobe (APO@CDs) has been constructed to realize the successful detection of Fe<ce:sup loc="post">3+</ce:sup> entering/exiting the ferritin in solution, and further applied to <ce:italic>in-situ</ce:italic> imaging of iron storage/release from ferritin in cells. The biomimetic-compartmented nanoprobe has the following advantages: (1) APO@CDs can be flexibly and quickly prepared through self-assembly, just by one-step mixing the nitrogen-doped fluorescent carbon dots with bio-derived APO in solution and adjusting pH, avoiding the complicated covalent modification process. (2) Compared with CDs alone, the response sensitivity and specificity to iron ions have been improved by using APO@CDs, which is attributed to the native affinity between the APO (a natural protein for iron storage) shell and iron ions. At the same time, the cytotoxicity of APO@CDs was significantly reduced. (3) Current methods are usually developed to explore the determination of intracellular iron content, while the <ce:italic>in-situ</ce:italic> imaging of the iron storage/release from ferritin in cells cannot be achieved. The biomimetic-compartmented nanoprobe (APO@CDs) constructed in this study can effectively overcome this limitation. For this engineering APO@CDs, the protein shell APO served as an ion channel module to control iron ions entering/exiting the ferritin cavity, while the inner core of CDs was acted as the signal module for the specific response to iron ions. Compared with cells containing APO@CDs (the normalized gray value is 1.000), the normalized gray value of Fe<ce:sup loc="post">3+</ce:sup>-treated cells was dramatically decreased (0.275), indicating that Fe<ce:sup loc="post">3+</ce:sup> in cells has stored in the ferritin. Additionally, the Fe<ce:sup loc="post">3+</ce:sup>-treated cells were furtherly treated with DFO, and the normalized gray value of fluorescence was significantly enhanced (0.712), proving Fe<ce:sup loc="post">3+</ce:sup> release from ferritin under chelation of DFO. The results from confocal microscopy images demonstrated that <ce:italic>in-situ</ce:italic> imaging of iron storage/release from ferritin in cells can be achieved by using APO@CDs. Meanwhile, engineering the biomimetic-compartmented nanoprobe by installing a protein shell onto fluorescent nanoparticle providing a potential platform for the exploration of the mechanism of iron storage/release from ferritin, as well as the diagnosis and treatment of iron-related diseases.</ce:para>
+               </ce:section>
+               <ce:section id="s0080" view="all">
+                  <ce:section-title id="st110">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p0140" view="all">
+                     <ce:bold>Leiliang He:</ce:bold> Conceptualization, Methodology, Investigation, Writing – original draft, Funding acquisition. <ce:bold>Jingjing Wang:</ce:bold> Visualization, Investigation. <ce:bold>Zhenzhen Wan:</ce:bold> Methodology, Investigation. <ce:bold>Yamin Xiong:</ce:bold> Validation, Funding acquisition. <ce:bold>Jin Man:</ce:bold> Software, Data curation. <ce:bold>Ya Wang:</ce:bold> Software, Data curation. <ce:bold>Guojiang Mao:</ce:bold> Conceptualization, Writing – review &amp; editing, Supervision. <ce:bold>Fei Yu:</ce:bold> Writing – review &amp; editing, Supervision, Project administration.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi005" view="all">
+               <ce:section-title id="st115">Declaration of Competing Interest</ce:section-title>
+               <ce:para id="p0145" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st120">Acknowledgements</ce:section-title>
+               <ce:para id="p0150" view="all">This work was funded by the <ce:grant-sponsor sponsor-id="http://dx.doi.org/10.13039/501100001809" xlink:type="simple" id="gp005" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Natural Science Foundation of China</ce:grant-sponsor> (<ce:grant-number refid="gp005">82073606, 82103893</ce:grant-number>), the Key R&amp;D and Promotion Projects in Henan Province (212102310337, 212102310181).</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section view="compact-standard" id="s0085">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st125">Supplementary material</ce:section-title>
+                  <ce:para id="p0155" view="all">Supplementary data to this article can be found online at <ce:inter-ref xlink:href="https://doi.org/10.1016/j.saa.2022.121967" xlink:type="simple" id="ir005">https://doi.org/10.1016/j.saa.2022.121967</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section view="extended" id="s0090">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st130">Supplementary material</ce:section-title>
+                  <ce:para id="p0160" view="all">The following are the Supplementary data to this article:<ce:display>
+                        <ce:e-component id="m0005">
+                           <ce:label>Supplementary data 1</ce:label>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S1386142522011155/mmc1" id="lk00035"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st135">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Arosio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Levi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ferritin, iron homeostasis, and oxidative damage</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Free Radic. Biol. Med.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>457</sb:first-page>
+                              <sb:last-page>463</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx020">P. Arosio, S. Levi, Ferritin, iron homeostasis, and oxidative damage. Free Radic. Biol. Med. 33 (2002) 457-463.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Harrison</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Arosio</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The ferritins: molecular properties, iron storage function and cellular regulation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochim. Biophys. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1275</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>161</sb:first-page>
+                              <sb:last-page>203</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx025">P.M. Harrison, P. Arosio, The ferritins: molecular properties, iron storage function and cellular regulation. Biochim. Biophys. Acta 1275 (1996) 161-203.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Nie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biochemistry of mammalian ferritins in the regulation of cellular iron homeostasis and oxidative responses</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. China Life Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>352</sb:first-page>
+                              <sb:last-page>362</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx030">J. Zhang, X. Chen, J. Hong, A. Tang, Y. Liu, N. Xie, G. Nie, X. Yan, M. Liang, Biochemistry of mammalian ferritins in the regulation of cellular iron homeostasis and oxidative responses. Sci. China Life Sci. 64 (2021) 352-362.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Arosio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ingrassia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Cavadini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ferritins: A family of molecules for iron storage, antioxidation and more</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochim. Biophys. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1790</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>589</sb:first-page>
+                              <sb:last-page>599</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx035">P. Arosio, R. Ingrassia, P. Cavadini, Ferritins: A family of molecules for iron storage, antioxidation and more. Biochim. Biophys. Acta 1790 (2009) 589-599.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Hayes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.T.</ce:given-name>
+                                 <ce:surname>Dinkova-Kostova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.D.</ce:given-name>
+                                 <ce:surname>Tew</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oxidative Stress in Cancer</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Cancer Cell</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>167</sb:first-page>
+                              <sb:last-page>197</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx040">J.D. Hayes, A.T. Dinkova-Kostova, K.D. Tew, Oxidative Stress in Cancer. Cancer Cell 38 (2020) 167-197.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Ryan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.C.</ce:given-name>
+                                 <ce:surname>Niemi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Lebrón</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Björkman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Arase</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.M.</ce:given-name>
+                                 <ce:surname>Torti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Torti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Nakamura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.E.</ce:given-name>
+                                 <ce:surname>Seaman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Binding and uptake of H-ferritin are mediated by human transferrin receptor-1</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Natl. Acad. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>107</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3505</sb:first-page>
+                              <sb:last-page>3510</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx045">L. Li, C.J. Fang, J.C. Ryan, E.C. Niemi, J.A. Lebrón, P.J. Björkman, H. Arase, F.M. Torti, S.V. Torti, M.C. Nakamura, W. E. Seaman, Binding and uptake of H-ferritin are mediated by human transferrin receptor-1. Proc. Natl. Acad. Sci. 107 (2010) 3505-3510.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Torti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.M.</ce:given-name>
+                                 <ce:surname>Torti</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>CD63 orchestrates ferritin export</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Blood</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>138</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1387</sb:first-page>
+                              <sb:last-page>1389</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx050">S.V. Torti F.M. Torti, CD63 orchestrates ferritin export. Blood 138 (2021) 1387-1389.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Rouault</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Iron metabolism in the CNS: implications for neurodegenerative diseases</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Rev. Neurosci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>551</sb:first-page>
+                              <sb:last-page>564</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx055">T.A. Rouault, Iron metabolism in the CNS: implications for neurodegenerative diseases. Nat. Rev. Neurosci. 14 (2013) 551-564.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Dufailly</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Noel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Guerin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Determination of chromium, iron and selenium in foodstuffs of animal origin by collision cell technology, inductively coupled plasma mass spectrometry (ICP-MS), after closed vessel microwave digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>565</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>214</sb:first-page>
+                              <sb:last-page>221</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx060">V. Dufailly, L. Noel, T. Guerin, Determination of chromium, iron and selenium in foodstuffs of animal origin by collision cell technology, inductively coupled plasma mass spectrometry (ICP-MS), after closed vessel microwave digestion. Anal. Chim. Acta 565 (2006) 214-221.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Atsever</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Borahan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.G.</ce:given-name>
+                                 <ce:surname>Bakirdere</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bakirdere</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Determination of iron in hair samples by slotted quartz tube-flame atomic absorption spectrometry after switchable solvent liquid phase extraction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Pharm. Biomed. Anal</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>186</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>113274</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx065">N. Atsever, T. Borahan, E.G. Bakirdere, S. Bakirdere, Determination of iron in hair samples by slotted quartz tube-flame atomic absorption spectrometry after switchable solvent liquid phase extraction. J. Pharm. Biomed. Anal 186 (2020) 113274.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.B.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.Z.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Assembly strategies of organic-based imaging agents for fluorescence and photoacoustic bioimaging applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Soc. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>21</sb:first-page>
+                              <sb:last-page>31</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx070">H.B. Cheng, Y. Li, B.Z. Tang, J. Yoon, Assembly strategies of organic-based imaging agents for fluorescence and photoacoustic bioimaging applications. Chem. Soc. Rev. 49 (2020) 21-31.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Long-lived emissive probes for time-resolved photoluminescence bioimaging and biosensing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>118</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1770</sb:first-page>
+                              <sb:last-page>1839</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx075">K.Y. Zhang, Q. Yu, H. Wei, S. Liu, Q. Zhao, W. Huang, Long-lived emissive probes for time-resolved photoluminescence bioimaging and biosensing. Chem. Rev. 118 (2018) 1770-1839.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Duan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Red emission B, N, S-co-doped carbon dots for colorimetric and fluorescent dual mode detection of Fe<ce:sup loc="post">3+</ce:sup> Ions in complex biological fluids and living cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12663</sb:first-page>
+                              <sb:last-page>12672</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx080">Y. Liu, W. Duan, W. Song, J. Liu, C. Ren, J. Wu, D. Liu, H. Chen, Red emission B, N, S-co-doped carbon dots for colorimetric and fluorescent dual mode detection of Fe3+ Ions in complex biological fluids and living cells. ACS Appl. Mater. Interfaces. 9 (2017) 12663-12672.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hirayama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Tsuboi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Niwa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Miki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kadota</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ikeshita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Okuda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nagasawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A universal fluorogenic switch for Fe(II) ion based on N-oxide chemistry permits the visualization of intracellular redox equilibrium shift towards labile iron in hypoxic tumor cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4858</sb:first-page>
+                              <sb:last-page>4866</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx085">T. Hirayama, H. Tsuboi, M. Niwa, A. Miki, S. Kadota, Y. Ikeshita, K. Okuda, H. Nagasawa, A universal fluorogenic switch for Fe(II) ion based on N-oxide chemistry permits the visualization of intracellular redox equilibrium shift towards labile iron in hypoxic tumor cells. Chem. Sci. 8 (2017) 4858-4866.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Au-Yeung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Chantarojsiri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Molecular imaging of labile iron(II) pools in living cells with a turn-on fluorescent probe</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>135</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15165</sb:first-page>
+                              <sb:last-page>15173</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx090">H.Y. Au-Yeung, J. Chan, T. Chantarojsiri, C.J. Chang, Molecular imaging of labile iron(II) pools in living cells with a turn-on fluorescent probe. J. Am. Chem. Soc. 135 (2013) 15165-15173.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Tong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Visualization of dynamic changes in labile iron(II) pools in endoplasmic reticulum stress-mediated drug-induced liver injury</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1245</sb:first-page>
+                              <sb:last-page>1251</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx095">L. Wu, Q. Ding, X. Wang, P. Li, N. Fan, Y. Zhou, L. Tong, W. Zhang, W. Zhang, B. Tang, Visualization of dynamic changes in labile iron(II) pools in endoplasmic reticulum stress-mediated drug-induced liver injury. Anal. Chem. 92 (2020) 1245-1251.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.T.</ce:given-name>
+                                 <ce:surname>Aron</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.O.</ce:given-name>
+                                 <ce:surname>Loehr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bogena</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An endoperoxide reactivity-based FRET probe for ratiometric fluorescence imaging of labile iron pools in living cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>138</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>14338</sb:first-page>
+                              <sb:last-page>14346</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx100">A.T. Aron, M.O. Loehr, J. Bogena, C.J. Chang, An endoperoxide reactivity-based FRET probe for ratiometric fluorescence imaging of labile iron pools in living cells. J. Am. Chem. Soc. 138 (2016) 14338-14346.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="h0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Concentration-dependent color tunability of nitrogen-doped carbon dots and their application for iron(III) detection and multicolor bioimaging</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Colloid Interface. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>521</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>33</sb:first-page>
+                              <sb:last-page>41</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx105">C. Wang, T. Hu, Z. Wen, J. Zhou, X. Wang, Q. Wu, C. Wang, Concentration-dependent color tunability of nitrogen-doped carbon dots and their application for iron(III) detection and multicolor bioimaging. J. Colloid Interface. Sci. 521 (2018) 33-41.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Highly photoluminescent carbon dots for multicolor patterning, sensors, and bioimaging</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>14</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3953</sb:first-page>
+                              <sb:last-page>3957</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx110">S. Zhu, Q. Meng, L. Wang, J. Zhang, Y. Song, H. Jin, K. Zhang, H. Sun, H. Wang, B. Yang, Highly photoluminescent carbon dots for multicolor patterning, sensors, and bioimaging. Angew. Chem. Int. Ed. 52 (2013) 3953-3957.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="h0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Miao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hetero-atom-doped carbon dots: Doping strategies, properties and applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Today</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>100879</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx115">S.H. Miao, K. Liang, J.J. Zhu, B. Yang, D.Y. Zhao, B. Kong, Hetero-atom-doped carbon dots: Doping strategies, properties and applications. Nano Today, 33 (2020) 100879.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Jutz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Rijn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.S.</ce:given-name>
+                                 <ce:surname>Miranda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Boeker</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ferritin: A versatile building block for bionanotechnology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>115</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1653</sb:first-page>
+                              <sb:last-page>1701</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx120">G. Jutz, P. Rijn, B.S. Miranda, A. Boeker, Ferritin: A versatile building block for bionanotechnology. Chem. Rev. 115 (2015) 1653-1701.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="h0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Tetter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Hilvert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enzyme encapsulation by a ferritin cage</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>14933</sb:first-page>
+                              <sb:last-page>14936</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx125">S. Tetter, D. Hilvert, Enzyme encapsulation by a ferritin cage. Angew. Chem. Int. Ed. 56 (2017) 14933-14936.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="h0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Duan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xiong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Apoferritin-based tunable nano-indicator for intracellular pH sensing: Regulating response performances and minimizing effects of system fluctuations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sensor. Actuat. B-Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>323</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>128661</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx130">L. He, Y. Duan, J. Feng, Z. Wan, X. Liu, Y. Wang, F. Yu, Y. Wang, Y. Xiong, Y. Wu Apoferritin-based tunable nano-indicator for intracellular pH sensing: Regulating response performances and minimizing effects of system fluctuations. Sensor. Actuat. B-Chem. 323 (2020) 128661.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Asperti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Cantamessa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ghidinelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gryzik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Denardo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Giacomini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Longhi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Fanzani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Arosio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Poli</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The antitumor didox acts as an iron chelator in hepatocellular carcinoma cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Pharmaceuticals</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>129</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx135">M. Asperti, L. Cantamessa, S. Ghidinelli, M. Gryzik, A. Denardo, A. Giacomini, G. Longhi, A. Fanzani, P. Arosio, M. Poli, The antitumor didox acts as an iron chelator in hepatocellular carcinoma cells. Pharmaceuticals 12 (2019) 129.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="h0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Cheung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Patel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.V.</ce:given-name>
+                                 <ce:surname>Lockard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>π-Plasmon absorption of carbon nanotubes for the selective and sensitive detection of Fe<ce:sup loc="post">3+</ce:sup> ions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5192</sb:first-page>
+                              <sb:last-page>5199</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx140">W. Cheung, M. Patel, Y. Ma, Y. Chen, Q. Xie, J.V. Lockard, Y. Gao, H. He, π-Plasmon absorption of carbon nanotubes for the selective and sensitive detection of Fe3+ ions. Chem. Sci. 7 (2016) 5192-5199.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,38 @@
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition": "Fluorescence resonance energy transfer system of Carbon Dots(CDs) used in a far-red fluorescence sensor for ratiometric detection of L-Cys",
+            "iupac_name": null,
+            "alternative_names": ["CDs", "Carbon dots"]
+        },
+        "synthesis": {
+            "method": {"type": "one-pot hydrothermal", "conditions": "0.05 g 4-aminobenzoic acid and 0.05 g m-phenylenediamine dissolved in 10 mL absolute ethyl alcohol then heated at 180°C for 12 h in a poly(tetrafluoroethylene)-lined autoclave", "catalysts": "null"},
+            "precursors": {"source": ["0.05g 4-aminobenzoic acid", "0.05g m-phenylenediamine"], "dopants": "[MISSING]"},
+            "post_treatment": ["Cooled to room temperature", "Filtration", "Evaporation", "Dissolution in ultrapure water", "Centrifugation", "Dialysis (MWCO 500-1000 Da) against ultrapure water for 72 h", "Lyophilization"]
+        },
+        "properties": {
+            "optical": {
+                "quantum_yield": {"value": "59.6%", "reference_material": "Rhodamin 6G asa reference (Q, 95%)"},
+                "excitation_max": "414nm",
+                "emission_max": " 539 nm",
+                "fluorescence_lifetime": "[MISSING]"
+            },
+            "structural": {
+                "size": {"avg": "diameter 2.48nm", "distribution": "[MISSING]"},
+                "morphology": "spherical dots, well dispersed, and uniform",
+                "crystallinity": "[MISSING]"
+            },
+            "chemical": {
+                "surface_groups": ["carboxyl", "amine groups"],
+                "elemental_composition": {"C": "[MISSING]", "N": "[MISSING]", "O": "[MISSING]"}
+            }
+        },
+        "applications": [
+            {
+                "domain": "Ratiometric Fluorescence Sensing",
+                "performance": "Fluorescence resonance energy transfer (FRET)-based probe for L-cysteine (L-Cys) detection with linear range of 1.0–110 μM, detection limit of 0.16 μM, and recoveries of 93–102.8% in human serum samples.",
+                "comparative_advantage": "The FRET fluorescent probe exhibits far-red emission (539/630 nm), reducing background and scattering interference. It shows high selectivity for L-Cys over other amino acids, with simple preparation and rapid response (3 min)."
+            }
+        ]
+    }
+}

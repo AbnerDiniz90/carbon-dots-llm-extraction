@@ -1,0 +1,64 @@
+{
+  "input_source": "artigo44.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "Carbon nanoparticles with an sp² hybridized carbon core used for defect passivation and photosensitization in TiO₂ composites to obtain a thin mesoporous film.",
+        "iupac_name": null,
+        "alternative_names": [
+          "CnDs",
+          "carbon nanodots"
+        ]
+      },
+      "synthesis": {
+        "precursors": {
+          "source": [
+            "citric acid (CA)",
+            "2-Imidazolidinethione (2-IZT)"
+          ],
+          "dopants": "[MISSING]"
+        },
+        "post_treatment": null
+      },
+      "properties": {
+        "optical": {
+          "excitation_max": "338nm",
+          "emission_max": "476nm",
+          "fluorescence_lifetime": "[MISSING]"
+        },
+        "structural": {
+          "size": {
+            "avg": "~3.5",
+            "distribution": "+/-0.4nm"
+          },
+          "morphology": "[MISSING]",
+          "crystallinity": "0.233 nm corresponding to (002) plane of amorphous carbon"
+        },
+        "chemical": {
+          "surface_groups": [
+            "C-O",
+            "C=O",
+            "C-C"
+          ],
+          "elemental_composition": {
+            "C": "[MISSING]",
+            "N": "[MISSING]",
+            "O": "[MISSING]"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "Perovskite Solar Cells (Electron Transport Layer Modification)",
+          "performance": "Optimizer concentration of CnDs (3 wt%) within TiO2 resulted in a maximum power conversion efficiency(PCE) of 19.45%.16.20% higher PCE compared to pristine TiO2.",
+          "comparative_advantage": "CnDs composite and the defect passivation of TiO2 (achieved by carbon doping), resulted in an enhancement of current density (Jsc), open-circuit voltage (Voc) and fill factor (FF) followed by an increase in PCE. An optimized concentration of CnDs (3wt%) provided a maximum PCE of 19.45% corresponding to 11% increase in the Jsc, 70mV increase in the Voc and 10% increment in the FF when compared to the perovskite devices with pristine TiO2."
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Bad",
+    "score": 0.0,
+    "expert_comment": "Incomplete Structure: The entire section 'carbon_dots -> synthesis -> method' was incorrectly omitted. The JSON is missing a mandatory structural block. | Incomplete Structure: The entire section 'carbon_dots -> properties -> optical -> quantum_yield' was incorrectly omitted. The JSON is missing a mandatory structural block."
+  }
+}

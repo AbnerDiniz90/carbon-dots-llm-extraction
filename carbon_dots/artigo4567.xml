@@ -1,0 +1,2058 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2215016122001170</prism:url><dc:identifier>doi:10.1016/j.mex.2022.101736</dc:identifier><eid>1-s2.0-S2215016122001170</eid><prism:doi>10.1016/j.mex.2022.101736</prism:doi><pii>S2215-0161(22)00117-0</pii><dc:title>Comprehensive step-by-step procedure to setup a molecular communication through liquid experiment </dc:title><prism:publicationName>MethodsX</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>mic</pubType><prism:issn>22150161</prism:issn><prism:volume>9</prism:volume><prism:startingPage>101736</prism:startingPage><prism:pageRange>101736</prism:pageRange><articleNumber>101736</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2022-12-31</prism:coverDate><prism:coverDisplayDate>2022</prism:coverDisplayDate><prism:copyright>© 2022 The Author(s). Published by Elsevier B.V.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier B.V.</prism:publisher><dc:creator>Calì, Federico</dc:creator><dc:creator>Fichera, Luca</dc:creator><dc:creator>Tuccitto, Nunzio</dc:creator><dc:description>
+                  Molecular communication allows information to be exchanged in environments where electromagnetic waves are prohibited. It employs the exchange of information particles travelling through fluids. The transmitter releases several chemical messengers inside the communication channel, encoding the message it intends to send in an appropriate way. These messengers will be propagated in the communication channel according to the laws that determine their movement in the environment, until they reach the receiver, which then captures their presence and decodes their content.
+                  To set up an experiment of molecular communication through liquid, the following are required:
+                        
+                           •
+                           The simulation of the experiment by means of numerical resolution of the differential equations governing the process, in order to select the proper modulation technique.
+                        
+                        
+                           •
+                           The synthesis of the carbon nanoparticles to serve as the information nanoparticles.
+                        
+                        
+                           •
+                           The arrangement of the bench prototype for the experiments.
+                        
+                     
+                  
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Italian Institutions (CRUI) 2022</openaccessSponsorName><openaccessSponsorType>FundingBody</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Fluorescence</dcterms:subject><dcterms:subject>Carbon Quantum Dots</dcterms:subject><dcterms:subject>Carbon nanoparticles</dcterms:subject><dcterms:subject>Python</dcterms:subject><dcterms:subject>Numerical simulation</dcterms:subject><dcterms:subject>Fluidics</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2215016122001170" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2215016122001170" rel="scidir"/></coredata><objects><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="654" size="70160">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="583" height="241" size="35796">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="112" size="12250">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-ga1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="127" size="14610">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="593" height="863" size="102916">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-fx2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="602" height="244" size="41658">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="508" height="322" size="30478">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="141" height="163" size="10884">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="91" size="4934">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="ga1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="82" size="4612">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-ga1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="82" size="5536">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="fx2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="112" height="163" size="3434">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-fx2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="89" size="11690">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="139" size="5289">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2500" height="2892" size="579903">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2583" height="1069" size="262531">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1333" height="497" size="85380">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-ga1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="563" size="103226">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="fx2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2625" height="3822" size="951782">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-fx2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2667" height="1079" size="317313">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2250" height="1427" size="194342">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="8543">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-si1.svg?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="13371">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-si3.svg?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="8053">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-si2.svg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="782613">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122001170-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85131413364</scopus-id><scopus-eid>2-s2.0-85131413364</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85131413364" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>306208</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="subj">291735</xocs:ssid>
+         <xocs:ssid type="subj">291848</xocs:ssid>
+         <xocs:ssid type="subj">291889</xocs:ssid>
+         <xocs:ssid type="subj">291929</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>MethodsX</xocs:srctitle>
+      <xocs:normalized-srctitle>METHODSX</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20220526">2022-05-26</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20220526">2022-05-26</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20220602">2022-06-02</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20220602">2022-06-02</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2023-02-21T03:59:09</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2215016122001170</xocs:eid>
+      <xocs:pii-formatted>S2215-0161(22)00117-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2215016122001170</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.mex.2022.101736</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2215016121X00027</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20230221">2023-02-21T04:23:56.076132Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20220101</xocs:date-search-begin>
+      <xocs:date-search-end>20221231</xocs:date-search-end>
+      <xocs:year-nav>2022</xocs:year-nav>
+      <xocs:indexeddate epoch="1653535992">2022-05-26T03:33:12.166255Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast orcid otherkwds primabst pubtype ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2215-0161</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>22150161</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>CRUI2022</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>9</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>9</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 9</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>266</xocs:sort-order>
+      <xocs:first-fp>101736</xocs:first-fp>
+      <xocs:article-number>101736</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>101736</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2022</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2022</xocs:cover-date-text>
+      <xocs:cover-date-start>2022-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2022-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2022</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Materials Science</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>mic</xocs:document-subtype>
+      <xocs:copyright-line>© 2022 The Author(s). Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>COMPREHENSIVESTEPBYSTEPPROCEDURESETUPAMOLECULARCOMMUNICATIONTHROUGHLIQUIDEXPERIMENT</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>CALI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>F</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Simulating MoCo platform</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Modulation techniques</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Information nanoparticles</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Benchtop MoCo prototype</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgment</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001">
+            <xocs:ref-normalized-surname>FARSAD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1887</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1919</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0002">
+            <xocs:ref-normalized-surname>PIEROBON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>942</xocs:ref-first-fp>
+            <xocs:ref-last-lp>954</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0003">
+            <xocs:ref-normalized-surname>GIANNOUKOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2371</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2383</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0004">
+            <xocs:ref-normalized-surname>FICHERA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>CALI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0006">
+            <xocs:ref-normalized-surname>GUYER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0007">
+            <xocs:ref-normalized-surname>KURAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>65</xocs:ref-first-fp>
+            <xocs:ref-last-lp>73</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0008">
+            <xocs:ref-normalized-surname>FICHERA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0009">
+            <xocs:ref-normalized-surname>TUCCITTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>MA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7794</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7839</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0011">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6593</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6595</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0012">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12736</xocs:ref-first-fp>
+            <xocs:ref-last-lp>12737</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0013">
+            <xocs:ref-normalized-surname>PRASANNAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15673</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15678</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0014">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>776</xocs:ref-first-fp>
+            <xocs:ref-last-lp>780</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>CALI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0016">
+            <xocs:ref-normalized-surname>HAVRDOVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>238</xocs:ref-first-fp>
+            <xocs:ref-last-lp>248</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0017">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>122</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0018">
+            <xocs:ref-normalized-surname>FICHERA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0019">
+            <xocs:ref-normalized-surname>TUCCITTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>LIDESTRI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0021">
+            <xocs:ref-normalized-surname>FICHERA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>CALIX2022X101736</xocs:refkey3>
+         <xocs:refkey4ai>CALIX2022X101736XF</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2022-05-17T23:06:38Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>FundingBody</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Italian Institutions (CRUI) 2022</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2022 The Author(s). Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2022-06-12T04:37:25.095Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2215-0161(22)00117-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2215016122001170</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2215016122001170</xocs:eid>
+         <xocs:doi>10.1016/j.mex.2022.101736</xocs:doi>
+         <xocs:cid>306208</xocs:cid>
+         <xocs:timestamp>2023-02-21T04:23:56.076132Z</xocs:timestamp>
+         <xocs:cover-date-start>2022-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2022-12-31</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>CRUI2022</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/MAIN/application/pdf/2f4473de7533537e4ec084e70632fb87/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2176166</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>11</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2215016122001170-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/PREVIEW/image/png/dfc5394dcbfa2a6d5b2cf47ad03d57a3/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>41131</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/gr2/DOWNSAMPLED/image/jpeg/82a2b5f018d8979f18e9ccc8c59454ff/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>70160</xocs:filesize>
+               <xocs:pixel-height>654</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/gr4/DOWNSAMPLED/image/jpeg/d350031450be058d3f56216f04709b07/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>35796</xocs:filesize>
+               <xocs:pixel-height>241</xocs:pixel-height>
+               <xocs:pixel-width>583</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-ga1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/ga1/THUMBNAIL/image/jpeg/716e94d1964bc9a76cd7c706899cce4b/ga1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>12250</xocs:filesize>
+               <xocs:pixel-height>112</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/gr1/DOWNSAMPLED/image/jpeg/b6562548db4c5044870d466e347fe94a/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>14610</xocs:filesize>
+               <xocs:pixel-height>127</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-fx2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/fx2/HIGHRES/image/jpeg/cbf518599027835712bce17c105e63c5/fx2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx2</xocs:file-basename>
+               <xocs:filename>fx2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>102916</xocs:filesize>
+               <xocs:pixel-height>863</xocs:pixel-height>
+               <xocs:pixel-width>593</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/gr3/THUMBNAIL/image/jpeg/a7aaa2d0abc2fb8b889c06f97b11e57e/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>41658</xocs:filesize>
+               <xocs:pixel-height>244</xocs:pixel-height>
+               <xocs:pixel-width>602</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/gr5/DOWNSAMPLED/image/jpeg/a49a2c5054008a8eeda82299c455a086/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30478</xocs:filesize>
+               <xocs:pixel-height>322</xocs:pixel-height>
+               <xocs:pixel-width>508</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/gr2/THUMBNAIL/image/gif/035023fd6e6cfd310e89518f8b02355b/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10884</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>141</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/gr4/THUMBNAIL/image/gif/8e9f1979595c1d9e2f9ee34626e51754/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4934</xocs:filesize>
+               <xocs:pixel-height>91</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-ga1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/ga1/THUMBNAIL/image/gif/4fa7d4ed73e59e42f565a97e3cb51fa9/ga1.sml</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4612</xocs:filesize>
+               <xocs:pixel-height>82</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/gr1/THUMBNAIL/image/gif/0675a210e3c715754f691e0d4268d6d3/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5536</xocs:filesize>
+               <xocs:pixel-height>82</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-fx2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/fx2/THUMBNAIL/image/gif/f1952241ffbb3a901722363b53874106/fx2.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx2</xocs:file-basename>
+               <xocs:filename>fx2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3434</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>112</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/gr3/THUMBNAIL/image/gif/8577a3eef9c6235da3cc484aeacc81d4/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11690</xocs:filesize>
+               <xocs:pixel-height>89</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/gr5/DOWNSAMPLED/image/gif/2c43484ab3f669d8659e71965751eb32/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5289</xocs:filesize>
+               <xocs:pixel-height>139</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/HIGHRES/image/jpeg/165ecef90eb886998e3a835f6fc24a50/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>579903</xocs:filesize>
+               <xocs:pixel-height>2892</xocs:pixel-height>
+               <xocs:pixel-width>2500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/HIGHRES/image/jpeg/21431be76372645dbf81c9db5ff7fc0d/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>262531</xocs:filesize>
+               <xocs:pixel-height>1069</xocs:pixel-height>
+               <xocs:pixel-width>2583</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-ga1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/HIGHRES/image/jpeg/652a28ea5a77305e52bedb2fecf7fd63/ga1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>85380</xocs:filesize>
+               <xocs:pixel-height>497</xocs:pixel-height>
+               <xocs:pixel-width>1333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/HIGHRES/image/jpeg/0b298c3d9a84aa865f0decfec9b54276/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>103226</xocs:filesize>
+               <xocs:pixel-height>563</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-fx2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/HIGHRES/image/jpeg/7f17d53fdf277d15e04995f301c4bd7c/fx2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx2</xocs:file-basename>
+               <xocs:filename>fx2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>951782</xocs:filesize>
+               <xocs:pixel-height>3822</xocs:pixel-height>
+               <xocs:pixel-width>2625</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/THUMBNAIL/image/jpeg/da2fad92ed25899c3ab8ee3e5a7aa0e8/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>317313</xocs:filesize>
+               <xocs:pixel-height>1079</xocs:pixel-height>
+               <xocs:pixel-width>2667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/HIGHRES/image/jpeg/6fd250f3b86b0cb5fc183eb7486b998d/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>194342</xocs:filesize>
+               <xocs:pixel-height>1427</xocs:pixel-height>
+               <xocs:pixel-width>2250</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-si1.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/STRIPIN/image/svg+xml/61675e9095ffd6b62a138b2a7350d0ff/si1.svg</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>8543</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-si3.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/STRIPIN/image/svg+xml/efd9323c8815bc016f34b426b380159e/si3.svg</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>13371</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-si2.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122001170/STRIPIN/image/svg+xml/9fe66a13967692b656ba230c066fc7b4/si2.svg</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>8053</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122001170-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10GT45WWGCV/MAIN/application/pdf/7d8c2d47147a5007df715187bf5cd644/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>782613</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="mic" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>MEX</jid>
+            <aid>101736</aid>
+            <ce:article-number>101736</ce:article-number>
+            <ce:pii>S2215-0161(22)00117-0</ce:pii>
+            <ce:doi>10.1016/j.mex.2022.101736</ce:doi>
+            <ce:copyright type="other" year="2022">The Author(s)</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0001">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0001">
+                  <ce:simple-para id="spara001" view="all">Schematic representation of the Molecular Communication concept.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0001" role="short">Fig 1</ce:alt-text>
+               <ce:link id="celink0001" locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2215016122001170/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig0002">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0002">
+                  <ce:simple-para id="spara002" view="all">False colour maps representing snapshot<ce:italic>s</ce:italic> of the concentration of information particles travelling toward the receiver.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0002" role="short">Fig 2</ce:alt-text>
+               <ce:link id="celink0002" locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2215016122001170/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig0003">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0003">
+                  <ce:simple-para id="spara003" view="all">Left, steps of hydrothermal synthesis of Carbon Quantum Dots; right, typical fluorescent map of N-Doped Carbon Quantum Dots prepared via Hydrothermal Decomposition.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0003" role="short">Fig 3</ce:alt-text>
+               <ce:link id="celink0003" locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2215016122001170/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig0004">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0004">
+                  <ce:simple-para id="spara004" view="all">Schematic representation of 6 ways, 2 positions valve operating at TX to release the information particle plug in the transporting fluid towards the receiver</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0004" role="short">Fig 4</ce:alt-text>
+               <ce:link id="celink0004" locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2215016122001170/gr4"/>
+            </ce:figure>
+            <ce:figure id="fig0005">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="spara005" view="all">Transmission of the word “PAX” under Quaternary – CSK (Q-CSK) modulation technique</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0005" role="short">Fig 5</ce:alt-text>
+               <ce:link id="celink0005" locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2215016122001170/gr5"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0001" rowsep="0" colsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0006">
+                  <ce:simple-para id="spara006" view="all">Correspondence between letters and multinary encoding.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0006" role="short">Table 1</ce:alt-text>
+               <tgroup cols="2">
+                  <colspec colnum="1" colname="col1" align="left"/>
+                  <colspec colnum="2" colname="col2" align="left"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0011" colname="col1" valign="top">Letter</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0012" colname="col2" valign="top">Encoding</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0013" colname="col1" valign="top">
+                           <bold>
+                              <italic>p</italic>
+                           </bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0014" colname="col2" valign="top">1 3 0 0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0015" colname="col1" valign="top">
+                           <bold>
+                              <italic>a</italic>
+                           </bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0016" colname="col2" valign="top">1 2 0 1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0017" colname="col1" valign="top">
+                           <bold>
+                              <italic>x</italic>
+                           </bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0018" colname="col2" valign="top">1 3 2 0</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:article-footnote>
+               <ce:note-para id="notep0001" view="all">
+                  <ce:bold>Direct Submission or Co-Submission</ce:bold>: Co-submissions are papers that have been submitted alongside an original research paper accepted for publication by another Elsevier journal Direct Submission</ce:note-para>
+            </ce:article-footnote>
+            <ce:dochead id="dchd0001">
+               <ce:textfn id="dhtxt0001">Method Article</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tte0002">Comprehensive step-by-step procedure to setup a molecular communication through liquid experiment</ce:title>
+            <ce:author-group id="aut0001">
+               <ce:author id="au0001" author-id="S2215016122001170-11274c9e736f2b8c0dc2278036d53a24">
+                  <ce:given-name>Federico</ce:given-name>
+                  <ce:surname>Calì</ce:surname>
+               </ce:author>
+               <ce:author id="au0002" author-id="S2215016122001170-9e4b99154cc56de4bffef32c8f2542a4">
+                  <ce:given-name>Luca</ce:given-name>
+                  <ce:surname>Fichera</ce:surname>
+               </ce:author>
+               <ce:author id="au0003" author-id="S2215016122001170-ca7cee7e687d279021f7e630b53f05b7" orcid="0000-0003-4129-0406">
+                  <ce:given-name>Nunzio</ce:given-name>
+                  <ce:surname>Tuccitto</ce:surname>
+                  <ce:cross-ref id="crf0001" refid="cor0001">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S2215016122001170-cc70517c2329e33462c6ded00ec33814">
+                  <ce:textfn id="cetextfn0001">Dipartimento di Scienze Chimiche, Università degli Studi di Catania, v.le A Doria N° 6, Catania 95125, Italy</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Dipartimento di Scienze Chimiche</sa:organization>
+                     <sa:organization>Università degli Studi di Catania</sa:organization>
+                     <sa:address-line>v.le A Doria N° 6</sa:address-line>
+                     <sa:city>Catania</sa:city>
+                     <sa:postal-code>95125</sa:postal-code>
+                     <sa:country>Italy</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0001">Dipartimento di Scienze Chimiche, Università degli Studi di Catania, v.le A Doria N° 6, Catania 95125, Italy</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor0001">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="cetext0001">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="17" month="1" year="2022"/>
+            <ce:date-accepted day="17" month="5" year="2022"/>
+            <ce:abstract id="abs0001" view="all" class="author"><ce:abstract-sec id="abss0001" view="all">
+                  <ce:simple-para id="spara007" view="all">Molecular communication allows information to be exchanged in environments where electromagnetic waves are prohibited. It employs the exchange of information particles travelling through fluids. The transmitter releases several chemical messengers inside the communication channel, encoding the message it intends to send in an appropriate way. These messengers will be propagated in the communication channel according to the laws that determine their movement in the environment, until they reach the receiver, which then captures their presence and decodes their content.</ce:simple-para>
+                  <ce:simple-para id="spara008" view="all">To set up an experiment of molecular communication through liquid, the following are required:<ce:list id="celist0001">
+                        <ce:list-item id="celistitem0001">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0001" view="all">The simulation of the experiment by means of numerical resolution of the differential equations governing the process, in order to select the proper modulation technique.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0002">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0002g" view="all">The synthesis of the carbon nanoparticles to serve as the information nanoparticles.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0003">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0003t" view="all">The arrangement of the bench prototype for the experiments.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract id="abs0002" class="graphical" view="all">
+               <ce:section-title id="cesectitle0002">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="abss0002" view="all">
+                  <ce:simple-para id="spara012" view="all">
+                     <ce:display>
+                        <ce:figure id="fig0006">
+                           <ce:alt-text id="alttx001" role="short">Image, graphical abstract</ce:alt-text>
+                           <ce:link id="celink0006" locator="ga1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2215016122001170/ga1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="keys0001" view="all" class="keyword">
+               <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+               <ce:keyword id="key0001">
+                  <ce:text id="cetext0002">Fluorescence</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0002">
+                  <ce:text id="cetext0003">Carbon Quantum Dots</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0003">
+                  <ce:text id="cetext0004">Carbon nanoparticles</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0004">
+                  <ce:text id="cetext0005">Python</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0005">
+                  <ce:text id="cetext0006">Numerical simulation</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0006">
+                  <ce:text id="cetext0007">Fluidics</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:keywords class="stma" id="keys0003" view="all">
+               <ce:section-title id="cesectitle0002a">Method name</ce:section-title>
+               <ce:keyword id="key01001a">
+                  <ce:text id="cetext00102a">Molecular communication through liquid</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para0002" view="all">Specifications table<ce:display>
+                     <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="utbl0001" rowsep="0" colsep="0" frame="topbot">
+                        <tgroup cols="2">
+                           <colspec colnum="1" colname="col1" align="left"/>
+                           <colspec colnum="2" colname="col2" align="left"/>
+                           <tbody>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0001" colname="col1" valign="top" role="rowhead">Subject Area:</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0002" colname="col2" valign="top">Materials Science</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0003" colname="col1" valign="top" role="rowhead">More specific subject area:</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0004" colname="col2" valign="top">Nanomaterials</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0005" colname="col1" valign="top" role="rowhead">Method name:</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0006" colname="col2" valign="top">Molecular communication through liquid</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0007" colname="col1" valign="top" role="rowhead">Name and reference of original method:</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0008" colname="col2" valign="top">
+                                    <italic>Federico Calì, Luca Fichera, Giuseppe Trusso Sfrazzetto, Giuseppe Nicotra, Gianfranco Sfuncia, Elena Bruno, Luca Lanzanò, Ignazio Barbagallo, Giovanni Li-Destri, Nunzio Tuccitto, Fluorescent nanoparticles for reliable communication among implantable medical devices, Carbon, 2022, ISSN 0008-6223, doi:</italic>
+                                    <inter-ref id="interref0003a" xlink:href="https://doi.org/10.1016/j.carbon.2022.01.016" xlink:type="simple">10.1016/j.carbon.2022.01.016</inter-ref>. (<inter-ref id="interref0001" xlink:href="https://www.sciencedirect.com/science/article/pii/S0008622322000161" xlink:type="simple">https://www.sciencedirect.com/science/article/pii/S0008622322000161</inter-ref>)</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0009" colname="col1" valign="top" role="rowhead">Resource availability:</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0010" colname="col2" valign="top">
+                                    <italic>N.A.</italic>
+                                 </entry>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </ce:table>
+                  </ce:display>
+               </ce:para>
+               <ce:section id="sec0001" role="introduction" view="all">
+                  <ce:section-title id="cesectitle0005">Introduction</ce:section-title>
+                  <ce:para id="para0003" view="all">Nowadays, technology has provided us with multiple platforms that allow the connection to request information or transfer a command to a second device in any place and at any time. Typically, communication media use electromagnetic waves, travelling by wired or wireless means, to reach the destination of the message. However, there are some scenarios where this is not easily applicable. There are several contexts in which waves are denied, due to technical difficulties, physically forbidden, or because of the impracticality caused by losses related to excessive electromagnetic attenuation. One such example is related to the conditions in which intrabody implantable devices operate. The use of electromagnetic radiation deep inside the human body should be avoided to prevent health problems. Recently, a new communication paradigm, named Molecular Communication (MoCo) <ce:cross-refs id="crf0002" refid="bib0001 bib0002 bib0003">[1–3]</ce:cross-refs>, has been applied in such “wave-denied” environments, allowing communication between the user (including doctor and patient) and the operating devicee or the active devices implanted in biological systems. This innovative communication method consists of using information particles <ce:cross-ref id="crf0004" refid="bib0004">[4]</ce:cross-ref> (mainly chemicals) as a vector for the message to be transmitted, in a similar way to how communication in nature has been performed for millions of years though the release and detection of hormones.</ce:para>
+                  <ce:para id="para0004" view="all">MoCo is a method of transferring information from one point to another by encoding the message within chemical signals. To date, most of the research concerning MoCo is strongly oriented towards the theorisation and modelling of the transmitter-communication channel-receiver system. The transmitter (TX) releases several chemical messengers inside the communication channel, which encode the intended meassage in an appropriate way. These messengers will propagate in the communication channel according to the laws that determine their movement in that environment, until they reach the receiver (RX), which then captures their presence and decodes their content. The encoding and transmission of a message occurs as a series of sequential symbols, each in a time slot. The meaning of the symbol within the time slot depends on the chosen modulation method.</ce:para>
+                  <ce:para id="para0005" view="all">Setting up an operating MoCo platform that can swap information between active implantable medical devices <ce:cross-ref id="crf0005" refid="bib0005">[5]</ce:cross-ref> involves several steps: (i) The theoretical study of the equations governing the phenomena involved in MoCo and the simulation of the process, (ii) the development of a proper modulation methods to make molecular communication reliable in the specific environments in which it takes place, (iii) the choice of the information particle in which to encode the information to be transmitted, and (iv) development of the hardware needed in order to release and detect the information nanoparticles.</ce:para>
+               </ce:section>
+               <ce:section id="sec0002" view="all">
+                  <ce:section-title id="cesectitle0006">Simulating MoCo platform</ce:section-title>
+                  <ce:para id="para0006" view="all">The theoretical study of the phenomenon of MoCo can be rather complex because it involves lots of factors, both chemical and physical, mainly related to fluid dynamics. The equation governing the transport of the information particle from the point of emission in the channel by the transmitter until it reaches the detection zone of the receiver is:<ce:display>
+                        <ce:formula id="eqn0001">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si1.svg">
+                              <mml:mrow>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi>∂</mml:mi>
+                                       <mml:msub>
+                                          <mml:mi>C</mml:mi>
+                                          <mml:mi>i</mml:mi>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>∂</mml:mi>
+                                       <mml:mi>t</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo linebreak="goodbreak">=</mml:mo>
+                                 <mml:mi>∇</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mo stretchy="true">(</mml:mo>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mi>D</mml:mi>
+                                          <mml:mi>i</mml:mi>
+                                       </mml:msub>
+                                       <mml:mi>∇</mml:mi>
+                                       <mml:msub>
+                                          <mml:mi>C</mml:mi>
+                                          <mml:mi>i</mml:mi>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mo stretchy="true">)</mml:mo>
+                                 </mml:mrow>
+                                 <mml:mo linebreak="goodbreak">−</mml:mo>
+                                 <mml:mi>∇</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mo stretchy="true">(</mml:mo>
+                                    <mml:mrow>
+                                       <mml:mi>v</mml:mi>
+                                       <mml:msub>
+                                          <mml:mi>C</mml:mi>
+                                          <mml:mi>i</mml:mi>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mo stretchy="true">)</mml:mo>
+                                 </mml:mrow>
+                                 <mml:mo linebreak="goodbreak">+</mml:mo>
+                                 <mml:msub>
+                                    <mml:mi>R</mml:mi>
+                                    <mml:mi>i</mml:mi>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where C<ce:inf loc="post">i</ce:inf> is the concentration (M) value of the i-th particle in space at time t (s), D<ce:inf loc="post">i</ce:inf> is its diffusion coefficient (m<ce:sup loc="post">2</ce:sup>/s), v is the velocity of the transport flow (m/s), and R<ce:inf loc="post">i</ce:inf> represents the kinetic equation (M/s) related to any reaction affecting the i-th messenger, if any. Each MoCo platform will be endowed with different fluid-dynamic properties. D can be considered as a property that is dependent on the geometry (i.e., diameter) of the information particles and the viscosity of the medium in which it is travelling. A good estimation of of D could be calculated theoretically by means of the Einstein-Smoluchowski equation. The v field depends on the geometry of the channel and the physical properties of the transporting fluid. A detailed description of the system can be as complex as it is unattainable. For a simplified representation of particle travel between RX and TX, we can consider a cylindrical shaped tube. Considering a MoCo platform implanted in the body between two medical devices, it is plausible to use capillary channels (including blood vessels if applicable) to reduce the impact and invasiveness of the implantation having lengths on the order of decimetres. These are particular conditions in which the size of the tube transverse to the direction of flow is very small (on the order of micrometres). In this sense, we can to consider phenomena typical of microfluidic conditions. For example, the effect of dispersion against a concentration gradient (depending on the magnitude of Di) that allows the movement of particles, even in conditions of null velocity field, is not negligible. In contrast, the conditions along the direction of transport the are certainly macroscopic. Thus, the effect of the above-mentioned stochastic spreading will be insignificant in this direction. The effects of turbulence are considered negligible if the fluid, having viscosity η, is conducted through the straight and rigid channel, imposing a pressure difference (ΔP) between the two ends. The simplest representation of the velocity field is given by Poiseuille's law. The velocity field v(r) at different radial positions between the centre (r = 0) and the wall (r = R), inside the cylindrical capillary of length L, is given by:<ce:display>
+                        <ce:formula id="eqn0002">
+                           <ce:label>(2)</ce:label>
+                           <mml:math altimg="si2.svg">
+                              <mml:mrow>
+                                 <mml:mi>v</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mo stretchy="true">(</mml:mo>
+                                    <mml:mi>r</mml:mi>
+                                    <mml:mo stretchy="true">)</mml:mo>
+                                 </mml:mrow>
+                                 <mml:mo linebreak="goodbreak">=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mstyle mathvariant="normal">
+                                          <mml:mi>Δ</mml:mi>
+                                       </mml:mstyle>
+                                       <mml:mi>P</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>4</mml:mn>
+                                       <mml:mi>η</mml:mi>
+                                       <mml:mi>L</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mrow>
+                                    <mml:mo stretchy="true">(</mml:mo>
+                                    <mml:mrow>
+                                       <mml:msup>
+                                          <mml:mi>R</mml:mi>
+                                          <mml:mn>2</mml:mn>
+                                       </mml:msup>
+                                       <mml:mo linebreak="badbreak">−</mml:mo>
+                                       <mml:msup>
+                                          <mml:mi>r</mml:mi>
+                                          <mml:mn>2</mml:mn>
+                                       </mml:msup>
+                                    </mml:mrow>
+                                    <mml:mo stretchy="true">)</mml:mo>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="para0007" view="all">Although it is possible to obtain analytical solutions of <ce:cross-ref id="crf0006" refid="eqn0001">Eq. (1</ce:cross-ref>) under specific boundary conditions, we prefer to use a more straightforward numerical solution. Here, we report a Python-based script able to simulate the release of a single plug of information nanoparticles and its travel towards the receiver without any reaction occurring. The solution is based on the FiPy library <ce:cross-ref id="crf0007" refid="bib0006">[6]</ce:cross-ref>. The scientific libraries NUMPY and SCIPY are also used for some specific tasks. <ce:cross-ref id="crf0008" refid="fig0002">Fig. 2</ce:cross-ref> shows the typical snapshot obtained as the output of the simulator.</ce:para>
+                  <ce:para id="para0008" view="all">
+                     <ce:cross-ref id="crf0009" refid="fig0001">Figs. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig0001"/>
+                     <ce:float-anchor refid="fig0002"/>,<ce:cross-refs id="crf0011" refid="fig0003 fig0004">3 and 4</ce:cross-refs>
+                     <ce:float-anchor refid="fig0003"/>
+                     <ce:float-anchor refid="fig0004"/>.</ce:para>
+                  <ce:para id="para0009" view="all">Example of Python script</ce:para>
+                  <ce:para id="para0010" view="all">
+                     <ce:inline-figure baseline="0.0">
+                        <ce:link id="celink0007" locator="fx2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2215016122001170/fx2"/>
+                     </ce:inline-figure>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="sec0003" view="all">
+                  <ce:section-title id="cesectitle0007">Modulation techniques</ce:section-title>
+                  <ce:para id="para0011" view="all">Signal modulation techniques consist of varying one or more signal properties in each timeslot. The symbols are then encoded according to these variations. To better understand these concepts, we must refer to the modulation systems in radio transmissions: The carrier of the information is a train of electromagnetic waves in the radio frequency. The modulation is obtained by varying the amplitude, frequency, polarity and phase for each timeslot. If the transporters of the information in MoCo are nanoparticles, then it is not possible to define the modulation as a wave function, but it is possible to modulate the intrinsic properties of the information particles. Several modulation schemes are proposed for diffusion-based and flow-based communication channels. Among them, the modulation technique based on information particle type is named molecular shift keying (MSK), whose symbol is encoded by changing the molecular composition of the particle. If the modulation systems is based on the particle number, it is known asconcentration shift keying (CSK). In these systems, symbols are discriminated by particle concentration C in the timeslot (t). In the case where there only two symbols of a communication system and the encoding is performed using a binary system, the logic is described in <ce:cross-ref id="crf0013" refid="eqn0003">Eq. (3</ce:cross-ref>), in which a single threshold has been defined. Multi-nary modulation techniques can also be selected.<ce:display>
+                        <ce:formula id="eqn0003">
+                           <ce:label>(3)</ce:label>
+                           <mml:math altimg="si3.svg">
+                              <mml:mrow>
+                                 <mml:mi>C</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mo stretchy="true">(</mml:mo>
+                                    <mml:mi>t</mml:mi>
+                                    <mml:mo stretchy="true">)</mml:mo>
+                                 </mml:mrow>
+                                 <mml:mo linebreak="goodbreak">=</mml:mo>
+                                 <mml:mspace width="0.33em"/>
+                                 <mml:mrow>
+                                    <mml:mo stretchy="true">{</mml:mo>
+                                    <mml:mtable>
+                                       <mml:mtr>
+                                          <mml:mtd>
+                                             <mml:mrow>
+                                                <mml:mn>0</mml:mn>
+                                                <mml:mspace width="0.33em"/>
+                                                <mml:mi>i</mml:mi>
+                                                <mml:mi>f</mml:mi>
+                                                <mml:mspace width="0.33em"/>
+                                                <mml:mi>C</mml:mi>
+                                                <mml:mrow>
+                                                   <mml:mo stretchy="true">(</mml:mo>
+                                                   <mml:mi>t</mml:mi>
+                                                   <mml:mo stretchy="true">)</mml:mo>
+                                                </mml:mrow>
+                                                <mml:mo linebreak="badbreak">&lt;</mml:mo>
+                                                <mml:msub>
+                                                   <mml:mi>C</mml:mi>
+                                                   <mml:mrow>
+                                                      <mml:mi>t</mml:mi>
+                                                      <mml:mi>h</mml:mi>
+                                                      <mml:mi>r</mml:mi>
+                                                      <mml:mi>e</mml:mi>
+                                                      <mml:mi>s</mml:mi>
+                                                      <mml:mi>h</mml:mi>
+                                                      <mml:mi>o</mml:mi>
+                                                      <mml:mi>l</mml:mi>
+                                                      <mml:mi>d</mml:mi>
+                                                   </mml:mrow>
+                                                </mml:msub>
+                                             </mml:mrow>
+                                          </mml:mtd>
+                                       </mml:mtr>
+                                       <mml:mtr>
+                                          <mml:mtd>
+                                             <mml:mrow>
+                                                <mml:mn>1</mml:mn>
+                                                <mml:mspace width="0.33em"/>
+                                                <mml:mi>i</mml:mi>
+                                                <mml:mi>f</mml:mi>
+                                                <mml:mspace width="0.33em"/>
+                                                <mml:mi>C</mml:mi>
+                                                <mml:mrow>
+                                                   <mml:mo stretchy="true">(</mml:mo>
+                                                   <mml:mi>t</mml:mi>
+                                                   <mml:mo stretchy="true">)</mml:mo>
+                                                </mml:mrow>
+                                                <mml:mo linebreak="badbreak">&gt;</mml:mo>
+                                                <mml:mspace width="0.33em"/>
+                                                <mml:msub>
+                                                   <mml:mi>C</mml:mi>
+                                                   <mml:mrow>
+                                                      <mml:mi>t</mml:mi>
+                                                      <mml:mi>h</mml:mi>
+                                                      <mml:mi>r</mml:mi>
+                                                      <mml:mi>e</mml:mi>
+                                                      <mml:mi>s</mml:mi>
+                                                      <mml:mi>h</mml:mi>
+                                                      <mml:mi>o</mml:mi>
+                                                      <mml:mi>l</mml:mi>
+                                                      <mml:mi>d</mml:mi>
+                                                   </mml:mrow>
+                                                </mml:msub>
+                                             </mml:mrow>
+                                          </mml:mtd>
+                                       </mml:mtr>
+                                    </mml:mtable>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="para0012" view="all">The MSK technique has the advantage of being subjected to low levels of channel noise and intersymbol interference, and it is potentially possible to send more particle packets in short timeslots simultaneously, and therefore more complex information in less time. On the other hand, the transmitter requires many particles for encoding, which experimentally means separate reservoirs containing the particles are required, as well as multiple actuators to handle the release. Moreover, the receiver must be specific in decoding, as it must distinguish the different particles from each other. The advantages of CSK modulation technique lie in its simplicity: A single type of particle and a single method of detection are suffiient because the information resides in the concentration. However, its limitation is a high probability of error, and it is known that the higher the number of thresholds, the higher the risk of ISI <ce:cross-ref id="crf0014" refid="bib0007">[7]</ce:cross-ref>. Therefore, it is advisable to use less symbols, and the transmission of information is slower. Other limitations are related to the constraint of time synchronisation between TX and RX. The flow rate must be perfectly controlled to correctly integrate each symbol within the predetermined timeslot. Errors in synchronisation cause a decoding error within the information. It is not possible to apply these modulation methods where the flow within the communication channel is not predictable or controllable (e.g. biological systems) where time-independent modulation is required. To overcome the limitation of non-synchrony between flow rate and timeslot, a useful modulation technique has been proposed — reaction shift keying (RSK). RSK implies that the transmitter emits the information particle in such a way that it undergoes the modification of a chemical-physical property by a reagent [<ce:cross-ref id="crf0015" refid="bib0008">8</ce:cross-ref>,<ce:cross-ref id="crf0016" refid="bib0009">9</ce:cross-ref>]. Therefore, the encoding of the symbol is obtained by means of the reaction condition. 1-bit is related to the reacted condition, whereas 0-bit is unreacted. The synchronisation problems are solved because the receiver remains "on hold" until it receives the particle, and only at the time it "reads" the reacted or unreacted condition. In this way, even if the speed of the carrier flow varies with time, the interaction between TX and RX is no longer regulated by the timing. Each of these modulation techniques needs the appropriate information particle, in order to be optimally applied in a MoCo experiment.</ce:para>
+               </ce:section>
+               <ce:section id="sec0004" view="all">
+                  <ce:section-title id="cesectitle0008">Information nanoparticles</ce:section-title>
+                  <ce:para id="para0013" view="all">The choice of the correct information particle is a critical step in the development of an efficient system that exploits molecular communication for transfering information between transmitter and receiver. The information particles must not only be suitable for the environment in which they propagate, both in terms of stability and toxicity, but they must also achieve an efficient transcoding to be tagged with the message and not lose any of the information during transport. The parameter that most needs to be considered is specificity, which goes hand in hand with sensitivity. For example, the use of highly specific systems, such as host-guest interaction or specially designed receptors, makes molecular communication highly reliable, as the detection of the information particle is characterised by very high sensitivity <ce:cross-ref id="crf0017" refid="bib0010">[10]</ce:cross-ref>.</ce:para>
+                  <ce:para id="para0014" view="all">An information particle must be designed <ce:italic>a priori</ce:italic> in order to be selective or non-specific, and to otherwise meet the application requirements. To be applied successfully in MoCo between medical devices, an information particle intended for use under physiological conditions will ideally have several specifications-these include being: (i) Easily synthesised, (ii) environmentally friendly, (iii) biocompatible, (iv) soluble/dispersible in aqueous fluids, and (v) easy to detect. Over the past 5 years we have systematically researched the most suitable information particles for application in MoCo experiments. We report here in detail the selected types, and their sources of supply or synthetic protocols, as a function of the desired modulation techniques.</ce:para>
+                  <ce:para id="para0015" view="all">Carbon-based Quantum Dots (CQD) with peculiar fluorescent properties have been proposed as non-specific information nanoparticles for molecular communication in liquid media. The properties of CQD can be modified in a multitude of ways, allowing specific physical and chemical modulation methods to be developed for obtaining high information transfer efficiency. Fluorescent carbon nanoparticles are produced whenever a carbon source undergoes a carbonisation process. The formation of these nanoparticles in soot from candles, coffee grounds, milk or burnt hair has been confirmed <ce:cross-ref id="crf0018" refid="bib0011">[11]</ce:cross-ref> Since their first discovery in 2004 <ce:cross-ref id="crf0019" refid="bib0012">[12]</ce:cross-ref>, the potential of carbon-based CQD was immediately clear, and in the years that followied the scientific community produced a large amount of literature reporting many synthetic techniques with different levels of sophistication. These included laser ablation processes, pyrolysis, hydrothermal synthesis, microwave-assisted synthesis, and electrochemistry [<ce:cross-ref id="crf0020" refid="bib0013">13</ce:cross-ref>,<ce:cross-ref id="crf0021" refid="bib0014">14</ce:cross-ref>] starting from any organic carbon-based raw material, including food waste <ce:cross-ref id="crf0022" refid="bib0015">[15]</ce:cross-ref>. Structurally, these CQD appear as discs/spheres with diameters ranging from ∼2–30 nm. The core has a graphene-like structure, while functional groups such as epoxides, carboxylic acids and carbonyls are present on the surface. This structure makes them dispersible in aqueous solution if not chemically treated. Cell toxicity tests show a low degree of toxicity and good biocompatibility [<ce:cross-ref id="crf0023" refid="bib0016">16</ce:cross-ref>,<ce:cross-ref id="crf0024" refid="bib0017">17</ce:cross-ref>]. The use of carbon-based CQD in MoCo applications derives mainly from their unique fluorescence properties [<ce:cross-ref id="crf0025" refid="bib0004">4</ce:cross-ref>,<ce:cross-refs id="crf0026" refid="bib0018 bib0019 bib0020 bib0021">18–21</ce:cross-refs>]. Indeed, most of these CQD have an absorption band in their UV spectra (observed at 200–400 nm) and a fluorescence band in their visible spectrum (observed at 400–600 nm). A high fluorescence yield is observed, making them detectable even at low concentrations.</ce:para>
+                  <ce:para id="para0016" view="all">The synthesis involves decomposition at elevated temperature of the precursor raw material based on carbonaceous compounds. We used citric acid (we believe the manufacturer is not relevant). It is not necessary to use the anhydrous form. We are not aware on the effect of citric acid purity on the composition of CQDs. In a typical synthesis 7 g of citric acid is placed on the base of a 100 ml beaker placed on a hot plate set to maximum heating power. After a few minutes, the citric acid melts and begins to degrade. The white color will soon turn to amber yellow and then to dark brown. The consistency of this mixture is like caramel. To prepare larger batches you can increase the amount of citric acid. We have found that up to 25 g gives equivalent results. We suggest using beakers with a wider bottom (500 ml for example) to ensure uniform heating. The decomposition process is allowed to proceed for about 15 min (avoid exceeding 30 min). Then the beaker is removed from the heating plate and left to cool to room temperature (be careful not to touch hot surfaces). 50 ml of 0.1 N NaOH solution is added (we believe the manufacturer is not relevant). By vigorous stirring the decomposed material is allowed to solubilize completely. At this stage the solution is acidic around pH 5, typically. The solution is neutralized to pH 7 by adding 1N NaOH drop by drop and checking with an indicator strip. The solution is dialyzed with tubing having a cut-off around 11–14 KDa. In our experience different manufacturers can lead to different results. We have often used MEMBRA-CEL MC18 × 100 CLR 300759122 Viscase. The dialysis procedure is performed as follows: the filled tube of the solution is immersed in 1 L of ultra-filtered water (Millipore®, Merck) and slowly stirred. After 1 h the water is replaced with another liter of ultra-filtered water. The operation is repeated 4 times. The fifth time the water is left overnight and then discarded. The content of the tube is transferred in a dedicated container and used as it is. If necessary, it is diluted with ultra-filtered water. To dope CQDs with heteroatoms and make their fluorescence properties be variant, other substances can be added to citric acid. We used ammonium acetate, urea and thiourea. In all cases the amount of citric acid is halved, and the remaining part is replaced with the other compound (e.g., 3.5 g citric acid and 3.5 g urea). The decomposition of these compounds can lead to the formation of precipitate (typically dark green). It is discarded by performing, after dialysis, a separation by centrifugation at low temperature (10000 RPM at 3 °C) recovering the supernatant. Subsequent procedures remain unchanged. In addition, it is possible to use carbonaceous raw material of various kinds to prepare CQD. We have used juice from unsold lemons. CQDs are synthetized from 100 mL of neat lemon juice poured in a 400 mL crystallizer. The crystallizer is then placed on a heating plate at 175 °C to trigger the decomposition process. When the colour of the solution changed from lemon yellow to caramel (typically after 15–20 min), three aliquots of 33 mL ultra-filtered water are added, 10 min apart. A fourth 33 mL aliquot of water is then added, and the resulting mixture is allowed to cool to room temperature. The purification process of the CQDs thus obtained is carried out in three steps. Firstly, the non-polar residues are removed by extraction with 15 mL of chloroform (we believe the manufacturer is not relevant), mixing the solution of CQD with pure chloroform in a separating funnel. After vigorous agitation, the organic phase is separated from the aqueous phase by exploiting the immiscibility between the two phases. This process is repeated three times, always using renewed chloroform. A dialysis purification process is then carried out to remove the smaller but aqueously soluble residues. Finally, a cryo-centrifugation step is carried out for 1 h 50 min, at 6000 rpm, and 3 °C temperature. The supernatant is collected and used for MoCo experiments.</ce:para>
+                  <ce:para id="para0017" view="all">Thus, CQD are suitable information particles for MoCo since they are easily synthesized from organic carbon-based raw materials, they are environmentally friendly and biocompatible within the biological tissues, soluble in water-based biological fluids, and they are effortlessly detected at very low concentration, by stimulating them with light and detecting the fluorescence glowing. All these features make MoCo between implanted devices reliable. Note the relevant issue related to cybersecurity in this field of communication. It is very critical. A hacker who intercepts and manipulates information between electronic devices can, in general, create serious problems, but in this field it has potentially catastrophic implications. In addition to being sensitive data, information exchanged by implanted medical devices is also potentially lethal. Fraudulently varying the dosage of a drug released by device can lead to patient death. Intercepting and remotely manipulating biometric information from implanted devices can transfer incorrect and misleading information to the medical doctor who must prepare the appropriate therapy. With respect to these issues, MoCo based on CQD is reliable. We could say, "intrinsically secure". Just think that to eavesdrop on the message it would be necessary to take a part of the liquid containing the messenger. This is impossible to do secretly. Moreover, the flow of CQD is almost imperceptible given the low concentrations used. To detect them it is necessary to stimulate them with light and detect the fluorescence <ce:italic>in situ</ce:italic>. They are not metal based, do not emit (electro)magnetic fields, so they are not detectable remotely.</ce:para>
+               </ce:section>
+               <ce:section id="sec0005" view="all">
+                  <ce:section-title id="cesectitle0009">Benchtop MoCo prototype</ce:section-title>
+                  <ce:para id="para0018" view="all">Although MoCo has been widely studied from a theoretical point of view, there are currently few examples of working platforms in which to run experiments. In the specific case of communication between active implantable medical devices, intrabody experiments have not yet been reported. We have developed a benchtop MoCo prototype enabling experimental verification of what has been predicted theoretically, in addition and to providing the validation of simulation results.</ce:para>
+                  <ce:para id="para0019" view="all">The realisation of the prototype involves the assembly of the two main components of the MoCo-the transmitter and the receiver. Both will be simply connected by a tube of the required size. Typically, we use inert Teflon tubes, but this does not exclude to use other types. The flow of the carrier fluid is ensured by a peristaltic pump or a piston syringe. We use an IVAN P3000 as the infusion pump, although we consider the manufacturer irrelevant. The release of the plug of information particles representing the bit is fundamental to the success of the communication. In a simplistic way, it is possible to perform the release in a transport channel by means of a dosing syringe, a dropper or other similar device. Our experience has shown us that the technique that allows the best reproducibility of the bit is based on the use of a six-way, two-position valve, equipped with a loading loop. These valves are used in liquid chromatography. There are several types, both manual and self-operated. They accommodate tubes of different diameters and allow the use of loading loops of varying volume (from microlitres to millilitres). We use Rheodyne, IDEX Health &amp; Science valves, although we consider the manufacturer irrelevant. The main feature that makes CQDs detectable is fluorescence. Therefore, a fluorometer operating in flow is used as a detector, of which there are several types on the market. The only parameters to consider are the sensitivity that affects the minimum detection limit of information particles and the size of the analysis cell. For capillary channels carrying small volumes it is desirable to have cells on the order of microlitres. Liquid chromatography detectors are suitable for these purposes. We use the Shimadzu rf535 as detector, although we do not consider the manufacturer relevant. For large channels it is also possible to detect with standard fluorometers equipped with flow cuvettes. We use the Cary Eclipse fluorometer from Varian, although we do not consider the manufacturer relevant.</ce:para>
+                  <ce:para id="para0020" view="all">
+                     <ce:cross-ref id="crf0028" refid="fig0005">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig0005"/> shows an example of a transmitted signal using a multi-threshold multi-nary CSK modulation technique. The word “pax” has been converted from text to ASCII quaternary encoding, as reported in <ce:cross-ref id="crf0029" refid="tbl0001">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl0001"/>. To do this, we released pulses of carbon dots over time at three different concentrations (0.5, 1 and 2 mg/mL) for symbols 1, 2 and 3, respectively. Symbol 0 was coded without any release of nanoparticles. The release delay between pulses was 5 minutes and a flow rate of 5 mL/h was used.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0001" view="all">
+               <ce:section-title id="cesectitle0011">Declaration of Competing Interest</ce:section-title>
+               <ce:para id="para0022" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ack0001" view="all">
+               <ce:section-title id="cesectitle0010">Acknowledgment</ce:section-title>
+               <ce:para id="para0021" view="all">Authors thanks University of Catania “Piano di incentivi per la ricerca di Ateneo 2020/2022 (Pia.ce.ri.) Linea 1 Chance” for APC funding.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebibl1" view="all">
+               <ce:section-title id="cesectitle0012">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec1" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0001">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Farsad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.B.</ce:given-name>
+                                 <ce:surname>Yilmaz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Eckford</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.B.</ce:given-name>
+                                 <ce:surname>Chae</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A comprehensive survey of recent advancements in molecular communication</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Commun. Surv. Tutor.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1887</sb:first-page>
+                              <sb:last-page>1919</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1109/COMST.2016.2527741</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0001">Farsad, N.; Yilmaz, H. B.; Eckford, A.; Chae, C. B.; Guo, W.A comprehensive survey of recent advancements in molecular communication. IEEE Commun. Surv. Tutor.2016, 18 (3), 1887–1919. 10.1109/COMST.2016.2527741.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0002">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pierobon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.F.</ce:given-name>
+                                 <ce:surname>Akyildiz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Capacity of a diffusion-based molecular communication system with channel memory and molecular noise</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Inf. Theory</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>942</sb:first-page>
+                              <sb:last-page>954</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1109/TIT.2012.2219496</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0002">Pierobon, M.; Akyildiz, I. F.Capacity of a diffusion-based molecular communication system with channel memory and molecular noise. IEEE Trans. Inf. Theory2013, 59 (2), 942–954. 10.1109/TIT.2012.2219496.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0003">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Giannoukos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Marshall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Taylor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Molecular communication over gas stream channels using portable mass spectrometry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Soc. Mass Spectrom.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2371</sb:first-page>
+                              <sb:last-page>2383</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s13361-017-1752-6</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0003">Giannoukos, S.; Marshall, A.; Taylor, S.; Smith, J.Molecular communication over gas stream channels using portable mass spectrometry. J. Am. Soc. Mass Spectrom.2017, 28, 2371–2383. 10.1007/s13361-017-1752-6.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0004">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fichera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Li-Destri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Tuccitto</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanoparticles as suitable messengers for molecular communication</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>44</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1039/d0nr06999j</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0004">Fichera, L.; Li-Destri, G.; Tuccitto, N.Nanoparticles as suitable messengers for molecular communication. Nanoscale2020, 12 (44). 10.1039/d0nr06999j.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Calì</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fichera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.T.</ce:given-name>
+                                 <ce:surname>Sfrazzetto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Nicotra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Sfuncia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Bruno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Lanzanò</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Barbagallo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Li-Destri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Tuccitto</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fluorescent nanoparticles for reliable communication among implantable medical devices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/J.CARBON.2022.01.016</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0005">Calì, F.; Fichera, L.; Sfrazzetto, G. T.; Nicotra, G.; Sfuncia, G.; Bruno, E.; Lanzanò, L.; Barbagallo, I.; Li-Destri, G.; Tuccitto, N.Fluorescent nanoparticles for reliable communication among implantable medical devices. Carbon2022. 10.1016/J.CARBON.2022.01.016.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0006">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Guyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Wheeler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Warren</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>FiPy: partial differential equations with Python</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Comput. Sci. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6</sb:first-page>
+                              <sb:last-page>15</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1109/MCSE.2009.52</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0006">Guyer, J. E.; Wheeler, D.; Warren, J. A.FiPy: partial differential equations with Python. Comput. Sci. Eng.2009, 11 (3), 6–15. 10.1109/MCSE.2009.52.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0007">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.Ş.</ce:given-name>
+                                 <ce:surname>Kuran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.B.</ce:given-name>
+                                 <ce:surname>Yilmaz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Tugcu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.F.</ce:given-name>
+                                 <ce:surname>Akyildiz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Interference effects on modulation techniques in diffusion based nanonetworks</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Commun. Netw.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>65</sb:first-page>
+                              <sb:last-page>73</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.nancom.2012.01.005</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0007">Kuran, M. Ş.; Yilmaz, H. B.; Tugcu, T.; Akyildiz, I. F.Interference effects on modulation techniques in diffusion based nanonetworks. Nano Commun. Netw.2012, 3 (1), 65–73. 10.1016/j.nancom.2012.01.005.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0008">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fichera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Li-Destri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ruffino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.L.</ce:given-name>
+                                 <ce:surname>Messina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Tuccitto</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reactive nanomessengers for artificial chemical communication</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Chem. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>29</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1039/c9cp02631b</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0008">Fichera, L.; Li-Destri, G.; Ruffino, R.; Messina, G. M. L.; Tuccitto, N.Reactive nanomessengers for artificial chemical communication. Phys. Chem. Chem. Phys.2019, 21 (29). 10.1039/c9cp02631b.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0009">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Tuccitto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Li-Destri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.L.</ce:given-name>
+                                 <ce:surname>Messina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Marletta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reactive messengers for digital molecular communication with variable transmitter-receiver distance</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Chem. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>48</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1039/c8cp05643a</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0009">Tuccitto, N.; Li-Destri, G.; Messina, G. M. L.; Marletta, G.Reactive messengers for digital molecular communication with variable transmitter-receiver distance. Phys. Chem. Chem. Phys.2018, 20 (48). 10.1039/c8cp05643a.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biomedical applications of supramolecular systems based on host–guest interactions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>115</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>15</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7794</sb:first-page>
+                              <sb:last-page>7839</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/cr500392w</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0010">Ma, X.; Zhao, Y.Biomedical applications of supramolecular systems based on host–guest interactions. Chem. Rev.2015, 115 (15), 7794–7839. 10.1021/cr500392w.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0011">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0011">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Mao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fluorescent carbon nanoparticles derived from candle soot</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>119</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>34</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6593</sb:first-page>
+                              <sb:last-page>6595</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/ange.200701271</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0011">Liu, H.; Ye, T.; Mao, C.Fluorescent carbon nanoparticles derived from candle soot. Angew. Chem.2007, 119 (34), 6593–6595. 10.1002/ange.200701271.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0012">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0012">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ray</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Gu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Ploehn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Gearheart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Raker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Scrivens</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrophoretic analysis and purification of fluorescent single-walled carbon nanotube fragments</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>126</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>40</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12736</sb:first-page>
+                              <sb:last-page>12737</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/ja040082h</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0012">Xu, X.; Ray, R.; Gu, Y.; Ploehn, H. J.; Gearheart, L.; Raker, K.; Scrivens, W. A.Electrophoretic analysis and purification of fluorescent single-walled carbon nanotube fragments. J. Am. Chem. Soc.2004, 126 (40), 12736–12737. 10.1021/ja040082h.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0013">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref0013">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Prasannan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Imae</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>One-pot synthesis of fluorescent carbon dots from orange waste peels</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ind. Eng. Chem. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>44</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15673</sb:first-page>
+                              <sb:last-page>15678</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/ie402421s</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0013">Prasannan, A.; Imae, T.One-pot synthesis of fluorescent carbon dots from orange waste peels. Ind. Eng. Chem. Res.2013, 52 (44), 15673–15678. 10.1021/ie402421s.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0014">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0014">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Hou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An electrochemical avenue to green-luminescent graphene quantum dots as potential electron-acceptors for photovoltaics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>776</sb:first-page>
+                              <sb:last-page>780</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/adma.201003819</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0014">Li, Y.; Hu, Y.; Zhao, Y.; Shi, G.; Deng, L.; Hou, Y.; Qu, L.An electrochemical avenue to green-luminescent graphene quantum dots as potential electron-acceptors for photovoltaics. Adv. Mater.2011, 23 (6), 776–780. 10.1002/adma.201003819.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Calì</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Cantaro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fichera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ruffino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Trusso Sfrazzetto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Li-destri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Tuccitto</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon quantum dots from lemon waste enable communication among biodevices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chemosensors</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.3390/chemosensors9080202</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0015">Calì, F.; Cantaro, V.; Fichera, L.; Ruffino, R.; Trusso Sfrazzetto, G.; Li-destri, G.; Tuccitto, N.Carbon quantum dots from lemon waste enable communication among biodevices. Chemosensors2021, 9 (8). 10.3390/chemosensors9080202.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0016">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref0016">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Havrdova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Hola</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Skopalik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tomankova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Petr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Cepe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Polakova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Tucek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Bourlinos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Zboril</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Toxicity of carbon dots – effect of surface functionalization on the cell viability, reactive oxygen species generation and cell cycle</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>99</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>238</sb:first-page>
+                              <sb:last-page>248</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.carbon.2015.12.027</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0016">Havrdova, M.; Hola, K.; Skopalik, J.; Tomankova, K.; Petr, M.; Cepe, K.; Polakova, K.; Tucek, J.; Bourlinos, A. B.; Zboril, R.Toxicity of carbon dots – effect of surface functionalization on the cell viability, reactive oxygen species generation and cell cycle. Carbon2016, 99, 238–248. 10.1016/j.carbon.2015.12.027.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0017">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0017">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Systematic safety evaluation on photoluminescent carbon dots</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale Res. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>122</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1186/1556-276X-8-122</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0017">Wang, K.; Gao, Z.; Gao, G.; Wo, Y.; Wang, Y.; Shen, G.; Cui, D.Systematic safety evaluation on photoluminescent carbon dots. Nanoscale Res. Lett.2013, 8 (1), 122. 10.1186/1556-276X-8-122.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0018">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0018">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fichera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Li-Destri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Tuccitto</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fluorescent nanoparticle-based internet of things</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>17</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1039/d0nr01365j</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0018">Fichera, L.; Li-Destri, G.; Tuccitto, N.Fluorescent nanoparticle-based internet of things. Nanoscale2020, 12 (17). 10.1039/d0nr01365j.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0019">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0019">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Tuccitto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Li-Destri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.L.</ce:given-name>
+                                 <ce:surname>Messina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Marletta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fluorescent quantum dots make feasible long-range transmission of molecular bits</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>16</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1021/acs.jpclett.7b01713</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0019">Tuccitto, N.; Li-Destri, G.; Messina, G. M. L.; Marletta, G.Fluorescent quantum dots make feasible long-range transmission of molecular bits. J. Phys. Chem. Lett.2017, 8 (16). 10.1021/acs.jpclett.7b01713.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Li-Destri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fichera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Zammataro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Trusso Sfrazzetto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Tuccitto</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Self-assembled carbon nanoparticles as messengers for artificial chemical communication</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:issue-nr>30</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/c9nr04461b</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0020">Li-Destri, G.; Fichera, L.; Zammataro, A.; Trusso Sfrazzetto, G.; Tuccitto, N.Self-assembled carbon nanoparticles as messengers for artificial chemical communication. Nanoscale2019, 11 (30). 10.1039/c9nr04461b.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0021">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0021">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fichera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Li-Destri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Tuccitto</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Graphene quantum dots enable digital communication through biological fluids</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>182</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.carbon.2021.06.078</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0021">Fichera, L.; Li-Destri, G.; Tuccitto, N.Graphene quantum dots enable digital communication through biological fluids. Carbon2021, 182. 10.1016/j.carbon.2021.06.078.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

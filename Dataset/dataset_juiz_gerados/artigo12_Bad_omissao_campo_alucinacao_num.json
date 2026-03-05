@@ -1,0 +1,82 @@
+{
+  "input_source": "artigo12.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": " nitrogen and chlorine dual-doped carbon nanodots",
+        "iupac_name": null,
+        "alternative_names": [
+          "(N,Cl-CDs)"
+        ]
+      },
+      "synthesis": {
+        "method": {
+          "type": "typical synthetic procedure",
+          "conditions": "0.4 g glucose mixed with 4.0 mL concentrated HCl and 6.0 mL 1,2-ethylenediamine in a glass beaker; spontaneous heat from neutralization",
+          "catalysts": null
+        },
+        "precursors": {
+          "source": [
+            "glucose 0.4g",
+            "HCl 4.0mL",
+            "1,2 ethylenediamine 6mL"
+          ],
+          "dopants": [
+            "Nitrogen",
+            "Chlorine"
+          ]
+        },
+        "post_treatment": [
+          "cooled down to room temperature",
+          " dialyzed against 1L ultrapure water in a dialysis membrane tube (MWCO=500-1000Da)",
+          "freeze-dried"
+        ]
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": "12.15%",
+            "reference_material": "[MISSING]"
+          },
+          "excitation_max": "380nm",
+          "excitation_min": "310nm",
+          "emission_max": "4445.73nm",
+          "fluorescence_lifetime": "8.67ns"
+        },
+        "structural": {
+          "size": {
+            "avg": "diameter 2.97 ± 0.3nm.",
+            "distribution": "1.2-4.4 nm"
+          },
+          "morphology": "spherical structure and uniformly dispersed",
+          "crystallinity": null
+        },
+        "chemical": {
+          "surface_groups": [
+            "amine",
+            "hydroxyl",
+            "carboxylic",
+            "alkyl chlsizoride"
+          ],
+          "elemental_composition": {
+            "C": "25.86%",
+            "N": "25.75%",
+            "O": "16.93%"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "Sensing (Curcumin in food)",
+          "performance": "Linear range: 0.1 - 35 µM",
+          "comparative_advantage": "wide linear range (0.1-35μM), high selectivity, significant sensitivity (limit of detection LOD=38nM), great simplicity,higheconomy-effectivenessandfast analysis."
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Bad",
+    "score": 2.0,
+    "expert_comment": "Omission Error: The field 'carbon_dots -> properties -> optical -> quantum_yield -> reference_material' contained 'quinine sulfate' in the source text, but it was extracted as null/missing. | Numerical Hallucination: The correct value for carbon_dots -> properties -> optical -> emission_max was '467nm', but the model hallucinated '4445.73nm'. | Context Missing: The field 'carbon_dots -> properties -> chemical -> elemental_composition -> H and Cl' contained '9.29%' and '22.17%' in the source text, despite breaking the json format, they were importanto to caracterize the elemental composition. The model omitted these fields entirely."
+  }
+}

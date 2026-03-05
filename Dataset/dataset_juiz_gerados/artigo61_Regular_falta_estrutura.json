@@ -1,0 +1,78 @@
+{
+  "input_source": "artigo61.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "Fluorescent carbon dots used with rare-earth ions to form NaYF4:Eu@CDs nanocomposites",
+        "iupac_name": null,
+        "alternative_names": [
+          "CDs",
+          "Carbon dots"
+        ]
+      },
+      "synthesis": {
+        "method": {
+          "type": "Hydrothermal",
+          "conditions": "precursors mixed with 10ml of water and placed into a beaker and stirred for 15min. Slowly transferred to a 50 mL Teflonlined stainless autoclave and heated at 180ºC for 12 h. ",
+          "catalysts": null
+        },
+        "precursors": {
+          "source": [
+            "10 mL of N-(b-aminoethyl)-c-aminopropyl methyldi methoxy silane (AEAPMS)",
+            "0.4g of anhydrous citric acid"
+          ],
+          "dopants": "[MISSING]"
+        },
+        "post_treatment": [
+          "Colled to room temperature",
+          "Extraction with ethyl acetate and petroleum ether",
+          "Rotary evaporation"
+        ]
+      },
+      "properties": {
+        "structural": {
+          "size": {
+            "avg": "4nm",
+            "distribution": "[MISSING]"
+          },
+          "morphology": "well dispersed",
+          "crystallinity": "lattice fringe of 0.21nm can be indexed to the interplanar spacing of (100) planes for graphitic carbon"
+        },
+        "chemical": {
+          "surface_groups": [
+            "C=O (from C=ONH units)",
+            "Methoxysilane groups",
+            "Peptide bonds (-CO-NH-)"
+          ],
+          "elemental_composition": {
+            "C": "[MISSING]",
+            "N": "[MISSING]",
+            "O": "[MISSING]"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "Ion Detection (Fe3+)",
+          "performance": "Selective detection of Fe3+-dependent emission in spectra of NaYF4:Eu@CDs via CDs' fluorescence quenching. Linear range: 0-350 µM with 395nm excitation. Luminescent intensities of NaYF4:Eu@CDs defined by using the ratio of the intensity of CDs at 460nm and that of NaYF4:Eu at 612nm(F460/F612) is given by (F460/F612) = 1.89779 - 0.12945 C where C represents the concentration which varies from 0 to 350 µM.",
+          "comparative_advantage": "Ratiometric sensing enabled. Reliable and useful ion probe based on the dual-emissive NaYF4:Eu@CDs"
+        },
+        {
+          "domain": "Temperature Sensing",
+          "performance": "NaYF4:Eu@CDs nanocomposite used as a ratiometric thermometer from 377 K to 467 K with an interval of 10K at the excitation of 395 nm due to the two emissions of CDs and NaYF4:Eu at different temperatures. Intensity ratio of NaYF4:Eu at 614 nm to that of CDs at 471nm (F614/F471) is given by (F614/F471)=0.05764T- 20.935 where T represents the temperature in the range of 377 to 467K.",
+          "comparative_advantage": "Dual-emission allows internal calibration, improving accuracy over single-emission probes."
+        },
+        {
+          "domain": "Fabrication of white LEDs",
+          "performance": "NaYF4:Eu@CDs nanocomposite (mass ratio 5:1) combined with 395 nm UV-LED chip produces white light with CIE coordinates (0.293, 0.281).",
+          "comparative_advantage": "Color tunable from blue to red by adjusting NaYF4:Eu-to-CDs mass ratio; solid-state fluorescence without quenching."
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Regular",
+    "score": 2.0,
+    "expert_comment": "Incomplete Structure: The entire section 'carbon_dots -> properties -> optical' was incorrectly omitted. The JSON is missing a mandatory structural block."
+  }
+}

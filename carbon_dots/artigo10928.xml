@@ -1,0 +1,2882 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0956566315303985</prism:url><dc:identifier>doi:10.1016/j.bios.2015.09.002</dc:identifier><eid>1-s2.0-S0956566315303985</eid><prism:doi>10.1016/j.bios.2015.09.002</prism:doi><pii>S0956-5663(15)30398-5</pii><dc:title>pH-sensitive nanocarrier based on gold/silver core–shell nanoparticles decorated multi-walled carbon manotubes for tracing drug release in living cells </dc:title><prism:publicationName>Biosensors and Bioelectronics</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09565663</prism:issn><prism:volume>75</prism:volume><prism:startingPage>446</prism:startingPage><prism:endingPage>451</prism:endingPage><prism:pageRange>446-451</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2016-01-15</prism:coverDate><prism:coverDisplayDate>15 January 2016</prism:coverDisplayDate><prism:copyright>Copyright © 2015 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Chen, Peng</dc:creator><dc:creator>Wang, Zhuyuan</dc:creator><dc:creator>Zong, Shenfei</dc:creator><dc:creator>Zhu, Dan</dc:creator><dc:creator>Chen, Hui</dc:creator><dc:creator>Zhang, Yizhi</dc:creator><dc:creator>Wu, Lei</dc:creator><dc:creator>Cui, Yiping</dc:creator><dc:description>
+                  We fabricate a multifunctional nanocarrier based on multi-walled carbon nanotubes (MWCNTs) decorated with gold/silver core–shell nanoparticles (Au@Ag NPs) and fluorescein isothiocyanate (FITC) for tracking the intracellular drug release process. In the demonstrated nanocarrier, the Au@Ag NPs adsorbed on the surface of MWCNTs were labeled with the pH-dependent SERS reporter 4-Mercaptobenzoic acid (4MBA) for SERS based pH sensing. FITC was conjugated on MWCNTs to provide fluorescence signal for tracing the MWCNTs. Fluorescent doxorubicin (DOX) was used as the model drug which can be loaded onto MWCNTs via π–π stacking and released from the MWCNTs under acidic condition. By detecting the SERS spectrum of 4MBA, the pH value around the nanocarrier could be monitored. Besides, by tracing the fluorescence of FITC and DOX, we can also investigate the drug release process in cells. Experimental results show that the proposed nanocarrier retained a well pH-sensitive performance in living cells, and the DOX detached from MWCNTs inside the lysosomes and entered into the cytoplasm with the MWCNTs being left in lysosomes. To further investigate the drug release dynamics, 2-D color-gradient pH mapping were plotted, which were calculated from the SERS spectra of 4MBA. The detailed release process and carrier distribution have been recorded as environmental pH changes during cell endocytosis. Furthermore, we also confirmed that the proposed nanocarrier has a good biocompatibility. It indicates that the designed nanocarrier have a great potential in intraceable drug delivery, cancer cells imaging and pH monitoring.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>SERS</dcterms:subject><dcterms:subject>Fluorescence</dcterms:subject><dcterms:subject>Carbon nanotubes</dcterms:subject><dcterms:subject>Dox</dcterms:subject><dcterms:subject>pH sensor</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0956566315303985" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0956566315303985" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="84" size="8874">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566315303985-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="54" size="8196">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566315303985-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="163" height="164" size="25546">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566315303985-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="73" size="17417">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566315303985-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="123" size="15069">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566315303985-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="sc1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="103" size="15234">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566315303985-sc1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="678" height="261" size="42401">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566315303985-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="809" height="198" size="36057">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566315303985-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="568" size="127245">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566315303985-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="809" height="269" size="110455">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566315303985-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="809" height="453" size="68824">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566315303985-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="386" height="182" size="47229">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566315303985-sc1.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="2177536">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566315303985-mmc1.doc?httpAccept=%2A%2F%2A</object></objects><scopus-id>84941249379</scopus-id><scopus-eid>2-s2.0-84941249379</scopus-eid><pubmed-id>26360244</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/84941249379" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271399</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291685</xocs:ssid>
+         <xocs:ssid type="subj">291850</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291880</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Biosensors and Bioelectronics</xocs:srctitle>
+      <xocs:normalized-srctitle>BIOSENSORSBIOELECTRONICS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20150902">2015-09-02</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20150902">2015-09-02</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20150908">2015-09-08</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20150908">2015-09-08</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2015-11-10T20:52:56</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0956566315303985</xocs:eid>
+      <xocs:pii-formatted>S0956-5663(15)30398-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0956566315303985</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.bios.2015.09.002</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0956566315X00091</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240102">2024-01-02T08:40:06.526908Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160115</xocs:date-search-begin>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1441183726">2015-09-02T08:48:46.176641Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0956-5663</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09565663</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>75</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>75</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 75</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>54</xocs:sort-order>
+      <xocs:first-fp>446</xocs:first-fp>
+      <xocs:last-lp>451</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>446</xocs:first-page>
+         <xocs:last-page>451</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20160115</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 January 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-01-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Full Papers</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2015 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>PHSENSITIVENANOCARRIERBASEDGOLDSILVERCORESHELLNANOPARTICLESDECORATEDMULTIWALLEDCARBONMANOTUBESFORTRACINGDRUGRELEASEINLIVINGCELLS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>CHEN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>P</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Material and methods</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Synthesis of the MWCNTs/Au@Ag nanoparticles</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SERS pH sensing using the fMWCNT</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Fluorescence and SERS cell imaging</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Intracellular pH sensing of a single cell</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>DOX loading and extracellular release from nanocarrier</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Intracellular tracking drug release from nanocarrier and the cytotoxicity in vitro</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary material</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref1">
+            <xocs:ref-normalized-surname>ALIBOUCETTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>459</xocs:ref-first-fp>
+            <xocs:ref-last-lp>461</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref2">
+            <xocs:ref-normalized-surname>BERLIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6643</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6650</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref3">
+            <xocs:ref-normalized-surname>BIANCO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>571</xocs:ref-first-fp>
+            <xocs:ref-last-lp>577</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref4">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>978</xocs:ref-first-fp>
+            <xocs:ref-last-lp>984</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref5">
+            <xocs:ref-normalized-surname>CORREADUARTE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2179</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref6">
+            <xocs:ref-normalized-surname>GRZELCZAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7026</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7030</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref7">
+            <xocs:ref-normalized-surname>GU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2889</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2898</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref8">
+            <xocs:ref-normalized-surname>HERRERO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>885</xocs:ref-first-fp>
+            <xocs:ref-last-lp>897</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref9">
+            <xocs:ref-normalized-surname>HERRERO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9843</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9848</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10591</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10598</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref11">
+            <xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>275</xocs:ref-first-fp>
+            <xocs:ref-last-lp>277</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref12">
+            <xocs:ref-normalized-surname>KANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>777</xocs:ref-first-fp>
+            <xocs:ref-last-lp>782</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref13">
+            <xocs:ref-normalized-surname>KOSTARELOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>627</xocs:ref-first-fp>
+            <xocs:ref-last-lp>633</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref14">
+            <xocs:ref-normalized-surname>KWON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8481</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8487</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref15">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>891</xocs:ref-first-fp>
+            <xocs:ref-last-lp>895</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref16">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>50</xocs:ref-first-fp>
+            <xocs:ref-last-lp>56</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref17">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7668</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7672</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref18">
+            <xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref19">
+            <xocs:ref-normalized-surname>NABIEV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>311</xocs:ref-first-fp>
+            <xocs:ref-last-lp>316</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>NAIR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2771</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2775</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref21">
+            <xocs:ref-normalized-surname>PALLAORO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>618</xocs:ref-first-fp>
+            <xocs:ref-last-lp>622</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref22">
+            <xocs:ref-normalized-surname>QIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>64</xocs:ref-first-fp>
+            <xocs:ref-last-lp>70</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref23">
+            <xocs:ref-normalized-surname>QIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5671</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5674</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref24">
+            <xocs:ref-normalized-surname>REN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3324</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3333</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref25">
+            <xocs:ref-normalized-surname>SAMORI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1494</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1496</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref26">
+            <xocs:ref-normalized-surname>SINGHAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>57</xocs:ref-first-fp>
+            <xocs:ref-last-lp>64</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref27">
+            <xocs:ref-normalized-surname>SONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>826</xocs:ref-first-fp>
+            <xocs:ref-last-lp>831</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref28">
+            <xocs:ref-normalized-surname>TALLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7064</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7068</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref29">
+            <xocs:ref-normalized-surname>TIMKO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4925</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4943</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7414</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7422</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref31">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>886</xocs:ref-first-fp>
+            <xocs:ref-last-lp>891</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref32">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2883</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2889</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref33">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>259</xocs:ref-first-fp>
+            <xocs:ref-last-lp>265</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref34">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5369</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5380</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref35">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6358</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6362</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref36">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>82</xocs:ref-first-fp>
+            <xocs:ref-last-lp>89</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref37">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6041</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6047</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref38">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4759</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4761</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref39">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8155</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8161</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40">
+            <xocs:ref-normalized-surname>ZONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4215</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4220</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref41">
+            <xocs:ref-normalized-surname>ZONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>368</xocs:ref-first-fp>
+            <xocs:ref-last-lp>375</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>CHENX2016X446</xocs:refkey3>
+         <xocs:refkey4lp>CHENX2016X446X451</xocs:refkey4lp>
+         <xocs:refkey4ai>CHENX2016X446XP</xocs:refkey4ai>
+         <xocs:refkey5>CHENX2016X446X451XP</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-start-date>2017-09-08T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0956-5663(15)30398-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0956566315303985</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0956566315303985</xocs:eid>
+         <xocs:doi>10.1016/j.bios.2015.09.002</xocs:doi>
+         <xocs:cid>271399</xocs:cid>
+         <xocs:timestamp>2024-01-02T08:40:06.526908Z</xocs:timestamp>
+         <xocs:cover-date-start>2016-01-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0956566315303985-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566315303985/MAIN/application/pdf/44626e9d9171ad30c28ae8303f1ebead/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566315303985/MAIN/application/pdf/44626e9d9171ad30c28ae8303f1ebead/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2367058</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0956566315303985-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566315303985/PREVIEW/image/png/af7fc0d0b2605dcdeb198edf4d9c5fce/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566315303985/PREVIEW/image/png/af7fc0d0b2605dcdeb198edf4d9c5fce/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>57122</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566315303985-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566315303985/gr1/THUMBNAIL/image/gif/cb6b24863429d19890aa4043bf60e629/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566315303985/gr1/THUMBNAIL/image/gif/cb6b24863429d19890aa4043bf60e629/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8874</xocs:filesize>
+               <xocs:pixel-height>84</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566315303985-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566315303985/gr2/THUMBNAIL/image/gif/3636efc2cf6dc0c9ae55a96d40b3a030/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566315303985/gr2/THUMBNAIL/image/gif/3636efc2cf6dc0c9ae55a96d40b3a030/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8196</xocs:filesize>
+               <xocs:pixel-height>54</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566315303985-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566315303985/gr3/THUMBNAIL/image/gif/4dcf74a3f0dfc7a11e98838e3f7da158/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566315303985/gr3/THUMBNAIL/image/gif/4dcf74a3f0dfc7a11e98838e3f7da158/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>25546</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>163</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566315303985-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566315303985/gr4/THUMBNAIL/image/gif/3a6f8e892e012896fd1fc7b27bfdcc2f/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566315303985/gr4/THUMBNAIL/image/gif/3a6f8e892e012896fd1fc7b27bfdcc2f/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17417</xocs:filesize>
+               <xocs:pixel-height>73</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566315303985-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566315303985/gr5/THUMBNAIL/image/gif/c3707b62a0dc5937dc9b57017550e88c/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566315303985/gr5/THUMBNAIL/image/gif/c3707b62a0dc5937dc9b57017550e88c/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15069</xocs:filesize>
+               <xocs:pixel-height>123</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566315303985-sc1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566315303985/sc1/THUMBNAIL/image/gif/fb099dc6ef50d5cef85fb7fa9967879b/sc1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566315303985/sc1/THUMBNAIL/image/gif/fb099dc6ef50d5cef85fb7fa9967879b/sc1.sml</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15234</xocs:filesize>
+               <xocs:pixel-height>103</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566315303985-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566315303985/gr1/DOWNSAMPLED/image/jpeg/67a95b0b8ddbce73b123e6df043299f3/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566315303985/gr1/DOWNSAMPLED/image/jpeg/67a95b0b8ddbce73b123e6df043299f3/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>42401</xocs:filesize>
+               <xocs:pixel-height>261</xocs:pixel-height>
+               <xocs:pixel-width>678</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566315303985-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566315303985/gr2/DOWNSAMPLED/image/jpeg/9589cf624eb8fb5f4b8803fd294d3907/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566315303985/gr2/DOWNSAMPLED/image/jpeg/9589cf624eb8fb5f4b8803fd294d3907/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>36057</xocs:filesize>
+               <xocs:pixel-height>198</xocs:pixel-height>
+               <xocs:pixel-width>809</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566315303985-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566315303985/gr3/DOWNSAMPLED/image/jpeg/f28f83a300c4d82987db8a30df6d3d4a/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566315303985/gr3/DOWNSAMPLED/image/jpeg/f28f83a300c4d82987db8a30df6d3d4a/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>127245</xocs:filesize>
+               <xocs:pixel-height>568</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566315303985-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566315303985/gr4/DOWNSAMPLED/image/jpeg/e9d4d0fbdae7f46213672ec5eb02d619/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566315303985/gr4/DOWNSAMPLED/image/jpeg/e9d4d0fbdae7f46213672ec5eb02d619/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>110455</xocs:filesize>
+               <xocs:pixel-height>269</xocs:pixel-height>
+               <xocs:pixel-width>809</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566315303985-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566315303985/gr5/DOWNSAMPLED/image/jpeg/e6d7d366270dbc9d02972b30a5439d56/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566315303985/gr5/DOWNSAMPLED/image/jpeg/e6d7d366270dbc9d02972b30a5439d56/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>68824</xocs:filesize>
+               <xocs:pixel-height>453</xocs:pixel-height>
+               <xocs:pixel-width>809</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566315303985-sc1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566315303985/sc1/DOWNSAMPLED/image/jpeg/c4e62ccfd379e5103ae230c3ff4f4711/sc1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566315303985/sc1/DOWNSAMPLED/image/jpeg/c4e62ccfd379e5103ae230c3ff4f4711/sc1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>47229</xocs:filesize>
+               <xocs:pixel-height>182</xocs:pixel-height>
+               <xocs:pixel-width>386</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566315303985-mmc1.doc</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566315303985/mmc1/MAIN/application/msword/7efb981124cdd8d10a2aa45386cc3152/mmc1.doc</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956566315303985/mmc1/MAIN/application/msword/7efb981124cdd8d10a2aa45386cc3152/mmc1.doc</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.doc</xocs:filename>
+               <xocs:extension>doc</xocs:extension>
+               <xocs:filesize>2177536</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.4">
+         <item-info>
+            <jid>BIOS</jid>
+            <aid>7969</aid>
+            <ce:pii>S0956-5663(15)30398-5</ce:pii>
+            <ce:doi>10.1016/j.bios.2015.09.002</ce:doi>
+            <ce:copyright type="full-transfer" year="2015">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="sp0005" view="all">(A) SERS spectra of fMWCNTs inside HeLa cells placed in pH 3.0 and 8.0 buffer solutions. (b) pH calibration curve of the intensity ratio of the two bands from HeLa cells incubated with fMWCNTs in different pH value buffer solutions.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0005" role="short">Fig. 1</ce:alt-text>
+               <ce:link xlink:type="simple" id="lk0005" locator="gr1" xlink:href="pii:S0956566315303985/gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="sp0010" view="all">Confocal fluorescence images of HeLa cells incubated with fMWCNTs. (A) Bright field image (B) fluorescence imaging of HeLa cells. (C) Fluorescence imaging of lysosomes which were stained with Lyso-Tracker Red. (D) Overlay of (B) and (C). (Scale bar 20<ce:hsp sp="0.25"/>μm).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0010" role="short">Fig. 2.</ce:alt-text>
+               <ce:link xlink:type="simple" id="lk0010" locator="gr2" xlink:href="pii:S0956566315303985/gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="sp0015" view="all">The bright field image of HeLa cells incubated with fMWCNTs for (A) 2<ce:hsp sp="0.25"/>h, (C) 6<ce:hsp sp="0.25"/>h, (E) 24<ce:hsp sp="0.25"/>h. The SERS mapping image of the ratio of the SERS intensity at 1390<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> and 1183<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>, (B) 2<ce:hsp sp="0.25"/>h, (D) 6<ce:hsp sp="0.25"/>h, (F) 24<ce:hsp sp="0.25"/>h. (For interpretation of the references to color in this figure, the reader is referred to the web version of this article.)</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0015" role="short">Fig. 3</ce:alt-text>
+               <ce:link xlink:type="simple" id="lk0015" locator="gr3" xlink:href="pii:S0956566315303985/gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="sp0020" view="all">TEM images of cellular uptake of fMWCNTs and their cellular localizations in HeLa cells (Arrows indicate fMWCNTs).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0020" role="short">Fig. 4</ce:alt-text>
+               <ce:link xlink:type="simple" id="lk0020" locator="gr4" xlink:href="pii:S0956566315303985/gr4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="sp0025" view="all">Confocal fluorescence images of the DOX release from fMWCNTs-DOX inside the cell for different times. (A) SERS imaging of fMWCNTs-DOX inside the cells. (B) Fluorescence imaging of DOX released inside the cells. (C) Fluorescence imaging of lysosomes which are stained with Lyso-Tracker Green. (Scale bar 10<ce:hsp sp="0.25"/>μm).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0025" role="short">Fig. 5</ce:alt-text>
+               <ce:link xlink:type="simple" id="lk0025" locator="gr5" xlink:href="pii:S0956566315303985/gr5"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Scheme 1</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="sp0030" view="all">The synthesis and functionalization procedure of multifunctional nanocarrier based on MWCNTs.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0030" role="short">Scheme 1</ce:alt-text>
+               <ce:link xlink:type="simple" id="lk0030" locator="sc1" xlink:href="pii:S0956566315303985/sc1"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">pH-sensitive nanocarrier based on gold/silver core–shell nanoparticles decorated multi-walled carbon manotubes for tracing drug release in living cells</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005">
+                  <ce:given-name>Peng</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+               </ce:author>
+               <ce:author id="au0010">
+                  <ce:given-name>Zhuyuan</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:cross-ref id="cr9005" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0015">
+                  <ce:given-name>Shenfei</ce:given-name>
+                  <ce:surname>Zong</ce:surname>
+               </ce:author>
+               <ce:author id="au0020">
+                  <ce:given-name>Dan</ce:given-name>
+                  <ce:surname>Zhu</ce:surname>
+               </ce:author>
+               <ce:author id="au0025">
+                  <ce:given-name>Hui</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+               </ce:author>
+               <ce:author id="au0030">
+                  <ce:given-name>Yizhi</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+               </ce:author>
+               <ce:author id="au0035">
+                  <ce:given-name>Lei</ce:given-name>
+                  <ce:surname>Wu</ce:surname>
+               </ce:author>
+               <ce:author id="au0040">
+                  <ce:given-name>Yiping</ce:given-name>
+                  <ce:surname>Cui</ce:surname>
+                  <ce:cross-ref id="cr0005" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:textfn>Advanced Photonics Center, Southeast University, Nanjing 210096, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Advanced Photonics Center, Southeast University</sa:organization>
+                     <sa:city>Nanjing</sa:city>
+                     <sa:postal-code>210096</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding authors.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="25" month="6" year="2015"/>
+            <ce:date-revised day="27" month="8" year="2015"/>
+            <ce:date-accepted day="1" month="9" year="2015"/>
+            <ce:abstract id="ab0010" class="author" view="all"><ce:abstract-sec id="abs0010" view="all">
+                  <ce:simple-para id="sp0035" view="all">We fabricate a multifunctional nanocarrier based on multi-walled carbon nanotubes (MWCNTs) decorated with gold/silver core–shell nanoparticles (Au@Ag NPs) and fluorescein isothiocyanate (FITC) for tracking the intracellular drug release process. In the demonstrated nanocarrier, the Au@Ag NPs adsorbed on the surface of MWCNTs were labeled with the pH-dependent SERS reporter 4-Mercaptobenzoic acid (4MBA) for SERS based pH sensing. FITC was conjugated on MWCNTs to provide fluorescence signal for tracing the MWCNTs. Fluorescent doxorubicin (DOX) was used as the model drug which can be loaded onto MWCNTs via π–π stacking and released from the MWCNTs under acidic condition. By detecting the SERS spectrum of 4MBA, the pH value around the nanocarrier could be monitored. Besides, by tracing the fluorescence of FITC and DOX, we can also investigate the drug release process in cells. Experimental results show that the proposed nanocarrier retained a well pH-sensitive performance in living cells, and the DOX detached from MWCNTs inside the lysosomes and entered into the cytoplasm with the MWCNTs being left in lysosomes. To further investigate the drug release dynamics, 2-D color-gradient pH mapping were plotted, which were calculated from the SERS spectra of 4MBA. The detailed release process and carrier distribution have been recorded as environmental pH changes during cell endocytosis. Furthermore, we also confirmed that the proposed nanocarrier has a good biocompatibility. It indicates that the designed nanocarrier have a great potential in intraceable drug delivery, cancer cells imaging and pH monitoring.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords id="keys0005" class="keyword" view="all">
+               <ce:section-title id="sect0015">Keywords</ce:section-title>
+               <ce:keyword id="key0005">
+                  <ce:text>SERS</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0010">
+                  <ce:text>Fluorescence</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0015">
+                  <ce:text>Carbon nanotubes</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0020">
+                  <ce:text>Dox</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0025">
+                  <ce:text>pH sensor</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0020">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">Recently, multifunctional drug delivery systems have been one of the research hot spots in the field of nanomedicine as they bear a variety of advantages, such as transporting drugs effectively to the target tumor with less damages to normal cells (<ce:cross-refs id="crs0005" refid="bib15 bib29">Liu et al., 2011; Timko et al., 2010</ce:cross-refs>). Among those systems, carbon nanotubes (CNTs) are well known as a drug delivery system owing to the relatively large surface area and unique chemical property (<ce:cross-refs id="crs0010" refid="bib1 bib2 bib13 bib24 bib35">Ali-Boucetta et al., 2008; Berlin et al., 2011; Kostarelos et al., 2009; Ren et al., 2012; Wu et al., 2005</ce:cross-refs>). Moreover, when CNTs are functionalized with designed biomolecules or nanoparticles, they will not only obtain a good biocompatibility and a precisely tumor cell targeting ability, but also a special optical property for tracing and photo thermal therapy (<ce:cross-refs id="crs0015" refid="bib3 bib8 bib18 bib20 bib30">Bianco et al., 2005; Herrero et al., 2011; Lu et al., 2012; Nair et al., 2014; Wang et al., 2012</ce:cross-refs>). For instance, some researchers have reported that DOX-CNT based drug delivery shows excellent cytotoxicity and high efficiency for in vitro cancer cell treatment (<ce:cross-ref id="cr0010" refid="bib12">Kang et al., 2012</ce:cross-ref>; <ce:cross-ref id="cr0015" refid="bib17">Liu et al., 2009</ce:cross-ref>; <ce:cross-ref id="cr0020" refid="bib18">Lu et al., 2012</ce:cross-ref>; <ce:cross-ref id="cr0025" refid="bib34">Wu et al., 2014</ce:cross-ref>; <ce:cross-ref id="cr0030" refid="bib37">Zhang et al., 2009</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0030" view="all">In a specific CNT-based drug delivery system, cancer drugs are usually bonded to CNTs either covalently or non-covalently. And the drug release is usually controlled by a trigger (<ce:cross-refs id="crs0020" refid="bib7 bib9 bib25 bib37">Gu et al., 2011; Herrero et al., 2009; Samori et al., 2010; Zhang et al., 2009</ce:cross-refs>). For example, DOX can be easily attached and released from the surface of CNTs by controlling pH-dependent π–π stacking force between DOX and CNTs at pH 8.0 and 5.0.</ce:para>
+                  <ce:para id="p0035" view="all">In order to study intracellular drug delivery and release process of the afore mentioned CNT-based drug delivery systems, molecules or nanoparticles with special functions are immobilized on CNTs to form hybrid materials for dynamic tracing. In this tracing, various methods such as fluorescence (<ce:cross-refs id="crs0025" refid="bib12 bib20 bib33">Kang et al., 2012; Nair et al., 2014; Wang et al., 2015</ce:cross-refs>) and surface enhanced Raman Scattering (SERS) (<ce:cross-refs id="crs0030" refid="bib27 bib31 bib39 bib40">Song et al., 2009; Wang et al., 2008; Zhu et al., 2014; Zong et al., 2013</ce:cross-refs>) have been widely used for cellular imaging and tracing. However, SERS and fluorescence have some intrinsic disadvantages. For example, fluorescence has intrinsic limitations of fluorescence overlap and SERS is limited in high-speed analysis due to its relatively long acquisition time. Thus, multi-mode imaging is considered essential for dynamic tracing (<ce:cross-refs id="crs0035" refid="bib4 bib39 bib41">Chen et al., 2013; Zhu et al., 2014; Zong et al., 2012</ce:cross-refs>).</ce:para>
+                  <ce:para id="p0040" view="all">Besides, many biological processes are accompanied with pH changing, such as endocytosis (<ce:cross-refs id="crs0040" refid="bib16 bib21">Liu et al., 2007; Pallaoro et al., 2010</ce:cross-refs>). To further understand the dynamic process of nanocarriers in living cells, it is necessary to take pH sensing into consideration for monitoring the drug delivery process.</ce:para>
+                  <ce:para id="p0045" view="all">Herein, in this work, a tri-mode multifunctional MWCNTs based drug nanocarrier is fabricated, which can realize fluorescence imaging, SERS imaging and pH sensing. The structure of the multifunctional nanocarrier is presented in <ce:float-anchor refid="f0030"/>
+                     <ce:cross-ref id="cr0035" refid="f0030">Scheme 1</ce:cross-ref>. To fabricate the presented MWCNTs based nanocarrier, first, a cationic polymer PAH are used to wrap the carboxylated MWCNTs by electrostatic interaction to turn the zeta potential of MWCNTs from negative to positive and provide MWCNTs with amino groups. Second, the Au@Ag NPs, which served as SERS-active substrate for SERS pH sensing and imaging, are adsorbed onto the MWCNTs by electrostatic interaction. Third, the fluorescent dye FITC is conjugated to MWCNTs covalently for fluorescence imaging (<ce:cross-ref id="cr0040" refid="bib12">Kang et al., 2012</ce:cross-ref>) and the 4-mercaptobenzoic acid (4MBA) is labeled with Au@Ag NPs on MWCNTs for pH sensing The terminal carboxyl group of 4-mercaptobenzoic acid (4MBA) exhibits the COO<ce:sup loc="post">−</ce:sup> form in alkaline solutions and its SERS spectrum changes accompanied with pH changing (<ce:cross-refs id="crs0045" refid="bib21 bib28">Pallaoro et al., 2010; Talley et al., 2004</ce:cross-refs>). Finally, doxorubicin hydrochloride (DOX) is loaded onto the surface of MWCNTs via pH-dependent π–π stacking interaction. It is worth mentioning that the fabricated hybrid nanocarrier has excellent performances in investigating both DOX release process and intracellular DOX distribution by tracing the fluorescence, SERS signal of DOX and nanocarrier and intracellular pH values.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0025">Material and methods</ce:section-title>
+                  <ce:para id="p0050" view="all">All the materials and experimental procedures were presented in the <ce:cross-ref id="cr0045" refid="s0060">Supplementary materials</ce:cross-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0030">Results and discussion</ce:section-title>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sect0035">Synthesis of the MWCNTs/Au@Ag nanoparticles</ce:section-title>
+                     <ce:para id="p0055" view="all">In order to functionalize MWCNTs with Au@Ag nanoparticles, the pretreatment of MWCNTs is necessary. Otherwise the hydrophobic graphitic surface of pristine MWCNTs will result in large aggregations during nanoparticles assembly as previous reported (<ce:cross-refs id="crs0050" refid="bib5 bib6 bib11 bib26">Correa-Duarte et al., 2004; Grzelczak et al., 2007; Jiang et al., 2003; Singhal et al., 2011</ce:cross-refs>). In our experiment, the pristine MWCNTs with length less than 2<ce:hsp sp="0.25"/>μm were curled up or twisted together to form an intertwined shape as shown in <ce:cross-ref id="cr0050" refid="s0055">Fig. S1A</ce:cross-ref>, while the oxidized MWCNTs were 0.1–0.5<ce:hsp sp="0.25"/>μm in length and disperse well in solution as depicted in <ce:cross-ref id="cr0055" refid="s0055">Fig. S1B</ce:cross-ref>. As shown in the inset of <ce:cross-ref id="cr0060" refid="s0055">Fig. S1B</ce:cross-ref>, the oxidized MWCNTs have a good solubility in water with deep black color while the pristine MWCNTs cannot disperse in water and sink to the bottom.</ce:para>
+                     <ce:para id="p0060" view="all">The TEM images of oxidized MWCNTs after Au@Ag assembly are presented in <ce:cross-ref id="cr0065" refid="s0055">Fig. S1C</ce:cross-ref>, respectively. As can be seen in the inset of <ce:cross-ref id="cr0070" refid="s0055">Fig. S1C</ce:cross-ref>, Au@Ag NPs with a typical size of 28<ce:hsp sp="0.25"/>nm are uniformly adsorbed onto MWCNTs surface in <ce:cross-ref id="cr0075" refid="s0055">Fig. S1C</ce:cross-ref>. To further demonstrate the adsorption of Au@Ag NPs, UV–vis spectra of both Au@Ag NPs and MWCNTs/Au@Ag NPs in solution are performed in <ce:cross-ref id="cr0080" refid="s0055">Fig. S1E</ce:cross-ref>, bare Au@Ag NPs display a typical absorption peak of Au@Ag NPs at around 400<ce:hsp sp="0.25"/>nm. But this peak of MWCNTs/Au@Ag NPs was red-shifts to 435<ce:hsp sp="0.25"/>nm and a broader full width at half maximum (FWHM) was appeared, which indicate that Au@Ag NPs are deposited onto the surfaces of MWCNTs. This phenomenon has also been observed by <ce:cross-ref id="cr0085" refid="bib38">Zhao et al. (2008)</ce:cross-ref>. The EDX spectrum in <ce:cross-ref id="cr0090" refid="s0055">Fig. S1D</ce:cross-ref> provides further evidence of the composition of MWCNTs/Au@Ag NPs.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sect0040">SERS pH sensing using the fMWCNT</ce:section-title>
+                     <ce:para id="p0065" view="all">To elucidate the pH-sensitivity of as-prepared fMWCNTs, we exploit the SERS spectra features of 4MBA molecules. As depicted in <ce:cross-ref id="cr0095" refid="s0055">Fig. S2A</ce:cross-ref>, the peaks at 1077 and 1590<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> are assigned to the breathing modes of benzene ring attribute to 4MBA and the peaks at 1183<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> are the ring modes of adsorbed benzoate species (<ce:cross-ref id="cr0100" refid="bib14">Kwon et al., 1994</ce:cross-ref>). These peaks are relatively not sensitive to the environmental pH changes. In comparison, the peak at 1390<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>, which is assigned to the COO<ce:sup loc="post">−</ce:sup> stretching mode (<ce:cross-refs id="crs0055" refid="bib21 bib28">Pallaoro et al., 2010; Talley et al., 2004</ce:cross-refs>), quite sensitive to pH as the ionization of COOH to COO<ce:sup loc="post">−</ce:sup> is vigorous around the pK<ce:inf loc="post">a</ce:inf> value of 4MBA (about 4.63 for 4MBA). And this is the reason why we use 4MBA to decorate MWCNTs in this work.</ce:para>
+                     <ce:para id="p0070" view="all">Therefore, a ratio between peak intensity at 1390<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>and 1183<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> can be exploited to profile the pH-dependent SERS performance of fMWCNTs. <ce:cross-ref id="cr0105" refid="s0055">Fig. S2B</ce:cross-ref> plots this pH calibration curve at pH range from 3.0 to 8.0. It indicates that the fMWCNTs can be served as a good pH sensor for investigation cell physiological activities.</ce:para>
+                     <ce:para id="p0075" view="all">To demonstrate the performance of this composite nanoparticle for intracellular pH sensing, HeLa cells are incubated with fMWCNTs and then their culture media are replaced with different pH buffer solutions for SERS measurement. Two typical SERS spectra of HeLa cells in pH 3.0 and pH 8.0 buffer solutions are shown in <ce:float-anchor refid="f0005"/>
+                        <ce:cross-ref id="cr0110" refid="f0005">Fig. 1</ce:cross-ref>A, the aforementioned ratio between the peak intensity at 1390<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> and 1182<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> indicates that fMWCNTs retains a strong pH-sensitivity after being incorporated in HeLa cells. For pH values between 3.0 and 8.0, the calibration curve is plotted in <ce:cross-ref id="cr0115" refid="f0005">Fig. 1</ce:cross-ref>B, which shows a similar trend as that in pure buffer solutions in <ce:cross-ref id="cr0120" refid="s0060">Fig. S2B</ce:cross-ref>. This result predicts that this CNT-based probe can realize its pH sensing ability for studying actual cellular processes.</ce:para>
+                     <ce:para id="p0080" view="all">To confirm their sensing activity inside cells, we record the SERS spectrum of cytoplasm region in HeLa cells, as previous studies indicated that functionalized MWCNTs will enter the lysosomes after being taken up by cells (<ce:cross-refs id="crs0060" refid="bib12 bib24 bib32">Kang et al., 2012; Ren et al., 2012; Wang et al., 2011</ce:cross-refs>). In this work, it can be clearly seen from bright field microscopic image (shown in <ce:cross-ref id="cr0125" refid="s0055">Fig. S3A</ce:cross-ref>) that fMWCNTs has successfully entered into HeLa cells. To investigate the process of fMWCNTs entering lysosomes, we then merge this image with fluorescence images of lysosomes stained with Lyso-Tracker Red (<ce:cross-ref id="cr0130" refid="s0055">Fig. S3B</ce:cross-ref>). A labeled area was chosen (<ce:cross-ref id="cr0135" refid="s0055">Fig. S3C</ce:cross-ref>) for SERS measurement. The SERS spectrum recorded in <ce:cross-ref id="cr0140" refid="s0055">Fig. S3D</ce:cross-ref> presents a specific intensity ratio of 1390<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>/1182<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−</ce:sup>
+                        <ce:sup loc="post">1</ce:sup> of fMWCNTs probe under acidic pH condition. This result demonstrates that fMWCNTs is able to trace actual cellular processes with pH changes, such as entering lysosomes. Furthermore, by tracing the fluorescence of FITC on fMWCNTs, a series of fluorescence images at different depths of a cell incubated with fMWCNTs were obtained (shown in <ce:cross-ref id="cr0145" refid="s0055">Fig. S4</ce:cross-ref>). The fluorescence of fMWCNTs was observed in cytoplasm region without into the nucleus which indicated that fMWCNTs has successfully incorporated into the cells.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sect0045">Fluorescence and SERS cell imaging</ce:section-title>
+                     <ce:para id="p0085" view="all">Besides pH sensing, it is worth mentioning that this typical probe has the potential for further fluorescence and SERS dual-mode imaging. In our experiment, fluorescent molecules FITC are immobilized on the surface of MWCNTs by covalently bonding to the amine groups of PAH wrapped on MWCNTs surface (<ce:cross-ref id="cr0150" refid="bib34">Wu et al., 2014</ce:cross-ref>).Then fMWCNTs are incubated with HeLa cells for 5<ce:hsp sp="0.25"/>h before the fluorescence and SERS imaging.</ce:para>
+                     <ce:para id="p0090" view="all">Bright field, fluorescence and SERS images of HeLa cells are presented in <ce:cross-ref id="cr0155" refid="s0055">Fig. S5</ce:cross-ref> respectively. As shown in <ce:cross-ref id="cr0160" refid="s0055">Fig. S5A</ce:cross-ref>, the black dots inside cells indicate that probes have been incorporated directly into cells. Moreover, the merged confocal microscope image of FITC fluorescence (<ce:cross-ref id="cr0165" refid="s0055">Fig. S5B</ce:cross-ref>) and SERS spectrum of 4MBA (<ce:cross-ref id="cr0170" refid="s0055">Fig. S5C</ce:cross-ref>). <ce:cross-ref id="cr0175" refid="s0055">Fig. S5D</ce:cross-ref> shows that the fluorescence and SERS signals almost overlap with each other, which confirms that the fMWCNTs can be used as a dual-mode optical probe for cellular imaging.</ce:para>
+                     <ce:para id="p0095" view="all">To demonstrate trace ability of the probes after coupling with FITC, after incubation HeLa cells with fMWCNTs, the lysosome is stained with Lyso-Tracker Red. By merging the fluorescence images of HeLa cells (<ce:float-anchor refid="f0010"/>
+                        <ce:cross-ref id="cr0180" refid="f0010">Fig. 2</ce:cross-ref>B) and lysosomes (<ce:cross-ref id="cr0185" refid="f0010">Fig. 2</ce:cross-ref>C), it is found that the fluorescence of FITC overlaps well with that of the lysosomes (<ce:cross-ref id="cr0190" refid="f0010">Fig. 2</ce:cross-ref>C). This implies that fMWCNTs have been incorporated into lysosomes.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="sect0050">Intracellular pH sensing of a single cell</ce:section-title>
+                     <ce:para id="p0100" view="all">Another application of this CNT-based probe is the real time monitoring of some cellular processes. We elucidate this technique by recording the dynamic process of fMWCNTs occupying lysosomes within a time range of 24<ce:hsp sp="0.25"/>h. As depicted in <ce:float-anchor refid="f0015"/>
+                        <ce:cross-ref id="cr0195" refid="f0015">Fig. 3</ce:cross-ref>, this technique is based on mapping the pH sensitive intensity ratio of SERS peaks at 1390 and 1183<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−</ce:sup>
+                        <ce:sup loc="post">1</ce:sup> as mentioned in <ce:cross-ref id="cr0200" refid="f0005">Fig. 1</ce:cross-ref>B. First, the strong intensity peak of the benzene band at 1070<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> (<ce:cross-ref id="cr0205" refid="s0055">Fig. S2A</ce:cross-ref>) is utilized to confine the SERS image area and the 1070<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−</ce:sup>
+                        <ce:sup loc="post">1</ce:sup> SERS band intensity below threshold were set to black. Second, the corresponding environmental pH value of every spot can be obtained from the pH-ratio calibration curve in <ce:cross-ref id="cr0210" refid="f0005">Fig. 1</ce:cross-ref>B. Finally, a vivid view of this dynamic process is gained after replacing calculated pH values with four colors.</ce:para>
+                     <ce:para id="p0105" view="all">As shown in <ce:cross-ref id="cr0215" refid="f0015">Fig. 3</ce:cross-ref>B, after 2<ce:hsp sp="0.25"/>h incubation, fMWCNTs probes start to enter into HeLa cells via endocytosis as some dark red color spots emerges which corresponds to acidic pH environment inside lysosomes. After 6<ce:hsp sp="0.25"/>h incubation, the amount of neutral pH color inside the cell gradually decreases (<ce:cross-ref id="cr0220" refid="f0015">Fig. 3</ce:cross-ref>D), which reflects that more carriers have been swallowed by HeLa cells. Finally, most spot measured are dark red and related to an acidic pH condition after 24<ce:hsp sp="0.25"/>h of incubation. This phenomenon indicates that the nanocarriers are finally trapped inside lysosomes and this phenomenon is consistent with other studies using carbon nanotubes for drug delivery (<ce:cross-refs id="crs0065" refid="bib12 bib17">Kang et al., 2012; Liu et al., 2009</ce:cross-refs>).</ce:para>
+                     <ce:para id="p0110" view="all">To further demonstrate the accuracy of our real time tracing of probes, cellular TEM images are taken at 2<ce:hsp sp="0.25"/>h, 6<ce:hsp sp="0.25"/>h and 24<ce:hsp sp="0.25"/>h after probe incubation and are presented in <ce:float-anchor refid="f0020"/>
+                        <ce:cross-ref id="cr0225" refid="f0020">Fig. 4</ce:cross-ref>. Accordingly, it is found that the intracellular uptake starts when fMWCNTs get access to HeLa cells and quite few particles penetrate into cells within 2<ce:hsp sp="0.25"/>h period. With incubation time increased from 2<ce:hsp sp="0.25"/>h to 6<ce:hsp sp="0.25"/>h (<ce:cross-ref id="cr0230" refid="f0020">Fig. 4</ce:cross-ref>B) and finally to 24<ce:hsp sp="0.25"/>h (<ce:cross-ref id="cr0235" refid="f0020">Fig. 4</ce:cross-ref>C), the amount of intracellular fMWCNTs gradually outweighs those extracellular ones and almost all of them are restrained in the cytoplasm region after 24<ce:hsp sp="0.25"/>h, in consistent with the real time monitoring achieved from <ce:cross-ref id="cr0240" refid="f0015">Fig. 3</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0040" view="all">
+                     <ce:label>3.5</ce:label>
+                     <ce:section-title id="sect0055">DOX loading and extracellular release from nanocarrier</ce:section-title>
+                     <ce:para id="p0115" view="all">For drug delivery, a commonly anticancer agent DOX is chosen by conjugating DOX onto the surface of fMWCNTs via pH-dependent π–π stacking (<ce:cross-refs id="crs0070" refid="bib1 bib37">Ali-Boucetta et al., 2008; Zhang et al., 2009</ce:cross-refs>).The absorption spectrum of DOX loaded fMWCNTs is shown in <ce:cross-ref id="cr0245" refid="s0055">Fig. S6A</ce:cross-ref>, the typical DOX absorption peak also emerge in DOX loaded fMWCNTs but red-shift from 488<ce:hsp sp="0.25"/>nm to around 550<ce:hsp sp="0.25"/>nm compared with free DOX sample, indicating the loading of DOX onto fMWCNTs. <ce:cross-ref id="cr0250" refid="s0055">Fig. S6B</ce:cross-ref> presents fluorescence of these two samples. After been loaded, the fluorescent of DOX is quenched due to Forster resonance energy transfer between DOX and fMWCNTs. This fluorescent quenching also proves that DOX has been loaded onto the surface of fMWCNTs (<ce:cross-refs id="crs0075" refid="bib22 bib23">Qian et al., 2014a, b</ce:cross-refs>).The SERS spectra of nanocarriers with or without DOX are also given in <ce:cross-ref id="cr0255" refid="s0055">Fig. S6C</ce:cross-ref>. Compared with SERS spectrum of fMWCNTs, two new bands at 452<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−</ce:sup>
+                        <ce:sup loc="post">1</ce:sup> and 1261<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> emerge after DOX loading, which are in consistent with characteristic SERS spectrum of DOX (<ce:cross-refs id="crs0080" refid="bib10 bib19 bib36">Huang et al., 2013; Nabiev et al., 1991; Yang et al., 2014</ce:cross-refs>). In this experiment, the weight percentage of DOX loaded on MWCNTs could reach above 90% when 0.5<ce:hsp sp="0.25"/>mg MWCNTs was loaded with 0.5<ce:hsp sp="0.25"/>mg DOX.</ce:para>
+                     <ce:para id="p0120" view="all">In order to realize pH-responsive DOX release process, two PBS buffer solutions at pH=5.0 and pH=7.4 are served as solvent to prove that DOX could be released from fMWCNTs via pH-responsive π–π stacking interaction under acidic conditions (<ce:cross-ref id="cr0260" refid="bib12">Kang et al., 2012</ce:cross-ref>). <ce:cross-ref id="cr0265" refid="s0055">Fig. S7</ce:cross-ref> shows the time-dependent DOX release from nanocarrier at different pH buffer solutions. By measuring the UV–vis absorption of DOX in dialysate, it turns out that most DOX are still attached to the surface of fMWCNTs and only less than 5% of DOX are released from the fMWCNTs in pH=7.4 PBS buffer solution even after 48<ce:hsp sp="0.25"/>h. However, when the pH of the buffer solution was adjusted to 5.0, the percentage of DOX released from fMWCNTs sharply increases to about 30% within 10<ce:hsp sp="0.25"/>h.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0045" view="all">
+                     <ce:label>3.6</ce:label>
+                     <ce:section-title id="sect0060">Intracellular tracking drug release from nanocarrier and the cytotoxicity in vitro</ce:section-title>
+                     <ce:para id="p0125" view="all">For further portraying and understanding of intracellular DOX release of the fMWCNTs-DOX, HeLa cells are cultured with this fMWCNTs-DOX and monitored under a confocal laser scanning microscope for 6<ce:hsp sp="0.25"/>h. Considering that the DOX fluorescence is at around 580<ce:hsp sp="0.25"/>nm, a green emissive dye is used to stain lysosomes after HeLa cells being incubated with fMWCNTs-DOX. We note that when DOX is released from the fMWCNTs, the quenched fluorescent emission of DOX will recover. Therefore, DOX release can be monitored from its fluorescent signals. Thus, an integration of fluorescence and SERS information of both stained lysosomes and DOX could reflect the dynamic DOX release process within 6<ce:hsp sp="0.25"/>h time range. In brief, during a certain time period, for instance 1<ce:hsp sp="0.25"/>h, 2<ce:hsp sp="0.25"/>h and 6<ce:hsp sp="0.25"/>h in our situation, all three signals match well with each other in <ce:float-anchor refid="f0025"/>
+                        <ce:cross-ref id="cr0270" refid="f0025">Fig. 5</ce:cross-ref>D, I, N respectively, indicating that DOX release do take place in lysosomes. In time change, a comparison between every column images of a certain measurement (fluorescence of DOX and dye, SERS of 4MBA) reveals the evolution of DOX release. As more and more nanocarriers enter and DOX release proceeds, the sharp edge of lysosomes inside HeLa cells are well defined from the fluorescence and SERS signals and overlap with images from bright field microscopy. After 1<ce:hsp sp="0.25"/>h incubation as shown in <ce:cross-ref id="cr0275" refid="f0025">Fig. 5</ce:cross-ref>A–E, the fMWCNTs-DOX have not internalized into the cells. Only a few nanocarriers went inside the cells,so less DOX was released from MWCNTs, and a weak red fluorescence appeared near the location of nanocarriers. Then after 2<ce:hsp sp="0.25"/>h incubation as shown in <ce:cross-ref id="cr0280" refid="f0025">Fig. 5</ce:cross-ref>F–J, the number of nanocarriers inside cells was increased and SERS signals overlaped with the green fluorescence of the lysosome. Meanwhile, more fluorescence of DOX appeared inside cells which indicated that more free DOX were released from the fMWCNTs-DOX. As shown in <ce:cross-ref id="cr0285" refid="f0025">Fig. 5</ce:cross-ref>K–O, when the nanocarriers were incubated with cells for 6<ce:hsp sp="0.25"/>h, a higher SERS intensity of the nanocarriers was observed inside the cytoplasm, and almost the whole cell was stained red due to the fluorescence of DOX. This means that after incubation for 6<ce:hsp sp="0.25"/>h, the SERS intensity of nanocarriers gradually increased. Red fluorescence of DOX was also increased because more free DOX were released from fMWCNTs inside the lysosomes under acidic environment, and the release DOX molecules entered into the cytoplasm. These results are partially consistent with the previous reports of CNT-based drug delivery system (<ce:cross-ref id="cr0290" refid="bib17">Liu et al., 2009</ce:cross-ref>).</ce:para>
+                     <ce:para id="p0130" view="all">Finally, viability of HeLa cell is investigated by MTT assay. As shown in <ce:cross-ref id="cr0295" refid="s0055">Fig. S8</ce:cross-ref>, the fMWCNTs without DOX shows no obvious cytotoxicity to HeLa cells even at a relatively high concentration of 5<ce:hsp sp="0.25"/>μg/mL. However, after DOX loading, the viability of HeLa cells is effectively reduced to about 50% after 24<ce:hsp sp="0.25"/>h. Considering that the fMWCNTs have a good biocompatibility, this reduction in viability is obviously attributed to the DOX released into HeLa cells. Therefore, we conclude that this probe have a great potential in drug delivery and related optical studies.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0050" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0065">Conclusions</ce:section-title>
+                  <ce:para id="p0135" view="all">We have fabricated a multifunctional fMWCNTs which shows excellent performance in monitoring nanocarrier endocytosis dynamics and drug release process. The fMWCNTs has favorable SERS-fluorescence signals under laser excitation inside cells. The combined SERS-fluorescence spectroscopy obtained demonstrate that during DOX delivery and release, DOX pre-loaded on as-prepared fMWCNTs is released inside lysosomes and finally moves into the nucleus, while fMWCNTs are still inside the lysosomes. Besides the SERS-fluorescence image tracing, pH-dependent 4MBA molecules are chosen to functionalize the MWCNTs with additional pH sensitivity. Our results have proved that SERS signals of fMWCNTs are capable of detecting pH variation during intracellular process such as endocytosis. Therefore, we have developed a real-time technique to monitor the distribution of fMWCNTs in cells and the uptake pathway by 2D pH related signal intensity ratio mapping. We anticipate that this fMWCNTs have certain potential applications in optical imaging, biosensing and controllable drug delivery in cancer therapy.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0070">Acknowledgments</ce:section-title>
+               <ce:para id="p0140" view="all">This work is supported by the <ce:grant-sponsor id="gs1" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">National Key Basic Research Program of China</ce:grant-sponsor> (Grant no. <ce:grant-number refid="gs1">2015CB352002</ce:grant-number>), the <ce:grant-sponsor id="gs2" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">Excellent Youth Foundation of Jiangsu Province</ce:grant-sponsor> (<ce:grant-number refid="gs2">BK20140023</ce:grant-number>), the <ce:grant-sponsor xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" id="gs3" xlink:type="simple">National Natural Science Foundation of China</ce:grant-sponsor> (NSFC) (Nos. <ce:grant-number refid="gs3">61535003</ce:grant-number>, <ce:grant-number refid="gs3">61275182</ce:grant-number>, <ce:grant-number refid="gs3">61177033</ce:grant-number>, <ce:grant-number refid="gs3">61505027</ce:grant-number>), <ce:grant-sponsor id="gs4" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">The Innovation Fund of School of Electronic Science and Engineering</ce:grant-sponsor>, Southeast University (<ce:grant-number refid="gs4">2242015KD002</ce:grant-number>), <ce:grant-sponsor id="gs5" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">Science Foundation for The Excellent Youth Scholars of Southeast University</ce:grant-sponsor>, the <ce:grant-sponsor id="gs6" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">Scientific Research Foundation of Graduate School of Southeast University</ce:grant-sponsor>.</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="s0055" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sect0075">Supplementary material</ce:section-title>
+                  <ce:para id="p0145" view="all">Supplementary data associated with this article can be found in the online version at <ce:inter-ref id="ir0005" xlink:href="http://dx.doi.org/10.1016/j.bios.2015.09.002" xlink:type="simple">doi:10.1016/j.bios.2015.09.002</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="s0060" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sect0080">Supplementary material</ce:section-title>
+                  <ce:para id="p0150" view="all">
+                     <ce:display>
+                        <ce:e-component id="ec0005">
+                           <ce:caption id="cap0035">
+                              <ce:simple-para id="sp0045" view="all">Supplementary material</ce:simple-para>
+                           </ce:caption>
+                           <ce:link xlink:type="simple" id="lk0035" locator="mmc1" xlink:href="pii:S0956566315303985/mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibliog0005" view="all">
+               <ce:section-title id="sect0085">References</ce:section-title>
+               <ce:bibliography-sec id="bb0005" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>Ali-Boucetta et al., 2008</ce:label>
+                     <sb:reference id="sbref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ali-Boucetta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.T.</ce:given-name>
+                                 <ce:surname>Al-Jamal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>McCarthy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Prato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bianco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kostarelos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>459</sb:first-page>
+                              <sb:last-page>461</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>Berlin et al., 2011</ce:label>
+                     <sb:reference id="sbref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Berlin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Pham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Sano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Mohamedali</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Marcano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.N.</ce:given-name>
+                                 <ce:surname>Myers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Tour</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Nano</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6643</sb:first-page>
+                              <sb:last-page>6650</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>Bianco et al., 2005</ce:label>
+                     <sb:reference id="sbref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bianco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kostarelos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.D.</ce:given-name>
+                                 <ce:surname>Partidos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Prato</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>571</sb:first-page>
+                              <sb:last-page>577</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>Chen et al., 2013</ce:label>
+                     <sb:reference id="sbref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Q.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Zong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Talanta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>116</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>978</sb:first-page>
+                              <sb:last-page>984</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>Correa-Duarte et al., 2004</ce:label>
+                     <sb:reference id="sbref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Correa-Duarte</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Sobal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Liz-Marzan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Giersig</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>23–24</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2179</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>Grzelczak et al., 2007</ce:label>
+                     <sb:reference id="sbref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Grzelczak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Correa-Duarte</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Salgueirino-Maceira</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Rodriguez-Gonzalez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Rivas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Liz-Marzan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. – Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>37</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7026</sb:first-page>
+                              <sb:last-page>7030</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>Gu et al., 2011</ce:label>
+                     <sb:reference id="sbref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Gu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.T.</ce:given-name>
+                                 <ce:surname>Wong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Nanomed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2889</sb:first-page>
+                              <sb:last-page>2898</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>Herrero et al., 2011</ce:label>
+                     <sb:reference id="sbref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Herrero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Lacerda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bianco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kostarelos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Prato</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Nanotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10–12</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>885</sb:first-page>
+                              <sb:last-page>897</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>Herrero et al., 2009</ce:label>
+                     <sb:reference id="sbref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Herrero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.M.</ce:given-name>
+                                 <ce:surname>Toma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.T.</ce:given-name>
+                                 <ce:surname>Al-Jamal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kostarelos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bianco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Da Ros</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Bano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Casalis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Scoles</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Prato</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>131</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>28</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9843</sb:first-page>
+                              <sb:last-page>9848</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>Huang et al., 2013</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Cao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>21</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10591</sb:first-page>
+                              <sb:last-page>10598</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>Jiang et al., 2003</ce:label>
+                     <sb:reference id="sbref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.Y.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Eitan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.S.</ce:given-name>
+                                 <ce:surname>Schadler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Ajayan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.W.</ce:given-name>
+                                 <ce:surname>Siegel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Grobert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mayne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Reyes-Reyes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Terrones</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Terrones</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>275</sb:first-page>
+                              <sb:last-page>277</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>Kang et al., 2012</ce:label>
+                     <sb:reference id="sbref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Q.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.Z.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.D.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Small</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>777</sb:first-page>
+                              <sb:last-page>782</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>Kostarelos et al., 2009</ce:label>
+                     <sb:reference id="sbref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kostarelos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bianco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Prato</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Nanotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>627</sb:first-page>
+                              <sb:last-page>633</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>Kwon et al., 1994</ce:label>
+                     <sb:reference id="sbref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Kwon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Son</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Ahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>34</sb:issue-nr>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8481</sb:first-page>
+                              <sb:last-page>8487</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>Liu et al., 2011</ce:label>
+                     <sb:reference id="sbref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.F.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.L.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.Q.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. – Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>891</sb:first-page>
+                              <sb:last-page>895</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>Liu et al., 2007</ce:label>
+                     <sb:reference id="sbref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.M.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Nakayama-Ratchford</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Nano</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>50</sb:first-page>
+                              <sb:last-page>56</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>Liu et al., 2009</ce:label>
+                     <sb:reference id="sbref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.C.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Rakhra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sherlock</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Goodwin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.W.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Felsher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. – Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>41</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7668</sb:first-page>
+                              <sb:last-page>7672</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>Lu et al., 2012</ce:label>
+                     <sb:reference id="sbref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.C.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.C.M.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Colloids Surf. B – Biointerfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>9</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>Nabiev et al., 1991</ce:label>
+                     <sb:reference id="sbref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.R.</ce:given-name>
+                                 <ce:surname>Nabiev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Morjani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Manfait</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Eur. Biophys. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>311</sb:first-page>
+                              <sb:last-page>316</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>Nair et al., 2014</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.V.</ce:given-name>
+                                 <ce:surname>Nair</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Nagaoka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Maekawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Sakthikumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Jayasree</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Small</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>14</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2771</sb:first-page>
+                              <sb:last-page>2775</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>Pallaoro et al., 2010</ce:label>
+                     <sb:reference id="sbref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Pallaoro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.B.</ce:given-name>
+                                 <ce:surname>Braun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.O.</ce:given-name>
+                                 <ce:surname>Reich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Moskovits</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Small</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>618</sb:first-page>
+                              <sb:last-page>622</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>Qian et al., 2014a</ce:label>
+                     <sb:reference id="sbref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.S.</ce:given-name>
+                                 <ce:surname>Qian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Shan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Chai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>64</sb:first-page>
+                              <sb:last-page>70</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>Qian et al., 2014b</ce:label>
+                     <sb:reference id="sbref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.S.</ce:given-name>
+                                 <ce:surname>Qian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Shan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Chai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5671</sb:first-page>
+                              <sb:last-page>5674</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>Ren et al., 2012</ce:label>
+                     <sb:reference id="sbref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.J.</ce:given-name>
+                                 <ce:surname>Xi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.R.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Q.</ce:given-name>
+                                 <ce:surname>Pang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Qian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.G.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biomaterials</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3324</sb:first-page>
+                              <sb:last-page>3333</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>Samori et al., 2010</ce:label>
+                     <sb:reference id="sbref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Samori</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ali-Boucetta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Sainz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.M.</ce:given-name>
+                                 <ce:surname>Toma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Fabbro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>da Ros</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Prato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kostarelos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bianco</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1494</sb:first-page>
+                              <sb:last-page>1496</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>Singhal et al., 2011</ce:label>
+                     <sb:reference id="sbref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Singhal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Orynbayeva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.V.K.</ce:given-name>
+                                 <ce:surname>Sundaram</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Niu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bhattacharyya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Vitol</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.G.</ce:given-name>
+                                 <ce:surname>Schrlau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.S.</ce:given-name>
+                                 <ce:surname>Papazoglou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Friedman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Gogotsi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Nanotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>57</sb:first-page>
+                              <sb:last-page>64</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>Song et al., 2009</ce:label>
+                     <sb:reference id="sbref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.Y.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.B.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>826</sb:first-page>
+                              <sb:last-page>831</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>Talley et al., 2004</ce:label>
+                     <sb:reference id="sbref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Talley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Jusinski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Hollars</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Lane</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Huser</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>23</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7064</sb:first-page>
+                              <sb:last-page>7068</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>Timko et al., 2010</ce:label>
+                     <sb:reference id="sbref29">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.P.</ce:given-name>
+                                 <ce:surname>Timko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Dvir</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.S.</ce:given-name>
+                                 <ce:surname>Kohane</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>44</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4925</sb:first-page>
+                              <sb:last-page>4943</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>Wang et al., 2012</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.T.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>134</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>17</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7414</sb:first-page>
+                              <sb:last-page>7422</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>Wang et al., 2008</ce:label>
+                     <sb:reference id="sbref31">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bonoiu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Samoc</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.N.</ce:given-name>
+                                 <ce:surname>Prasad</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>886</sb:first-page>
+                              <sb:last-page>891</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib32">
+                     <ce:label>Wang et al., 2011</ce:label>
+                     <sb:reference id="sbref32">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Zong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2883</sb:first-page>
+                              <sb:last-page>2889</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib33">
+                     <ce:label>Wang et al., 2015</ce:label>
+                     <sb:reference id="sbref33">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Q.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Zong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Talanta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>131</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>259</sb:first-page>
+                              <sb:last-page>265</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib34">
+                     <ce:label>Wu et al., 2014</ce:label>
+                     <sb:reference id="sbref34">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.X.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Q.</ce:given-name>
+                                 <ce:surname>Hao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biomaterials</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>20</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5369</sb:first-page>
+                              <sb:last-page>5380</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib35">
+                     <ce:label>Wu et al., 2005</ce:label>
+                     <sb:reference id="sbref35">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wieckowski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Pastorin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Benincasa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Klumpp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Briand</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Gennaro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Prato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bianco</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. – Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>39</sb:issue-nr>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6358</sb:first-page>
+                              <sb:last-page>6362</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib36">
+                     <ce:label>Yang et al., 2014</ce:label>
+                     <sb:reference id="sbref36">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Zong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>82</sb:first-page>
+                              <sb:last-page>89</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib37">
+                     <ce:label>Zhang et al., 2009</ce:label>
+                     <sb:reference id="sbref37">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.K.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.H.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.F.</ce:given-name>
+                                 <ce:surname>Fei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Dyson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biomaterials</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>30</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6041</sb:first-page>
+                              <sb:last-page>6047</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib38">
+                     <ce:label>Zhao et al., 2008</ce:label>
+                     <sb:reference id="sbref38">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shingaya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Tomimoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Nakayama</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>40</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4759</sb:first-page>
+                              <sb:last-page>4761</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib39">
+                     <ce:label>Zhu et al., 2014</ce:label>
+                     <sb:reference id="sbref39">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Zong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.W.</ce:given-name>
+                                 <ce:surname>Pei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Q.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>A Nanoscale</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>14</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8155</sb:first-page>
+                              <sb:last-page>8161</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib40">
+                     <ce:label>Zong et al., 2013</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Zong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Small</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>24</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4215</sb:first-page>
+                              <sb:last-page>4220</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib41">
+                     <ce:label>Zong et al., 2012</ce:label>
+                     <sb:reference id="sbref41">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Zong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Talanta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>368</sb:first-page>
+                              <sb:last-page>375</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

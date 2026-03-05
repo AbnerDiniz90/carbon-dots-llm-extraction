@@ -1,0 +1,48 @@
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition": "Fluorescent carbon dots synthesized from Prunus cerasifera fruits that  could be potentially applied in the field of fluorescent ink, ion detection, and imaging",
+            "iupac_name": null,
+            "alternative_names": ["CDs", "Carbon dots"]
+        },
+        "synthesis": {
+            "method": {"type": "Hydrothermal", "conditions": "25mL sarcocarp juice heated at 200°C for 20 h in a Teflon-lined stainless steel autoclave", "catalysts": null},
+            "precursors": {"source": ["Prunus cerasifera fruits (sarcocarp juice)"], "dopants": "[MISSING]"},
+            "post_treatment": ["Filtration (0.22 μm membrane)", "Purification by Sephadex G-25 gel filtration chromatography (water eluent)", "Lyophilization"]
+        },
+        "properties": {
+            "optical": {
+                "quantum_yield": {"value": "[MISSING]", "reference_material": "[MISSING]"},
+                "excitation_max": "360 nm",
+                "emission_max": "450 nm",
+                "fluorescence_lifetime": null
+            },
+            "structural": {
+                "size": {"avg": "diameter 1-8nm", "distribution": "3-5nm"},
+                "morphology": "near-spherical and well separated.",
+                "crystallinity": "[MISSING]"
+            },
+            "chemical": {
+                "surface_groups": ["O-H", "N-H", "C-H", "C=O", "C=C", "C=N", "ether linkage"],
+                "elemental_composition": {"C": "76.25%", "N": "4.57%", "O": "21.18%"}
+            }
+        },
+        "applications": [
+            {
+                "domain": "Fluorescent Ink",
+                "performance": "CDs aqueous solution used as invisible ink; written letters show bright blue fluorescence under UV (365 nm) and are colorless under daylight.",
+                "comparative_advantage": "Clear, permanent, pollution-free, biocompatible, easily washable; suitable for anti-counterfeit applications."
+            },
+            {
+                "domain": "Ion Sensing (Fe3+)",
+                "performance": "Quench of CDs was linearly related to the concentration of Fe3+ion in the range of 0-0.5 mM and Fe3+ concentration (R^2 = 0.9973).",
+                "comparative_advantage": "High selectivity selectively quenched by Fe3+ ion.  The sensor might be useful for detection of Fe3+ ions from industrial waste."
+            },
+            {
+                "domain": "Cell Imaging",
+                "performance": "High cell viability 90% at concentrations of CDs below to 500 μg/mL; HepG2 cells incubated with 350 μg/mL CDs under 405 nm and 488 nm excitation.",
+                "comparative_advantage": "Derived from a natural product, green synthesis, low toxicity, good biocompatibility, multicolor fluorescence in cells."
+            }
+        ]
+    }
+}

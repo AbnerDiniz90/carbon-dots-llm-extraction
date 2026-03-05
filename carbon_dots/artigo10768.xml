@@ -1,0 +1,2814 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0301010416300271</prism:url><dc:identifier>doi:10.1016/j.chemphys.2016.05.011</dc:identifier><eid>1-s2.0-S0301010416300271</eid><prism:doi>10.1016/j.chemphys.2016.05.011</prism:doi><pii>S0301-0104(16)30027-1</pii><dc:title>Potential energy surface of excited semiconductors: Graphene quantum dot and BODIPY </dc:title><prism:publicationName>Chemical Physics</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>03010104</prism:issn><prism:volume>474</prism:volume><prism:startingPage>1</prism:startingPage><prism:endingPage>6</prism:endingPage><prism:pageRange>1-6</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2016-08-02</prism:coverDate><prism:coverDisplayDate>2 August 2016</prism:coverDisplayDate><prism:copyright>© 2016 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Colherinhas, Guilherme</dc:creator><dc:creator>Fileti, Eudes Eterno</dc:creator><dc:creator>Chaban, Vitaly V.</dc:creator><dc:description>
+                  Binding energy (BE) is an important descriptor in chemistry, which determines thermodynamics and phase behavior of a given substance. BE between two molecules is not directly accessible from the experiment. It has to be reconstructed from cohesive energies, vaporization heats, etc. We report BE for the excited states of two semiconductor molecules – boron-dipyrromethene (BODIPY) and graphene quantum dot (GQD) – with water. We show, for the first time, that excitation increases BE twofold at an optimal separation (energy minimum position), whereas higher separations lead to higher differences. Interestingly, the effects of excitation are similar irrespective of the dominant binding interactions (van der Waals or electrostatic) in the complex. This new knowledge is important for simulations of the excited semiconductors by simplified interaction functions.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Graphene</dcterms:subject><dcterms:subject>BODIPY</dcterms:subject><dcterms:subject>Water</dcterms:subject><dcterms:subject>Binding energy</dcterms:subject><dcterms:subject>TDDFT</dcterms:subject><dcterms:subject>Excited states</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0301010416300271" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0301010416300271" rel="scidir"/></coredata><objects><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="133" height="164" size="20061">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="112" size="12524">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="154" size="15903">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="53" size="8536">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="152" size="14395">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="74" size="10469">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="93" size="8256">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="68" size="11373">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="489" height="602" size="98783">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="733" height="374" size="68688">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="333" height="235" size="27966">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="733" height="177" size="37506">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="334" height="231" size="24946">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="538" height="182" size="32874">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="470" height="200" size="30019">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="489" height="151" size="27023">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1732" height="2131" size="389418">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2598" height="1327" size="291727">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1181" height="832" size="97284">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2598" height="626" size="167578">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1184" height="820" size="83699">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1906" height="645" size="119059">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1248" height="531" size="92419">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1732" height="536" size="99066">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="25481">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="34" height="20" size="321">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="98" height="16" size="446">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="171" height="15" size="625">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="69" height="15" size="402">https://api.elsevier.com/content/object/eid/1-s2.0-S0301010416300271-si4.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>84966731056</scopus-id><scopus-eid>2-s2.0-84966731056</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84966731056" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271366</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Physics</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALPHYSICS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160510">2016-05-10</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160510">2016-05-10</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160512">2016-05-12</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160512">2016-05-12</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2017-02-02T06:15:44</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0301010416300271</xocs:eid>
+      <xocs:pii-formatted>S0301-0104(16)30027-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0301010416300271</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.chemphys.2016.05.011</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0301010416X00080</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20170202">2017-02-02T01:21:22.95102-05:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160802</xocs:date-search-begin>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1462846538">2016-05-10T02:15:38.17952Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body mmlmath acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantsponsor grantsponsorid primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0301-0104</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03010104</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>474</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>474</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 474</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>3</xocs:sort-order>
+      <xocs:first-fp>1</xocs:first-fp>
+      <xocs:last-lp>6</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1</xocs:first-page>
+         <xocs:last-page>6</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20160802</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2 August 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-08-02</xocs:cover-date-start>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2016 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>POTENTIALENERGYSURFACEEXCITEDSEMICONDUCTORSGRAPHENEQUANTUMDOTBODIPY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>COLHERINHAS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>G</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Methods</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>CAZORLA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>155454</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>CHO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2090</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>DING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15127</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>HARDCASTLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>195430</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>HERBIG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>085429</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>KHOSRAVI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2230</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>MA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>921</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>ORELLANA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>47</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>SAFFARZADEH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>114309</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>SZAKACS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>13654</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>WOOD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>054702</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>LONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1616</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>RAPAPORT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ARTMOLECULARDYNAMICSSIMULATION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>AGUIAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10790</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>AO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>074307</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>ASHRAFIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1105</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>337</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0090">
+            <xocs:ref-normalized-surname>SKARDI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>44</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>21126</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3501</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>043901</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0110">
+            <xocs:ref-normalized-surname>DENIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3271</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0115">
+            <xocs:ref-normalized-surname>DENIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7568</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>MALYI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>235</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0125">
+            <xocs:ref-normalized-surname>VOLOSHINA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12041</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0130">
+            <xocs:ref-normalized-surname>RUBES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1868</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0135">
+            <xocs:ref-normalized-surname>PUTUNGAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11367</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0140">
+            <xocs:ref-normalized-surname>VANHEMERT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6354</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0145">
+            <xocs:ref-normalized-surname>DUCHSTEIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2479</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0150">
+            <xocs:ref-normalized-surname>SONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4091</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0155">
+            <xocs:ref-normalized-surname>OHNO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>409</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0160">
+            <xocs:ref-normalized-surname>BECKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3098</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0165">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>785</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0170">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>835</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0175">
+            <xocs:ref-normalized-surname>STRATMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8218</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0180">
+            <xocs:ref-normalized-surname>GRIMME</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1787</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0185">
+            <xocs:ref-normalized-surname>GRIMME</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>154104</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0190">
+            <xocs:ref-normalized-surname>CHABAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15739</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>COLHERINHASX2016X1</xocs:refkey3>
+         <xocs:refkey4lp>COLHERINHASX2016X1X6</xocs:refkey4lp>
+         <xocs:refkey4ai>COLHERINHASX2016X1XG</xocs:refkey4ai>
+         <xocs:refkey5>COLHERINHASX2016X1X6XG</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2018-05-12T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2016 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0301-0104(16)30027-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0301010416300271</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0301010416300271</xocs:eid>
+         <xocs:doi>10.1016/j.chemphys.2016.05.011</xocs:doi>
+         <xocs:cid>271366</xocs:cid>
+         <xocs:timestamp>2017-02-02T01:21:22.95102-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2016-08-02</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/MAIN/application/pdf/3bf4bf8487bb563349c0ab5a2fdda155/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/MAIN/application/pdf/3bf4bf8487bb563349c0ab5a2fdda155/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1538427</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0301010416300271-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/PREVIEW/image/png/98bec8da00507c070b8e2b9a4d646d2e/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/PREVIEW/image/png/98bec8da00507c070b8e2b9a4d646d2e/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>55677</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr2/THUMBNAIL/image/gif/61f5383070f947f059c11fd14e3153df/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr2/THUMBNAIL/image/gif/61f5383070f947f059c11fd14e3153df/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>20061</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>133</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr3/THUMBNAIL/image/gif/884156455694cabc59295cad8135e252/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr3/THUMBNAIL/image/gif/884156455694cabc59295cad8135e252/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12524</xocs:filesize>
+               <xocs:pixel-height>112</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr4/THUMBNAIL/image/gif/30fc4e7f635c458dbddda3b9baa62943/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr4/THUMBNAIL/image/gif/30fc4e7f635c458dbddda3b9baa62943/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15903</xocs:filesize>
+               <xocs:pixel-height>154</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr5/THUMBNAIL/image/gif/d44d1a057742c9640c4548a2a3af7b61/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr5/THUMBNAIL/image/gif/d44d1a057742c9640c4548a2a3af7b61/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8536</xocs:filesize>
+               <xocs:pixel-height>53</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr6/THUMBNAIL/image/gif/4dab86aa8fcadaf912c494f35dfcd331/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr6/THUMBNAIL/image/gif/4dab86aa8fcadaf912c494f35dfcd331/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14395</xocs:filesize>
+               <xocs:pixel-height>152</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr7/THUMBNAIL/image/gif/3ffca6aa7a95629ab299a21e9432d694/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr7/THUMBNAIL/image/gif/3ffca6aa7a95629ab299a21e9432d694/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10469</xocs:filesize>
+               <xocs:pixel-height>74</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/fx1/THUMBNAIL/image/gif/4abbc8544fdda7a892de825d503f85b9/fx1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/fx1/THUMBNAIL/image/gif/4abbc8544fdda7a892de825d503f85b9/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8256</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr1/THUMBNAIL/image/gif/1940ce820838d4f6c0fab56e6943f99d/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr1/THUMBNAIL/image/gif/1940ce820838d4f6c0fab56e6943f99d/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11373</xocs:filesize>
+               <xocs:pixel-height>68</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr2/DOWNSAMPLED/image/jpeg/2c8e0a457f790097455502ce7ab1283f/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr2/DOWNSAMPLED/image/jpeg/2c8e0a457f790097455502ce7ab1283f/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>98783</xocs:filesize>
+               <xocs:pixel-height>602</xocs:pixel-height>
+               <xocs:pixel-width>489</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr3/DOWNSAMPLED/image/jpeg/4d72f59c52fcae22c3ef44b2ed464d6e/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr3/DOWNSAMPLED/image/jpeg/4d72f59c52fcae22c3ef44b2ed464d6e/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>68688</xocs:filesize>
+               <xocs:pixel-height>374</xocs:pixel-height>
+               <xocs:pixel-width>733</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr4/DOWNSAMPLED/image/jpeg/b852da9bc1186ddaa9e36d8b8f013006/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr4/DOWNSAMPLED/image/jpeg/b852da9bc1186ddaa9e36d8b8f013006/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>27966</xocs:filesize>
+               <xocs:pixel-height>235</xocs:pixel-height>
+               <xocs:pixel-width>333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr5/DOWNSAMPLED/image/jpeg/76061a3291930c3c2fc85d7fd0bdb9f5/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr5/DOWNSAMPLED/image/jpeg/76061a3291930c3c2fc85d7fd0bdb9f5/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>37506</xocs:filesize>
+               <xocs:pixel-height>177</xocs:pixel-height>
+               <xocs:pixel-width>733</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr6/DOWNSAMPLED/image/jpeg/a2456eb1a39dd478615e2d443ac82a41/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr6/DOWNSAMPLED/image/jpeg/a2456eb1a39dd478615e2d443ac82a41/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>24946</xocs:filesize>
+               <xocs:pixel-height>231</xocs:pixel-height>
+               <xocs:pixel-width>334</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr7/DOWNSAMPLED/image/jpeg/2abac91516584cc6c6dbbd49df4b5142/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr7/DOWNSAMPLED/image/jpeg/2abac91516584cc6c6dbbd49df4b5142/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32874</xocs:filesize>
+               <xocs:pixel-height>182</xocs:pixel-height>
+               <xocs:pixel-width>538</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/fx1/DOWNSAMPLED/image/jpeg/3ec04087674dcf66d7ae47e77c306d6a/fx1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/fx1/DOWNSAMPLED/image/jpeg/3ec04087674dcf66d7ae47e77c306d6a/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30019</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>470</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr1/DOWNSAMPLED/image/jpeg/b0e3bd7972d63cc4de0835da07b6479d/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr1/DOWNSAMPLED/image/jpeg/b0e3bd7972d63cc4de0835da07b6479d/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>27023</xocs:filesize>
+               <xocs:pixel-height>151</xocs:pixel-height>
+               <xocs:pixel-width>489</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr2/HIGHRES/image/jpeg/2a9d697cf29d848417356ec6614fa051/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr2/HIGHRES/image/jpeg/2a9d697cf29d848417356ec6614fa051/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>389418</xocs:filesize>
+               <xocs:pixel-height>2131</xocs:pixel-height>
+               <xocs:pixel-width>1732</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr3/HIGHRES/image/jpeg/3e5bcd732fc7e2b2a8da2b6c8eb5d3d6/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr3/HIGHRES/image/jpeg/3e5bcd732fc7e2b2a8da2b6c8eb5d3d6/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>291727</xocs:filesize>
+               <xocs:pixel-height>1327</xocs:pixel-height>
+               <xocs:pixel-width>2598</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr4/HIGHRES/image/jpeg/403434a7b2549ffd51492787552df1b2/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr4/HIGHRES/image/jpeg/403434a7b2549ffd51492787552df1b2/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>97284</xocs:filesize>
+               <xocs:pixel-height>832</xocs:pixel-height>
+               <xocs:pixel-width>1181</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr5/HIGHRES/image/jpeg/0da4ad58fb632cbbe731293ce40655f9/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr5/HIGHRES/image/jpeg/0da4ad58fb632cbbe731293ce40655f9/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>167578</xocs:filesize>
+               <xocs:pixel-height>626</xocs:pixel-height>
+               <xocs:pixel-width>2598</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr6/HIGHRES/image/jpeg/f66d9221beb2bf8e4b5506535a223dfe/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr6/HIGHRES/image/jpeg/f66d9221beb2bf8e4b5506535a223dfe/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>83699</xocs:filesize>
+               <xocs:pixel-height>820</xocs:pixel-height>
+               <xocs:pixel-width>1184</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr7/HIGHRES/image/jpeg/1c94496c9a75c79d7fce86867dd70d58/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr7/HIGHRES/image/jpeg/1c94496c9a75c79d7fce86867dd70d58/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>119059</xocs:filesize>
+               <xocs:pixel-height>645</xocs:pixel-height>
+               <xocs:pixel-width>1906</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/fx1/HIGHRES/image/jpeg/10688092a24f4b1ce732b7bf3eae269f/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/fx1/HIGHRES/image/jpeg/10688092a24f4b1ce732b7bf3eae269f/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>92419</xocs:filesize>
+               <xocs:pixel-height>531</xocs:pixel-height>
+               <xocs:pixel-width>1248</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/gr1/HIGHRES/image/jpeg/75755c6eecb7e6466a5ffb7a514ce0fb/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/gr1/HIGHRES/image/jpeg/75755c6eecb7e6466a5ffb7a514ce0fb/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>99066</xocs:filesize>
+               <xocs:pixel-height>536</xocs:pixel-height>
+               <xocs:pixel-width>1732</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/mmc1/MAIN/application/msword/7228925b10a4cc8008b5d4d131981a3c/mmc1.docx</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/mmc1/MAIN/application/msword/7228925b10a4cc8008b5d4d131981a3c/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>25481</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/STRIPIN/image/gif/5f616094013bbdd94d798a28182a11fd/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/STRIPIN/image/gif/5f616094013bbdd94d798a28182a11fd/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>321</xocs:filesize>
+               <xocs:pixel-height>20</xocs:pixel-height>
+               <xocs:pixel-width>34</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/STRIPIN/image/gif/827d0f8f59bef7a496a9df8cd2f54155/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/STRIPIN/image/gif/827d0f8f59bef7a496a9df8cd2f54155/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>446</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>98</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/STRIPIN/image/gif/28e59df71fdafa634b48411fa6eab299/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/STRIPIN/image/gif/28e59df71fdafa634b48411fa6eab299/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>625</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>171</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0301010416300271-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0301010416300271/STRIPIN/image/gif/6023d530f91616c2e62144c26a3388bd/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0301010416300271/STRIPIN/image/gif/6023d530f91616c2e62144c26a3388bd/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>402</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>69</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.4">
+         <item-info>
+            <jid>CHEMPH</jid>
+            <aid>9555</aid>
+            <ce:pii>S0301-0104(16)30027-1</ce:pii>
+            <ce:doi>10.1016/j.chemphys.2016.05.011</ce:doi>
+            <ce:copyright type="full-transfer" year="2016">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0020" view="all">Simulated molecular complexes: (left) H<ce:inf loc="post">2</ce:inf>O@BODIPY and (right) H<ce:inf loc="post">2</ce:inf>O@GQD. The depicted geometries of the complexes were optimized following the evolution of forces acting on each atom.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:href="pii:S0301010416300271/gr1" id="lk00005"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0025" view="all">Selected occupied and unoccupied molecular orbitals of the H<ce:inf loc="post">2</ce:inf>O@BODIPY (left) and H<ce:inf loc="post">2</ce:inf>O@GQD (right) complexes participating in the investigated excited states.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2" xlink:type="simple" xlink:href="pii:S0301010416300271/gr2" id="lk00010"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0020">
+                  <ce:simple-para id="sp0030" view="all">Binding energies keeping the BODIPY molecule and the water molecule together. Comparison between the ground (<ce:italic>N</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0) and the excited (<ce:italic>N</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1–5) states. The energies were normalized per electron. The <ce:italic>N</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>4 state is not depicted, since it involves the electronic excitation of the water molecule.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3" xlink:type="simple" xlink:href="pii:S0301010416300271/gr3" id="lk00015"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cn0025">
+                  <ce:simple-para id="sp0035" view="all">Binding energies keeping the BODIPY molecule and the water molecule together. Differences between the ground state and the excited states are given in percents.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4" xlink:type="simple" xlink:href="pii:S0301010416300271/gr4" id="lk00020"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cn0030">
+                  <ce:simple-para id="sp0040" view="all">Binding energies keeping the GQD and the water molecule together in the ground (<ce:italic>N</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0) and excited (<ce:italic>N</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>3–4) states. The energies were normalized per electron.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5" xlink:type="simple" xlink:href="pii:S0301010416300271/gr5" id="lk00025"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cn0035">
+                  <ce:simple-para id="sp0045" view="all">Differences between the binding energy in the ground state and the binding energy in the excited states of the H<ce:inf loc="post">2</ce:inf>O@GQD complex.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6" xlink:type="simple" xlink:href="pii:S0301010416300271/gr6" id="lk00030"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cn0040">
+                  <ce:simple-para id="sp0050" view="all">(a) Basis set superposition errors in the simulated systems: (a) H<ce:inf loc="post">2</ce:inf>O@BODIPY; (b) H<ce:inf loc="post">2</ce:inf>O@GQD.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7" xlink:type="simple" xlink:href="pii:S0301010416300271/gr7" id="lk00035"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0005" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cn0045">
+                  <ce:simple-para id="sp0055" view="all">Electronic transition energy, electronic transition wave length, and oscillator strength for five electronic transitions for the H<ce:inf loc="post">2</ce:inf>O@BODIPY and H<ce:inf loc="post">2</ce:inf>O@GQD systems. The table, furthermore, compares the correlation-consistent polarized valence-only double-zeta, cc-pVDZ, and the triple-zeta split-valence polarized, 6-311G*, basis sets.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="char" char="."/>
+                  <colspec colname="col3" align="char" char="."/>
+                  <colspec colname="col4" align="char" char="."/>
+                  <colspec colname="col5" align="char" char="."/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Excited state</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Priority contribution</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Transition energy, eV</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Wave length, nm</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Oscillator strength</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col5">H<inf loc="post">2</inf>O@BODIPY<hsp sp="0.25"/>−<hsp sp="0.25"/>B3LYP/cc-pVDZ</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">#1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HOMO<hsp sp="0.25"/>→<hsp sp="0.25"/>LUMO</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.1177</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">397.68</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.3421</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">#2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HOMO-1<hsp sp="0.25"/>→<hsp sp="0.25"/>LUMO</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.4699</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">357.31</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.0051</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">#3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HOMO-2<hsp sp="0.25"/>→<hsp sp="0.25"/>LUMO</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.6615</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">338.62</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.2263</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">#5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HOMO-4<hsp sp="0.25"/>→<hsp sp="0.25"/>LUMO</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.2245</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">237.31</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.0354</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col5">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col5">H<inf loc="post">2</inf>O@GQD<hsp sp="0.25"/>−<hsp sp="0.25"/>B3LYP/cc-pVDZ</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">#3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HOMO-1<hsp sp="0.25"/>→<hsp sp="0.25"/>LUMO+1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." morerows="1">2.8721</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." morerows="1">421.68</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." morerows="1">0.9025</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HOMO<hsp sp="0.25"/>→<hsp sp="0.25"/>LUMO</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">#4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HOMO-1<hsp sp="0.25"/>→<hsp sp="0.25"/>LUMO</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." morerows="1">2.8729</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." morerows="1">432.57</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." morerows="1">0.9054</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HOMO<hsp sp="0.25"/>→<hsp sp="0.25"/>LUMO+1</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col5">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col5">H<inf loc="post">2</inf>O@GQD<hsp sp="0.25"/>−<hsp sp="0.25"/>B3LYP/6-311G*</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">#3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HOMO-1<hsp sp="0.25"/>→<hsp sp="0.25"/>LUMO+1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." morerows="1">2.8893</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." morerows="1">429.11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." morerows="1">0.9044</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HOMO<hsp sp="0.25"/>→<hsp sp="0.25"/>LUMO</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">#4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HOMO-1<hsp sp="0.25"/>→<hsp sp="0.25"/>LUMO</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." morerows="1">2.8901</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." morerows="1">429.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." morerows="1">0.9068</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HOMO<hsp sp="0.25"/>→<hsp sp="0.25"/>LUMO+1</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0010" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cn0050">
+                  <ce:simple-para id="sp0060" view="all">Coefficients <ce:italic>A</ce:italic> and <ce:italic>B</ce:italic> obtained from fitting the BODIPY–water interaction energy curves to theoretical equation <mml:math altimg="si3.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:mi>E</mml:mi>
+                           <mml:mo>=</mml:mo>
+                           <mml:mo>-</mml:mo>
+                           <mml:mi>A</mml:mi>
+                           <mml:mo>×</mml:mo>
+                           <mml:msup>
+                              <mml:mrow>
+                                 <mml:mi>R</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mn>6</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                           <mml:mo>-</mml:mo>
+                           <mml:mi>B</mml:mi>
+                           <mml:mo>×</mml:mo>
+                           <mml:msup>
+                              <mml:mrow>
+                                 <mml:mi>R</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mn>1</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:mrow>
+                     </mml:math>.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="char" char="."/>
+                  <colspec colname="col3" align="char" char="."/>
+                  <colspec colname="col4" align="char" char="."/>
+                  <colspec colname="col5" align="char" char="."/>
+                  <colspec colname="col6" align="char" char="."/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Coefficient</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ground</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>N</italic>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>N</italic>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>N</italic>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>N</italic>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>5</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>A</italic>
+                           <hsp sp="0.25"/>×<hsp sp="0.25"/>10<sup loc="post">−2</sup>
+                           <hsp sp="0.25"/>cal<hsp sp="0.25"/>mol<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.56</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.96</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.65</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.43</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.91</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>B</italic>, cal<hsp sp="0.25"/>mol<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.81</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.31</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.70</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.87</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.39</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Potential energy surface of excited semiconductors: Graphene quantum dot and BODIPY</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005" author-id="S0301010416300271-c913baeafd397d1cdf9fdc20b5be9fc1">
+                  <ce:given-name>Guilherme</ce:given-name>
+                  <ce:surname>Colherinhas</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au010" author-id="S0301010416300271-5d0669fc710662e0428e8d8f1719ec5c">
+                  <ce:given-name>Eudes Eterno</ce:given-name>
+                  <ce:surname>Fileti</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au015" author-id="S0301010416300271-83eef4acf282e25daabf5a7107ffdc9d">
+                  <ce:given-name>Vitaly V.</ce:given-name>
+                  <ce:surname>Chaban</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0020">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Departamento de Física-CEPAE, Universidade Federal de Goiás, 74690-900 Goiânia, Brazil</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Departamento de Física-CEPAE</sa:organization>
+                     <sa:organization>Universidade Federal de Goiás</sa:organization>
+                     <sa:city>74690-900 Goiânia</sa:city>
+                     <sa:country>Brazil</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Instituto de Ciência e Tecnologia, Universidade Federal de São Paulo, 12231-280 São José dos Campos, SP, Brazil</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Instituto de Ciência e Tecnologia</sa:organization>
+                     <sa:organization>Universidade Federal de São Paulo</sa:organization>
+                     <sa:city>12231-280 São José dos Campos</sa:city>
+                     <sa:state>SP</sa:state>
+                     <sa:country>Brazil</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="13" month="1" year="2016"/>
+            <ce:date-accepted day="9" month="5" year="2016"/>
+            <ce:abstract class="graphical" xml:lang="en" id="ab005" view="all">
+               <ce:section-title id="st005">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="as005" view="all">
+                  <ce:simple-para id="sp0005" view="all">Excitation of graphene quantum dot significantly alters its interaction with water.<ce:display>
+                        <ce:figure id="f0040">
+                           <ce:link locator="fx1" xlink:type="simple" xlink:href="pii:S0301010416300271/fx1" id="lk00050"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:abstract class="author" xml:lang="en" id="ab010" view="all"><ce:abstract-sec id="as010" view="all">
+                  <ce:simple-para id="sp0010" view="all">Binding energy (BE) is an important descriptor in chemistry, which determines thermodynamics and phase behavior of a given substance. BE between two molecules is not directly accessible from the experiment. It has to be reconstructed from cohesive energies, vaporization heats, etc. We report BE for the excited states of two semiconductor molecules – boron-dipyrromethene (BODIPY) and graphene quantum dot (GQD) – with water. We show, for the first time, that excitation increases BE twofold at an optimal separation (energy minimum position), whereas higher separations lead to higher differences. Interestingly, the effects of excitation are similar irrespective of the dominant binding interactions (van der Waals or electrostatic) in the complex. This new knowledge is important for simulations of the excited semiconductors by simplified interaction functions.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st015">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Graphene</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>BODIPY</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>Water</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Binding energy</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0025">
+                  <ce:text>TDDFT</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0030">
+                  <ce:text>Excited states</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st020">Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">Binding energy (BE) represents an energy that is required to disassemble the object into components. This quantity is closely related to dissociation energy, which is a work to be performed for separating components by a sufficient distance, so that further separation involves a negligible additional work. A molecular or ionic complex typically possesses a lower potential energy than a sum of its constituent parts. BE is typically a negative value in the units of energy, corresponding to complex in vacuum at zero temperature.</ce:para>
+                  <ce:para id="p0010" view="all">Binding non-covalent energy constitutes an important thermodynamic property, which directly affects phase transition temperatures, transport properties, miscibility of liquids, etc. Binding covalent energy is responsible for molecular stability and reactivity. BE is necessary to characterize multiple physical properties, such as adsorption, solvation, reactivity, and ion cluster formation <ce:cross-refs refid="b0005 b0010 b0015 b0020 b0025 b0030 b0035 b0040 b0045 b0050 b0055 b0060" id="r0005">[1–12]</ce:cross-refs>. BE is routinely employed to develop and validate interaction models for versatile atomically-precise molecular simulations based on the ab initio calculations <ce:cross-ref refid="b0065" id="c0025">[13]</ce:cross-ref>. This calibration procedure is known as energy mapping.</ce:para>
+                  <ce:para id="p0015" view="all">BE can be readily computed from total potential energies of counterparts and a total potential energy of a complex. In turn, total potential energies can be derived from ab initio electronic-structure calculations, e.g. using density functional theory (DFT). If an atom-centered basis set is used, the basis set superposition error (BSSE) must be identified and deducted prior to reporting BE. This is usually done through introduction of ghost atoms. Ghost atoms are computational models, which possess basis functions to describe a particular chemical element, but do not possess appropriate nuclei and electrons. The BE calculations are currently widely used to describe new materials and peculiar non-additive interactions <ce:cross-refs refid="b0055 b0070 b0075 b0080 b0085 b0090 b0095 b0100 b0105" id="r0010">[11,14–21]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0020" view="all">Denis recently employed the dispersion-corrected DFT to investigate addition of aryl radicals to graphene <ce:cross-ref refid="b0110" id="c0030">[22]</ce:cross-ref>. It was shown that addition of aryl groups onto defect sites improves the feasibility of the considered reaction. In particular, binding energies per aryl moiety were increased by −27<ce:hsp sp="0.25"/>kcal<ce:hsp sp="0.25"/>mol<ce:sup loc="post">−1</ce:sup>. The C<ce:inf loc="post">48</ce:inf>H<ce:inf loc="post">12</ce:inf> graphene flakes were used for the calculations with 50<ce:hsp sp="0.25"/>k-points and double-zeta basis set with polarization functions. In another work by this author <ce:cross-ref refid="b0115" id="c0035">[23]</ce:cross-ref>, isolated alkyl radicals were shown to be inefficient for graphene functionalization. A large unfavorable entropic contribution was identified.</ce:para>
+                  <ce:para id="p0025" view="all">Malyi and coworkers <ce:cross-ref refid="b0120" id="c0040">[24]</ce:cross-ref> reported ab initio molecular dynamics (DFT within the generalized gradient approximation) of sodium adsorption and diffusion on ideal graphene considering Na–Na interactions and dispersion forces. The computed binding energy vs. the vacuum reference state, −0.75<ce:hsp sp="0.25"/>eV, appears higher than the cohesive energy of the sodium metal, −1.07<ce:hsp sp="0.25"/>eV. However, if the dispersion correction is included, the binding energy, −1.14<ce:hsp sp="0.25"/>eV, approaches the sodium metal cohesive energy, −1.21<ce:hsp sp="0.25"/>eV. High concentrations of Na result in formation of Na complexes on graphene.</ce:para>
+                  <ce:para id="p0030" view="all">Voloshina and coworkers <ce:cross-ref refid="b0125" id="c0045">[25]</ce:cross-ref> applied the coupled-cluster method to describe water physisorption on the graphene quantum dot (GQD). The authors claim that the accuracy of DFT calculations is mediocre when applied to the cases, in which van der Waals interactions play a major role, such as water and graphene. It was also shown that the circumflex-like orientation of water is more energetically favorable than the caron-like orientation. Atop adsorption site is preferable, whereas the most stable identified structure of the complex exhibits an adsorption energy of −0.135<ce:hsp sp="0.25"/>eV. It has to be noted that the discussed computations used a relatively modest basis set, cc-pVDZ, whereas the post-Hartree–Fock methods are known to be highly sensitive to this factor (in contrast to DFT, for instance). Hydrogen adsorption on graphene and MoS<ce:inf loc="post">2</ce:inf> nanosheets using different implementations of DFT was actively pursued <ce:cross-refs refid="b0005 b0030 b0055 b0130 b0135" id="r0015">[1,6,11,26,27]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0035" view="all">All the above referenced works employ BE in the ground state of the molecules to characterize the physical phenomena of interest. These phenomena are not limited to inter-molecular binding, but comprise it as an elementary event. In turn, our present work reports the excited-state binding. This phenomenon is both practically and fundamentally interesting for the chemical entities that exhibit medium band gaps. These excited-state BEs are difficult to derive from experiments, and we are not aware of any such work. BEs are important to understand how the excited molecules interact with one another and with the ground-state molecules, e.g. water. These data can be used to derive refined empirical force fields for classical molecular dynamics simulations <ce:cross-refs refid="b0140 b0145 b0150 b0155" id="r0020">[28–31]</ce:cross-refs>. We report binding between (1) boron-dipyrromethene (BODIPY) and water and (2) GQD and water. BODIPY and GQD are semiconductor molecules, which can be easily excited. In turn, the water molecule exhibits a large band gap. Note the difference between BODIPY and GQD: the first molecule is polar (4.4<ce:hsp sp="0.25"/>D) exhibiting a dominant dipole–dipole binding to water, whereas the second molecule is non-polar and its binding to water is of van der Waals nature. Using time-dependent hybrid density functional theory (TD-HDFT), we found that BE in the excited states is systematically higher, as compared to BE in the ground state.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st025">Methods</ce:section-title>
+                  <ce:para id="p0040" view="all">Ground and excited states of the two systems: H<ce:inf loc="post">2</ce:inf>O@BODIPY and H<ce:inf loc="post">2</ce:inf>O@GQD (<ce:cross-ref refid="f0005" id="c0050">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/>) were considered. The wave function of each system was found by means of the hybrid density functional theory (HDFT). The Becke-3-Lee-Yang-Parr HDFT functional <ce:cross-refs refid="b0160 b0165" id="r0025">[32,33]</ce:cross-refs> with the cc-pVDZ basis set was employed. The convergence criterion upon the wave function optimization was set to 10<ce:sup loc="post">−6</ce:sup>
+                     <ce:hsp sp="0.25"/>hartree. The geometries of the complexes were optimized by the Berny algorithm using GEDIIS <ce:cross-ref refid="b0170" id="c0055">[34]</ce:cross-ref> in the ground (singlet) state. Five excited states were evaluated by TD-HDFT using a computationally efficient scheme <ce:cross-ref refid="b0175" id="c0060">[35]</ce:cross-ref>. Binding energies were calculated as an energy gain due to a complex formation, <ce:italic>E<ce:inf loc="post">b</ce:inf>
+                     </ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>
+                     <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">12</ce:inf>
+                     <ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>
+                     <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">1</ce:inf>
+                     <ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>
+                     <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">2</ce:inf>
+                     <ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>BSSE, where BSSE stands for the basis set superposition error derived via the counterpoise method. The dispersion correction was applied <ce:cross-refs refid="b0180 b0185" id="r0030">[36,37]</ce:cross-refs>. The potential energy curves were recorded with a step of 0.5<ce:hsp sp="0.25"/>Å starting from the lowest-energy separation. The HDFT and TD-HDFT calculations were performed in Gaussian 09D (<ce:italic>gaussian.com</ce:italic>).</ce:para>
+                  <ce:para id="p0045" view="all">The depicted distances between the interacting molecules correspond to the smallest atom–atom distances after the structures were optimized in the ground state. After geometry relaxation, the separation was changed step-wise and BEs were recorded for the respective excited states. Since orientations of the molecules were obtained as a result of geometry relaxation, the computed BEs are well-defined.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st030">Results and discussion</ce:section-title>
+                  <ce:para id="p0050" view="all">We computed a few excited states to be easily achieved through electronic transitions in the H<ce:inf loc="post">2</ce:inf>O@BODIPY and H<ce:inf loc="post">2</ce:inf>O@GQD systems. <ce:cross-ref refid="t0005" id="c0065">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="t0005"/> summarizes general characteristics of the computed excited states, such as transition energy, wave length, oscillator strength, and priority electronic transitions. We also compared different basis sets and found that cc-pVDZ and 6-311G* give results, whose mutual agreement is not ideal, but acceptable (<ce:cross-ref refid="t0005" id="c0070">Table 1</ce:cross-ref>). Therefore, the cc-pVDZ basis set can be used for our present work to describe relatively large molecules. The numerical parameters of the excited states can be validated through spectroscopic experiments.</ce:para>
+                  <ce:para id="p0055" view="all">The goal of our work is to consider only those excited electronic states, which are localized on the semiconductor particle, i.e. BODIPY and GQD (<ce:cross-ref refid="f0010" id="c0075">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="f0010"/>). All excited electrons, which were found to be localized on the water molecule, were disregarded from subsequent consideration. The first excited states of BODIPY and GQD, as exemplified in <ce:cross-ref refid="t0005" id="c0080">Table 1</ce:cross-ref>, can be obtained by transferring an electron from HOMO-<ce:italic>N</ce:italic>, where <ce:italic>N</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1–4, to LUMO or LUMO+1.</ce:para>
+                  <ce:para id="p0060" view="all">The binding energies differ significantly between the ground state and the excited states (<ce:cross-ref refid="f0015" id="c0085">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="f0015"/>). Furthermore, the binding energy depends on the electronic state being generally higher for a higher excitation energy. Compare 70<ce:hsp sp="0.25"/>cal<ce:hsp sp="0.25"/>mol<ce:sup loc="post">−1</ce:sup> per electron in the ground state in the H<ce:inf loc="post">2</ce:inf>O@BODIPY complex to 150<ce:hsp sp="0.25"/>cal<ce:hsp sp="0.25"/>mol<ce:sup loc="post">−1</ce:sup> in the second excited state with an excitation energy of 3.4699<ce:hsp sp="0.25"/>eV and to 130<ce:hsp sp="0.25"/>cal<ce:hsp sp="0.25"/>mol<ce:sup loc="post">−1</ce:sup> in the third excited state (excitation energy of 3.6615<ce:hsp sp="0.25"/>eV). Therefore, excitation of single BODIPY electron from HOMO-1 to LUMO leads to ca. twofold interaction energy increase. Although the observed BE increase is significantly smaller than the corresponding excitation energy, this increase is meaningful for a non-covalent binding phenomenon between neutral molecules. Many physical chemical properties are determined by inter-molecular binding in their condensed phases, such as melting and boiling temperatures, diffusion and viscosity, local structure and mutual miscibility. Excited molecules are present in certain practically important devices, for instance, solar cells. Knowledge about their interactions with other molecules is, therefore, important from the fundamental and practical perspectives. Relative difference between the ground state and the low-lying excited states increases with the distance increase (<ce:cross-ref refid="f0020" id="c0090">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="f0020"/>). Since inter-molecular binding generally decreases as <mml:math altimg="si1.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:mn>1</mml:mn>
+                           <mml:mo>/</mml:mo>
+                           <mml:msup>
+                              <mml:mrow>
+                                 <mml:mi>R</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mn>6</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:mrow>
+                     </mml:math>, the absolute energy discrepancies decay accordingly.</ce:para>
+                  <ce:para id="p0065" view="all">The largest differences (<ce:cross-ref refid="f0020" id="c0095">Fig. 4</ce:cross-ref>) were found at larger inter-molecular distances, 0.7–0.8<ce:hsp sp="0.25"/>nm, exceeding 3000%. In the case of the fifth excited state, they are even higher, more than 10,000%. The absolute values of BEs are small, though. These observations suggest that potential energy surfaces in the excited states are modified significantly and non-uniformly. Binding of BODIPY and water occurs primarily due to the dipole–dipole interaction. Consider, the dipole moment of BODIPY in the ground state amounts to 4.40<ce:hsp sp="0.25"/>D and the dipole moment of water is 1.85<ce:hsp sp="0.25"/>D. In the excited states, the dipole moment of BODIPY fluctuates significantly (4.15, 3.96, 3.90, 2.73<ce:hsp sp="0.25"/>D for #1, #2, #3 and #5 states, respectively). These values do not correlate well with the binding energies. A better correlation was observed with the dipole moment of the complex (3.34, 9.80, 3.16, 3.21<ce:hsp sp="0.25"/>D for #1, #2, #3, and #5 states, respectively). The strongest interaction (150<ce:hsp sp="0.25"/>cal<ce:hsp sp="0.25"/>mol<ce:sup loc="post">−1</ce:sup>) correlates with the highest dipole moment (9.80<ce:hsp sp="0.25"/>D).</ce:para>
+                  <ce:para id="p0070" view="all">The case of BODIPY and water interaction, which is primarily electrostatic, is compared to the case of GQD and water (<ce:cross-ref refid="f0025" id="c0100">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="f0025"/>), which is of the van der Waals nature. Indeed, graphene and GQDs are known for their hydrophobicity and insolubility in polar solvents, such as water. In the ground state, the attraction per electron is an order of magnitude smaller, as compared to the case of BODIPY. The attraction increases twofold (ca. 100%, <ce:cross-ref refid="f0030" id="c0105">Fig. 6</ce:cross-ref>
+                     <ce:float-anchor refid="f0030"/>) in the third and fourth excited states. Unlike the above case of BODIPY, higher separations of GQD and water do not lead to larger relative differences in the binding energies between the states.</ce:para>
+                  <ce:para id="p0075" view="all">Excitation does not change the semiconductor–water distance at which most negative BE is observed. Both in the water@BODIPY and water@GQD complexes, this distance amounts to 0.28<ce:hsp sp="0.25"/>nm. The well depths are necessary for development of the force fields, being 7.16, 12.52, 15.86, 14.07, 11.80<ce:hsp sp="0.25"/>kcal<ce:hsp sp="0.25"/>mol<ce:sup loc="post">−1</ce:sup> in the ground, first, second, third, and fifth excited states of BODIPY, respectively. In water@GQD, the well depths are 1.72, 3.58, 3.27<ce:hsp sp="0.25"/>kcal<ce:hsp sp="0.25"/>mol<ce:sup loc="post">−1</ce:sup> in the ground, third, and fourth excited states, respectively.</ce:para>
+                  <ce:para id="p0080" view="all">Nanostructures are known to be inherently polarizable. For instance, this effect was in details characterized in our recent work on the C<ce:inf loc="post">60</ce:inf> fullerene and ionic liquids <ce:cross-ref refid="b0190" id="c0110">[38]</ce:cross-ref>. GQD offers a number of vacant p-orbitals, which get populated upon excitation. Since an electronic transition occurs between p-orbitals, it does not change an electronic density distribution within GQD. However, the excited nanostructure is more polarizable and its interaction with polar molecules, such as water, is stronger due to induced electric moments.</ce:para>
+                  <ce:para id="p0085" view="all">Increase of binding energies by two times is an important and poorly predictable effect. <ce:cross-refs refid="f0015 f0025" id="r0035">Figs. 3 and 5</ce:cross-refs> depict the attraction parts of the interaction curves. In the case of GQD, these data can be approximated by the <mml:math altimg="si2.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:mi>E</mml:mi>
+                           <mml:mo>=</mml:mo>
+                           <mml:mo>-</mml:mo>
+                           <mml:mi>A</mml:mi>
+                           <mml:mo>×</mml:mo>
+                           <mml:msup>
+                              <mml:mrow>
+                                 <mml:mi>R</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mn>6</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:mrow>
+                     </mml:math> equation, where <ce:italic>E</ce:italic> is energy, <ce:italic>R</ce:italic> is distance, <ce:italic>A</ce:italic> is an empirical coefficient (<ce:cross-ref refid="t0010" id="c0115">Table 2</ce:cross-ref>
+                     <ce:float-anchor refid="t0010"/>). In the case of BODIPY, an electrostatic term must be added, <mml:math altimg="si3.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:mi>E</mml:mi>
+                           <mml:mo>=</mml:mo>
+                           <mml:mo>-</mml:mo>
+                           <mml:mi>A</mml:mi>
+                           <mml:mo>×</mml:mo>
+                           <mml:msup>
+                              <mml:mrow>
+                                 <mml:mi>R</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mn>6</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                           <mml:mo>-</mml:mo>
+                           <mml:mi>B</mml:mi>
+                           <mml:mo>×</mml:mo>
+                           <mml:msup>
+                              <mml:mrow>
+                                 <mml:mi>R</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mn>1</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:mrow>
+                     </mml:math>. In view of the well-known Lennard-Jones (12,<ce:hsp sp="0.25"/>6) equation, <mml:math altimg="si4.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:mi>A</mml:mi>
+                           <mml:mo>=</mml:mo>
+                           <mml:mn>4</mml:mn>
+                           <mml:mi>ε</mml:mi>
+                           <mml:msup>
+                              <mml:mrow>
+                                 <mml:mi>σ</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mn>6</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:mrow>
+                     </mml:math>, where <ce:italic>ε</ce:italic> and <ce:italic>σ</ce:italic> are the Lennard-Jones (12,<ce:hsp sp="0.12"/>6) parameters, the depth of potential energy well and the atomic size constant, respectively. The computed coefficients <ce:italic>A</ce:italic> amount to 3.5, 6.9, 7.2, 6.8 and 5.7 (×10<ce:sup loc="post">−2</ce:sup>
+                     <ce:hsp sp="0.25"/>cal<ce:hsp sp="0.25"/>nm<ce:sup loc="post">6</ce:sup>) for the ground, #1, #2, #3 and #5 excited states of BODIPY, respectively. For GQD, <ce:italic>A</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>6.3<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−3</ce:sup>
+                     <ce:hsp sp="0.25"/>cal<ce:hsp sp="0.25"/>nm<ce:sup loc="post">6</ce:sup> (ground state); A<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>12<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−3</ce:sup>
+                     <ce:hsp sp="0.25"/>cal<ce:hsp sp="0.25"/>nm<ce:sup loc="post">6</ce:sup> (#3 excited state); 13<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−3</ce:sup>
+                     <ce:hsp sp="0.25"/>cal<ce:hsp sp="0.25"/>nm<ce:sup loc="post">6</ce:sup> (#5 excited state). These differences are significant and must be accounted for when developing interaction models for the excited molecules.</ce:para>
+                  <ce:para id="p0090" view="all">The BSSEs were deducted from the reported binding energies. <ce:cross-ref refid="f0035" id="c0120">Fig. 7</ce:cross-ref>
+                     <ce:float-anchor refid="f0035"/> compares BSSE for the water@BODIPY complex and the water@GQD complex. Similar to absolute values of the binding energies, BSSE in an order of magnitude smaller for GQD. BSSE decays to negligible values beyond 0.5<ce:hsp sp="0.25"/>nm and does not change meaningfully at larger distances. At smaller distances (<ce:italic>R</ce:italic>
+                     <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.5<ce:hsp sp="0.25"/>nm), however, BSSE constitutes a significant percentage of the observed BE. BSSE can be, to certain extent, decreased by using larger basis sets. In this work, we had to use moderate basis sets due to significant sizes of the simulated semiconductor molecules.</ce:para>
+               </ce:section>
+               <ce:section id="s0020" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st035">Conclusions</ce:section-title>
+                  <ce:para id="p0095" view="all">We used time-dependent density functional theory calculations to simulate excited states of the semiconductor molecules: BODIPY and GQD and their BEs with water. We found that excitation of the semiconductor molecules increases their BEs approximately twofold with the water molecule. We suppose that higher excited states are able to further increase this non-covalent binding by making nanostructures more polarizable. If the d-orbital is attained upon excitation, this will likely result in a qualitatively different binding regularity. Significant excitation energies and intensive irradiation are required. Interestingly, the binding energy increase is similar for BODIPY, which interacts with water electrostatically, and for GQD, which interacts with water via the weak van der Waals forces. The reported observations are fundamentally important. If the excited molecular are simulated using the classical force field, the binding energy increase must be accounted for by certain re-parametrization of the existing potential functions. An ability of excitation to decrease hydrophobicity of GQD may have certain interesting implications for exfoliation and solvation. The reported BEs may present certain practical value for the solar harvesting applications, in which the semiconductor molecules (photon harvesters) get excited by photons of visible and ultraviolet light.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st040">Acknowledgments</ce:section-title>
+               <ce:para id="p0100" view="all">We obtained support from <ce:grant-sponsor sponsor-id="http://dx.doi.org/10.13039/501100005285" xlink:type="simple" id="gp005" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">FAPEG</ce:grant-sponsor>, <ce:grant-sponsor sponsor-id="http://dx.doi.org/10.13039/501100002322" xlink:type="simple" id="gp010" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">CAPES</ce:grant-sponsor>, <ce:grant-sponsor sponsor-id="http://dx.doi.org/10.13039/501100001807" xlink:type="simple" id="gp015" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">FAPESP</ce:grant-sponsor>, and <ce:grant-sponsor sponsor-id="http://dx.doi.org/10.13039/501100003593" xlink:type="simple" id="gp020" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">CNPq</ce:grant-sponsor>.</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section view="compact-standard" id="s0025">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st045">Supplementary data</ce:section-title>
+                  <ce:para id="p0105" view="all">Supplementary data associated with this article can be found, in the online version, at <ce:inter-ref xlink:href="doi:10.1016/j.chemphys.2016.05.011" xlink:type="simple" id="ir005">http://dx.doi.org/10.1016/j.chemphys.2016.05.011</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section view="extended" id="s0030">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st050">Supplementary data</ce:section-title>
+                  <ce:para id="p0110" view="all">
+                     <ce:display>
+                        <ce:e-component id="m0005">
+                           <ce:label>Supplementary data</ce:label>
+                           <ce:caption id="cn0005">
+                              <ce:simple-para id="sp0015" view="all">Tables S1–S10</ce:simple-para>
+                           </ce:caption>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:href="pii:S0301010416300271/mmc1" id="lk00045"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st055">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Cazorla</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Shevlin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.X.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>First-principles study of the stability of calcium-decorated carbon nanostructures</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>155454</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Min</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.Y.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Tkatchenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Noncovalent interactions of DNA bases with naphthalene and graphene</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Theory Comput.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2090</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.J.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Suo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Jiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.Q.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Towards understanding the effects of carbon and nitrogen-doped carbon coating on the electrochemical performance of Li<ce:inf loc="post">4</ce:inf>Ti<ce:inf loc="post">5</ce:inf>O<ce:inf loc="post">12</ce:inf> in lithium ion batteries: a combined experimental and theoretical study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Chem. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15127</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Hardcastle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Seabourne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Zan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.D.</ce:given-name>
+                                 <ce:surname>Brydson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Bangert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.M.</ce:given-name>
+                                 <ce:surname>Ramasse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Novoselov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Scott</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mobile metal adatoms on single layer, bilayer, and trilayer graphene: an <ce:italic>ab initio</ce:italic> DFT study with van der Waals corrections correlated with electron microscopy data</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>195430</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Herbig</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.H.</ce:given-name>
+                                 <ce:surname>Ahlgren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.A.</ce:given-name>
+                                 <ce:surname>Schroder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Martinez-Galera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Arman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kotakoski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Knudsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Krasheninnikov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Michely</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Xe irradiation of graphene on Ir(1<ce:hsp sp="0.12"/>1<ce:hsp sp="0.12"/>1): from trapping to blistering</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>085429</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Khosravi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Fereidoon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.G.</ce:given-name>
+                                 <ce:surname>Ahangari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Ganji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.N.</ce:given-name>
+                                 <ce:surname>Emami</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>First-principles vdW-DF study on the enhanced hydrogen storage capacity of Pt-adsorbed graphene</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mol. Model.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2230</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.W.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrogen storage on nitrogen induced defects in palladium-decorated graphene: a first-principles study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>292</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>921</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Orellana</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Single- and double-wall carbon nanotubes fully covered with tetraphenylporphyrins: stability and optoelectronic properties from <ce:italic>ab initio</ce:italic> calculations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>634</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>47</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Saffarzadeh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Modeling of gas adsorption on graphene nanoribbons</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>107</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>114309</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Szakacs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lefevre</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.I.</ce:given-name>
+                                 <ce:surname>Kramm</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Dodelet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Vidal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A density functional theory study of catalytic sites for oxygen reduction in Fe/N/C catalysts used in H<ce:inf loc="post">2</ce:inf>/O<ce:inf loc="post">2</ce:inf> fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Chem. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>13654</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>Wood</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Bhide</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dutta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.S.</ce:given-name>
+                                 <ce:surname>Kandagal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>Pathak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.N.</ce:given-name>
+                                 <ce:surname>Punnathanam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.G.</ce:given-name>
+                                 <ce:surname>Ayappa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Narasimhan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Methane and carbon dioxide adsorption on edge-functionalized graphene: a comparative DFT study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>137</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>054702</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Long</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.J.</ce:given-name>
+                                 <ce:surname>English</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synergistic effects on band gap-narrowing in titania by codoping from first-principles calculations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1616</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.C.</ce:given-name>
+                                 <ce:surname>Rapaport</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Art of Molecular Dynamics Simulation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1995</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Cambridge University Press</sb:name>
+                                 <sb:location>Cambridge</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Aguiar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Fagan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.B.</ce:given-name>
+                                 <ce:surname>da Silva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Mendes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>Souza</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Benzonitrile adsorption on Fe-doped carbon nanostructures</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>114</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10790</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.M.</ce:given-name>
+                                 <ce:surname>Ao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Al doped graphene: a promising material for hydrogen storage at room temperature</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>105</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>074307</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ashrafian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jahanshahi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Ganji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Agheb</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Greatly enhanced adsorption of platinum on periodic graphene nanobuds: a first-principles study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>351</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1105</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.X.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.G.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Si clusters/defective graphene composites as Li-ion batteries anode materials: a density functional study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>345</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>337</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="h0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.S.E.</ce:given-name>
+                                 <ce:surname>Skardi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Ganji</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Periodic graphene nanobuds: a novel Li-storage material</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>142</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>44</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.Y.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.B.B.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Titanium-decorated graphene oxide for carbon monoxide capture and separation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Chem. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>21126</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="h0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Z.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.A.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>First-principles calculations on third-order elastic constants and internal relaxation for monolayer graphene</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>405</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3501</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.C.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.Z.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.C.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Duan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sulfur immobilization and lithium storage on defective graphene: a first-principles study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>043901</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="h0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Denis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>On the addition of aryl radicals to graphene: the importance of nonbonded interactions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ChemPhysChem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3271</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="h0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Denis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Iribarne</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A first-principles study on the interaction between alkyl radicals and graphene</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eur. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7568</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.I.</ce:given-name>
+                                 <ce:surname>Malyi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Sopiha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.V.</ce:given-name>
+                                 <ce:surname>Kulish</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.L.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Manzhos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Persson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A computational study of Na behavior on graphene</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>333</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>235</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="h0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Voloshina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Usvyat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Schutz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Dedkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Paulus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>On the physisorption of water on graphene: a CCSD(T) study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Chem. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12041</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="h0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Rubes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Bludsky</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>DFT/CCSD(T) investigation of the interaction of molecular hydrogen with carbon nanostructures</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ChemPhysChem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1868</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="h0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Putungan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Kuo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Li adsorption, hydrogen storage and dissociation using monolayer MoS2: an ab initio random structure searching approach</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Chem. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11367</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="h0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>van Hemert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Takahashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.F.</ce:given-name>
+                                 <ce:surname>van Dishoeck</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Molecular dynamics study of the photodesorption of CO ice</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>119</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6354</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="h0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Duchstein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Neiss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Gorling</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Zahn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Molecular mechanics modeling of azobenzene-based photoswitches</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mol. Model.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2479</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0150">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="h0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.I.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.M.</ce:given-name>
+                                 <ce:surname>Rhee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of force field parameters for oxyluciferin on its electronic ground and excited states</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Quantum Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>111</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4091</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0155">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="h0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ohno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Takahashi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Excited-state vibrations of benzene and polycyclic aromatic hydrocarbons: simple force field models based on molecular orbital characteristics of hexagonal carbon networks</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>356</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>409</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0160">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="h0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>Becke</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Density-functional exchange-energy approximation with correct asymptotic-behavior</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3098</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0165">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="h0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.T.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Parr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of the Colle–Salvetti correlation-energy formula into a functional of the electron-density</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>785</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0170">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference id="h0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Frisch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Energy-represented direct inversion in the iterative subspace within a hybrid geometry optimization method</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Theory Comput.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>835</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0175">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference id="h0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Stratmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.E.</ce:given-name>
+                                 <ce:surname>Scuseria</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Frisch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An efficient implementation of time-dependent density-functional theory for the calculation of excitation energies of large molecules</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>109</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8218</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0180">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference id="h0180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Grimme</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Semiempirical GGA-type density functional constructed with a long-range dispersion correction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Comput. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1787</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0185">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference id="h0185">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Grimme</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Antony</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ehrlich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Krieg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A consistent and accurate <ce:italic>ab initio</ce:italic> parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>132</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>154104</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0190">
+                     <ce:label>[38]</ce:label>
+                     <sb:reference id="h0190">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.V.</ce:given-name>
+                                 <ce:surname>Chaban</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.E.</ce:given-name>
+                                 <ce:surname>Fileti</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Strong electronic polarization of the C-60 fullerene by imidazolium-based ionic liquids: accurate insights from Born-Oppenheimer molecular dynamic simulations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Chem. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15739</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

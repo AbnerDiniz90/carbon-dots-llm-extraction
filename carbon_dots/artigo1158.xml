@@ -1,0 +1,2656 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1386142518301045</prism:url><dc:identifier>doi:10.1016/j.saa.2018.01.078</dc:identifier><eid>1-s2.0-S1386142518301045</eid><prism:doi>10.1016/j.saa.2018.01.078</prism:doi><pii>S1386-1425(18)30104-5</pii><dc:title>A ratiometric nanoprobe based on silver nanoclusters and carbon dots for the fluorescent detection of biothiols </dc:title><prism:publicationName>Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>13861425</prism:issn><prism:volume>195</prism:volume><prism:startingPage>230</prism:startingPage><prism:endingPage>235</prism:endingPage><prism:pageRange>230-235</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2018-04-15</prism:coverDate><prism:coverDisplayDate>15 April 2018</prism:coverDisplayDate><prism:copyright>© 2018 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Zhang, Shuming</dc:creator><dc:creator>Lin, Bixia</dc:creator><dc:creator>Yu, Ying</dc:creator><dc:creator>Cao, Yujuan</dc:creator><dc:creator>Guo, Manli</dc:creator><dc:creator>Shui, Lingling</dc:creator><dc:description>
+                  Ratiometric fluorescent probes could eliminate the influence from experimental factors and improve the detection accuracy. In this article, a ratiometric nanoprobe was constructed based on silver nanoclusters (AgNCs) with nitrogen-doped carbon dots (NCDs) and used for the detection of biothiols. The fluorescence peak of AgNCs was observed at 650nm with excitation wavelength at 370nm. In order to construct the ratiometric fluorescent probe, NCDs with the excitation and emission wavelengths at 370nm and 450nm were selected. After adding AgNCs, the fluorescence of NCDs was quenched. The mechanism of the fluorescence quenching was studied by fluorescence, UV–Vis absorption and the fluorescence lifetime spectra. The results indicated that the quenching could be ascribed to the inner filter effect (IFE). With the addition of biothiols, the fluorescence of AgNCs at 650nm decreased due to the breakdown of AgNCs, and the fluorescence of NCDs at 450nm recovered accordingly. Thus, the relationship between the ratio of the fluorescence intensities (I450/I650) and biothiol concentration was used to establish the determination method for biothiols. Cysteine (Cys) was taken as the model of biothiols, and the working curve for Cys was I450/I650
+                     =0.60CCys
+                     −1.86 (CCys: μmol/L) with the detection limit of 0.14μmol/L (S/N=3). Then, the method was used for the detection of Cys in human urine and serum samples with satisfactory accuracy and recovery ratios. Furthermore, the probe could be applied for the visual semi-quantitative determination of Cys by naked eyes.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Ratiometric nanoprobe</dcterms:subject><dcterms:subject>Combinatorial probe</dcterms:subject><dcterms:subject>Fluorescence analysis</dcterms:subject><dcterms:subject>Visual semi-quantitation</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1386142518301045" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1386142518301045" rel="scidir"/></coredata><objects><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="151" size="19362">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="152" size="20562">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="156" size="18334">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="156" size="23921">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="69" size="19391">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="sc1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="95" size="14422">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-sc1.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="289" height="200" size="27717">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="625" height="435" size="92532">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="625" height="444" size="69278">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="624" height="446" size="103607">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="625" height="196" size="47585">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="625" height="271" size="49830">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-sc1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="769" height="531" size="89204">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2766" height="1925" size="748082">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2766" height="1965" size="462571">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2764" height="1975" size="831988">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1660" height="520" size="218337">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1660" height="721" size="172986">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-sc1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="720942">https://api.elsevier.com/content/object/eid/1-s2.0-S1386142518301045-mmc1.doc?httpAccept=%2A%2F%2A</object></objects><scopus-id>85041469870</scopus-id><scopus-eid>2-s2.0-85041469870</scopus-eid><pubmed-id>29414583</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85041469870" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271973</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291685</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy</xocs:srctitle>
+      <xocs:normalized-srctitle>SPECTROCHIMICAACTAPARTAMOLECULARBIOMOLECULARSPECTROSCOPY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20180201">2018-02-01</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20180201">2018-02-01</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20180207">2018-02-07</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20180207">2018-02-07</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-04-12T02:58:06</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1386142518301045</xocs:eid>
+      <xocs:pii-formatted>S1386-1425(18)30104-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1386142518301045</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.saa.2018.01.078</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1386142518X00031</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190412">2019-04-12T02:20:02.817502Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20180415</xocs:date-search-begin>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1517500935">2018-02-01T16:02:15.075927Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst orcid primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1386-1425</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>13861425</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>195</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>195</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 195</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>25</xocs:sort-order>
+      <xocs:first-fp>230</xocs:first-fp>
+      <xocs:last-lp>235</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>230</xocs:first-page>
+         <xocs:last-page>235</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20180415</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 April 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-04-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Analytical Spectroscopy and New Methods</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ARATIOMETRICNANOPROBEBASEDSILVERNANOCLUSTERSCARBONDOTSFORFLUORESCENTDETECTIONBIOTHIOLS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ZHANG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials and Instruments</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Synthesis of a Ratiometric Nanoprobe</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Determination of Cys in Actual Samples</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and Discussions</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Construction of the Ratiometric Nanoprobe and Mechanism</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>The Conditions Optimization of Detecting Cys</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>The Working Curve and Selectivity</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Determination of Cys in Actual Samples</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>KIKUCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2048</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2053</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>230</xocs:ref-first-fp>
+            <xocs:ref-last-lp>235</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>MANIBALAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>233</xocs:ref-first-fp>
+            <xocs:ref-last-lp>238</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>FAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>29</xocs:ref-first-fp>
+            <xocs:ref-last-lp>43</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7038</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7045</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1440</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1446</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>WAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>502</xocs:ref-first-fp>
+            <xocs:ref-last-lp>504</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>GAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4517</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4524</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>20014</xocs:ref-first-fp>
+            <xocs:ref-last-lp>20020</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>XIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3015</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3020</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>83</xocs:ref-first-fp>
+            <xocs:ref-last-lp>90</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>TIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>139</xocs:ref-first-fp>
+            <xocs:ref-last-lp>145</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>NIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8457</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8465</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>JIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3507</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3513</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>SHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1317</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1324</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>SHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>QI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>221</xocs:ref-first-fp>
+            <xocs:ref-last-lp>227</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>MOHAMMADI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>27</xocs:ref-first-fp>
+            <xocs:ref-last-lp>34</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>214</xocs:ref-first-fp>
+            <xocs:ref-last-lp>218</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>722</xocs:ref-first-fp>
+            <xocs:ref-last-lp>727</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>40393</xocs:ref-first-fp>
+            <xocs:ref-last-lp>40401</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0110">
+            <xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>411</xocs:ref-first-fp>
+            <xocs:ref-last-lp>416</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0115">
+            <xocs:ref-normalized-surname>ZOHOORIANABOOTORABI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>177</xocs:ref-first-fp>
+            <xocs:ref-last-lp>191</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0120">
+            <xocs:ref-normalized-surname>MAROUZI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>688</xocs:ref-first-fp>
+            <xocs:ref-last-lp>699</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0125">
+            <xocs:ref-normalized-surname>AHMADIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1880</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1898</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0130">
+            <xocs:ref-normalized-surname>YUAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1913</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1919</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0135">
+            <xocs:ref-normalized-surname>XIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>565</xocs:ref-first-fp>
+            <xocs:ref-last-lp>573</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0140">
+            <xocs:ref-normalized-surname>GUAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>124</xocs:ref-first-fp>
+            <xocs:ref-last-lp>130</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0145">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>450</xocs:ref-first-fp>
+            <xocs:ref-last-lp>455</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0150">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>451</xocs:ref-first-fp>
+            <xocs:ref-last-lp>458</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0155">
+            <xocs:ref-normalized-surname>KAPPI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15</xocs:ref-first-fp>
+            <xocs:ref-last-lp>22</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0160">
+            <xocs:ref-normalized-surname>FENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>378</xocs:ref-first-fp>
+            <xocs:ref-last-lp>385</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0165">
+            <xocs:ref-normalized-surname>KULIGOWSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2165</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2174</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ZHANGX2018X230</xocs:refkey3>
+         <xocs:refkey4lp>ZHANGX2018X230X235</xocs:refkey4lp>
+         <xocs:refkey4ai>ZHANGX2018X230XS</xocs:refkey4ai>
+         <xocs:refkey5>ZHANGX2018X230X235XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2020-02-07T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1386-1425(18)30104-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1386142518301045</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1386142518301045</xocs:eid>
+         <xocs:doi>10.1016/j.saa.2018.01.078</xocs:doi>
+         <xocs:cid>271973</xocs:cid>
+         <xocs:timestamp>2019-04-12T02:20:02.817502Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-04-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/MAIN/application/pdf/5317f5946706480c3342b5f33bbe86d9/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1943732</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1386142518301045-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/PREVIEW/image/png/65bc8b7a2fd9679994fe4baa9abee41c/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>61499</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/fx1/THUMBNAIL/image/gif/20891ba3f0bd165a5a878eac62e181bc/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>19362</xocs:filesize>
+               <xocs:pixel-height>151</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/gr1/THUMBNAIL/image/gif/0c8132f7c2c7fbe00f8cb350ad172713/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>20562</xocs:filesize>
+               <xocs:pixel-height>152</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/gr2/THUMBNAIL/image/gif/43dac990525b5fe64090a40bdda0903a/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18334</xocs:filesize>
+               <xocs:pixel-height>156</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/gr3/THUMBNAIL/image/gif/5febd4db759d5aec53d9282708d9fb4b/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>23921</xocs:filesize>
+               <xocs:pixel-height>156</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/gr4/THUMBNAIL/image/gif/2ef3baf94ea3052259068188e739a459/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>19391</xocs:filesize>
+               <xocs:pixel-height>69</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-sc1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/sc1/THUMBNAIL/image/gif/a66eaf7e0a0e051424b5aa0ad0558ff9/sc1.sml</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14422</xocs:filesize>
+               <xocs:pixel-height>95</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/fx1/DOWNSAMPLED/image/jpeg/06eee33248dccb9edb214a20ebee643f/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>27717</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>289</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/gr1/DOWNSAMPLED/image/jpeg/56a1efb4481694008e23061792abd63c/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>92532</xocs:filesize>
+               <xocs:pixel-height>435</xocs:pixel-height>
+               <xocs:pixel-width>625</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/gr2/DOWNSAMPLED/image/jpeg/29ea80a5cfc4cf012e4c7f01f85bf439/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>69278</xocs:filesize>
+               <xocs:pixel-height>444</xocs:pixel-height>
+               <xocs:pixel-width>625</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/gr3/DOWNSAMPLED/image/jpeg/2d75ee176878678b68bdd57319625182/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>103607</xocs:filesize>
+               <xocs:pixel-height>446</xocs:pixel-height>
+               <xocs:pixel-width>624</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/gr4/DOWNSAMPLED/image/jpeg/0d5ebb4f3d3a5f11143f1aab025e90b1/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>47585</xocs:filesize>
+               <xocs:pixel-height>196</xocs:pixel-height>
+               <xocs:pixel-width>625</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-sc1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/sc1/DOWNSAMPLED/image/jpeg/5ab83b9f61a97a0092d1576dfbb4662a/sc1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>49830</xocs:filesize>
+               <xocs:pixel-height>271</xocs:pixel-height>
+               <xocs:pixel-width>625</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/fx1/HIGHRES/image/jpeg/6e0179258a2db5bb2d03cdc50e6b8742/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>89204</xocs:filesize>
+               <xocs:pixel-height>531</xocs:pixel-height>
+               <xocs:pixel-width>769</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/gr1/HIGHRES/image/jpeg/758a343a207175b9376cee69a670a709/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>748082</xocs:filesize>
+               <xocs:pixel-height>1925</xocs:pixel-height>
+               <xocs:pixel-width>2766</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/gr2/HIGHRES/image/jpeg/ca5dbc94f3e32917752dd1e911d9b962/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>462571</xocs:filesize>
+               <xocs:pixel-height>1965</xocs:pixel-height>
+               <xocs:pixel-width>2766</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/gr3/HIGHRES/image/jpeg/18683bb9b11015822bf5446e12128433/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>831988</xocs:filesize>
+               <xocs:pixel-height>1975</xocs:pixel-height>
+               <xocs:pixel-width>2764</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/gr4/HIGHRES/image/jpeg/7b20ed3db85387a7c850678d5a6e2ad3/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>218337</xocs:filesize>
+               <xocs:pixel-height>520</xocs:pixel-height>
+               <xocs:pixel-width>1660</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-sc1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/sc1/HIGHRES/image/jpeg/b43c3d33dca3f97653293cd364b5d68b/sc1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>172986</xocs:filesize>
+               <xocs:pixel-height>721</xocs:pixel-height>
+               <xocs:pixel-width>1660</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1386142518301045-mmc1.doc</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1386142518301045/mmc1/MAIN/application/msword/092eeccf78d75e9a843bf781ac058a3d/mmc1.doc</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.doc</xocs:filename>
+               <xocs:extension>doc</xocs:extension>
+               <xocs:filesize>720942</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.5" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>SAA</jid>
+            <aid>15797</aid>
+            <ce:pii>S1386-1425(18)30104-5</ce:pii>
+            <ce:doi>10.1016/j.saa.2018.01.078</ce:doi>
+            <ce:copyright type="full-transfer" year="2018">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="ca0005">
+                  <ce:simple-para id="sp0005" view="all">(a) The excitation and emission spectra of AgNCs (1, 2) and NCDs (3, 4). (b) The fluorescence spectra of the AgNCs/NCDs probe with constant concentration of 0.28<ce:hsp sp="0.25"/>mg/mL NCDs and different concentrations of AgNCs. (c) The fluorescence spectra of NCDs (1), AgNCs (2), AgNCs/NCDs (3), AgNCs/NCDs with the addition of Cys (4). (d) Time-resolved decay curves of NCDs in the absence and presence of AgNCs.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0005">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:type="simple" xlink:href="pii:S1386142518301045/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="ca0010">
+                  <ce:simple-para id="sp0010" view="all">Optimization of the detection conditions. (a) The mass ratio of AgNCs and NCDs. (b) The pH value. (c) The incubation temperature. (d) The reaction time.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0010">Fig. 2</ce:alt-text>
+               <ce:link id="lk0010" locator="gr2" xlink:type="simple" xlink:href="pii:S1386142518301045/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="ca0015">
+                  <ce:simple-para id="sp0015" view="all">The working curve and selectivity of the method for detecting biothiols. (a) Fluorescence spectra (λ<ce:inf loc="post">ex</ce:inf>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>370<ce:hsp sp="0.25"/>nm) of the nanoprobe on the addition of increasing concentrations of Cys. Inset: the amplified spectra from 560 to 730<ce:hsp sp="0.25"/>nm. (b) The work curves for detecting Cys and GSH. (c) Interferences 1 and (d) interferences 2. The concentration of Cys and interference was 120<ce:hsp sp="0.25"/>μmol/L except acetonitrile (48<ce:hsp sp="0.25"/>mmol/L). Blue bars: I<ce:inf loc="post">0</ce:inf> and I represented the intensity ratio (I<ce:inf loc="post">450</ce:inf>/I<ce:inf loc="post">650</ce:inf>) of AgNCs/NCDs in the absence and presence of interferences, respectively. Red bars: I<ce:inf loc="post">0</ce:inf> and I represented the intensity ratio (I<ce:inf loc="post">450</ce:inf>/I<ce:inf loc="post">650</ce:inf>) of AgNCs/NCDs with the addition of Cys in the absence and presence of interferences, respectively.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0015">Fig. 3</ce:alt-text>
+               <ce:link id="lk0015" locator="gr3" xlink:type="simple" xlink:href="pii:S1386142518301045/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="ca0020">
+                  <ce:simple-para id="sp0020" view="all">The photos of the ratiometric nanoprobe (a) and AgNCs (b) under the exposure to different amounts of Cys. The concentrations of Cys from left to right are 0, 25, 50, 100, 150, 200, 250, and 300<ce:hsp sp="0.25"/>μmol/L, respectively.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0020">Fig. 4</ce:alt-text>
+               <ce:link id="lk0020" locator="gr4" xlink:type="simple" xlink:href="pii:S1386142518301045/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="sch0005">
+               <ce:label>Scheme 1</ce:label>
+               <ce:caption id="ca0025">
+                  <ce:simple-para id="sp0025" view="all">The detection mechanism of biothiols based on the AgNCs/NCDs probe.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0025">Scheme 1</ce:alt-text>
+               <ce:link id="lk0025" locator="sc1" xlink:type="simple" xlink:href="pii:S1386142518301045/sc1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="ca0030">
+                  <ce:simple-para id="sp0030" view="all">Determination of Cys in actual samples (<ce:italic>n</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>3).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0030">Table 1</ce:alt-text>
+               <tgroup cols="8">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <colspec colname="col7"/>
+                  <colspec colname="col8"/>
+                  <thead>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" colname="col1" rowsep="1">Samples</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" colname="col2" rowsep="1">Added (μmol/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col3" nameend="col5" rowsep="1">This method</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col6" nameend="col8" rowsep="1">Ellman method</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Determined (μmol/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Recovery (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">RSD (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">Determined (μmol/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">Recovery (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8">RSD (%)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="3" colname="col1" role="rowhead">Urine</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">23.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">2.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">23.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8">2.7</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">5.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">28.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">98.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">1.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">28.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">104</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8">5.0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">20.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">43.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">2.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">45.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">109</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8">0.4</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">50.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">73.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">2.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">75.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">104</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8">1.6</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="3" colname="col1" role="rowhead">Serum</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">28.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">0.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">29.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8">7.3</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">5.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">33.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">106</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">1.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">34.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">110</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8">2.8</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">20.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">48.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">1.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">49.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8">1.3</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">50.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">76.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">95.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">0.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">79.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">101</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8">1.8</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0010" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="ca0035">
+                  <ce:simple-para id="sp0035" view="all">Comparison of the determination methods for Cys.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0035">Table 2</ce:alt-text>
+               <tgroup cols="6">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Methods</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Visualization</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Samples</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Detection range (μmol/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">LOD (μmol/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">References</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Ratiometric nanoprobe</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Yes</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Human urine, serum</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">20–80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">0.14</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">This work</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">UCNPs ratiometry</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">No</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Human serum</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">20–200</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">[<cross-ref id="cf0005" refid="bb0130">26</cross-ref>]</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Pyrazoline-based fluorescence</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Yes</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">10–100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">2.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">[<cross-ref id="cf0010" refid="bb0135">27</cross-ref>]</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">DNA-AgNCs fluorescence</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">No</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">0–5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">0.13</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">[<cross-ref id="cf0015" refid="bb0140">28</cross-ref>]</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Colorimetry</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Yes</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Urine, blood plasma</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">10–100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">8.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">[<cross-ref id="cf0020" refid="bb0145">29</cross-ref>]</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Electrochemistry</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">No</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Human serum</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">0.5–50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">0.50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">[<cross-ref id="cf0025" refid="bb0150">30</cross-ref>]</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Surface plasmon resonance</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">No</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Blood plasma</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">3–141</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">[<cross-ref id="cf0030" refid="bb0155">31</cross-ref>]</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="ti0005">A ratiometric nanoprobe based on silver nanoclusters and carbon dots for the fluorescent detection of biothiols</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S1386142518301045-f1a80e6625c3bc673dbf848251a99189">
+                  <ce:given-name>Shuming</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0035">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0010" author-id="S1386142518301045-e98d596d90abe2ec55cb0662a6438325">
+                  <ce:given-name>Bixia</ce:given-name>
+                  <ce:surname>Lin</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0040">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author orcid="0000-0002-0369-2394" id="au0015" author-id="S1386142518301045-5243e56b6dc20dbdf7112bb84a08b115">
+                  <ce:given-name>Ying</ce:given-name>
+                  <ce:surname>Yu</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0045">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005" id="cf0050">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0020" author-id="S1386142518301045-b656846f1838c765e1ccfec081ed9c09">
+                  <ce:given-name>Yujuan</ce:given-name>
+                  <ce:surname>Cao</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0055">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0025" author-id="S1386142518301045-f6ad890a3aa5d11794570989945d9ed3">
+                  <ce:given-name>Manli</ce:given-name>
+                  <ce:surname>Guo</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0060">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0030" author-id="S1386142518301045-e824fa94afeb539c533a47fc0bda95f9">
+                  <ce:given-name>Lingling</ce:given-name>
+                  <ce:surname>Shui</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf0065">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af0005" affiliation-id="S1386142518301045-d53d997535bdc659a49c19da3942f833">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0005">Key Laboratory of Analytical Chemistry for Biomedicine (Guangzhou), School of Chemistry and Environment, South China Normal University, Guangzhou, Guangdong 510006, PR China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Key Laboratory of Analytical Chemistry for Biomedicine (Guangzhou)</sa:organization>
+                     <sa:organization>School of Chemistry and Environment</sa:organization>
+                     <sa:organization>South China Normal University</sa:organization>
+                     <sa:city>Guangzhou</sa:city>
+                     <sa:state>Guangdong</sa:state>
+                     <sa:postal-code>510006</sa:postal-code>
+                     <sa:country>PR China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0010" affiliation-id="S1386142518301045-6fbd7a3909339a887858d278e732aa36">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0010">South China Academy of Advanced Optoelectronics, South China Normal University, Guangzhou, Guangdong 510006, PR China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>South China Academy of Advanced Optoelectronics</sa:organization>
+                     <sa:organization>South China Normal University</sa:organization>
+                     <sa:city>Guangzhou</sa:city>
+                     <sa:state>Guangdong</sa:state>
+                     <sa:postal-code>510006</sa:postal-code>
+                     <sa:country>PR China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx0005">Corresponding author at: No. 378 Waihuan West Road, University City, Guangdong 510006, PR China.</ce:text>
+                  <sa:affiliation>
+                     <sa:address-line>No. 378 Waihuan West Road</sa:address-line>
+                     <sa:city>University City</sa:city>
+                     <sa:state>Guangdong</sa:state>
+                     <sa:postal-code>510006</sa:postal-code>
+                     <sa:country>PR China</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="23" month="10" year="2017"/>
+            <ce:date-revised day="24" month="1" year="2018"/>
+            <ce:date-accepted day="30" month="1" year="2018"/>
+            <ce:abstract id="ab0005" xml:lang="en" view="all" class="author"><ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0040" view="all">Ratiometric fluorescent probes could eliminate the influence from experimental factors and improve the detection accuracy. In this article, a ratiometric nanoprobe was constructed based on silver nanoclusters (AgNCs) with nitrogen-doped carbon dots (NCDs) and used for the detection of biothiols. The fluorescence peak of AgNCs was observed at 650<ce:hsp sp="0.25"/>nm with excitation wavelength at 370<ce:hsp sp="0.25"/>nm. In order to construct the ratiometric fluorescent probe, NCDs with the excitation and emission wavelengths at 370<ce:hsp sp="0.25"/>nm and 450<ce:hsp sp="0.25"/>nm were selected. After adding AgNCs, the fluorescence of NCDs was quenched. The mechanism of the fluorescence quenching was studied by fluorescence, UV–Vis absorption and the fluorescence lifetime spectra. The results indicated that the quenching could be ascribed to the inner filter effect (IFE). With the addition of biothiols, the fluorescence of AgNCs at 650<ce:hsp sp="0.25"/>nm decreased due to the breakdown of AgNCs, and the fluorescence of NCDs at 450<ce:hsp sp="0.25"/>nm recovered accordingly. Thus, the relationship between the ratio of the fluorescence intensities (I<ce:inf loc="post">450</ce:inf>/I<ce:inf loc="post">650</ce:inf>) and biothiol concentration was used to establish the determination method for biothiols. Cysteine (Cys) was taken as the model of biothiols, and the working curve for Cys was I<ce:inf loc="post">450</ce:inf>/I<ce:inf loc="post">650</ce:inf>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.60C<ce:inf loc="post">Cys</ce:inf>
+                     <ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>1.86 (C<ce:inf loc="post">Cys</ce:inf>: μmol/L) with the detection limit of 0.14<ce:hsp sp="0.25"/>μmol/L (S/N<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>3). Then, the method was used for the detection of Cys in human urine and serum samples with satisfactory accuracy and recovery ratios. Furthermore, the probe could be applied for the visual semi-quantitative determination of Cys by naked eyes.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract id="ab0010" class="graphical" xml:lang="en" view="all">
+               <ce:section-title id="st0010">Graphical Abstract</ce:section-title>
+               <ce:abstract-sec id="as0010" view="all">
+                  <ce:simple-para id="sp0045" view="all">
+                     <ce:display>
+                        <ce:figure id="f0025">
+                           <ce:alt-text role="short" id="al0040">Unlabelled Image</ce:alt-text>
+                           <ce:link id="lk0030" locator="fx1" xlink:type="simple" xlink:href="pii:S1386142518301045/fx1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:keywords id="ks0005" view="all" class="keyword">
+               <ce:section-title id="st0020">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text id="tx0010">Ratiometric nanoprobe</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0015">Combinatorial probe</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0020">Fluorescence analysis</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text id="tx0025">Visual semi-quantitation</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st0025">Introduction</ce:section-title>
+                  <ce:para id="p0020" view="all">The sensitivity, selectivity and accuracy of fluorescence analysis depend greatly on the property of fluorescent probes. Most of fluorescent probes only have a single-wavelength emission. Due to the lack of internal standard, the fluorescence signal of these probes is susceptible to the fluctuation of experimental conditions, such as stability of excitation intensity, concentration error of probes, and change of solution environment. The ratiometric fluorescent probes which have two or more emission bands at different wavelengths can overcome the above mentioned problems. The quantitative analysis by ratiometric probes is based on the intensity ratio of two emission peaks, thus the ratiometric probes have the self-calibration function. They can eliminate the influence of experimental factors and improve accuracy [<ce:cross-ref id="cf0070" refid="bb0005">1</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0025" view="all">The traditional ratiometric probes were comprised of organic molecules with two different fluorescence peaks. The active groups of organic molecule probes could react with the analyte through coordination [<ce:cross-ref id="cf0075" refid="bb0010">2</ce:cross-ref>], redox, and so on [<ce:cross-ref id="cf0080" refid="bb0015">3</ce:cross-ref>]. The occurrence of these reactions could lead to the simultaneous changes of fluorescence intensities and wavelengths. The changes of emissions spectra were usually attributed to the mechanisms such as fluorescence resonance energy transfer (FRET) [<ce:cross-ref id="cf0085" refid="bb0020">4</ce:cross-ref>] and intramolecular charge transfer (ICT) [<ce:cross-ref id="cf0090" refid="bb0025">5</ce:cross-ref>]. Ma group had done remarkable jobs in ratiometric fluorescent probes. Therein, a ratiometric probe was designed by using propylamine and 1, 8-naphthalimide for monoamine oxidase A (MAO-A) detection. After amino of the probe reacted with MAO-A through amine oxidation and β-elimination, a new emission peak at around 550<ce:hsp sp="0.25"/>nm appeared except original 454<ce:hsp sp="0.25"/>nm. According to the relationship between the intensity ratio of these two fluorescence peaks and the concentration of MAO-A, the quantitative determination for MAO-A was carried out [<ce:cross-ref id="cf0095" refid="bb0030">6</ce:cross-ref>]. Besides, Ma group synthetized other ratiometric probe to detect hydrogen sulfide through reducing azido to amino [<ce:cross-ref id="cf0100" refid="bb0035">7</ce:cross-ref>]. Nonetheless, the construction of these ratiometric probes usually involved elaborate design, tedious synthesis, complex separation and purification [<ce:cross-refs id="cf0105" refid="bb0040 bb0045 bb0050">8–10</ce:cross-refs>].</ce:para>
+                  <ce:para id="p0030" view="all">As a new type of probes, nanoparticle fluorescent probes have recently received intense attention. Because most nanoprobes had only single emission peak, they could not serve as ratiometric probes. In recent years, a few of ratiometric nanoprobes were successfully constructed by combining two kinds of fluorescence units. For instance, Wang utilized CdTe quantum dots (QDs) of two sizes to obtain a dual-emission fluorescent hybrid sphere [<ce:cross-ref id="cf0110" refid="bb0055">11</ce:cross-ref>]. The red-emitting CdTe QDs were entrapped in the silica sphere as the reference unit, and the green-emitting CdTe QDs were covalently bonded to the silica surface as the response part. Tian developed a hybrid ratiometric nanoprobe by modifying the red-emitting CdTe QDs (640<ce:hsp sp="0.25"/>nm) with the blue-emitting benzothiazole fluorophore (420<ce:hsp sp="0.25"/>nm) [<ce:cross-ref id="cf0115" refid="bb0060">12</ce:cross-ref>]. Ouyang group used the positively charged aggregation-induced emission organic fluorescence nanoparticles (AIE-based OFNs) and negatively charged Au nanoclusters to establish a dual-emission ratiometric probe via electrostatic attraction for the detection of Hg<ce:sup loc="post">2+</ce:sup> and melamine [<ce:cross-ref id="cf0120" refid="bb0065">13</ce:cross-ref>]. The AIE-based OFNs@AuNCs nanoprobes had the advantages of simple preparation and label-free. In this paper, a ratiometric nanoprobe was subtly constructed by combining two kinds of common nanoparticles with different emission wavelengths.</ce:para>
+                  <ce:para id="p0035" view="all">Nanosilver including silver nanoparticle and silver nanocluster was usually used to build probes for the detection of metal ions such as Cd<ce:sup loc="post">2+</ce:sup> [<ce:cross-ref id="cf0125" refid="bb0070">14</ce:cross-ref>], Al<ce:sup loc="post">3+</ce:sup> [<ce:cross-ref id="cf0130" refid="bb0075">15</ce:cross-ref>], Pb<ce:sup loc="post">2+</ce:sup> [<ce:cross-ref id="cf0135" refid="bb0080">16</ce:cross-ref>], Ni<ce:sup loc="post">2+</ce:sup> [<ce:cross-ref id="cf0140" refid="bb0085">17</ce:cross-ref>] and biothiols such as cysteine, homocysteine, glutathione [<ce:cross-ref id="cf0145" refid="bb0090">18</ce:cross-ref>,<ce:cross-ref id="cf0150" refid="bb0095">19</ce:cross-ref>]. Biothiols were small molecules with sulfydryl. They could be detected by nanosilver probes through the coordination between sulfydryl and Ag atom. Herein, in order to reduce the influence from the experimental factors, a ratiometric nanoprobe (AgNCs/NCDs) was constructed for detecting biothiols based on AgNCs and environmental-friendly NCDs. By addition of biothiols such as Cys, the decrease in fluorescence intensity of AgNCs was accompanied by a fluorescence recovery of NCDs. Then, the quantitative relationship between the intensity ratio of the two fluorescence peaks and the concentration of Cys was established. Furthermore, the probe could be used for the semi-quantitative analysis of biothiols by naked eyes. In this way, a simple and visual detection method for biothiols was established based on the AgNCs/NCDs probe.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st0030">Experimental</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="st0035">Materials and Instruments</ce:section-title>
+                     <ce:para id="p0040" view="all">Bovine serum albumin (BSA) was purchased from Aladdin Chemical Company. Amino acids (cysteine, leucine, phenylalanine, histidine, serine, methionine, alanine, glycine, aspartic acid, arginine, tryptophan and glutamic acid) and glutathione were obtained from Macklin Reagent Company. Citric acid, urea, acetonitrile (ACN), AgNO<ce:inf loc="post">3</ce:inf>, NaBH<ce:inf loc="post">4</ce:inf>, NaOH, Na<ce:inf loc="post">2</ce:inf>HPO<ce:inf loc="post">4</ce:inf>·12H<ce:inf loc="post">2</ce:inf>O and NaH<ce:inf loc="post">2</ce:inf>PO<ce:inf loc="post">4</ce:inf>·2H<ce:inf loc="post">2</ce:inf>O were obtained from Tianjin Zhiyuan Chemical Factory. All reagents were analytic grade unless otherwise stated. Double-distilled water was used throughout the experiments.</ce:para>
+                     <ce:para id="p0045" view="all">Fluorescence spectra were obtained using an F-4600 fluorescence spectrophotometer (Hitachi, Japan). UV–Vis absorption spectra were measured with a 2700 UV–Vis spectrophotometer (Shimadzu, Japan). Zeta potential was collected with Nano ZS nanometer particle size analyzer (Malvern, UK). Fluorescence lifetime experiments were performed by an FLS-920 combined fluorescence lifetime and steady-state spectrometer (Edinburgh, UK). The pictures were obtained under ultraviolet lamp (50W, Gongyi, China).</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="st0040">Synthesis of a Ratiometric Nanoprobe</ce:section-title>
+                     <ce:para id="p0050" view="all">AgNCs were prepared using a modified method [<ce:cross-ref id="cf0155" refid="bb0100">20</ce:cross-ref>]. Briefly, 5.0<ce:hsp sp="0.25"/>mL of 0.01<ce:hsp sp="0.25"/>mol/L AgNO<ce:inf loc="post">3</ce:inf> solution was gently added to 5.0<ce:hsp sp="0.25"/>mL of 50<ce:hsp sp="0.25"/>mg/mL BSA solution at room temperature under vigorous stirring. After 15<ce:hsp sp="0.25"/>min, 0.3<ce:hsp sp="0.25"/>mL of 1.0<ce:hsp sp="0.25"/>mol/L NaOH was added into the solution under continuous stirring, followed by dropwise addition of 1.0<ce:hsp sp="0.25"/>mL of fresh NaBH<ce:inf loc="post">4</ce:inf> (0.01<ce:hsp sp="0.25"/>mol/L). Then the resulting solution was stirred for 2<ce:hsp sp="0.25"/>h. The obtained solution was dialyzed using 8–14<ce:hsp sp="0.25"/>kDa dialysis bag until the conductivity of the dialysate was near that of double-distilled water. The reddish brown AgNCs solution was diluted to a constant volume of 20.0<ce:hsp sp="0.25"/>mL, and the concentration of silver nanoclusters was 0.42<ce:hsp sp="0.25"/>mg/mL according to the amount of AgNO<ce:inf loc="post">3</ce:inf>.</ce:para>
+                     <ce:para id="p0055" view="all">NCDs were prepared according to the previous method with modification [<ce:cross-ref id="cf0160" refid="bb0105">21</ce:cross-ref>]. 2.1<ce:hsp sp="0.25"/>g citric acid and 1.8<ce:hsp sp="0.25"/>g urea were dissolved in 20<ce:hsp sp="0.25"/>mL of water and sealed into a 50<ce:hsp sp="0.25"/>mL teflon equipped stainless steel autoclave. After maintaining at 180<ce:hsp sp="0.25"/>°C for 4<ce:hsp sp="0.25"/>h, the reactor was cooled to room temperature naturally. The black green NCDs solution was filtered through a 0.22<ce:hsp sp="0.25"/>μm microfiltration membrane to remove the black insoluble matter and dialyzed with 1<ce:hsp sp="0.25"/>kDa dialysis bag until the conductivity of the dialysate was near that of double-distilled water. Then the NCDs solution was stored at 4<ce:hsp sp="0.25"/>°C and diluted before further usage. The concentration of diluted NCDs solution was 1.65<ce:hsp sp="0.25"/>mg/mL according to the amount of citric acid.</ce:para>
+                     <ce:para id="p0060" view="all">Afterwards, the above prepared AgNCs and NCDs were mixed uniformly by the quality ratio of 1:10. Thus the AgNCs/NCDs nanoprobe was obtained and stored at 4<ce:hsp sp="0.25"/>°C.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="st0045">Determination of Cys in Actual Samples</ce:section-title>
+                     <ce:para id="p0065" view="all">Human urine and serum were chosen as the actual samples to evaluate the established method. The two kinds of samples were pre-treated as follows: 10.0<ce:hsp sp="0.25"/>mL of urine sample was added with a certain amount of Cys solution, and then filtered through a 0.22<ce:hsp sp="0.25"/>μm microfiltration membrane to remove insoluble matter. 4.0<ce:hsp sp="0.25"/>mL of the filtrate was diluted 25-fold with double-distilled water. 1.0<ce:hsp sp="0.25"/>mL of serum sample was added with a certain amount of Cys solution and mixed with 1.5<ce:hsp sp="0.25"/>mL acetonitrile [<ce:cross-ref id="cf0165" refid="bb0110">22</ce:cross-ref>]. After vortexing for 2<ce:hsp sp="0.25"/>min and incubating for 1<ce:hsp sp="0.25"/>h, the mixture was centrifuged at 10000<ce:hsp sp="0.25"/>rpm for 15<ce:hsp sp="0.25"/>min. The supernatant was filtered through a 0.22<ce:hsp sp="0.25"/>μm membrane and 1.0<ce:hsp sp="0.25"/>mL of the obtained solution was diluted 50-fold.</ce:para>
+                     <ce:para id="p0070" view="all">1.2<ce:hsp sp="0.25"/>mL of AgNCs/NCDs probe, 0.5<ce:hsp sp="0.25"/>mL of Cys standard solution at different concentrations, 2.0<ce:hsp sp="0.25"/>mL of 0.01<ce:hsp sp="0.25"/>mol/L PBS at pH<ce:hsp sp="0.25"/>7.4 were added to the colorimetric tubes and diluted to a constant volume of 5.0<ce:hsp sp="0.25"/>mL with double-distilled water. After incubating at 50<ce:hsp sp="0.25"/>°C for 50<ce:hsp sp="0.25"/>min, the fluorescence intensity of the mixture was measured by fluorescence spectrometer under slit width of 5<ce:hsp sp="0.25"/>nm, voltage of 700<ce:hsp sp="0.25"/>V and excitation wavelength of 370<ce:hsp sp="0.25"/>nm. The working curve was also plotted between the values of I<ce:inf loc="post">450</ce:inf>/I<ce:inf loc="post">650</ce:inf> and the concentrations of Cys. The pre-treated samples were detected according to the above method. Then the spiked samples were also measured for recovery studies. The concentrations of Cys in the actual samples were calculated by the working curve. Each experiment was repeated three times.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0030" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st0050">Results and Discussions</ce:section-title>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="st0055">Construction of the Ratiometric Nanoprobe and Mechanism</ce:section-title>
+                     <ce:para id="p0075" view="all">In this paper, a ratiometric nanoprobe was constructed by proportionally mixing two kinds of nanoparticle solutions with different fluorescence peaks. The fluorescence peak of AgNCs was observed at 650<ce:hsp sp="0.25"/>nm with excitation wavelength at 370<ce:hsp sp="0.25"/>nm (<ce:cross-ref id="cf0170" refid="f0005">Fig. 1</ce:cross-ref>a<ce:float-anchor refid="f0005"/>). In order to construct the ratiometric fluorescent probe, another fluorescence material with the excitation wavelength at about 370<ce:hsp sp="0.25"/>nm and the emission wavelength far away from 650<ce:hsp sp="0.25"/>nm was required. On account of a broad excitation peak near 370<ce:hsp sp="0.25"/>nm and strong emission peak at 450<ce:hsp sp="0.25"/>nm (<ce:cross-ref id="cf0175" refid="f0005">Fig. 1</ce:cross-ref>a), NCDs was suitable for constructing the ratiometric probe. The emission spectrum of the ratiometric nanoprobe excited at 370<ce:hsp sp="0.25"/>nm was showed in <ce:cross-ref id="cf0180" refid="f0005">Fig. 1</ce:cross-ref>b. The emission peaks of 450 and 650<ce:hsp sp="0.25"/>nm could be observed clearly, which indicated that it was feasible for combining AgNCs with NCDs as a ratiometric nanoprobe.</ce:para>
+                     <ce:para id="p0080" view="all">The luminescence mechanism of the AgNCs/NCDs probe was investigated. The fluorescence intensity at 650<ce:hsp sp="0.25"/>nm was increased in the concentrations of AgNCs from 0 to 0.17<ce:hsp sp="0.25"/>mg/mL, and slightly reduced over 0.17<ce:hsp sp="0.25"/>mg/mL because of the fluorescence self-quenching (<ce:cross-ref id="cf0185" refid="f0005">Fig. 1</ce:cross-ref>b). Simultaneously, the fluorescence intensity of AgNCs was not affected by the addition of NCDs (<ce:cross-ref id="cf0190" refid="f0005">Fig. 1</ce:cross-ref>c). However, the fluorescence intensity of NCDs was quenched gradually by increasing the concentration of AgNCs from 0 to 0.28<ce:hsp sp="0.25"/>mg/mL (<ce:cross-ref id="cf0195" refid="f0005">Fig. 1</ce:cross-ref>b). The interaction between two substances is usually characterized by the zeta potentials [<ce:cross-refs id="cf0200" refid="bb0115 bb0120 bb0125">23–25</ce:cross-refs>]. The zeta potentials of NCDs and AgNCs (Fig. S1) were −4.66<ce:hsp sp="0.25"/>mV and −22.40<ce:hsp sp="0.25"/>mV, respectively, so the interaction between AgNCs and NCDs was not static electricity. There was the overlap between the emission spectrum of NCDs and the UV–Vis spectrum of AgNCs which had a wide absorption peak covering 450<ce:hsp sp="0.25"/>nm (<ce:cross-ref id="cf0205" refid="f0005">Fig. 1</ce:cross-ref>a). It suggested that the quenching mechanism of AgNCs on NCDs might be related to FRET or IFE. The fluorescence lifetime remained almost the same after adding different concentrations of AgNCs into the NCDs solutions (<ce:cross-ref id="cf0210" refid="f0005">Fig. 1</ce:cross-ref>d and Table S1), so IFE was considered to be the quenching mechanism of the AgNCs/NCDs probe.</ce:para>
+                     <ce:para id="p0085" view="all">The detection mechanism for biothiols using this probe was explored. Cys was selected as the analyte model of biothiols. The fluorescence intensity and UV–Vis absorption of NCDs were not effected by the addition of Cys (Fig. S2). In the presence of Cys, the formation of Ag<ce:glyph name="sbnd"/>S bond resulted in the breakdown of AgNCs [<ce:cross-ref id="cf0215" refid="bb0130">26</ce:cross-ref>]. The decreased UV–Vis absorption and quenched fluorescence of AgNCs could be observed (Fig. S3). Since IFE was weakened, the fluorescence of NCDs was recovered (<ce:cross-ref id="cf0220" refid="sch0005">Scheme 1</ce:cross-ref>
+                        <ce:float-anchor refid="sch0005"/>). The fluorescence of NCDs at 450<ce:hsp sp="0.25"/>nm recovered and the fluorescence of AgNCs at 650<ce:hsp sp="0.25"/>nm declined under the addition of Cys. Thus the ratios of I<ce:inf loc="post">450</ce:inf> and I<ce:inf loc="post">650</ce:inf> enhanced accompanying with the increase of Cys concentrations. Based on this mechanism, the detection of Cys could be realized.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0040" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="st0060">The Conditions Optimization of Detecting Cys</ce:section-title>
+                     <ce:para id="p0090" view="all">In order to obtain a better response to Cys, the detection conditions were optimized. Because the emission peaks at 450 and 650<ce:hsp sp="0.25"/>nm of AgNCs/NCDs probe changed simultaneously in the presence of Cys, using the intensity ratio of the two emission peaks (I<ce:inf loc="post">450</ce:inf>/I<ce:inf loc="post">650</ce:inf>) could overcome the influence from the fluctuation of experimental conditions. Thus, I<ce:inf loc="post">450</ce:inf>/I<ce:inf loc="post">650</ce:inf> was employed for optimizing the detection conditions. Firstly, the optimum mass ratios of AgNCs and NCDs were studied when the concentrations of NCDs and Cys were 0.28<ce:hsp sp="0.25"/>mg/mL and 120<ce:hsp sp="0.25"/>μmol/L, respectively (<ce:cross-ref id="cf0225" refid="f0010">Fig. 2</ce:cross-ref>a<ce:float-anchor refid="f0010"/>). When the mass ratios of AgNCs and NCDs increased, the values of I<ce:inf loc="post">450</ce:inf>/I<ce:inf loc="post">650</ce:inf> always reduced. Due to Cys reacting with AgNCs directly, the fluorescence variations of AgNCs (△I) were served as a major indicator to optimize the mass ratios. Thus the mass ratio of 1:10 was used in the subsequent experiments. Then, the pH value was optimized from 4.0 to 9.0 in <ce:cross-ref id="cf0230" refid="f0010">Fig. 2</ce:cross-ref>b. The results displayed that the value of I<ce:inf loc="post">450</ce:inf>/I<ce:inf loc="post">650</ce:inf> reached maximum at pH<ce:hsp sp="0.25"/>7.0 and 8.0. Because the pH of biological system was mainly 7.4, 7.4 was chosen as the optimal pH. The optimization of incubation temperature was shown in <ce:cross-ref id="cf0235" refid="f0010">Fig. 2</ce:cross-ref>c, I<ce:inf loc="post">450</ce:inf>/I<ce:inf loc="post">650</ce:inf> increased gradually from 30 to 50<ce:hsp sp="0.25"/>°C and then declined from 50 to 80<ce:hsp sp="0.25"/>°C. Thus, 50<ce:hsp sp="0.25"/>°C was used as the incubation temperature. Moreover, it could be seen from <ce:cross-ref id="cf0240" refid="f0010">Fig. 2</ce:cross-ref>d that the optimum reaction time was 50<ce:hsp sp="0.25"/>min.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0045" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="st0065">The Working Curve and Selectivity</ce:section-title>
+                     <ce:para id="p0095" view="all">The working curve for biothiols was plotted under the optimal detection conditions. In <ce:cross-ref id="cf0245" refid="f0015">Fig. 3</ce:cross-ref>a<ce:float-anchor refid="f0015"/>, with increasing the concentrations of Cys, all the fluorescence curves passed the isobestic point at which the fluorescence intensity was a constant value. However, the fluorescence intensities gradually increased at 650<ce:hsp sp="0.25"/>nm and decreased at 450<ce:hsp sp="0.25"/>nm, which finally caused the enhance of I<ce:inf loc="post">450</ce:inf>/I<ce:inf loc="post">650</ce:inf> (<ce:cross-ref id="cf0250" refid="f0015">Fig. 3</ce:cross-ref>a). The value of I<ce:inf loc="post">450</ce:inf>/I<ce:inf loc="post">650</ce:inf> was proportional to the concentration of Cys in the range of 20 to 80<ce:hsp sp="0.25"/>μmol/L. The equation was I<ce:inf loc="post">450</ce:inf>/I<ce:inf loc="post">650</ce:inf>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.60C<ce:inf loc="post">Cys</ce:inf>
+                        <ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>1.86 (C<ce:inf loc="post">Cys</ce:inf>: μmol/L) with the correlation coefficient of 0.9975, and the detection limit was 0.14<ce:hsp sp="0.25"/>μmol/L at signal-to-noise ratio of 3 (<ce:cross-ref id="cf0255" refid="f0015">Fig. 3</ce:cross-ref>b). This probe was also applied to detect other biothiols such as GSH. In the concentration range of 20–80<ce:hsp sp="0.25"/>μmol/L, the linear equation for GSH was I<ce:inf loc="post">450</ce:inf>/I<ce:inf loc="post">650</ce:inf>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.17C<ce:inf loc="post">GSH</ce:inf>
+                        <ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>5.01 (C<ce:inf loc="post">GSH</ce:inf>: μmol/L) with detection limit of 0.40<ce:hsp sp="0.25"/>μmol/L and correlation coefficient of 0.9923. These results showed the probe had better sensitivity for Cys than GSH.</ce:para>
+                     <ce:para id="p0100" view="all">The selectivity of the established method was evaluated. The interference of amino acids and other coexisting substances on the detection were studied under the same conditions in <ce:cross-ref id="cf0260" refid="f0015">Fig. 3</ce:cross-ref>c and d. When the concentrations of the coexistent amino acids, ions and other substances was the same as that of Cys (120<ce:hsp sp="0.25"/>μmol/L) except acetonitrile (48<ce:hsp sp="0.25"/>mmol/L), the value of I<ce:inf loc="post">450</ce:inf>/I<ce:inf loc="post">650</ce:inf> remained nearly unchanged. It indicated that the current method had certain anti-interference ability for biothiols detection.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0050" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="st0070">Determination of Cys in Actual Samples</ce:section-title>
+                     <ce:para id="p0105" view="all">In order to investigate the application of the established method, AgNCs/NCDs nanoprobe was used to determine Cys in human urine and serum samples. The results measured by this method were consistent with those by Ellman method [<ce:cross-ref id="cf0265" refid="bb0135">27</ce:cross-ref>] in <ce:cross-ref id="cf0270" refid="t0005">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="t0005"/>. The recovery ratios of the spiked sample ranged between 95.4% and 106% with relative standard deviation (RSD) less than 2.2%. It revealed this method had good accuracy and repeatability for the detection of biothiols.</ce:para>
+                     <ce:para id="p0110" view="all">The AgNCs/NCDs probe was employed for the visual determination of biothiols. Under the UV lamp, the colors of the probe solutions transformed from pink to blue with the increasing concentration of Cys (<ce:cross-ref id="cf0275" refid="f0020">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="f0020"/>a). The color caused by 100<ce:hsp sp="0.25"/>μmol/L Cys was chosen as the referenced color, and other color could be compared with the referenced color to estimate the concentration of Cys. For example, when blue fluorescence was observed by naked eyes, it implied that the concentration of Cys was more than 100<ce:hsp sp="0.25"/>μmol/L. On the contrary, when red fluorescence was observed, the Cys concentration was below 100<ce:hsp sp="0.25"/>μmol/L. However, when AgNCs probe was used, the pink only turned lighter with increasing the concentration of Cys (<ce:cross-ref id="cf0280" refid="f0020">Fig. 4</ce:cross-ref>b). The colors change of the ratiometric nanoprobe was more noticeable. It suggested this method could be used for the visual and semi-quantitative determination of Cys without the large equipment.</ce:para>
+                     <ce:para id="p0115" view="all">In addition, the developed method was compared with other fluorescence methods [<ce:cross-refs id="cf0285" refid="bb0140 bb0145 bb0150">28–30</ce:cross-refs>], colorimetry [<ce:cross-ref id="cf0290" refid="bb0155">31</ce:cross-ref>], electrochemistry [<ce:cross-ref id="cf0295" refid="bb0160">32</ce:cross-ref>] and surface plasmon resonance [<ce:cross-ref id="cf0300" refid="bb0165">33</ce:cross-ref>] for Cys determination (<ce:cross-ref id="cf0305" refid="t0010">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="t0010"/>). It was noted that the construction of AgNCs/NCDs probe was simple, and the detection method had a relatively low detection limit. Furthermore, the semi-quantitative analysis of Cys could be achieved by observing the change of fluorescence color, which indicated that it could be used for visual detection of biothoils in real samples.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0055" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st0075">Conclusions</ce:section-title>
+                  <ce:para id="p0120" view="all">In this work, a ratiometric nanoprobe based on AgNCs with NCDs was obtained and applied to detect biothiols. The formation mechanism of the ratiometric nanoprobe was researched. The obtained procedure of this probe was easier than that of traditional ratiometric probes. Upon addition of biothiols, the fluorescence intensity of AgNCs declined while that of NCDs recovered. On the basis of the intensity ratio (I<ce:inf loc="post">450</ce:inf>/I<ce:inf loc="post">650</ce:inf>), a new method was established for the quantitative determination of biothiols. This detection method was simple, convenient and could be applied for biothiols in the real samples. Furthermore, it could realize the visual semi-quantitative determination of biothiols by naked eyes.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ac0005" view="all">
+               <ce:section-title id="st0080">Acknowledgement</ce:section-title>
+               <ce:para id="p0125" view="all">This work was supported by the <ce:grant-sponsor id="gts0005" sponsor-id="https://doi.org/10.13039/501100001809" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Natural Science Foundation of China</ce:grant-sponsor> (Nos. <ce:grant-number id="gtn0005" refid="gts0005">21575043</ce:grant-number>, <ce:grant-number id="gtn0010" refid="gts0005">21275056</ce:grant-number>, <ce:grant-number id="gtn0015" refid="gts0005">21605052</ce:grant-number>, <ce:grant-number id="gtn0020" refid="gts0005">51478196</ce:grant-number>, <ce:grant-number id="gtn0025" refid="gts0005">61574065</ce:grant-number>), <ce:grant-number id="gtn0030" refid="gts0005">IRT13064</ce:grant-number>, and the <ce:grant-sponsor id="gts0010" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Platform Construction Project of Guangzhou Science Technology and Innovation Commission</ce:grant-sponsor> (No. <ce:grant-number id="gtn0035" refid="gts0010">15180001</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section view="extended" id="s0060">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st0085">Supplementary data</ce:section-title>
+                  <ce:para id="p0130" view="all">
+                     <ce:display>
+                        <ce:e-component id="ec0005">
+                           <ce:caption id="ca0040">
+                              <ce:simple-para id="sp0055" view="all">Supplementary material</ce:simple-para>
+                           </ce:caption>
+                           <ce:alt-text role="short" id="al0045">Image 1</ce:alt-text>
+                           <ce:link id="lk0035" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" locator="mmc1" xlink:type="simple" xlink:href="pii:S1386142518301045/mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section view="compact-standard" id="s0065">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st0090">Supplementary data</ce:section-title>
+                  <ce:para id="p0135" view="all">Supplementary data to this article can be found online at <ce:inter-ref xlink:href="https://doi.org/10.1016/j.saa.2018.01.078" id="ir0005" xlink:type="simple">https://doi.org/10.1016/j.saa.2018.01.078</ce:inter-ref>.</ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0095">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kikuchi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis and biological application of chemical probes for bio-imaging</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Soc. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2048</sb:first-page>
+                              <sb:last-page>2053</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Yin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Huo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A novel ratiometric fluorescent probe based on 1, 8-naphthalimide for the detection of Ho<ce:sup loc="post">3+</ce:sup> and its bioimaging</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Spectrochim. Acta A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>174</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>230</sb:first-page>
+                              <sb:last-page>235</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Manibalan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Mani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.C.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.T.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Marchlewicz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Neethirajan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical latent redox ratiometric probes for real-time tracking and quantification of endogenous hydrogen sulfide production in living cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>96</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>233</sb:first-page>
+                              <sb:last-page>238</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Zhan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Energy transfer cassettes based on organic fluorophores: construction and applications in ratiometric sensing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Soc. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>29</sb:first-page>
+                              <sb:last-page>43</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Tian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Foley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ratiometric fluorescent probe for lysosomal pH measurement and imaging in living cells using single-wavelength excitation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7038</sb:first-page>
+                              <sb:last-page>7045</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Gong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sensitive and selective ratiometric fluorescence probes for detection of intracellular endogenous monoamine oxidase</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1440</sb:first-page>
+                              <sb:last-page>1446</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Wan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>In vivo monitoring of hydrogen sulfide using a cresyl violet-based ratiometric fluorescence probe</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>502</sb:first-page>
+                              <sb:last-page>504</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of a novel lysosome-targeted ruthenium(II) complex for phosphorescence/time-gated luminescence assay of biothiols</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4517</sb:first-page>
+                              <sb:last-page>4524</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Hang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hua</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Diketopyrrolopyrrole-based ratiometric fluorescent probe for the sensitive and selective detection of cysteine over homocysteine and glutathione in living cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>RSC Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>20014</sb:first-page>
+                              <sb:last-page>20020</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Jiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Combinatorial strategy to identify fluorescent probes for biothiol and thiophenol based on diversified pyrimidine moieties and their biological applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3015</sb:first-page>
+                              <sb:last-page>3020</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Qian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Onsite naked eye determination of cysteine and homocysteine using quencher displacement-induced fluorescence recovery of the dual-emission hybrid probes with desired intensity ratio</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>83</sb:first-page>
+                              <sb:last-page>90</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Tian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sensitive and selective ratiometric nanosensors for visual detection of Cu<ce:sup loc="post">2+</ce:sup> based on ions promoted oxidation reaction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sensors Actuators B Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>247</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>139</sb:first-page>
+                              <sb:last-page>145</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Niu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Shang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ouyang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dual-emission fluorescent sensor based on AIE organic nanoparticles and Au nanoclusters for the detection of mercury and melamine</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8457</sb:first-page>
+                              <sb:last-page>8465</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.H.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ultrasensitive colorimetric assay of cadmium ion based on silver nanoparticles functionalized with 5-sulfosalicylic acid for wide practical applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Analyst</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>140</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3507</sb:first-page>
+                              <sb:last-page>3513</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Silver nanoparticles capped with 8-hydroxyquinoline-5-sulfonate for the determination of trace aluminum in water samples and for intracellular fluorescence imaging</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microchim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>180</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1317</sb:first-page>
+                              <sb:last-page>1324</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Qi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Highly selective colorimetric assay for nickel ion using <ce:italic>N</ce:italic>-acetyl-l-cysteine-functionalized silver nanoparticles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nanopart. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Qi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Colorimetric detection of lead (II) based on silver nanoparticles capped with iminodiacetic acid</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microchim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>178</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>221</sb:first-page>
+                              <sb:last-page>227</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Mohammadi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Khayatian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Colorimetric detection of biothiols based on aggregation of chitosan-stabilized silver nanoparticles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Spectrochim. Acta A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>185</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>27</sb:first-page>
+                              <sb:last-page>34</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Q.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.B.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sensitive and selective detection of biothiols based on target-induced agglomeration of silver nanoclusters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>214</sb:first-page>
+                              <sb:last-page>218</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Cai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Shuang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Bovine serum albumin-confined silver nanoclusters as fluorometric probe for detection of biothiols</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Luminescence</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>722</sb:first-page>
+                              <sb:last-page>727</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.P.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.T.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.G.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Water-soluble, nitrogen-doped fluorescent carbon dots for highly sensitive and selective detection of Hg<ce:sup loc="post">2+</ce:sup> in aqueous solution</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>RSC Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>40393</sb:first-page>
+                              <sb:last-page>40401</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Hou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Graphitic carbon nitride nanodots: as reductant for the synthesis of silver nanoparticles and its biothiols biosensing application</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>411</sb:first-page>
+                              <sb:last-page>416</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Zohoorian-Abootorabi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Sanee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Iranfar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Saberi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chamani</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Separate and simultaneous binding effects through a non-cooperative behavior between cyclophosphamide hydrochloride and fluoxymesterone upon interaction with human serum albumin: multi-spectroscopic and molecular modeling approaches</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Spectrochim. Acta A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>177</sb:first-page>
+                              <sb:last-page>191</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="rf0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Marouzi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Rad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Beigoli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.T.</ce:given-name>
+                                 <ce:surname>Baghaee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Darban</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chamani</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Study on effect of lomefloxacin on human holo-transferrin in the presence of essential and nonessential amino acids: spectroscopic and molecular modeling approaches</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Biol. Macromol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>688</sb:first-page>
+                              <sb:last-page>699</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="rf0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Ahmadia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Moghadama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Mokaberia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Saberib</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chamani</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A comparison study of the interaction between β-lactoglobulin and retinol at two different conditions: spectroscopic and molecular modeling approaches</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Biomol. Struct. Dyn.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1880</sb:first-page>
+                              <sb:last-page>1898</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="rf0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Tay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Dou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.T.</ce:given-name>
+                                 <ce:surname>Leong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Glutathione-protected silver nanoclusters as cysteine-selective fluorometric and colorimetric probe</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1913</sb:first-page>
+                              <sb:last-page>1919</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="rf0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Baird</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Zimmerman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Yeager</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Heavy metal ion removal by thiol functionalized aluminum oxide hydroxide nanowhiskers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>416</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>565</sb:first-page>
+                              <sb:last-page>573</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="rf0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Guan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ratiometric fluorescent nanosensors for selective detecting cysteine with upconversion luminescence</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>124</sb:first-page>
+                              <sb:last-page>130</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="rf0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.R.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Q.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Miao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.X.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Novel pyrazoline-based fluorescent probe for detecting thiols and its application in cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Spectrochim. Acta A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>137</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>450</sb:first-page>
+                              <sb:last-page>455</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0150">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="rf0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>DNA-functionlized silver nanoclusters as label-free fluorescent probe for the highly sensitive detection of biothiols and acetylcholinesterase activity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sensors Actuators B Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>240</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>451</sb:first-page>
+                              <sb:last-page>458</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0155">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="rf0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.A.</ce:given-name>
+                                 <ce:surname>Kappi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Papadopoulos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.Z.</ce:given-name>
+                                 <ce:surname>Tsogas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Giokas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Low-cost colorimetric assay of biothiols based on the photochemical reduction of silver halides and consumer electronic imaging devices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Talanta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>172</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15</sb:first-page>
+                              <sb:last-page>22</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0160">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="rf0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Xing</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Novel electrochemiluminescence of silver nanoclusters fabricated on triplex DNA scaffolds for label-free detection of biothiols</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>378</sb:first-page>
+                              <sb:last-page>385</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0165">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="rf0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kuligowski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>El-Zahry</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sanchez-Illana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Quintas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Vento</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Lendl</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Surface enhanced Raman spectroscopic direct determination of low molecular weight biothiols in umbilical cord whole blood</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Analyst</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>141</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2165</sb:first-page>
+                              <sb:last-page>2174</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

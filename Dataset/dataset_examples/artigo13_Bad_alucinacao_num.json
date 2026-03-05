@@ -1,0 +1,74 @@
+{
+  "input_source": "artigo13.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "0-dimension graphene quantum dots derived from graphene domains",
+        "iupac_name": "string | null",
+        "alternative_names": [
+          "GQDs",
+          "Graphene Quantum Dots",
+          "0-dimension graphene quantum dots"
+        ]
+      },
+      "synthesis": {
+        "method": {
+          "type": "electrochemical cyclic voltammetry",
+          "conditions": "Aqueous precursor solution sealed in a Teflon-lined stainless-steel autoclave and heated at 180 °C for 6 h, followed by natural cooling to room temperature",
+          "catalysts": null
+        },
+        "precursors": {
+          "source": [
+            "reduced graphene oxide film"
+          ],
+          "dopants": null
+        },
+        "post_treatment": [
+          "dialysis for two days (MD 8000-10000 dialysis membrane)",
+          "freeze-drying"
+        ]
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": "[MISSING]",
+            "reference_material": "[MISSING]"
+          },
+          "excitation_max": "1437.72 nm",
+          "emission_max": "430 nm",
+          "fluorescence_lifetime": "4.8 ns"
+        },
+        "structural": {
+          "size": {
+            "avg": "[MISSING]",
+            "distribution": "2-3nm"
+          },
+          "morphology": "[MISSING]",
+          "crystallinity": "Fringe width is 0.21 nm"
+        },
+        "chemical": {
+          "surface_groups": [
+            "oxygen vacancies (presence of D-band in the Raman spectra)"
+          ],
+          "elemental_composition": {
+            "C": "[MISSING]",
+            "N": "[MISSING]",
+            "O": "[MISSING]"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "Photovoltaics (Dye-sensitized solar cells)",
+          "performance": "photo conversion efficiency (4.2%e4.43%), relatively better photocurrent and photo output potential difference increase",
+          "comparative_advantage": " increment in power conversion efficiency by 5.48%, when compared with those with DSSC build with just a TiO2 photoanode"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Bad",
+    "score": 2.0,
+    "expert_comment": "Numerical Hallucination: The correct value for carbon_dots -> properties -> optical -> excitation_max was '340 nm', but the model hallucinated '1437.72 nm'. | Context Hallucination: The correct synthesis -> method -> conditions was 'Potential window from -3.0 V to +3.0 V for 2000 cycles in 0.5 M sodium phosphate buffer (pH 6.8) using reduced graphene oxide (rGO) as working electrode)', but the model hallucinated 'Aqueous precursor solution sealed in a Teflon-lined stainless-steel autoclave and heated at 180 °C for 6 h, followed by natural cooling to room temperature'."
+  }
+}

@@ -1,0 +1,38 @@
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition": "Graphene Oxide Quantum Dots (GOQDs) are nano-sized, oxygen-functionalized graphene derivatives that exhibit tunable photoluminescence and strong third-order optical nonlinearities",
+            "iupac_name": null,
+            "alternative_names": ["GOQDs", "graphene oxide quantum dots"]
+        },
+        "synthesis": {
+            "method": {"type": "Commercial source", "conditions": "[MISSING]", "catalysts": "null"},
+            "precursors": {"source": "[MISSING]", "dopants": null},
+            "post_treatment": "[MISSING]"
+        },
+        "properties": {
+            "optical": {
+                "quantum_yield": {"value": "[MISSING]", "reference_material": "[MISSING]"},
+                "excitation_max": "250 nm and 450 nm (for two distinct emission bands)",
+                "emission_max": "513 nm and 540 nm",
+                "fluorescence_lifetime": "1.6 ns (for 513 nm emission) and 0.6 ns (for 540 nm emission)"
+            },
+            "structural": {
+                "size": {"avg": "< 10 nm", "distribution": "[MISSING]"},
+                "morphology": "[MISSING]",
+                "crystallinity": "[MISSING]"
+            },
+            "chemical": {
+                "surface_groups": ["hydroxyl", "epoxy", "carboxyl", "carbonyl"],
+                "elemental_composition": { "C": "[MISSING]", "N": "[MISSING]", "O": "[MISSING]" }
+            }
+        },
+        "applications": [
+            {
+                "domain": "All-optical switching",
+                "performance": "One-photon figure of merit (W) = 4.4-7.8, two-photon figure of merit (T) < 0.2 over 720-920 nm range, satisfying W > 1 and T < 1 requirements for optical switching devices. The GOQDs also show strong nonlinear refraction and weak nonlinear absorption in the wavelength range from 720nm to 920nm.",
+                "comparative_advantage": "could be used for low-cost all-optical switching devices in the near infrared region. Strong nonlinear refraction and weak nonlinear absorption in the wavelength range from 720nm to 920nm."
+            }
+        ]
+    }
+}

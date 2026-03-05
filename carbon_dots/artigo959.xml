@@ -1,0 +1,2282 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925400518306725</prism:url><dc:identifier>doi:10.1016/j.snb.2018.03.174</dc:identifier><eid>1-s2.0-S0925400518306725</eid><prism:doi>10.1016/j.snb.2018.03.174</prism:doi><pii>S0925-4005(18)30672-5</pii><dc:title>Multichannel fluorescent sensor array for discrimination of thiols using carbon dot–metal ion pairs </dc:title><prism:publicationName>Sensors and Actuators B: Chemical</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09254005</prism:issn><prism:volume>266</prism:volume><prism:startingPage>553</prism:startingPage><prism:endingPage>560</prism:endingPage><prism:pageRange>553-560</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2018-08-01</prism:coverDate><prism:coverDisplayDate>1 August 2018</prism:coverDisplayDate><prism:copyright>© 2018 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Chen, Shuai</dc:creator><dc:creator>Xu, Chun-Hua</dc:creator><dc:creator>Yu, Yong-Liang</dc:creator><dc:creator>Wang, Jian-Hua</dc:creator><dc:description>
+                  Thiols play an essential role in mediating physiological processes and maintaining balance in biological systems. Therefore, it is of great importance to develop a convenient method for detection and discrimination of thiols. In this work, a facile multichannel fluorescent sensor array was fabricated to detect and discriminate thiols based on carbon dot (CD)–metal ion pairs. The selected metal ions induced aggregation of the CD, and thus quenched their fluorescence. Different thiols exhibited different affinities for the metal ions, resulting in disaggregation or further aggregation of the CD. As a result, the fluorescence of the CD was recovered or further quenched by the addition of thiols, generating distinct fluorescence response patterns. The characteristic response patterns of seven kinds of thiols were differentiated by linear discriminant analysis at a low concentration of 1.0 μM. Moreover, the sensor array was validated by 100% accurate identification of 42 thiols in double-blind experiments, as well as in fetal bovine serum and urine. The present multichannel sensor array possesses a simple fabrication process, and may also be extended to detect and discriminate other analytes with similar chemical structures or properties.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Thiols discrimination</dcterms:subject><dcterms:subject>Carbon dot</dcterms:subject><dcterms:subject>Metal ion</dcterms:subject><dcterms:subject>Sensor array</dcterms:subject><dcterms:subject>Double-blind experiment</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925400518306725" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925400518306725" rel="scidir"/></coredata><objects><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="495" height="200" size="27242">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="113" height="151" size="5154">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-fx2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="659" height="500" size="92701">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="272" size="29118">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="602" height="446" size="63328">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="678" height="575" size="82927">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="602" height="263" size="28374">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="325" size="26015">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="602" height="277" size="46113">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="228" size="32732">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-sc1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="88" size="7043">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="fx2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="123" height="164" size="12204">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-fx2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="216" height="164" size="16414">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="159" size="9781">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="162" size="24071">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="193" height="164" size="9372">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="96" size="4729">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="171" height="164" size="6953">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="101" size="7535">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="sc1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="88" size="6761">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-sc1.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2193" height="886" size="179162">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="fx2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="500" height="667" size="48125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-fx2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2917" height="2213" size="841261">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1667" height="1208" size="203012">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2667" height="1975" size="675625">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3000" height="2543" size="609090">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2667" height="1165" size="199460">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1438" size="185445">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2667" height="1228" size="346444">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2500" height="1010" size="236522">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-sc1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="1140736">https://api.elsevier.com/content/object/eid/1-s2.0-S0925400518306725-mmc1.doc?httpAccept=%2A%2F%2A</object></objects><scopus-id>85044756701</scopus-id><scopus-eid>2-s2.0-85044756701</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85044756701" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271353</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291685</xocs:ssid>
+         <xocs:ssid type="subj">291718</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Sensors and Actuators B: Chemical</xocs:srctitle>
+      <xocs:normalized-srctitle>SENSORSACTUATORSBCHEMICAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20180330">2018-03-30</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20180330">2018-03-30</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20180416">2018-04-16</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20180416">2018-04-16</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-07-11T02:56:34</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0925400518306725</xocs:eid>
+      <xocs:pii-formatted>S0925-4005(18)30672-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0925400518306725</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.snb.2018.03.174</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0925400518X00082</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20200711">2020-07-11T02:39:13.902786Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20180801</xocs:date-search-begin>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1522439382">2018-03-30T19:49:42.950826Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor highlightsabst orcid primabst ref specialabst vitae</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0925-4005</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09254005</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>266</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>266</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 266</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>63</xocs:sort-order>
+      <xocs:first-fp>553</xocs:first-fp>
+      <xocs:last-lp>560</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>553</xocs:first-page>
+         <xocs:last-page>560</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20180801</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 August 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-08-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>General Section</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>MULTICHANNELFLUORESCENTSENSORARRAYFORDISCRIMINATIONTHIOLSUSINGCARBONDOTMETALIONPAIRS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>CHEN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Apparatus and characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Synthesis of CD</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Fluorescence quenching of CD by metal ions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Sensing procedure</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Double-blind experiments</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.7</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Analysis of real biological samples</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Principle and fabrication of the fluorescent sensor array</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation and characterizations of CD</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Optimization of sensing conditions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Response of CD–metal ion pairs to thiols and response mechanism</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Discrimination performance</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Applicability in real samples</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>202</xocs:ref-first-fp>
+            <xocs:ref-last-lp>208</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>143</xocs:ref-first-fp>
+            <xocs:ref-last-lp>153</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>REDDIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>746</xocs:ref-first-fp>
+            <xocs:ref-last-lp>754</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>COSAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>SHAHROKHIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5972</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5978</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>YIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5351</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5358</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>HYMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2333</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2356</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0040">
+            <xocs:ref-normalized-surname>FERIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15</xocs:ref-first-fp>
+            <xocs:ref-last-lp>20</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0045">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15949</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15958</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0050">
+            <xocs:ref-normalized-surname>INOUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1349</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1354</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0055">
+            <xocs:ref-normalized-surname>PEVELER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1282</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1285</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0060">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>203</xocs:ref-first-fp>
+            <xocs:ref-last-lp>207</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0065">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10902</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10909</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0070">
+            <xocs:ref-normalized-surname>WEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>556</xocs:ref-first-fp>
+            <xocs:ref-last-lp>559</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0075">
+            <xocs:ref-normalized-surname>PEVELER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1139</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1146</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0080">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>20913</xocs:ref-first-fp>
+            <xocs:ref-last-lp>20921</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0085">
+            <xocs:ref-normalized-surname>QIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9258</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9261</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0090">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7084</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7089</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0095">
+            <xocs:ref-normalized-surname>QIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1903</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1908</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0100">
+            <xocs:ref-normalized-surname>GHASEMI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>58</xocs:ref-first-fp>
+            <xocs:ref-last-lp>67</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0105">
+            <xocs:ref-normalized-surname>LEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8542</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8547</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0110">
+            <xocs:ref-normalized-surname>SUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>163</xocs:ref-first-fp>
+            <xocs:ref-last-lp>180</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0115">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>13004</xocs:ref-first-fp>
+            <xocs:ref-last-lp>13011</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0120">
+            <xocs:ref-normalized-surname>XIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>269</xocs:ref-first-fp>
+            <xocs:ref-last-lp>278</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0125">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2037</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2041</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0130">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>68</xocs:ref-first-fp>
+            <xocs:ref-last-lp>75</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0135">
+            <xocs:ref-normalized-surname>FENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>387</xocs:ref-first-fp>
+            <xocs:ref-last-lp>393</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0140">
+            <xocs:ref-normalized-surname>SUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5542</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5548</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>CHENX2018X553</xocs:refkey3>
+         <xocs:refkey4lp>CHENX2018X553X560</xocs:refkey4lp>
+         <xocs:refkey4ai>CHENX2018X553XS</xocs:refkey4ai>
+         <xocs:refkey5>CHENX2018X553X560XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2020-04-16T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2020-03-10T19:55:41.370Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+         <xocs:funding-source-document source-document-type="pii">S0925400518306725</xocs:funding-source-document>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Fundamental Research Funds for the Central Universities</xocs:funding-agency-matched-string>
+            <xocs:funding-id>N160504010</xocs:funding-id>
+            <xocs:funding-id>N151003001</xocs:funding-id>
+            <xocs:funding-agency>Fundamental Research Funds for the Central Universities</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100012226</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Natural Science Foundation of China</xocs:funding-agency-matched-string>
+            <xocs:funding-id>21605014</xocs:funding-id>
+            <xocs:funding-id>21475018</xocs:funding-id>
+            <xocs:funding-agency-acronym>NSFC</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Natural Science Foundation of China</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100001809</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>This work is financially supported by the Natural Science Foundation of China ( 21605014 and 21475018 ), and the Fundamental Research Funds for the Central Universities ( N151003001 and N160504010 ).  </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0925-4005(18)30672-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0925400518306725</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0925400518306725</xocs:eid>
+         <xocs:doi>10.1016/j.snb.2018.03.174</xocs:doi>
+         <xocs:cid>271353</xocs:cid>
+         <xocs:timestamp>2020-07-11T02:39:13.902786Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-08-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/MAIN/application/pdf/52dd129d897093740c1e1f5c4857ada9/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2773591</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0925400518306725-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/PREVIEW/image/png/0577d1abd324a9ddbd3e895329f0c0ce/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>62115</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/fx1/DOWNSAMPLED/image/jpeg/b824062f494b070708253dea450a849d/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>27242</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>495</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-fx2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/fx2/DOWNSAMPLED/image/jpeg/77b26348e7531ef2dba01caa9adb671b/fx2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx2</xocs:file-basename>
+               <xocs:filename>fx2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>5154</xocs:filesize>
+               <xocs:pixel-height>151</xocs:pixel-height>
+               <xocs:pixel-width>113</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr1/DOWNSAMPLED/image/jpeg/eca253d43e42024a28d987dca01751c8/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>92701</xocs:filesize>
+               <xocs:pixel-height>500</xocs:pixel-height>
+               <xocs:pixel-width>659</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr2/DOWNSAMPLED/image/jpeg/88e28c570340316cd8349c1df09324da/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>29118</xocs:filesize>
+               <xocs:pixel-height>272</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr3/DOWNSAMPLED/image/jpeg/5f798f79cc361952261b9b168c48479e/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>63328</xocs:filesize>
+               <xocs:pixel-height>446</xocs:pixel-height>
+               <xocs:pixel-width>602</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr4/DOWNSAMPLED/image/jpeg/70ba404cb474babb41e893e4e99a531e/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>82927</xocs:filesize>
+               <xocs:pixel-height>575</xocs:pixel-height>
+               <xocs:pixel-width>678</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr5/DOWNSAMPLED/image/jpeg/5a21c9071e4497ede983af8da006524b/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>28374</xocs:filesize>
+               <xocs:pixel-height>263</xocs:pixel-height>
+               <xocs:pixel-width>602</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr6/DOWNSAMPLED/image/jpeg/4bcc655efa980296185df46220c5a0a2/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>26015</xocs:filesize>
+               <xocs:pixel-height>325</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr7/DOWNSAMPLED/image/jpeg/73b08c67abd9d392628038b818669297/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>46113</xocs:filesize>
+               <xocs:pixel-height>277</xocs:pixel-height>
+               <xocs:pixel-width>602</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-sc1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/sc1/DOWNSAMPLED/image/jpeg/1f5e493cb6884e4675872d7ba5a6a2d2/sc1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32732</xocs:filesize>
+               <xocs:pixel-height>228</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/fx1/THUMBNAIL/image/gif/f309ad2693257610eddb75c016c1e396/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7043</xocs:filesize>
+               <xocs:pixel-height>88</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-fx2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/fx2/THUMBNAIL/image/gif/74b61567adabd74d548982304c20dab8/fx2.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx2</xocs:file-basename>
+               <xocs:filename>fx2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12204</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>123</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr1/THUMBNAIL/image/gif/aeccae5ac9cb333d525ad50bbf0c4dfa/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16414</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>216</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr2/THUMBNAIL/image/gif/4ef14bd454d31ee516aaf901cfeb49da/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9781</xocs:filesize>
+               <xocs:pixel-height>159</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr3/THUMBNAIL/image/gif/b0b1578b64731d4af2deecbab64c1cb2/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>24071</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr4/THUMBNAIL/image/gif/c0b748e596fbd1f736cc410fd1a1b3bb/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9372</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>193</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr5/THUMBNAIL/image/gif/59b1750ec15f8d51443c9705eba57f95/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4729</xocs:filesize>
+               <xocs:pixel-height>96</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr6/THUMBNAIL/image/gif/2e87635c65507ca739597170919a84b9/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6953</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>171</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr7/THUMBNAIL/image/gif/0d5aa762dec362bc031dca899dac6feb/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7535</xocs:filesize>
+               <xocs:pixel-height>101</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-sc1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/sc1/THUMBNAIL/image/gif/1ec06175e5a0ec649882425ac7f36bea/sc1.sml</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6761</xocs:filesize>
+               <xocs:pixel-height>88</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/fx1/HIGHRES/image/jpeg/e9757e308cd1d1c0e6a9cc0b9823bd9e/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>179162</xocs:filesize>
+               <xocs:pixel-height>886</xocs:pixel-height>
+               <xocs:pixel-width>2193</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-fx2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/fx2/HIGHRES/image/jpeg/6cddf24e41d4e076e2e362cb382e09a4/fx2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx2</xocs:file-basename>
+               <xocs:filename>fx2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>48125</xocs:filesize>
+               <xocs:pixel-height>667</xocs:pixel-height>
+               <xocs:pixel-width>500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr1/HIGHRES/image/jpeg/cf2774b7d8d8b850ac2e82bb650bcf84/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>841261</xocs:filesize>
+               <xocs:pixel-height>2213</xocs:pixel-height>
+               <xocs:pixel-width>2917</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr2/HIGHRES/image/jpeg/0660e215f598f3dabe32b230a831c1ab/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>203012</xocs:filesize>
+               <xocs:pixel-height>1208</xocs:pixel-height>
+               <xocs:pixel-width>1667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr3/HIGHRES/image/jpeg/85c42eb4717df06f3498e4b5ed17a40e/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>675625</xocs:filesize>
+               <xocs:pixel-height>1975</xocs:pixel-height>
+               <xocs:pixel-width>2667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr4/HIGHRES/image/jpeg/4551bda4694af3b3d6f4ea566f8e6b5e/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>609090</xocs:filesize>
+               <xocs:pixel-height>2543</xocs:pixel-height>
+               <xocs:pixel-width>3000</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr5/HIGHRES/image/jpeg/918b779f916259f6ae918a7ed92166a3/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>199460</xocs:filesize>
+               <xocs:pixel-height>1165</xocs:pixel-height>
+               <xocs:pixel-width>2667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr6/HIGHRES/image/jpeg/31d91efa2814680348cfe828085d87fe/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>185445</xocs:filesize>
+               <xocs:pixel-height>1438</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/gr7/HIGHRES/image/jpeg/e1f30c7afd21b797b9afdaf454d89ef0/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>346444</xocs:filesize>
+               <xocs:pixel-height>1228</xocs:pixel-height>
+               <xocs:pixel-width>2667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-sc1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/sc1/HIGHRES/image/jpeg/afa5bac144bde3b0605fada227ba6c93/sc1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>236522</xocs:filesize>
+               <xocs:pixel-height>1010</xocs:pixel-height>
+               <xocs:pixel-width>2500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925400518306725-mmc1.doc</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925400518306725/mmc1/MAIN/application/msword/e9775d6636e547fa454abc84b6200ac4/mmc1.doc</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.doc</xocs:filename>
+               <xocs:extension>doc</xocs:extension>
+               <xocs:filesize>1140736</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.5" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>SNB</jid>
+            <aid>24459</aid>
+            <ce:pii>S0925-4005(18)30672-5</ce:pii>
+            <ce:doi>10.1016/j.snb.2018.03.174</ce:doi>
+            <ce:copyright type="full-transfer" year="2018">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0005">
+               <ce:label>Scheme 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="spar0005" view="all">Schematic illustration of the design and fabrication process of the fluorescent sensor array for the detection and discrimination of thiols.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0080" role="short">Scheme 1</ce:alt-text>
+               <ce:link locator="sc1" xlink:href="pii:S0925400518306725/sc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0010">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="spar0010" view="all">(A) TEM images of the CD (Inset: size distribution of free CD); (B) AFM images of the CD; (C) UV–vis absorption, fluorescence excitation, and fluorescence emission spectra of an aqueous dispersion of the CD (Inset: photographs of an aqueous dispersion of CD under daylight (left) and UV light (right)); (D) Fluorescence spectra of the CD with excitation wavelengths from 300 to 360 nm.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0085" role="short">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:href="pii:S0925400518306725/gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0015">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="spar0015" view="all">Fingerprints of seven thiols (1 μM) based on the fluorescence response patterns of the five-channel CD–metal ion pair sensor array.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0090" role="short">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:href="pii:S0925400518306725/gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0020">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="spar0020" view="all">AFM images of the CD on the addition of Fe<ce:sup loc="post">3+</ce:sup> (A) and Ag<ce:sup loc="post">+</ce:sup> (B); AFM images of the CD–Fe<ce:sup loc="post">3+</ce:sup> ensemble (C) and CD–Ag<ce:sup loc="post">+</ce:sup> ensemble (D) on the addition of GSH.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0095" role="short">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:href="pii:S0925400518306725/gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0025">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="spar0025" view="all">Canonical score plots for the discrimination of the seven thiols at 1.0 μM based on the five-channel CD–metal ion pair sensor (A), the three-channel CD–metal ion pair sensor array of CD–Cu<ce:sup loc="post">2+</ce:sup>, CD–Ag<ce:sup loc="post">+</ce:sup>, and CD–Fe<ce:sup loc="post">3+</ce:sup> (B), the two-channel CD–metal ion pair sensor array of CD–Cu<ce:sup loc="post">2+</ce:sup> and CD–Ag<ce:sup loc="post">+</ce:sup> (C), and the two-channel CD–metal ion pair sensor array of CD–Ag<ce:sup loc="post">+</ce:sup> and CD–Fe<ce:sup loc="post">3+</ce:sup> (D).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0100" role="short">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:href="pii:S0925400518306725/gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0030">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="spar0030" view="all">(A) Canonical score plot for the discrimination of different concentrations (1, 3, 5, 8, and 10 μM) of GSH based on the three-channel CD–metal ion pair sensor array; (B) linear relationship for the concentration of GSH from 1 to 10 μM (error bars correspond to six parallel measurements).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0105" role="short">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:href="pii:S0925400518306725/gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0035">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="spar0035" view="all">Canonical score plot for the discrimination of thiols mixtures (Hcy/NAC = 100/0, 70/30, 50/50, 30/70, and 0/100 with a total thiol concentration of 1.0 μM) using the five-channel CD–metal ion pair sensor array.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0110" role="short">Fig. 6</ce:alt-text>
+               <ce:link locator="gr6" xlink:href="pii:S0925400518306725/gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0040">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="spar0040" view="all">Canonical score plot for the discrimination of seven thiols (5 μM) in urine (A) and fetal bovine serum (B) using the five-channel CD–metal ion pair sensor array.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0115" role="short">Fig. 7</ce:alt-text>
+               <ce:link locator="gr7" xlink:href="pii:S0925400518306725/gr7" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">Multichannel fluorescent sensor array for discrimination of thiols using carbon dot–metal ion pairs</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" author-id="S0925400518306725-53c0a4ff8646b432af191a6e4503c3a3">
+                  <ce:given-name>Shuai</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0010" author-id="S0925400518306725-1495d996b69f21fdcc588d4e4cea384d">
+                  <ce:given-name>Chun-Hua</ce:given-name>
+                  <ce:surname>Xu</ce:surname>
+                  <ce:cross-ref id="crf0010" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0015" biographyid="vt0005" orcid="0000-0001-9763-0954" author-id="S0925400518306725-11540b265095007ea12aab1ac3b1e5b7">
+                  <ce:given-name>Yong-Liang</ce:given-name>
+                  <ce:surname>Yu</ce:surname>
+                  <ce:cross-ref id="crf0015" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0020" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="aut0020" orcid="0000-0003-2175-3610" author-id="S0925400518306725-c054ee0ddc730efc6de5a934b602546a">
+                  <ce:given-name>Jian-Hua</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:cross-ref id="crf0025" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S0925400518306725-dfc9b6752ee930f48bbb9d3d1e9abebf">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>College of Life and Health Sciences, Northeastern University, Shenyang, 110169, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>College of Life and Health Sciences</sa:organization>
+                     <sa:organization>Northeastern University</sa:organization>
+                     <sa:city>Shenyang</sa:city>
+                     <sa:postal-code>110169</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010" affiliation-id="S0925400518306725-08b94df910fa63aa25c883cad18915e0">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Research Center for Analytical Sciences, Department of Chemistry, College of Sciences, Northeastern University, Box 332, Shenyang, 110819, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Research Center for Analytical Sciences</sa:organization>
+                     <sa:organization>Department of Chemistry</sa:organization>
+                     <sa:organization>College of Sciences</sa:organization>
+                     <sa:organization>Northeastern University</sa:organization>
+                     <sa:address-line>Box 332</sa:address-line>
+                     <sa:city>Shenyang</sa:city>
+                     <sa:postal-code>110819</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="26" month="11" year="2017"/>
+            <ce:date-revised day="25" month="3" year="2018"/>
+            <ce:date-accepted day="28" month="3" year="2018"/>
+            <ce:abstract id="abs0005" class="graphical" view="all">
+               <ce:section-title id="sect0005">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0045" view="all">
+                     <ce:display>
+                        <ce:figure id="fig0045">
+                           <ce:link xlink:href="pii:S0925400518306725/fx1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" locator="fx1" xlink:type="simple"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:abstract id="abs0015" view="all" class="author"><ce:abstract-sec id="abst0015" view="all">
+                  <ce:simple-para id="spar0055" view="all">Thiols play an essential role in mediating physiological processes and maintaining balance in biological systems. Therefore, it is of great importance to develop a convenient method for detection and discrimination of thiols. In this work, a facile multichannel fluorescent sensor array was fabricated to detect and discriminate thiols based on carbon dot (CD)–metal ion pairs. The selected metal ions induced aggregation of the CD, and thus quenched their fluorescence. Different thiols exhibited different affinities for the metal ions, resulting in disaggregation or further aggregation of the CD. As a result, the fluorescence of the CD was recovered or further quenched by the addition of thiols, generating distinct fluorescence response patterns. The characteristic response patterns of seven kinds of thiols were differentiated by linear discriminant analysis at a low concentration of 1.0 μM. Moreover, the sensor array was validated by 100% accurate identification of 42 thiols in double-blind experiments, as well as in fetal bovine serum and urine. The present multichannel sensor array possesses a simple fabrication process, and may also be extended to detect and discriminate other analytes with similar chemical structures or properties.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0020">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Thiols discrimination</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>Carbon dot</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>Metal ion</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Sensor array</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text>Double-blind experiment</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0005" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0025">Introduction</ce:section-title>
+                  <ce:para id="par0025" view="all">Thiols play crucial roles in various physiological functions owing to their widespread occurrence in many biologically significant molecules. Abnormal concentrations of thiols can cause aberrant physiological functions, affecting the normal metabolism of the body and leading to disease [<ce:cross-refs id="crfs0005" refid="bib0005 bib0010 bib0015">1–3</ce:cross-refs>]. For instance, abnormal blood homocysteine (Hcy) concentrations are a high risk for Alzheimer's disease, neural tube defects, osteoporosis, and inflammatory bowel disease [<ce:cross-ref id="crf0030" refid="bib0020">4</ce:cross-ref>]. Cysteine (Cys) deficiency may lead to health problems such as gray hair, weight loss, growth failure, and liver damage [<ce:cross-ref id="crf0035" refid="bib0025">5</ce:cross-ref>]. Glutathione (GSH) serves as the key regulator for the redox state of protein thiols, and maintains intracellular redox activity, xenobiotic metabolism, intracellular signal transduction, and gene regulation [<ce:cross-ref id="crf0040" refid="bib0030">6</ce:cross-ref>,<ce:cross-ref id="crf0045" refid="bib0035">7</ce:cross-ref>]. Therefore, the detection and discrimination of different thiols is important for our understanding of problems in living systems.</ce:para>
+                  <ce:para id="par0030" view="all">At present, the methods for analyzing and detecting thiols include high-performance liquid chromatography [<ce:cross-ref id="crf0050" refid="bib0040">8</ce:cross-ref>], mass spectrometry [<ce:cross-ref id="crf0055" refid="bib0045">9</ce:cross-ref>], and capillary electrophoresis [<ce:cross-ref id="crf0060" refid="bib0050">10</ce:cross-ref>]. However, these methods cannot be used for extensive detection of thiols owing to their high costs and cumbersome operation. Sensing techniques have received much attention owing to the benefits of excellent sensitivity, favorable selectivity, operational simplicity, real-time detection, and portability. Numerous sensors have already been developed for thiol detection, including GSH, Cys, and Hcy, but they exhibit a lack of specificity owing to the high similarity between different types of thiols.</ce:para>
+                  <ce:para id="par0035" view="all">Array sensors may provide a solution to this problem. Recently, sensing techniques have been split into two categories: [<ce:cross-ref id="crf0065" refid="bib0055">11</ce:cross-ref>] (1) The first category is highly specific sensing using an ideal sensor that has complete specificity for a single analyte with no response to others. However, this specificity is rarely achievable owing to the high similarity between analytes or a lack of tools for specific sensing of the target. (2) The second category is selective sensing using an array, which is often the best that can be achieved and is quite useful. Arrays have many advantages over individual sensor elements, including accuracy, diversity, and the capacity for simultaneous detection and discrimination of a series of analytes with similar structures or properties. Sensor arrays based on cross-responsive selective sensing elements have been developed to detect and discriminate diverse analytes, e.g., proteins [<ce:cross-refs id="crfs0010" refid="bib0060 bib0065 bib0070">12–14</ce:cross-refs>], explosives [<ce:cross-ref id="crf0070" refid="bib0075">15</ce:cross-ref>], and metal ions [<ce:cross-ref id="crf0075" refid="bib0080">16</ce:cross-ref>,<ce:cross-ref id="crf0080" refid="bib0085">17</ce:cross-ref>]. Although these sensor arrays with high selectivity have been developed, improvements in sensitivity are still required [<ce:cross-refs id="crfs0015" refid="bib0090 bib0095 bib0100">18–20</ce:cross-refs>]. Furthermore, very few sensor arrays have developed for the discrimination of thiols. Recently, benefiting from the high efficiency of enzyme-catalyzed reactions, a colorimetric sensor array with improved sensitivity was developed, and six kinds of thiols were successfully discriminated at a relatively low concentration of 1.0 μM [<ce:cross-ref id="crf0085" refid="bib0105">21</ce:cross-ref>]. However, such bio-enzyme reactions are high-cost, and may result in unsatisfactory stability and repeatability during massive test owing to their vulnerable activities, e.g., very sensitive to pH, temperature, chemical reagents, etc. Therefore, it is still highly desirable to construct a simple sensor array for detection and discrimination of thiols with both high selectivity and sensitivity.</ce:para>
+                  <ce:para id="par0040" view="all">In this work, a multichannel fluorescent sensor array based on carbon dot (CD)–metal ion pairs was fabricated to identify various thiols. CD can interact with metal ions because of the abundant functional groups covering their surfaces [<ce:cross-ref id="crf0090" refid="bib0110">22</ce:cross-ref>]. Metal ions were selected to assemble with the CD, resulting in the quenching of the CD fluorescence through aggregation. On the addition of thiols, different fluorescence response signals were obtained owing to the different affinities of the thiols for the various metal ions. According to the distinct changes in fluorescence of the CD, the thiols were identified and differentiated by linear discriminant analysis (LDA). The sensor array not only allowed discrimination of thiols at concentrations as low as 1.0 μM, but also realized simultaneous discrimination of a mixture of two thiols at the same concentration and at different molar ratios. In addition, quantitative detection of GSH was achieved using this array, and its potential for identifying thiols in real and double-blind samples was also demonstrated.</ce:para>
+               </ce:section>
+               <ce:section id="sec0010" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0030">Experimental</ce:section-title>
+                  <ce:section id="sec0015" role="materials-methods" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sect0035">Materials</ce:section-title>
+                     <ce:para id="par0045" view="all">Citric acid, sodium hydroxide, nitric acid, chromium(III) chloride, copper(II) chloride, iron(III) chloride, silver nitrate, lead(II) nitrate<ce:inf loc="post">,</ce:inf> cysteine (Cys), 2-mercaptoethanol (MCE), glutathione (GSH), <ce:italic>N</ce:italic>-acetylcysteine (NAC), homocysteine (Hcy), 3-mercaptopropionic acid (MPA), and mercaptoacetic acid (MAA) were purchased from Sinopharm Chemical Reagent Co. Ltd. (China). 5, 5′-dithio-bis (2-nitrobenzoic acid) (DTNB) was purchased from Sigma-Aldrich (Shanghai, China). All chemicals were of analytical grade and used without further purification. Deionized (DI) water of 18 MΩ cm was used to prepare all aqueous solutions.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sect0040">Apparatus and characterization</ce:section-title>
+                     <ce:para id="par0050" view="all">Atomic force microscopy (AFM) images were acquired on a Dimension Icon atomic force microscope (Bruker, Germany) using tapping mode with a ScanAsyst Air tip. Transmission electron microscopy (TEM) images were obtained using a transmission electron microscope (H-7650, Hitachi, Japan) at an accelerating voltage of 200 kV. Fourier-transform infrared (FT-IR) spectra were recorded on a Nicolet-6700 spectrophotometer (Thermo Electron, USA) between 400 and 4000 cm<ce:sup loc="post">−1</ce:sup>. X-ray photoelectron spectroscopy (XPS) was carried out using an ESCALAB 250 surface analysis system (Thermo Electron, USA) with an Al-K excitation source (280 eV). X-ray diffraction (XRD) patterns were recorded using an X’Pert Pro MPDDY2094 diffractometer (Panalytical B.V, Netherlands) with Cu-Kα irradiation (λ = 1.5406 Å). The surface charge properties of the CD in aqueous solution at pH 2–11 were measured using a ZEN3600 Nano Zetasizer (Malvern, UK). Ultraviolet-visible (UV–vis) absorption spectra were recorded on a U-3900 UV–vis spectrophotometer (Hitachi High Technologies, Japan) with a 1.0 cm optical path. Photoluminescence (PL) spectra were obtained using an F-7000 fluorescence spectrophotometer (Hitachi High Technologies, Japan). Fluorescence quenching and recovery experiments were performed using a Synergy H1 ELISA plate reader (BioTek, USA).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sect0045">Synthesis of CD</ce:section-title>
+                     <ce:para id="par0055" view="all">The CD were synthesized by a microwave hydrothermal method. 1.05 g of citric acid and 1.21 g of Cys were dissolved in 10 mL of DI water. Then, the mixture was sealed into a 50-mL Teflon-lined autoclave and heated in a microwave at 180 °C for 10 min. After cooling to room temperature, an orange-brown solution was obtained. The solution was dialyzed against DI water with a dialysis bag (MWCO membrane, 100–500 Da) for 24 h to remove excess precursors. The purified products were freeze-dried to obtain a uniform powder for further experiments.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sect0050">Fluorescence quenching of CD by metal ions</ce:section-title>
+                     <ce:para id="par0060" view="all">First, 400 μL of 7 μg mL<ce:sup loc="post">−1</ce:sup> CD at pH 5.0 and 400 μL of metal ions (Ag<ce:sup loc="post">+</ce:sup>, Pb<ce:sup loc="post">2+</ce:sup>, Cu<ce:sup loc="post">2+</ce:sup>, Fe<ce:sup loc="post">3+</ce:sup>, or Cr<ce:sup loc="post">3+</ce:sup>) at various concentrations within 0–20 mM in HNO<ce:inf loc="post">3</ce:inf> solution at pH 5.0 were added sequentially into a 2-mL tube. Then, after incubating at room temperature for 30 min, 200 μL of the mixed solution was transferred into a 96-well plate. The fluorescence intensity of each sample was recorded at λ<ce:inf loc="post">ex</ce:inf>/λ<ce:inf loc="post">em</ce:inf> = 350/420 nm using a Synergy H1 ELISA plate reader.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0035" view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title id="sect0055">Sensing procedure</ce:section-title>
+                     <ce:para id="par0065" view="all">The quenching process was first performed as described above: 400 μL of 7 μg mL<ce:sup loc="post">−1</ce:sup> CD in HNO<ce:inf loc="post">3</ce:inf> solution at pH 5.0 and 400 μL of metal ions (Ag<ce:sup loc="post">+</ce:sup>, Fe<ce:sup loc="post">3+</ce:sup>, Cu<ce:sup loc="post">2+</ce:sup>, Cr<ce:sup loc="post">3+</ce:sup>, or Pb<ce:sup loc="post">2+</ce:sup>) at the optimized concentration in HNO<ce:inf loc="post">3</ce:inf> solution at pH 5.0 were incubated in a 2-mL tube for 30 min at room temperature. Subsequently, the fluorescence intensity variation ((I − I<ce:inf loc="post">0</ce:inf>)/I<ce:inf loc="post">0</ce:inf>) of the working solutions at λ<ce:inf loc="post">ex</ce:inf>/λ<ce:inf loc="post">em</ce:inf> = 350/420 nm was recorded in the absence and presence of 400 μL of analyte (Cys, MCE, GSH, NAC, Hcy, MPA, or MAA) on a Synergy H1 ELISA plate reader after incubation for 60 min. Finally, the obtained data were processed using LDA in SPSS v17.0.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0040" view="all">
+                     <ce:label>2.6</ce:label>
+                     <ce:section-title id="sect0060">Double-blind experiments</ce:section-title>
+                     <ce:para id="par0070" view="all">To identify unknown samples, 300 μL of Cys with different concentrations (5, 15, 25, 35, and 50 μM) was added to the mixture solution of 200 μL of DTNB (2 mM) and 100 μL of PBS buffer (0.1 M, pH 7.4). After incubation for 5 min, the absorbance of the solution was measured. Then, a calibration curve for sulfhydryl group was obtained using Cys as the standard. For the 42 unknown samples, 300 μL of each sample was added to the mixture solution of 200 μL of DTNB (2 mM) and 100 μL of PBS buffer (0.1 M, pH 7.4). After incubation for 5 min, the absorbance of the solution was measured, and the concentration of sulfhydryl group was calculated through the calibration curve.</ce:para>
+                     <ce:para id="par0075" view="all">After determining the concentration, all the unknown samples were diluted to 1 μM. The analysis process was similar to the sensing procedure, as described in Section <ce:cross-ref id="crf0095" refid="sec0035">2.5</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0045" view="all">
+                     <ce:label>2.7</ce:label>
+                     <ce:section-title id="sect0065">Analysis of real biological samples</ce:section-title>
+                     <ce:para id="par0080" view="all">Thiol-containing analytes in biological samples, i.e., 1% (v/v) fetal bovine serum (FBS) and 10% (v/v) urine, were used as examples. The analysis process was similar to the sensing procedure, as described in Section <ce:cross-ref id="crf0100" refid="sec0035">2.5</ce:cross-ref>.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0050" role="discussion" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0070">Results and discussion</ce:section-title>
+                  <ce:section id="sec0055" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sect0075">Principle and fabrication of the fluorescent sensor array</ce:section-title>
+                     <ce:para id="par0085" view="all">Metal ions have been reported to quench the fluorescence of some CD by triggering aggregation owing to coordination interactions between the metal ions and the functional groups on the CD (e.g., amino, hydroxyl, and carboxyl groups) [<ce:cross-ref id="crf0105" refid="bib0110">22</ce:cross-ref>]. On the other hand, sulfhydryl groups (<ce:glyph name="sbnd"/>SH) are known to exhibit high affinities for metal ions [<ce:cross-ref id="crf0110" refid="bib0090">18</ce:cross-ref>,<ce:cross-ref id="crf0115" refid="bib0105">21</ce:cross-ref>]. Therefore, the presence of thiols will induce changes in the formation of CD–metal ion aggregates, and will cause variation in their fluorescence signals. Furthermore, other functional groups in thiol-containing molecules, such as hydroxyl, carboxyl, and amino groups, may give rise to differences in affinities. For each target analyte, the array of CD–metal ion pairs may render a unique response pattern, which can be further differentiated via LDA. In this work, a multichannel fluorescent sensor array was fabricated by using five kinds of CD–metal ion pairs based on the competing interactions of metal ions (i.e., Ag<ce:sup loc="post">+</ce:sup>, Fe<ce:sup loc="post">3+</ce:sup>, Cu<ce:sup loc="post">2+</ce:sup>, Cr<ce:sup loc="post">3+</ce:sup>, and Pb<ce:sup loc="post">2+</ce:sup>) with CD and thiols. The principle of the as-fabricated array is shown in <ce:cross-ref id="crf0120" refid="fig0005">Scheme 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig0005"/>. To verify the discrimination ability of the present sensor array, seven kinds of thiols (i.e., Cys, MCE, GSH, NAC, Hcy, MPA, and MAA) with different structures and functionalities were chosen as analytes. The basic chemical properties of the seven thiols used in the sensing experiments are listed in Table S1.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0060" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sect0080">Preparation and characterizations of CD</ce:section-title>
+                     <ce:para id="par0090" view="all">The CD used to construct the sensor array were prepared using a microwave hydrothermal method with citric acid and Cys as precursors. The as-prepared CD were characterized thoroughly to confirm their morphology, composition, and physical properties (<ce:cross-ref id="crf0125" refid="fig0010">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig0010"/> and Figs. S1–S4). The TEM and AFM images in <ce:cross-ref id="crf0130" refid="fig0010">Fig. 1</ce:cross-ref>A, B demonstrate that the CD are well dispersed with an average diameter of ∼16 nm and an average height of 2–3 nm. The XRD pattern (Fig. S3) shows a broad diffraction peak at 23°, revealing an amorphous carbon phase [<ce:cross-ref id="crf0135" refid="bib0115">23</ce:cross-ref>]. The surface functional groups of the CD were investigated by FT-IR spectroscopy and XPS, as shown in Fig. S1 and S2 . In the FT-IR spectrum of the CD, N<ce:glyph name="sbnd"/>H stretching vibrations and the vibrational absorption bands of C<ce:glyph name="dbnd"/>O, C<ce:glyph name="sbnd"/>O<ce:glyph name="sbnd"/>C, and O<ce:glyph name="sbnd"/>H were observed. The XPS data in Fig. S2 confirm that carbonyl, carboxyl, hydroxyl, and amide groups decorate the surface of the CD [<ce:cross-refs id="crfs0020" refid="bib0120 bib0125 bib0130">24–26</ce:cross-refs>]. The UV–vis absorption and fluorescence spectra of the CD are shown in <ce:cross-ref id="crf0140" refid="fig0010">Fig. 1</ce:cross-ref>C. A characteristic absorption peak is observed at 345 nm, which corresponds to the n–π* electron transition of carbonyl groups (C<ce:glyph name="dbnd"/>O) [<ce:cross-ref id="crf0145" refid="bib0120">24</ce:cross-ref>]. The maximum emission intensity was centered at 420 nm with an excitation wavelength of 345 nm. The quantum yield of the CD was 7.1%. As shown in <ce:cross-ref id="crf0150" refid="fig0010">Fig. 1</ce:cross-ref>D, the obtained CD show classic excitation-independent PL behavior, as the emission wavelength of the CD does not change when the excitation wavelength is varied from 300 to 360 nm. As shown in Fig. S4A, as the pH increases from 2.0 to 11.0, the zeta potential of the CD decreases gradually from −1.86 to −25.4 mV. Additionally, the decrease of pH within 5.0–2.0 causes a decrease in the fluorescence intensity of the CD. This observation indicates that the protonation states of the surface functional groups, including carbonyl, carboxyl, and amide groups, change [<ce:cross-ref id="crf0155" refid="bib0135">27</ce:cross-ref>]. These functional groups allow the as-prepared CD to chelate with various metal ions. Consequently, the as-prepared CD meet the requirements for use in the sensor array design.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0065" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sect0085">Optimization of sensing conditions</ce:section-title>
+                     <ce:para id="par0095" view="all">As the sensor array is based on the competing interactions of metal ions with CD and analytes, the appropriate concentrations of metal ions and CD are critical for the formation of CD–metal ion ensembles. Therefore, titration experiments were carried out to determine the fluorescence response of CD (pH = 5.0) to Ag<ce:sup loc="post">+</ce:sup>, Fe<ce:sup loc="post">3+</ce:sup>, Cu<ce:sup loc="post">2+</ce:sup>, Cr<ce:sup loc="post">3+</ce:sup>, and Pb<ce:sup loc="post">2+</ce:sup>. As shown in Fig. S5A, the slope of the curves for Cr<ce:sup loc="post">3+</ce:sup>, Cu<ce:sup loc="post">2+</ce:sup>, Ag<ce:sup loc="post">+</ce:sup>, Fe<ce:sup loc="post">3+</ce:sup>, and Pb<ce:sup loc="post">2+</ce:sup> were steepest within the concentration range of 0–20 mM, indicating that the quenching efficiency of the metal ions for CD fluorescence is the best in this concentration range. Taking into account the binding ability and the sensitivity of the analyte to the metal ions, 0.5 mM Cr<ce:sup loc="post">3+</ce:sup>, 1.0 mM Cu<ce:sup loc="post">2+</ce:sup>, 1.0 mM Ag<ce:sup loc="post">+</ce:sup>, 0.5 mM Fe<ce:sup loc="post">3+</ce:sup>, and 1.0 mM Pb<ce:sup loc="post">2+</ce:sup> were selected to construct the sensor array. To achieve the best sensing performance, the concentration of CD was also optimized. As shown in Fig. S5B, the CD fluorescence decreased when Cr<ce:sup loc="post">3+</ce:sup> was added to the solution, and the most sensitive fluorescence response was observed for 7 μg mL<ce:sup loc="post">−1</ce:sup> CD.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0070" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="sect0090">Response of CD–metal ion pairs to thiols and response mechanism</ce:section-title>
+                     <ce:para id="par0100" view="all">First, the effects of the thiols on the fluorescence intensity of the CD were studied. As shown in Fig. S6, the fluorescence intensity of the CD varies slightly in the presence of thiols, indicating that these analytes hardly have a significant effect on the fluorescence intensity of CD at a high concentration of 300 μM. Then, the thiols at a concentration of 1.0 μM were added to solutions of the five kinds of CD–metal ion pair. The relative fluorescence variation, i.e., (I − I<ce:inf loc="post">0</ce:inf>)/I<ce:inf loc="post">0</ce:inf>, induced by each thiol against the sensor array were recorded to construct a specific fingerprint map (<ce:cross-ref id="crf0160" refid="fig0015">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig0015"/>). The fingerprints contain relevant information about the CD–metal ion sensor array response to these thiols. For example, after the addition of thiols, the fluorescence of CD–Fe<ce:sup loc="post">3+</ce:sup> recovered, whereas the fluorescence of CD–Ag<ce:sup loc="post">+</ce:sup> was further quenched.</ce:para>
+                     <ce:para id="par0105" view="all">The fluorescence intensity of CD itself is really stable within 2 h (Fig. S4B), and particle size of CD remains virtually unchanged before and after adjusting pH value (Fig. S4C, D). To identify the response mechanism of the sensor array, AFM images of the CD–metal ion ensembles were obtained in the absence and presence of the analytes, using CD–Fe<ce:sup loc="post">3+</ce:sup> and CD–Ag<ce:sup loc="post">+</ce:sup> in the presence and absence of GSH as examples. It is obvious that the CD are well dispersed in the absence of metal ions (<ce:cross-ref id="crf0165" refid="fig0010">Fig. 1</ce:cross-ref>A, B). However, the addition of metal ions (i.e., Fe<ce:sup loc="post">3+</ce:sup> and Ag<ce:sup loc="post">+</ce:sup>) triggers aggregation of the CD to various extents, as shown in <ce:cross-ref id="crf0170" refid="fig0020">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig0020"/>A, B and Fig. S7A, B, resulting in fluorescence quenching. Subsequently, the effect of adding GSH on the morphology of the CD–metal ion ensembles was investigated. Disaggregation was realized for the CD–Fe<ce:sup loc="post">3+</ce:sup> ensembles on the addition of GSH, as shown in <ce:cross-ref id="crf0175" refid="fig0020">Fig. 3</ce:cross-ref>C and Fig. S7C, which is in good accordance with the observed fluorescence recovery. Fe<ce:sup loc="post">3+</ce:sup> ions should have a stronger affinity for GSH than for the functional groups on the CD, and thus they are displaced from the CD by adding GSH, leading to disaggregation of the CD and fluorescence recovery. On the contrary, the addition of GSH causes the CD–Ag<ce:sup loc="post">+</ce:sup> ensembles to form tighter aggregates (<ce:cross-ref id="crf0180" refid="fig0020">Fig. 3</ce:cross-ref>D and Fig. S7D), resulting in further quenching of the CD fluorescence. The effect of GSH on the CD–Ag<ce:sup loc="post">+</ce:sup> ensemble might be caused by the similar affinities of Ag<ce:sup loc="post">+</ce:sup> for GSH and the functional groups on the CD, which would allow Ag<ce:sup loc="post">+</ce:sup> and GSH to behave as a linker to connect more CD together[<ce:cross-ref id="crf0185" refid="bib0140">28</ce:cross-ref>].</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0075" view="all">
+                     <ce:label>3.5</ce:label>
+                     <ce:section-title id="sect0095">Discrimination performance</ce:section-title>
+                     <ce:para id="par0110" view="all">As shown in <ce:cross-ref id="crf0190" refid="fig0015">Fig. 2</ce:cross-ref>, the fluorescence response pattern of each thiol is unique, indicating the practicability of discrimination using the CD–metal ion sensor array. Discrimination of the thiols from each other was achieved by means of statistical analysis. For each thiol, the fluorescence responses against the sensor array were tested six times in parallel, generating a matrix of 5 metals × 7 thiols × 6 replicates. To investigate the fluorescence response pattern of the CD–metal ion array against different target thiols, classical LDA was performed to transform the matrix into canonical factors. Factor 1 accounts for 62.1% of the total variability in the data, whereas Factor 2 contributes 20.9% and Factor 3 contributes 14.0%. The first three factors contribute ∼97.0% of the total variability, whereas the first two factors contribute ∼83.0% of the total variability. The first two factors can be visualized in a two-dimensional canonical score plot, as shown in <ce:cross-ref id="crf0195" refid="fig0025">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig0025"/>A. Each thiol at 1.0 μM induces a specific array response, and is clustered into a separated group by the LDA. To further evaluate the discriminative capability of this sensor array, different concentrations of the thiols were examined. As shown in Fig. S8, all of the investigated thiols at 10 μM are separated from each other with no errors or misclassifications.</ce:para>
+                     <ce:para id="par0115" view="all">Considering the good sensing performance of the sensor array with five sensors, we tried to reduce the sensor number. The results of LDA with five probes illustrate that CD–Cu<ce:sup loc="post">2+</ce:sup>, CD–Ag<ce:sup loc="post">+</ce:sup>, and CD–Fe<ce:sup loc="post">3+</ce:sup> are the highest contributors to the thiols identification (Fig. S9A). Therefore, the first simplified sensor array was constructed using three sensor units, i.e., CD–Cu<ce:sup loc="post">2+</ce:sup>, CD–Ag<ce:sup loc="post">+</ce:sup>, and CD–Fe<ce:sup loc="post">3+</ce:sup>. The canonical score plot, as shown in <ce:cross-ref id="crf0200" refid="fig0025">Fig. 4</ce:cross-ref>B, reveals that the new sensor array can also separate the seven kinds of thiols without overlap between the clusters. The results of LDA with three probes indicate that CD–Ag<ce:sup loc="post">+</ce:sup> has the highest contribution, and the other two sensor units have the similar contribution (Fig. S9B). The sensor array was further simplified, and the new sensor array consisting of CD–Cu<ce:sup loc="post">2+</ce:sup> and CD–Ag<ce:sup loc="post">+</ce:sup>, also achieves 100% classification accuracy of the thiols (<ce:cross-ref id="crf0205" refid="fig0025">Fig. 4</ce:cross-ref>C). As shown in <ce:cross-ref id="crf0210" refid="fig0025">Fig. 4</ce:cross-ref>D, the CD–Ag<ce:sup loc="post">+</ce:sup> and CD–Fe<ce:sup loc="post">3+</ce:sup> sensor array gives a classification accuracy of 92.9%. These results clearly demonstrate that the as-fabricated sensor array is of high specificity and differentiation capability for thiols. Note that reducing the number of the sensor units has no significant effect on the working performance of the sensor array, and just two sensors are able to achieve the differentiation of seven thiols. Remarkably, <ce:cross-ref id="crf0215" refid="fig0025">Fig. 4</ce:cross-ref>A showed that the MCE and MAA groups were tangent, indicating that the limit of detection (LOD) was as low as 1.0 μM. Comparing to the CD-Ag<ce:sup loc="post">+</ce:sup> array [<ce:cross-ref id="crf0220" refid="bib0090">18</ce:cross-ref>], we also utilize the fluorescence response of CD to metal ion and thiols. However, three types of CD are needed to be prepared in their paper, along with more synthetic work than our design. In addition, the LOD of our method is obviously lower than 10 μM of the CD-Ag<ce:sup loc="post">+</ce:sup> array. It may be attributed to the larger differences among different metal ions in our system than the three carbon dots in the CD-Ag<ce:sup loc="post">+</ce:sup> array.</ce:para>
+                     <ce:para id="par0120" view="all">For further illustration, the as-developed sensor array was used to discriminate different concentrations of GSH. As shown in <ce:cross-ref id="crf0225" refid="fig0030">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig0030"/>A, good discrimination of GSH at different concentrations is achieved on a two-dimensional LDA plot. In addition, <ce:cross-ref id="crf0230" refid="fig0030">Fig. 5</ce:cross-ref>B shows a distinct linear relationship between the first discriminant factor and the concentrations of GSH ranging from 1 to 10 μM. These results are consistent with those obtained for titration of the thiols against CD–Cu<ce:sup loc="post">2+</ce:sup> CD–Ag<ce:sup loc="post">+</ce:sup>, and CD–Fe<ce:sup loc="post">3+</ce:sup>, which show linear fluorescence responses within the concentration range of 1–10 μM, as shown in Fig. S10.</ce:para>
+                     <ce:para id="par0125" view="all">Although successful discrimination of the thiols was realized at specific concentrations of 1 and 10 μM, it is far more challenging to discriminate the thiols at unknown concentrations or coexisting with other thiols. It is because that different concentrations and different molar ratios of thiols lead to alterations of the response patterns. To further test the as-developed sensor array, double-blind experiments were performed. To simplify the problem, a predetermination method was adopted for the rapid determination of the total concentration of sulfhydryl groups. The frequently used Ellman’s reagent (DTNB) reacts with the sulfhydryl groups of all seven thiols, and gives the same absorbance (Fig. S11A). A calibration curve was established using Cys as a standard for the determination of sulfhydryl groups in unknown thiol samples (Fig. S11B). After the determination of the sulfhydryl group concentration, the unknown sample was diluted to a final solution containing 1 μM sulfhydryl groups, and then analyzed using the as-developed sensor array. As shown in Table S2, all 42 blind samples were correctly identified with no false negatives. Furthermore, mixtures of Hcy and NAC with different molar ratios (Hcy/NAC = 100/0, 70/30, 50/50, 30/70, and 0/100 with a total concentration of 1.0 μM) were used to evaluate the discrimination ability of the sensor array for coexisting thiols. As shown in <ce:cross-ref id="crf0235" refid="fig0035">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig0035"/>, the five samples were distributed clearly into five independent clusters in the canonical score plot, indicating that these five binary mixtures of Hcy and NAC can be differentiated in the LDA plot.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0080" view="all">
+                     <ce:label>3.6</ce:label>
+                     <ce:section-title id="sect0100">Applicability in real samples</ce:section-title>
+                     <ce:para id="par0130" view="all">Firstly, we measured the anti-interference capability of the developed array. The common interfering agents including K<ce:sup loc="post">+</ce:sup>, Na<ce:sup loc="post">+</ce:sup>, Ca<ce:sup loc="post">2+</ce:sup>, Mg<ce:sup loc="post">2+</ce:sup>, Cl<ce:sup loc="post">−</ce:sup>, and NO<ce:inf loc="post">3</ce:inf>
+                        <ce:sup loc="post">−</ce:sup> were at the concentration of 500 μM, and other amino acids including Valine, Glycine, and Glutamate were at 50 μM. The sensing result illustrated that they are all clearly separated from the thiols (all at 5 μM) as shown in Fig. S12.</ce:para>
+                     <ce:para id="par0135" view="all">Finally, the applicability of the as-developed sensor array was demonstrated by identifying the seven thiols in biological samples. In order to eliminate matrix effects, the thiols were spiked in FBS (1% v/v) and urine (10% v/v). Then, the fluorescence response of the sensor array to each of the seven thiols at 5 μM in the presence of FBS and urine was measured. LDA revealed that the different responses of the analytes provided unique patterns that effectively classified Cys, MCE, GSH, NAC, Hcy, MPA, and MAA into seven distinct groups, as shown in <ce:cross-ref id="crf0240" refid="fig0040">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fig0040"/>A, B. Accordingly, these results clearly illustrate that the sensor array has great potential for identifying thiols in the presence of real biological samples.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0085" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0105">Conclusions</ce:section-title>
+                  <ce:para id="par0140" view="all">In summary, a fluorescence sensor array based on CD–metal ion ensembles was developed to detect and discriminate diverse thiols. The sensor array produced a variety of fluorescence response patterns owing to the disaggregation or further aggregation of the CD–metal ion ensembles caused by the addition of thiols. LDA of the distinct fingerprints clustered the patterns into different groups for each target thiol. Using this sensor array, seven thiols were successfully discriminated at a low concentration of 1.0 μM. Notably, the sensor units in the sensor array can be reduced to two without influencing the discrimination performance, indicating the high capability of this approach for thiol analysis. Furthermore, double-blind samples of thiols were identified with 100% accuracy by this sensor array in combination with the Ellman method. Moreover, this sensor array also showed good potential and anti-interference performance in complex media, e.g., FBS and urine. Improved performance, detection of more analytes, and expanded application may be achieved by adjusting the number, type, and composition of the CD–metal ion pair ensembles in the sensor array or the detection conditions.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0110">Acknowledgements</ce:section-title>
+               <ce:para id="par0145" view="all">This work is financially supported by the <ce:grant-sponsor id="gs0005" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Natural Science Foundation of China</ce:grant-sponsor> (<ce:grant-number refid="gs0005">21605014</ce:grant-number> and <ce:grant-number refid="gs0005">21475018</ce:grant-number>), and the <ce:grant-sponsor id="gs0010" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Fundamental Research Funds for the Central Universities</ce:grant-sponsor> (<ce:grant-number refid="gs0010">N151003001</ce:grant-number> and <ce:grant-number refid="gs0010">N160504010</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="sec0090" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sect0115">Supplementary data</ce:section-title>
+                  <ce:para id="par0150" view="all">Supplementary data associated with this article can be found, in the online version, at <ce:inter-ref id="intr0005" xlink:href="https://doi.org/10.1016/j.snb.2018.03.174" xlink:type="simple">https://doi.org/10.1016/j.snb.2018.03.174</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="sec0095" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sect0120">Supplementary data</ce:section-title>
+                  <ce:para id="par0155" view="all">The following is Supplementary data to this article:<ce:display>
+                        <ce:e-component id="upi0005">
+                           <ce:link xlink:href="pii:S0925400518306725/mmc1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" locator="mmc1" xlink:type="simple"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0125">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Alizarin red S/copper ion-based ensemble for fluorescence turn on detection of glutathione with tunable dynamic range</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>202</sb:first-page>
+                              <sb:last-page>208</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-N.</ce:given-name>
+                                 <ce:surname>Ong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-M.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Critical roles of intracellular thiols and calcium in parthenolide-induced apoptosis in human colorectal cancer cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Cancer Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>208</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>143</sb:first-page>
+                              <sb:last-page>153</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.G.</ce:given-name>
+                                 <ce:surname>Reddie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Carroll</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Expanding the functional diversity of proteins through cysteine oxidation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Opin. Chem. Biol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>746</sb:first-page>
+                              <sb:last-page>754</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>CoŞAr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.M.</ce:given-name>
+                                 <ce:surname>İPÇİOĞLu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ö.</ce:given-name>
+                                 <ce:surname>ÖZcan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>GÜLtepe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Folate and homocysteine metabolisms and their roles in the biochemical basis of neuropsychiatry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Turk. J. Med. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>9</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Shahrokhian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lead phthalocyanine as a selective carrier for preparation of a cysteine-selective electrode</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5972</sb:first-page>
+                              <sb:last-page>5978</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kwon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cyanine-based fluorescent probe for highly selective detection of glutathione in cell cultures and live mouse tissues</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>136</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5351</sb:first-page>
+                              <sb:last-page>5358</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Hyman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Franz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Probing oxidative stress: small molecule fluorescent sensors of metal ions, reactive oxygen species, and thiols</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Coord. Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>256</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2333</sb:first-page>
+                              <sb:last-page>2356</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ferin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Pavão</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Baptista</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Methodology for a rapid and simultaneous determination of total cysteine homocysteine, cysteinylglycine and glutathione in plasma by isocratic RP-HPLC</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chromatogr. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>911</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15</sb:first-page>
+                              <sb:last-page>20</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Rusin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.K.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.O.</ce:given-name>
+                                 <ce:surname>Escobedo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.O.</ce:given-name>
+                                 <ce:surname>Fakayode</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Detection of homocysteine and cysteine</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>127</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15949</sb:first-page>
+                              <sb:last-page>15958</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Inoue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Kirchhoff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Determination of thiols by capillary electrophoresis with amperometric detection at a coenzyme pyrroloquinoline quinone modified electrode</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>74</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1349</sb:first-page>
+                              <sb:last-page>1354</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Peveler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Yazdani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.M.</ce:given-name>
+                                 <ce:surname>Rotello</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Selectivity and specificity: Pros and cons in sensing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Sens.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1282</sb:first-page>
+                              <sb:last-page>1285</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Mao</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Near infrared fluorescent dual ligand functionalized Au NCs based multidimensional sensor array for pattern recognition of multiple proteins and serum discrimination</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>203</sb:first-page>
+                              <sb:last-page>207</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.-W.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Suspension array of ionic liquid or ionic liquid–quantum dots conjugates for the discrimination of proteins and bacteria</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10902</sb:first-page>
+                              <sb:last-page>10909</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Lou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>DNA-catalytically active gold nanoparticle conjugates-based colorimetric multidimensional sensor array for protein discrimination</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>556</sb:first-page>
+                              <sb:last-page>559</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Peveler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Roldan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Hollingsworth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Porter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.P.</ce:given-name>
+                                 <ce:surname>Parkin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Multichannel detection and differentiation of explosives with a quantum dot array</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Nano</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1139</sb:first-page>
+                              <sb:last-page>1146</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Nie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Functionalized ionic microgel sensor array for colorimetric detection and discrimination of metal ions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>20913</sb:first-page>
+                              <sb:last-page>20921</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Qiu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Pu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Ran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A DNA-based label-free artificial tongue for pattern recognition of metal ions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eur. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9258</sb:first-page>
+                              <sb:last-page>9261</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon nanodots-based fluorescent turn-on sensor array for biothiols</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7084</sb:first-page>
+                              <sb:last-page>7089</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Qian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A colorimetric indicator-displacement assay array for selective detection and identification of biological thiols</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Bioanal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>406</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1903</sb:first-page>
+                              <sb:last-page>1908</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Ghasemi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Hormozi-Nezhad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mahmoudi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A colorimetric sensor array for detection and discrimination of biothiols based on aggregation of gold nanoparticles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>882</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>58</sb:first-page>
+                              <sb:last-page>67</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Lei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ying</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Colorimetric sensor array for thiols discrimination based on urease?metal ion pairs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8542</sb:first-page>
+                              <sb:last-page>8547</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lei</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fluorescent carbon dots and their sensing applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>TrAC Trends Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>163</sb:first-page>
+                              <sb:last-page>180</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhuang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ni</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Facile microwave-assisted solid-phase synthesis of highly fluorescent nitrogen-sulfur-codoped carbon quantum dots for cellular imaging applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eur. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>13004</sb:first-page>
+                              <sb:last-page>13011</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Hai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.-W.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Simultaneously fabrication of free and solidified N, S-doped graphene quantum dots via a facile solvent-free synthesis route for fluorescent detection</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Talanta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>168</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>269</sb:first-page>
+                              <sb:last-page>278</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Tian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrothermal treatment of grass: a low-cost green route to nitrogen-doped, carbon-rich, photoluminescent polymer nanodots as an effective fluorescent sensing platform for label-free detection of Cu(II) ions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2037</sb:first-page>
+                              <sb:last-page>2041</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Green preparation of carbon dots with papaya as carbon source for effective fluorescent sensing of iron (III) and Escherichia coli</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>68</sb:first-page>
+                              <sb:last-page>75</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sbref0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.-J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Hai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-L.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Green preparation of nitrogen-doped carbon dots derived from silkworm chrysalis for cell imaging</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>387</sb:first-page>
+                              <sb:last-page>393</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sbref0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Qian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Applying carbon dots-metal ions ensembles as a multichannel fluorescent sensor array: detection and discrimination of phosphate anions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5542</sb:first-page>
+                              <sb:last-page>5548</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+            <ce:biography id="vt0005" view="all">
+               <ce:link xlink:href="pii:S0925400518306725/fx2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" locator="fx2" xlink:type="simple"/>
+               <ce:simple-para id="spar0060" view="all">
+                  <ce:bold>Yong-Liang Yu</ce:bold> received his PhD degree in Analytical Chemistry (2010) from Northeastern University, China. In 2008–2009, he worked with Professor Manuel Miro as a visiting student at University of the Balearic Islands, Spain, by developing analytical schemes for the hyphenation of micro-solid phase extraction to liquid chromatography for automatic multiresidue analysis. In 2010, he joined Department of Chemistry of Northeastern University as a lecturer, and since then he has devoted to sample pretreatment and spectroscopic analysis. He is currently a Professor in Analytical Chemistry, in the Department of Chemistry, Northeastern University. He has published more than 40 papers in peer-reviewed international journals.</ce:simple-para>
+            </ce:biography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

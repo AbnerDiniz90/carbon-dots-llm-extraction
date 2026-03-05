@@ -1,0 +1,88 @@
+{
+  "input_source": "artigo38.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "strong fluorescent carbon dots based on the pyrolysis of xylose and m-phenylenediamine(mPD)",
+        "iupac_name": null,
+        "alternative_names": [
+          "CDs",
+          "Carbon dots",
+          "Xylose-derived CDs"
+        ]
+      },
+      "synthesis": {
+        "method": {
+          "type": "microwave assisted pyrolysis",
+          "conditions": "Precursors dissolving in 10 mL of ultrapure water, then mixed with: (200mL of H3PO4 for 2-CDs and 3-CDs), (200mL of HNO3 and CH3COOH for 4-CDs and 5-CDs), (absence of acid for 6-CDs), (0.50g of Na3PO4 and 0.37g of NaOH for 7-CDs and 8-CDs); Heated in the microwave reactor at: 220°C (1-CDs, 4-CDs, 5-CDs, 6-CDs, 7-CDs, 8-CDs), 200°C (2-CDs), 180°C (3-CDs) for 10 min",
+          "catalysts": null
+        },
+        "precursors": {
+          "source": [
+            "0.1g Xylose",
+            "0.2g m-phenylenediamine (mPD)"
+          ],
+          "dopants": [
+            "Nitogen"
+          ]
+        },
+        "post_treatment": [
+          "Cooled down to room temperature",
+          "Filtration through 0.22 μm PTFE syringe filter",
+          "Dialysis using 500 Da cut off membrane for 48 h"
+        ]
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": "(73.6% 1-CDs), (56.1% 2-CDs), (40.9% 3-CDs), (65.3% 4-CDs), (49.5% 5-CDs), (42.8% 6-CDs), (8.0% 7-CDs), (6.8% 8-CDs)",
+            "reference_material": "(rhodamine 6GinEtOH : 1-CDs to 6-CDs), (quinine sulfate : 7-CDs and 8-CDs)"
+          },
+          "excitation_max": "440nm (1-CDs to 6-CDs), 320nm (7-CDs and 8-CDs)",
+          "emission_max": "518nm (1-CDs to 6-CDs); 455nm (7-CDs); 435nm (8-CDs)",
+          "fluorescence_lifetime": "(1-CDs: 0.73ns), (2-CDs: 1.33ns), (3-CDs: 0.86ns), (4-CDs: 1.50ns), (5-CDs: 1.38ns), (6-CDs: 0.81ns), (7-CDs: 6.87ns), (8-CDs: 5.03ns)"
+        },
+        "structural": {
+          "size": {
+            "avg": "6.80 nm (1-CDs), 7.23 nm (2-CDs), 6.80 nm (3-CDs), 9.88 nm (4-CDs), 8.83 nm (5-CDs), 6.87 nm (6-CDs), 16.37 nm (7-CDs), 10.70 nm (8-CDs)",
+            "distribution": "[MISSING]"
+          },
+          "morphology": "(quasi-spherical shape and excellent dispersibility for 1-CDs to 4-CDs), (irregular for 5-CDs to 8-CDs)",
+          "crystallinity": "Crystalline for 1-CDs to 4-CDs with lattice spacing of 0.34 nm corresponding to graphite (002) plane; amorphous for 5-CDs to 8-CDs"
+        },
+        "chemical": {
+          "surface_groups": [
+            "O-H",
+            "N-H(blue-CDs have almost no stretching vibration)",
+            "C-H",
+            "C=C/C=N",
+            "C-N",
+            "P-O-R",
+            "P-O-H (R = aromatic structure)",
+            "C-O-C",
+            "C=O",
+            "P-O",
+            "C-O"
+          ],
+          "elemental_composition": {
+            "C": "[MISSING]",
+            "N": "[MISSING]",
+            "O": "[MISSING]"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "Fluorescent ink for anti-counterfeit Printing and Information Encryption",
+          "performance": "1-CDs ink shows green emission at pH 3-7 and cyan emission at pH 8-11 under UV light (365 nm). Printed patterns (QR codes, text) exhibit reversible fluorescence switching when treated with dilute NaOH (blue shift) and CH₃COOH (recovery to green). High stability: negligible photobleaching after 300 min UV irradiation, thermal stability at 0ºC up to 200°C, and chemical stability against common bleachers (ethanol, methanol, soda lime).",
+          "comparative_advantage": "Renewable precursor (xylose), facile one-step synthesis, pH-tunable dual emission for advanced security features, and excellent stability compared to conventional fluorescent inks."
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Good",
+    "score": 5.0,
+    "expert_comment": "Perfect Match: The extraction captures all relevant technical details defined in the 'Extraction Scope'. Synthesis methods, precursors, and optical properties align precisely with the source text, demonstrating full compliance with the expert guidelines. | High Scientific Context: Scientific data relative to Carbon Dots was extracted with high precision. The model successfully preserved scientific context (e.g., general information and synthesis) and handled nomenclature and experimental details as requested in the 'Data Quality' section. | High Precision Extraction: Numerical values (such as Quantum Yield, Size, and Chemical) were extracted with correct units and significant figures. The model accurately reflects the quantitative data from the source text. | Applicability Verified: The extracted aplication domains align perfectly with those mentioned in the source text. The model accurately identified, listed and described all relevant application areas for the Carbon Dots used in the article. | Structural Integrity: The output matches the required JSON schema perfectly. Complex nested arrays (such as precursors/dopants and application domains) were populated correctly without truncating list items or breaking the syntax."
+  }
+}

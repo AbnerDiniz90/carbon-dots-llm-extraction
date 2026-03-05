@@ -1,0 +1,38 @@
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition": "aminated graphene QDs",
+            "iupac_name": null,
+            "alternative_names": ["AG-QDs"]
+        },
+        "synthesis": {
+            "method": {"type": "Commercial Source", "conditions": "Purchased suspended in deionized water (1000 μg/mL, pH 7.0)", "catalysts": null},
+            "precursors": {"source": "[MISSING]", "dopants":  null},
+            "post_treatment": null
+        },
+        "properties": {
+            "optical": {
+                "quantum_yield": null,
+                "excitation_max": null,
+                "emission_max": null,
+                "fluorescence_lifetime": null
+            },
+            "structural": {
+                "size": {"avg": "[MISSING]", "distribution": "4-6nm"},
+                "morphology": "well dispersed with a single layer of oxidized graphene",
+                "crystallinity": "Rich defects with D and G bands"
+            },
+            "chemical": {
+                "surface_groups":[ "C=C/C-C", "C-OH","C=O","O=C-OH",  "C-N"],
+                "elemental_composition": { "C": "[MISSING]", "N": "[MISSING]", "O": "[MISSING]" }
+            }
+        },
+        "applications": [
+            {
+                "domain": "Nanotoxicity/Genotoxicity Research",
+                "performance": "Genotoxic at 100 μg/mL (noncytotoxic dose) with 2898 differentially expressed genes",
+                "comparative_advantage": "Could contribute to the cellular recovery"
+            }
+        ]
+    }
+}

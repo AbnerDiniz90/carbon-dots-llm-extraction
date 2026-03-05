@@ -1,0 +1,42 @@
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition": "Carbon quantum dots (CQDs) synthesized from US anthracite and bituminous coals via oxidation in presence of ultrasonic stimulation",
+            "iupac_name": null,
+            "alternative_names": ["CQDs", "carbon quantum dots", "coal-derived carbon dots", "coal-based CDs"]
+        },
+        "synthesis": {
+            "method": {"type": "string", "conditions": "12 g coal mixed with 200 mL H2O2 (30%), ultra-sonicated at 40 kHz, output power of 700 W for 5-6 h at atmospheric pressure and temperature, then resultant was cooled down to room temperature and neutralized with ammonia.", "catalysts": null},
+            "precursors": {"source": ["Beneficiated sample of the Blue Gem coal(CS-1)", "Beneficiated size fractions of a blend of coal seams(CS-2, CS-3)"], "dopants": "array | null"},
+            "post_treatment":["Filtration through 0.22 μm PTFE membrane", "Ultrafiltration with 1 kDa membrane", "Concentration via rotary evaporator"]
+        },
+        "properties": {
+            "optical": {
+                "quantum_yield": {"value": "53% for CS1-CQD, 20% for CS2-CQD, and 4% for CS3-CQD.", "reference_material": "Quinine sulfate in 0.1 M H₂SO₄ (QY = 54% at 340 nm)"},
+                "excitation_max": "300nm",
+                "emission_max": "400nm",
+                "fluorescence_lifetime": null
+            },
+            "structural": {
+                "size": {"avg": "2-12nm", "distribution": "[MISSING]"},
+                "morphology": "homogeneous and spherical in shape",
+                "crystallinity": "[MISSING]"
+            },
+            "chemical": {
+                "surface_groups": ["Hydroxyl (-OH)", "Carboxyl (COOH)", "Carbonyl (C=O)", "aromatic structure with phenolic hydroxyl", "C-H"],
+                "elemental_composition": {
+                    "C": "94.5 at.% (for CS3-CQ)",
+                    "N": "[MISSING]",
+                    "O": "4.5 at.% (for CS3-CQD)"
+                }
+            }
+        },
+        "applications": [
+            {
+                "domain": "Fluorescent materials",
+                "performance": "Bright blue fluorescence under UV (365 nm), high water solubility due to oxygen functional groups, stable colloidal solutions.",
+                "comparative_advantage": "Simple, scalable synthesis from abundant coal resources. It can be considered to be an alternative and feasible method to convert coal into environmentally friendly and high-value CQDs."
+            }
+        ]
+    }
+}

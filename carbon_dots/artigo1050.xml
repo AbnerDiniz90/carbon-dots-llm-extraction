@@ -1,0 +1,2761 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0141813017346949</prism:url><dc:identifier>doi:10.1016/j.ijbiomac.2018.02.014</dc:identifier><eid>1-s2.0-S0141813017346949</eid><prism:doi>10.1016/j.ijbiomac.2018.02.014</prism:doi><pii>S0141-8130(17)34694-9</pii><dc:title>Preparation of nitrogen-doped carbon using graphene Quantum dots-chitosan as the precursor and its supercapacitive behaviors </dc:title><prism:publicationName>International Journal of Biological Macromolecules</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>01418130</prism:issn><prism:volume>112</prism:volume><prism:startingPage>561</prism:startingPage><prism:endingPage>566</prism:endingPage><prism:pageRange>561-566</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2018-06-30</prism:coverDate><prism:coverDisplayDate>June 2018</prism:coverDisplayDate><prism:copyright>© 2018 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Tan, Wensheng</dc:creator><dc:creator>Fu, Renjun</dc:creator><dc:creator>Ji, Hong</dc:creator><dc:creator>Kong, Yong</dc:creator><dc:creator>Xu, Yueguo</dc:creator><dc:creator>Qin, Yong</dc:creator><dc:description>
+                  Nitrogen-doped carbon (N-C) is pyrolytically prepared by using the nanocomposites of graphene Quantum dots (GQDs) and chitosan (CS) as the precursor. Due to the existence of GQDs nanofiller, the three-dimensional (3D) interconnected frameworks of CS are well preserved after the pyrolysis treatment; meanwhile, CS in the nanocomposites functions as nitrogen source for the N-C. The obtained N-C exhibits a considerable specific capacitance (545Fg−1 at 1Ag−1), high rate capability and excellent cyclic stability (88.9% capacitance retention after 5000cycles at 10Ag−1) when it is used as the electrode materials in supercapacitors. The well-preserved 3D frameworks and N-doping are believed to be responsible for the excellent supercapacitive behaviors of the N-C.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Nitrogen-doped carbon</dcterms:subject><dcterms:subject>Graphene Quantum dots</dcterms:subject><dcterms:subject>Chitosan</dcterms:subject><dcterms:subject>3D frameworks</dcterms:subject><dcterms:subject>Supercapacitor electrode</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0141813017346949" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0141813017346949" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="104" size="20509">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr10" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="216" height="164" size="11510">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr10.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="158" size="15986">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="208" height="164" size="15678">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="211" height="164" size="18124">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="68" height="163" size="10601">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="75" height="164" size="19261">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="101" height="164" size="19304">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="211" height="163" size="21590">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="159" size="16148">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="714" height="338" size="97731">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr10" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="296" size="23103">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr10.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="280" size="35904">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="307" size="34002">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="302" size="41100">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="313" height="751" size="58701">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="335" height="733" size="120053">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="335" height="544" size="89372">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="301" size="53409">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="282" size="32001">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1896" height="897" size="312687">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr10" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1723" height="1309" size="132944">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr10_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1723" height="1240" size="231098">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1723" height="1360" size="227387">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1723" height="1337" size="250023">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1388" height="3331" size="428891">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1486" height="3250" size="1091599">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1486" height="2412" size="860654">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1723" height="1335" size="437341">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr8_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1723" height="1248" size="201753">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-gr9_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="62" height="28" size="1077">https://api.elsevier.com/content/object/eid/1-s2.0-S0141813017346949-si1.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>85041520402</scopus-id><scopus-eid>2-s2.0-85041520402</scopus-eid><pubmed-id>29408393</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85041520402" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271248</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291847</xocs:ssid>
+         <xocs:ssid type="subj">291850</xocs:ssid>
+         <xocs:ssid type="subj">291857</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>International Journal of Biological Macromolecules</xocs:srctitle>
+      <xocs:normalized-srctitle>INTERNATIONALJOURNALBIOLOGICALMACROMOLECULES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20180203">2018-02-03</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20180203">2018-02-03</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20180226">2018-02-26</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20180226">2018-02-26</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-12-06T11:45:15</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0141813017346949</xocs:eid>
+      <xocs:pii-formatted>S0141-8130(17)34694-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0141813017346949</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ijbiomac.2018.02.014</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0141813018X00038</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20191206">2019-12-06T14:16:07.700575Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20180601</xocs:date-search-begin>
+      <xocs:date-search-end>20180630</xocs:date-search-end>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1517677155">2018-02-03T16:59:15.227242Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0141-8130</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01418130</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>112</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>112</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 112</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>67</xocs:sort-order>
+      <xocs:first-fp>561</xocs:first-fp>
+      <xocs:last-lp>566</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>561</xocs:first-page>
+         <xocs:last-page>566</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201806</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>June 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-06-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2018-06-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>PREPARATIONNITROGENDOPEDCARBONUSINGGRAPHENEQUANTUMDOTSCHITOSANPRECURSORSUPERCAPACITIVEBEHAVIORS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>TAN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>W</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Reagents and apparatus</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of nitrogen-doped carbon (N-C)</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Electrochemical measurements</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>TGA and DTG of GQDs-CS precursor</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization of N-C</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Three-dimensional (3D) interconnected structure of N-C</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Electrochemical behaviors of N-C</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Cyclic stability of N-C</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>CHAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7074</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7079</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>HAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3337</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3341</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>KABBOUR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6085</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6087</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>LAINE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>949</xocs:ref-first-fp>
+            <xocs:ref-last-lp>953</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>BALCI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>419</xocs:ref-first-fp>
+            <xocs:ref-last-lp>426</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>RODRIGUEZMIRASOL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>87</xocs:ref-first-fp>
+            <xocs:ref-last-lp>95</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3103</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3111</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>RAVIKUMAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6017</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6084</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>VARMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>77</xocs:ref-first-fp>
+            <xocs:ref-last-lp>93</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>LOTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>72</xocs:ref-first-fp>
+            <xocs:ref-last-lp>75</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>SLIWAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>667</xocs:ref-first-fp>
+            <xocs:ref-last-lp>677</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1229</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1232</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>OU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>OU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>H884</xocs:ref-first-fp>
+            <xocs:ref-last-lp>H889</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>LV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>478</xocs:ref-first-fp>
+            <xocs:ref-last-lp>485</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>DONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4738</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4743</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>DEADHIKARI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>27347</xocs:ref-first-fp>
+            <xocs:ref-last-lp>27355</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>555</xocs:ref-first-fp>
+            <xocs:ref-last-lp>560</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>169</xocs:ref-first-fp>
+            <xocs:ref-last-lp>173</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>SAMUELS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1081</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1105</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0110">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4015</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4039</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0115">
+            <xocs:ref-normalized-surname>TAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2544</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2546</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0120">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>776</xocs:ref-first-fp>
+            <xocs:ref-last-lp>780</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0125">
+            <xocs:ref-normalized-surname>SAHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>244</xocs:ref-first-fp>
+            <xocs:ref-last-lp>253</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0130">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>92</xocs:ref-first-fp>
+            <xocs:ref-last-lp>98</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0135">
+            <xocs:ref-normalized-surname>WYRZYKOWSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>731</xocs:ref-first-fp>
+            <xocs:ref-last-lp>735</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0140">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15913</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15919</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0145">
+            <xocs:ref-normalized-surname>SALUNKHE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6288</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6296</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0150">
+            <xocs:ref-normalized-surname>DAEMS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4085</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4110</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0155">
+            <xocs:ref-normalized-surname>JUREWICZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2368</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2375</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0160">
+            <xocs:ref-normalized-surname>QIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2497</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2504</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0165">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>20234</xocs:ref-first-fp>
+            <xocs:ref-last-lp>20244</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0170">
+            <xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3041</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3045</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>TANX2018X561</xocs:refkey3>
+         <xocs:refkey4lp>TANX2018X561X566</xocs:refkey4lp>
+         <xocs:refkey4ai>TANX2018X561XW</xocs:refkey4ai>
+         <xocs:refkey5>TANX2018X561X566XW</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2019-02-26T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2019-03-16T01:12:58.723Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+         <xocs:funding-source-document source-document-type="pii">S0141813017346949</xocs:funding-source-document>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Natural Science Foundation of Jiangsu Province</xocs:funding-agency-matched-string>
+            <xocs:funding-id>BK20171194</xocs:funding-id>
+            <xocs:funding-id>BK20150269</xocs:funding-id>
+            <xocs:funding-agency>Natural Science Foundation of Jiangsu Province</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100004608</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Priority Academic Program Development of Jiangsu Higher Education Institutions</xocs:funding-agency-matched-string>
+            <xocs:funding-agency>Priority Academic Program Development of Jiangsu Higher Education Institutions</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100012246</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>PAPD</xocs:funding-agency-matched-string>
+            <xocs:funding-agency>Priority Academic Program Development of Jiangsu Higher Education Institutions</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100012246</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Future Research Project of Jiangsu Province</xocs:funding-agency-matched-string>
+            <xocs:funding-id>BE2017088</xocs:funding-id>
+            <xocs:funding-id>CM20153001</xocs:funding-id>
+            <xocs:funding-agency>Graduate Research and Innovation Projects of Jiangsu Province</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100012154</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>The authors are grateful to the financial supports from Natural Science Foundation of Jiangsu Province ( BK20171194 , BK20150269 ), Future Research Project of Jiangsu Province ( BE2017088 ), Changzhou high-tech Key Laboratory ( CM20153001 ) and Priority Academic Program Development of Jiangsu Higher Education Institutions (PAPD).  </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0141-8130(17)34694-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0141813017346949</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0141813017346949</xocs:eid>
+         <xocs:doi>10.1016/j.ijbiomac.2018.02.014</xocs:doi>
+         <xocs:cid>271248</xocs:cid>
+         <xocs:timestamp>2019-12-06T14:16:07.700575Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-06-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2018-06-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/MAIN/application/pdf/8b1301b43fb2e46a153c15ed8685ce62/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2753560</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0141813017346949-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/PREVIEW/image/png/5ff898b1f07856e0b4ed748e5ddbab79/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>58691</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr1/THUMBNAIL/image/gif/536f9a4c5ea6740e03dedadd1a5f0f57/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>20509</xocs:filesize>
+               <xocs:pixel-height>104</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr10.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr10/THUMBNAIL/image/gif/146c8b5e1409a89e516e939768f78933/gr10.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11510</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>216</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr2/THUMBNAIL/image/gif/58552f102f4111be391349f047699f25/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15986</xocs:filesize>
+               <xocs:pixel-height>158</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr3/THUMBNAIL/image/gif/5465ea7471e6c675684b3f2a4ca18e87/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15678</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>208</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr4/THUMBNAIL/image/gif/8a421825b971ba0d62c1a21b4e0bbcac/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18124</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>211</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr5/THUMBNAIL/image/gif/c6c544a86fd22692221e067fa8698848/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10601</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>68</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr6/THUMBNAIL/image/gif/60da3a298abd69e3a78c40dfad73ee2b/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>19261</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>75</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr7/THUMBNAIL/image/gif/4c1b6ef52ccbfb532def6e572be65151/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>19304</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>101</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr8/THUMBNAIL/image/gif/21922edfdcf706099ccc668ac4b288b6/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>21590</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>211</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr9/THUMBNAIL/image/gif/28d06850dbcad8bc97837860f6b06c95/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16148</xocs:filesize>
+               <xocs:pixel-height>159</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr1/DOWNSAMPLED/image/jpeg/c2b01685d1f31cd5fcbaa60b49c14622/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>97731</xocs:filesize>
+               <xocs:pixel-height>338</xocs:pixel-height>
+               <xocs:pixel-width>714</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr10.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr10/DOWNSAMPLED/image/jpeg/ea3d566135dbc4040c6af60ed3b1e066/gr10.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>23103</xocs:filesize>
+               <xocs:pixel-height>296</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr2/DOWNSAMPLED/image/jpeg/16ba46bbb1165d9c51f2563de9de16fd/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>35904</xocs:filesize>
+               <xocs:pixel-height>280</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr3/DOWNSAMPLED/image/jpeg/1ca03dfcebaa7bb64bcafb03f645492f/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34002</xocs:filesize>
+               <xocs:pixel-height>307</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr4/DOWNSAMPLED/image/jpeg/e3b776802dd263a17090e7d156d01083/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>41100</xocs:filesize>
+               <xocs:pixel-height>302</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr5/DOWNSAMPLED/image/jpeg/2102adda5b66da45e5527383ef8cb6b9/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>58701</xocs:filesize>
+               <xocs:pixel-height>751</xocs:pixel-height>
+               <xocs:pixel-width>313</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr6/DOWNSAMPLED/image/jpeg/63bf8cbe24c5d40947cf016812c87815/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>120053</xocs:filesize>
+               <xocs:pixel-height>733</xocs:pixel-height>
+               <xocs:pixel-width>335</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr7/DOWNSAMPLED/image/jpeg/f616d669b776ae288930f92b5abdedb4/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>89372</xocs:filesize>
+               <xocs:pixel-height>544</xocs:pixel-height>
+               <xocs:pixel-width>335</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr8/DOWNSAMPLED/image/jpeg/529a3d3653076c86f1bb38038debbb1b/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>53409</xocs:filesize>
+               <xocs:pixel-height>301</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr9/DOWNSAMPLED/image/jpeg/72f59e0ead5f26850c23c7511c06201f/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32001</xocs:filesize>
+               <xocs:pixel-height>282</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr1/HIGHRES/image/jpeg/a16df976a60d5767917967aebafe4048/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>312687</xocs:filesize>
+               <xocs:pixel-height>897</xocs:pixel-height>
+               <xocs:pixel-width>1896</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr10_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr10/HIGHRES/image/jpeg/2724fd9fcd0d56e80a0274a99e8f3ce0/gr10_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>132944</xocs:filesize>
+               <xocs:pixel-height>1309</xocs:pixel-height>
+               <xocs:pixel-width>1723</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr2/HIGHRES/image/jpeg/e003bb246edb267912e8a987a1e46f89/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>231098</xocs:filesize>
+               <xocs:pixel-height>1240</xocs:pixel-height>
+               <xocs:pixel-width>1723</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr3/HIGHRES/image/jpeg/cb952b9f48e118e99a76622b14c2d2a6/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>227387</xocs:filesize>
+               <xocs:pixel-height>1360</xocs:pixel-height>
+               <xocs:pixel-width>1723</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr4/HIGHRES/image/jpeg/9a404d2bf5ff08865e42ed1258ac5e4d/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>250023</xocs:filesize>
+               <xocs:pixel-height>1337</xocs:pixel-height>
+               <xocs:pixel-width>1723</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr5/HIGHRES/image/jpeg/663cd28f1a742a5c34c3490d91946723/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>428891</xocs:filesize>
+               <xocs:pixel-height>3331</xocs:pixel-height>
+               <xocs:pixel-width>1388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr6/HIGHRES/image/jpeg/5b21d4f853c334e77da1f805e91a30b9/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1091599</xocs:filesize>
+               <xocs:pixel-height>3250</xocs:pixel-height>
+               <xocs:pixel-width>1486</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr7/HIGHRES/image/jpeg/ea34fd5f1bc8bfc03d972dcfd3b88210/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>860654</xocs:filesize>
+               <xocs:pixel-height>2412</xocs:pixel-height>
+               <xocs:pixel-width>1486</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr8_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr8/HIGHRES/image/jpeg/155b4df27b4675f5005e088958e63e3a/gr8_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>437341</xocs:filesize>
+               <xocs:pixel-height>1335</xocs:pixel-height>
+               <xocs:pixel-width>1723</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-gr9_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/gr9/HIGHRES/image/jpeg/bde390feef61079375c5feabb7422b3c/gr9_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>201753</xocs:filesize>
+               <xocs:pixel-height>1248</xocs:pixel-height>
+               <xocs:pixel-width>1723</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141813017346949-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141813017346949/STRIPIN/image/gif/4eaf964f8af9c09fe5809b4d86f9a826/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1077</xocs:filesize>
+               <xocs:pixel-height>28</xocs:pixel-height>
+               <xocs:pixel-width>62</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.5" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>BIOMAC</jid>
+            <aid>9068</aid>
+            <ce:pii>S0141-8130(17)34694-9</ce:pii>
+            <ce:doi>10.1016/j.ijbiomac.2018.02.014</ce:doi>
+            <ce:copyright type="full-transfer" year="2018">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="ca0005">
+                  <ce:simple-para id="sp0005" view="all">Schematic illustration showing the preparation of N-C using GQDs-CS as the precursor.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0005">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:type="simple" xlink:href="pii:S0141813017346949/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="ca0010">
+                  <ce:simple-para id="sp0010" view="all">TGA and DTG of the GQDs-CS precursor in nitrogen atmosphere at the rate of 20<ce:hsp sp="0.25"/>°C<ce:hsp sp="0.25"/>min<ce:sup loc="post">−1</ce:sup>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0010">Fig. 2</ce:alt-text>
+               <ce:link id="lk0010" locator="gr2" xlink:type="simple" xlink:href="pii:S0141813017346949/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="ca0015">
+                  <ce:simple-para id="sp0015" view="all">XRD patterns of N-C and the GQDs-CS precursor.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0015">Fig. 3</ce:alt-text>
+               <ce:link id="lk0015" locator="gr3" xlink:type="simple" xlink:href="pii:S0141813017346949/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="ca0020">
+                  <ce:simple-para id="sp0020" view="all">FT-IR spectra of N-C and GQDs-CS.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0020">Fig. 4</ce:alt-text>
+               <ce:link id="lk0020" locator="gr4" xlink:type="simple" xlink:href="pii:S0141813017346949/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="ca0025">
+                  <ce:simple-para id="sp0025" view="all">(A) Full XPS spectra of N-C and GQDs-CS. High resolution C 1s (B) and N 1s (C) XPS spectra of N-C.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0025">Fig. 5</ce:alt-text>
+               <ce:link id="lk0025" locator="gr5" xlink:type="simple" xlink:href="pii:S0141813017346949/gr5" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="ca0030">
+                  <ce:simple-para id="sp0030" view="all">FESEM images of GQDs-CS (A), N-C (B) and carbon from the pyrolysis of CS alone (C).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0030">Fig. 6</ce:alt-text>
+               <ce:link id="lk0030" locator="gr6" xlink:type="simple" xlink:href="pii:S0141813017346949/gr6" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="ca0035">
+                  <ce:simple-para id="sp0035" view="all">TEM images of GQDs-CS (A) and N-C (B).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0035">Fig. 7</ce:alt-text>
+               <ce:link id="lk0035" locator="gr7" xlink:type="simple" xlink:href="pii:S0141813017346949/gr7" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0040">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="ca0040">
+                  <ce:simple-para id="sp0040" view="all">Cyclic voltammograms of N-C at varying scan rates in 1<ce:hsp sp="0.25"/>M H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0040">Fig. 8</ce:alt-text>
+               <ce:link id="lk0040" locator="gr8" xlink:type="simple" xlink:href="pii:S0141813017346949/gr8" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0045">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption id="ca0045">
+                  <ce:simple-para id="sp0045" view="all">Galvanostatic charge/discharge curves of N-C in 1<ce:hsp sp="0.25"/>M H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> at different current densities of 1, 2, 3, 5, 10 and 20<ce:hsp sp="0.25"/>A<ce:hsp sp="0.25"/>g<ce:sup loc="post">−1</ce:sup>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0045">Fig. 9</ce:alt-text>
+               <ce:link id="lk0045" locator="gr9" xlink:type="simple" xlink:href="pii:S0141813017346949/gr9" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0050">
+               <ce:label>Fig. 10</ce:label>
+               <ce:caption id="ca0050">
+                  <ce:simple-para id="sp0050" view="all">Cyclic stability testing of N-C for 5000<ce:hsp sp="0.25"/>cycles in 1<ce:hsp sp="0.25"/>M H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0050">Fig. 10</ce:alt-text>
+               <ce:link id="lk0050" locator="gr10" xlink:type="simple" xlink:href="pii:S0141813017346949/gr10" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="ti0005">Preparation of nitrogen-doped carbon using graphene Quantum dots-chitosan as the precursor and its supercapacitive behaviors</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S0141813017346949-6a7e5764054857a3f2737b58745cf1a8">
+                  <ce:given-name>Wensheng</ce:given-name>
+                  <ce:surname>Tan</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0010" id="cf0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0010" author-id="S0141813017346949-7a6a42dfba5ac6d71262e79e7f70d565">
+                  <ce:given-name>Renjun</ce:given-name>
+                  <ce:surname>Fu</ce:surname>
+                  <ce:cross-ref refid="af0015" id="cf0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0015" author-id="S0141813017346949-0e0605000ae949a0ee6003333bd7ac11">
+                  <ce:given-name>Hong</ce:given-name>
+                  <ce:surname>Ji</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0020" author-id="S0141813017346949-17ea24168157d86e6ccedf13140c979c">
+                  <ce:given-name>Yong</ce:given-name>
+                  <ce:surname>Kong</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0025">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005" id="cf0030">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0025" author-id="S0141813017346949-4680b9ab611d74e860ddbd57d6200a5a">
+                  <ce:given-name>Yueguo</ce:given-name>
+                  <ce:surname>Xu</ce:surname>
+                  <ce:cross-ref refid="af0015" id="cf0035">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0030" author-id="S0141813017346949-6106d193529bd734cfc638321597bfa5">
+                  <ce:given-name>Yong</ce:given-name>
+                  <ce:surname>Qin</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0040">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af0005" affiliation-id="S0141813017346949-949a661ffc74eddd4f3ebcd6ff7fc6c8">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0005">Advanced Catalysis and Green Manufacturing Collaborative Innovation Center, School of Petrochemical Engineering, Changzhou University, Changzhou 213164, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Advanced Catalysis and Green Manufacturing Collaborative Innovation Center</sa:organization>
+                     <sa:organization>School of Petrochemical Engineering</sa:organization>
+                     <sa:organization>Changzhou University</sa:organization>
+                     <sa:city>Changzhou</sa:city>
+                     <sa:postal-code>213164</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0010" affiliation-id="S0141813017346949-df8f450efffadb5f96021a69d454b30f">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0010">Changzhou Key Laboratory of Large Plastic Parts Intelligence Manufacturing, Changzhou College of Information Technology, Changzhou 213164, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Changzhou Key Laboratory of Large Plastic Parts Intelligence Manufacturing</sa:organization>
+                     <sa:organization>Changzhou College of Information Technology</sa:organization>
+                     <sa:city>Changzhou</sa:city>
+                     <sa:postal-code>213164</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0015" affiliation-id="S0141813017346949-e6f1a24487d5a192eaaaa25253f7cf5d">
+                  <ce:label>c</ce:label>
+                  <ce:textfn id="tn0015">Changshu Changel Chemical Co., LTD., Changshu 215522, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Changshu Changel Chemical Co., LTD.</sa:organization>
+                     <sa:city>Changshu</sa:city>
+                     <sa:postal-code>215522</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx0005">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="26" month="11" year="2017"/>
+            <ce:date-revised day="28" month="1" year="2018"/>
+            <ce:date-accepted day="2" month="2" year="2018"/>
+            <ce:abstract id="ab0005" xml:lang="en" view="all" class="author"><ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0055" view="all">Nitrogen-doped carbon (N-C) is pyrolytically prepared by using the nanocomposites of graphene Quantum dots (GQDs) and chitosan (CS) as the precursor. Due to the existence of GQDs nanofiller, the three-dimensional (3D) interconnected frameworks of CS are well preserved after the pyrolysis treatment; meanwhile, CS in the nanocomposites functions as nitrogen source for the N-C. The obtained N-C exhibits a considerable specific capacitance (545<ce:hsp sp="0.25"/>F<ce:hsp sp="0.25"/>g<ce:sup loc="post">−1</ce:sup> at 1<ce:hsp sp="0.25"/>A<ce:hsp sp="0.25"/>g<ce:sup loc="post">−1</ce:sup>), high rate capability and excellent cyclic stability (88.9% capacitance retention after 5000<ce:hsp sp="0.25"/>cycles at 10<ce:hsp sp="0.25"/>A<ce:hsp sp="0.25"/>g<ce:sup loc="post">−1</ce:sup>) when it is used as the electrode materials in supercapacitors. The well-preserved 3D frameworks and N-doping are believed to be responsible for the excellent supercapacitive behaviors of the N-C.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords id="ks0005" view="all" class="keyword">
+               <ce:section-title id="st0015">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text id="tx0010">Nitrogen-doped carbon</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0015">Graphene Quantum dots</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0020">Chitosan</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text id="tx0025">3D frameworks</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text id="tx0030">Supercapacitor electrode</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st0020">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">Porous materials with three-dimensional (3D) interconnected ordered structure have been extensively utilized in various industrial processes [<ce:cross-ref id="cf0045" refid="bb0005">1</ce:cross-ref>]. Among the porous materials, porous carbon is one of the promising candidates, which is technically important for a variety of applications such as double-layer capacitors, catalyst supports, adsorption and separation systems, hydrogen storage materials and electrochemical sensors [<ce:cross-refs id="cf0050" refid="bb0010 bb0015 bb0020">2–4</ce:cross-refs>]. In general, porous carbon is prepared via carbonization of various raw materials, and the commonly used raw materials in commercial practice are biomass materials such as coconut shell [<ce:cross-ref id="cf0055" refid="bb0025">5</ce:cross-ref>], hazelnut shell [<ce:cross-ref id="cf0060" refid="bb0030">6</ce:cross-ref>] and eucalyptus kraft lignin [<ce:cross-ref id="cf0065" refid="bb0035">7</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0030" view="all">Chitosan (CS) is one of the most plentiful nature polysaccharides on earth, and it has attracted increasing attention in the fields of biomedical and tissue engineering owing to its excellent biocompatibility, non-toxicity and biodegradability [<ce:cross-refs id="cf0070" refid="bb0040 bb0045 bb0050">8–10</ce:cross-refs>]. More recently, nitrogen-containing CS-based carbon as an electrode material for high-performance supercapacitors have been reported [<ce:cross-ref id="cf0075" refid="bb0055">11</ce:cross-ref>,<ce:cross-ref id="cf0080" refid="bb0060">12</ce:cross-ref>]. However, the extensive applications of porous carbon from calcined CS as the electrode materials in supercapacitors still remain a challenging task, which is probably due to the lack of 3D interconnected porous framework in the resultant porous carbon.</ce:para>
+                  <ce:para id="p0035" view="all">Graphene Quantum dots (GQDs) are a class of “zero-dimensional” carbon materials, and they exhibit similar properties to graphene since GQDs belong to graphene sheets smaller than 100<ce:hsp sp="0.25"/>nm [<ce:cross-ref id="cf0085" refid="bb0065">13</ce:cross-ref>]. That is to say, GQDs also possess extraordinary mechanical flexibility and chemical stability, and the two outstanding properties of GQDs make it a promising candidate used as nanofillers in the preparation of nanocomposites. Recently, the nanocomposites of CS and GQDs were successfully synthesized by our group [<ce:cross-refs id="cf0090" refid="bb0070 bb0075 bb0080">14–16</ce:cross-refs>], in which the GQDs function as the nanofillers and can be well-dispersed within the CS matrix.</ce:para>
+                  <ce:para id="p0040" view="all">Inspired by the well-dispersed status of GQDs nanofillers in the CS matrix, porous carbon is pyrolytically prepared by using the nanocomposites of GQDs and CS (GQDs-CS) as the precursor in this work, and the as-prepared porous carbon exhibits a 3D interconnected framework. In addition, CS in the precursor can function as the nitrogen source for doping. The obtained nitrogen-doped carbon (N-C) is further applied as the supercapacitor electrodes and exhibits excellent supercapacitive behaviors including specific capacitance, rate capability and cyclic stability, which can be ascribed to the well-preserved 3D interconnected frameworks in the resultant N-C as well as nitrogen-doping.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st0025">Experimental</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="st0030">Reagents and apparatus</ce:section-title>
+                     <ce:para id="p0045" view="all">Chitosan (CS, 85% deacetylation degree), citric acid monohydrate and other reagents not mentioned were purchased from Sinopharm Chemical Reagent Co., Ltd. (SCRC, China). All aqueous solutions were prepared with ultrapure water of 18.2<ce:hsp sp="0.25"/>MΩ (Milli-Q, Millipore).</ce:para>
+                     <ce:para id="p0050" view="all">Thermogravimetric analysis (TGA) and differential thermogravimetric analysis (DTG) were carried on a TG 209 F3 thermal analyzer (Netzsch, Germany) in nitrogen atmosphere (20<ce:hsp sp="0.25"/>°C<ce:hsp sp="0.25"/>min<ce:sup loc="post">−1</ce:sup>). The X-ray diffraction (XRD) patterns and the Fourier transform infrared (FT-IR) spectra of N-C and GQDs-CS were recorded on a D/max 2500PC diffractometer (Rigaku, Japan) and a FTIR-8400S spectrometer (Shimadzu, Japan), respectively. X-ray photoelectron spectroscopy (XPS) was carried out on an ESCALAB 250Xi spectrometer (Thermo Fisher Scientific, USA). The morphologies of N-C and GQDs-CS were characterized with a Supra55 field-emission scanning electron microscope (FESEM, Zeiss, Germany) and a JEM 2100 transmission electron microscope (TEM, JEOL, Japan), respectively. All the electrochemical measurements including cyclic voltammetry (CV) and galvanostatic charge/discharge (GCD) curves were performed on a CHI 660E electrochemical workstation.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="st0035">Preparation of nitrogen-doped carbon (N-C)</ce:section-title>
+                     <ce:para id="p0055" view="all">According to the bottom-up method previously reported [<ce:cross-ref id="cf0095" refid="bb0085">17</ce:cross-ref>], GODs were prepared by using citric acid as the precursor. 2<ce:hsp sp="0.25"/>g of citric acid monohydrate was put into a crucible and heated to 200<ce:hsp sp="0.25"/>°C in a muffle furnace. After 30<ce:hsp sp="0.25"/>min, the products (GODs) were cooled down to room temperature and then dissolved in 10<ce:hsp sp="0.25"/>mL of water under sonification. Next, 20<ce:hsp sp="0.25"/>mg of CS was dissolved in 10<ce:hsp sp="0.25"/>mL of 0.1<ce:hsp sp="0.25"/>M acetic acid, and the obtained CS solution (2<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>mL<ce:sup loc="post">−1</ce:sup>) was mixed with the yellow GQDs solution under stirring. The mixture was continuously stirred for 10<ce:hsp sp="0.25"/>min, and then 1<ce:hsp sp="0.25"/>M NaOH solution was added into the mixture for the deposition of the GQDs-CS nanocomposites. Finally, the precipitated GQDs-CS was freeze-dried in a vacuum lyophilizer at −50<ce:hsp sp="0.25"/>°C for 24<ce:hsp sp="0.25"/>h and then calcined at 750<ce:hsp sp="0.25"/>°C for 6<ce:hsp sp="0.25"/>h in nitrogen atmosphere (at the rate of 20<ce:hsp sp="0.25"/>°C<ce:hsp sp="0.25"/>min<ce:sup loc="post">−1</ce:sup>) for the preparation of N-C. The schematic illustration showing the preparation of the N-C using GQDs-CS as the precursor is shown in <ce:cross-ref id="cf0100" refid="f0005">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="f0005"/>.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="st0040">Electrochemical measurements</ce:section-title>
+                     <ce:para id="p0060" view="all">All electrochemical experiments were carried out in a conventional three-electrode cell consisting of N-C loaded glassy carbon electrode (GCE) as the working electrode, a Pt foil and a saturated calomel electrode (SCE) as the counter and reference electrodes, respectively. The electrolyte was 1<ce:hsp sp="0.25"/>M H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> aqueous solution. The working electrode was prepared by the following procedures: 5<ce:hsp sp="0.25"/>mg of the as-synthesized N-C was dispersed in 5<ce:hsp sp="0.25"/>mL of water, and then 7<ce:hsp sp="0.25"/>μL of the dispersion was dropped onto the surface of a GCE (3<ce:hsp sp="0.25"/>mm in diameter) and left to be air dried (active materials loading: ~100<ce:hsp sp="0.25"/>μg<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−2</ce:sup>). Both the cyclic voltammograms and the GCD curves of the N-C modified GCE (N-C/GCE) were collected over the potential range from 0 to 0.4<ce:hsp sp="0.25"/>V. The cyclic stability test was carried out by repeating the GCD measurements at the current density of 10<ce:hsp sp="0.25"/>A<ce:hsp sp="0.25"/>g<ce:sup loc="post">−1</ce:sup>. The specific capacitance (<ce:italic>C</ce:italic>) of the N-C based supercapacitor can be evaluated from the GCD curves according to the following equation:<ce:display>
+                           <ce:formula id="fo0005">
+                              <ce:label>(1)</ce:label>
+                              <mml:math display="block" altimg="si1.gif" overflow="scroll">
+                                 <mml:mi>C</mml:mi>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi>I</mml:mi>
+                                       <mml:mo>×</mml:mo>
+                                       <mml:mi>t</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>m</mml:mi>
+                                       <mml:mo>×</mml:mo>
+                                       <mml:mi>V</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>I</ce:italic> represents the current density (A<ce:hsp sp="0.25"/>g<ce:sup loc="post">−1</ce:sup>), <ce:italic>t</ce:italic> is the time of discharge (s), <ce:italic>m</ce:italic> is the mass of N-C loaded on the GCE (g), and <ce:italic>V</ce:italic> is the potential window during the discharge process (V) [<ce:cross-refs id="cf0105" refid="bb0090 bb0095 bb0100">18–20</ce:cross-refs>].</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0030" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st0045">Results and discussion</ce:section-title>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="st0050">TGA and DTG of GQDs-CS precursor</ce:section-title>
+                     <ce:para id="p0065" view="all">TGA and DTG of the GQDs-CS precursor in nitrogen atmosphere are investigated. As shown in <ce:cross-ref id="cf0110" refid="f0010">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/>, two obvious DTG peaks appear at 70<ce:hsp sp="0.25"/>°C and 300<ce:hsp sp="0.25"/>°C, respectively. The former is attributed to the evaporation of adsorbed water, and the latter could be ascribed to the thermal decomposition of the GQDs-CS. The total weight loss resulted from the decomposition can reach 90% at 750<ce:hsp sp="0.25"/>°C, and then it remains almost unchanged with further increasing temperature. Therefore, the calcination of the GQDs-CS precursor is carried out at 750<ce:hsp sp="0.25"/>°C.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0040" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="st0055">Characterization of N-C</ce:section-title>
+                     <ce:para id="p0070" view="all">The XRD patterns of the as-prepared N-C as well as the GQDs-CS precursor are shown in <ce:cross-ref id="cf0115" refid="f0015">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/>. For GQDs-CS, the diffraction peaks at 2<ce:italic>θ</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>11.7° and 18.6° are attributed to the Form I and Form II crystals of CS [<ce:cross-ref id="cf0120" refid="bb0105">21</ce:cross-ref>], and another weak and broad diffraction peak around 24.2° might be ascribed to the thinness and disordered stacking of GQDs [<ce:cross-refs id="cf0125" refid="bb0110 bb0115 bb0120">22–24</ce:cross-refs>]. The diffraction peaks of CS disappear completely after calcination, meanwhile, the peak at around 24.2° is strengthened significantly. It is also noted that a new broad diffraction peak appear at around 43.6° on the XRD pattern of N-C. Since the diffraction peaks at around 24.2° and 43.6° could be assigned to the (002) and (100) crystalline planes of graphitic carbon [<ce:cross-ref id="cf0130" refid="bb0125">25</ce:cross-ref>,<ce:cross-ref id="cf0135" refid="bb0130">26</ce:cross-ref>], it is concluded that the GQDs-CS precursor is successfully converted to graphitic carbon after calcination.</ce:para>
+                     <ce:para id="p0075" view="all">
+                        <ce:cross-ref id="cf0140" refid="f0020">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="f0020"/> shows the FT-IR spectra of N-C and GQDs-CS. For GQDs-CS, the peak at 1718<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> is attributed to the symmetric stretching vibrations of C<ce:glyph name="dbnd"/>O from the <ce:glyph name="sbnd"/>COOH groups on GQDs [<ce:cross-ref id="cf0145" refid="bb0135">27</ce:cross-ref>], and the peak at 1075<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> might be ascribed to the C<ce:glyph name="sbnd"/>OH stretching vibrations of CS. However, the intensities of the two peaks are greatly decreased after calcination, suggesting CS in the GQDs-CS precursor is pyrolyzed to graphitic carbon and most <ce:glyph name="sbnd"/>COOH groups are removed from GQDs. More importantly, new peaks ascribed to the C<ce:glyph name="dbnd"/>N stretching (1612<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>) and C<ce:glyph name="sbnd"/>N stretching (1174<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>) [<ce:cross-ref id="cf0150" refid="bb0140">28</ce:cross-ref>] are clearly observed, indicating that N atoms are successfully transferred from CS to the graphitic carbon lattice during the calcination process.</ce:para>
+                     <ce:para id="p0080" view="all">The chemical composition of the as-prepared N-C and the GQDs-CS nanocomposites is studied by XPS. O, N and C elements are detected at 532.1, 400.2 and 285.1<ce:hsp sp="0.25"/>eV, respectively, for both N-C and GQDs-CS (<ce:cross-ref id="cf0155" refid="f0025">Fig. 5</ce:cross-ref>A<ce:float-anchor refid="f0025"/>). However, the relative atomic percent content of each atom is quite different for the two samples. The contents of O, N and C elements are 35.37%, 6.64% and 57.99% in GQDs-CS, and 7.30%, 3.48% and 89.22% in N-C. This result clearly indicates that during the calcination process, most oxygen-containing groups are removed from GQDs accompanied with the increase in the content of C element, which agrees well with the FT-IR results. The resolved C 1s and N 1s XPS spectra of N-C are shown in <ce:cross-ref id="cf0160" refid="f0025">Fig. 5</ce:cross-ref>B and C, respectively. Three components of C 1s can be found in the N-C at 284.8, 286.0 and 287.2<ce:hsp sp="0.25"/>eV (<ce:cross-ref id="cf0165" refid="f0025">Fig. 5</ce:cross-ref>B), which correspond to the C<ce:glyph name="sbnd"/>C bonds of sp<ce:sup loc="post">3</ce:sup>-C, the carbon atoms bonded to hydroxyl groups (C<ce:glyph name="sbnd"/>OH) and carbonyl groups (<ce:glyph name="sbnd"/>C<ce:glyph name="dbnd"/>O), respectively [<ce:cross-ref id="cf0170" refid="bb0145">29</ce:cross-ref>]. High resolution N 1s spectra show three peaks located at 398.5, 400.8, and 401.9<ce:hsp sp="0.25"/>eV (<ce:cross-ref id="cf0175" refid="f0025">Fig. 5</ce:cross-ref>C), corresponding to pyridinic N, pyrrolic N and graphitic N, respectively [<ce:cross-ref id="cf0180" refid="bb0150">30</ce:cross-ref>]. As previously reported, the presence of N atoms in carbon network would introduce pseudocapacitance effects to the electrode substrates [<ce:cross-ref id="cf0185" refid="bb0155">31</ce:cross-ref>], and therefore it is expected that the as-prepared N-C might possess superior supercapacitive behaviors through combining electrochemical double layer capacitance and pseudocapacitance.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0045" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="st0060">Three-dimensional (3D) interconnected structure of N-C</ce:section-title>
+                     <ce:para id="p0085" view="all">
+                        <ce:cross-ref id="cf0190" refid="f0030">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="f0030"/> shows the FESEM images of GQDs-CS nanocomposites (<ce:cross-ref id="cf0195" refid="f0030">Fig. 6</ce:cross-ref>A) and N-C (<ce:cross-ref id="cf0200" refid="f0030">Fig. 6</ce:cross-ref>B). For the GQDs-CS nanocomposites, a 3D interconnected ordered structure is observed. The appearance of such 3D interconnected frameworks in the precursor could be ascribed to the interfacial interactions induced by electrostatic attractions and H-bondings between CS and GQDs, which has been discussed in detail in our previous research [<ce:cross-ref id="cf0205" refid="bb0075">15</ce:cross-ref>]. Interestingly, a quite similar 3D interconnected ordered structure is also observed in the N-C. That is to say, the 3D interconnected frameworks of GQDs-CS are well preserved in the N-C after the pyrolysis treatment, which is most likely due to the existence of GQDs nanofillers in the precursor. To verify our assumption, the FESEM image of the carbon from the pyrolysis of CS alone is also recorded for a comparison (<ce:cross-ref id="cf0210" refid="f0030">Fig. 6</ce:cross-ref>C). As can be seen, the 3D interconnected porous frameworks disappear completely in the carbon prepared through the pyrolysis of CS alone. This comparison clearly indicates that the GQDs nanofillers in the precursor play a crucial role in the preservation of the 3D interconnected porous frameworks during the pyrolysis treatment.</ce:para>
+                     <ce:para id="p0090" view="all">The TEM images of GQDs-CS and N-C are shown in <ce:cross-ref id="cf0215" refid="f0035">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="f0035"/>. For the GQDs-CS nanocomposites, the GQDs nanofillers (black dots) are well-dispersed within the CS matrix (<ce:cross-ref id="cf0220" refid="f0035">Fig. 7</ce:cross-ref>A). However, high temperature (750<ce:hsp sp="0.25"/>°C in this work) can induce graphitization of the precursor totally, since the black dots of GQDs disappear after pyrolysis and there are no differences in the resultant N-C (<ce:cross-ref id="cf0225" refid="f0035">Fig. 7</ce:cross-ref>B). This result demonstrates that the homogeneous nanoarchitecture of carbon materials can be obtained via graphitization of GQDs-CS at sufficiently high temperatures.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0050" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="st0065">Electrochemical behaviors of N-C</ce:section-title>
+                     <ce:para id="p0095" view="all">The cyclic voltammograms of N-C in 1<ce:hsp sp="0.25"/>M H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> at varying scan rates (from 10 to 100<ce:hsp sp="0.25"/>mV<ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup> with an interval of 10<ce:hsp sp="0.25"/>mV<ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup>) are shown in <ce:cross-ref id="cf0230" refid="f0040">Fig. 8</ce:cross-ref>
+                        <ce:float-anchor refid="f0040"/>. All the cyclic voltammograms exhibit a roughly rectangular shape especially at low scan rates, suggesting that the capacitance of N-C is predominantly determined by the electrochemical double layer [<ce:cross-ref id="cf0235" refid="bb0160">32</ce:cross-ref>]; meanwhile, the roughly rectangular shape might be ascribed to the reversible redox of N functionalities generated from a moderate fraction of pseudocapacitance [<ce:cross-ref id="cf0240" refid="bb0165">33</ce:cross-ref>]. It is also found that as the scan rate is increased gradually, the cyclic voltammograms almost maintain the same shape, indicating that the N-C possesses good rate capability [<ce:cross-ref id="cf0245" refid="bb0170">34</ce:cross-ref>].</ce:para>
+                     <ce:para id="p0100" view="all">The capacitive performances of the N-C are further studied, and the GCD curves of the N-C in 1<ce:hsp sp="0.25"/>M H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> at different current densities (from 1 to 20<ce:hsp sp="0.25"/>A<ce:hsp sp="0.25"/>g<ce:sup loc="post">−1</ce:sup>) are recorded. As shown in <ce:cross-ref id="cf0250" refid="f0045">Fig. 9</ce:cross-ref>
+                        <ce:float-anchor refid="f0045"/>, these GCD curves display almost symmetrical linear shape with humps in the potential range from 0 to 0.4<ce:hsp sp="0.25"/>V, implying that the specific capacitance of the as-prepared N-C is combined with electrochemical double layer contribution originated from the hierarchical porous carbon and pseudocapacitance contribution originated from the doped N element. According to Eq. <ce:cross-ref id="cf0255" refid="fo0005">(1)</ce:cross-ref> described in <ce:cross-ref id="cf0260" refid="s0025">Section 2.3</ce:cross-ref>, the specific capacitances of N-C are calculated to be 545 and 175<ce:hsp sp="0.25"/>F<ce:hsp sp="0.25"/>g<ce:sup loc="post">−1</ce:sup> at the current densities of 1 and 20<ce:hsp sp="0.25"/>A<ce:hsp sp="0.25"/>g<ce:sup loc="post">−1</ce:sup>, respectively. Obviously, the high specific capacitance of N-C at low current density (1<ce:hsp sp="0.25"/>A<ce:hsp sp="0.25"/>g<ce:sup loc="post">−1</ce:sup>) is attributed to the synergistic effects of well-preserved 3D interconnected frameworks of N-C and nitrogen-doping.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0055" view="all">
+                     <ce:label>3.5</ce:label>
+                     <ce:section-title id="st0070">Cyclic stability of N-C</ce:section-title>
+                     <ce:para id="p0105" view="all">Finally, the cyclic stability of the N-C is studied in 1<ce:hsp sp="0.25"/>M H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> at the current density of 10<ce:hsp sp="0.25"/>A<ce:hsp sp="0.25"/>g<ce:sup loc="post">−1</ce:sup>. As shown in <ce:cross-ref id="cf0265" refid="f0050">Fig. 10</ce:cross-ref>
+                        <ce:float-anchor refid="f0050"/>, the N-C displays a retention of as high as 88.9% of its initial capacitance after 5000<ce:hsp sp="0.25"/>cycles. Such high cyclic stability of the N-C might be ascribed to the presence of GQD nanofillers which function as a rigid support and maintain the 3D interconnected frameworks of N-C during the continuous and cycling charge/discharge.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0060" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st0075">Conclusions</ce:section-title>
+                  <ce:para id="p0110" view="all">In summary, 3D interconnected frameworks of GQDs-CS can be well preserved after the pyrolysis treatment due to the presence of GQDs nanofillers, and the obtained N-C is then used as the electrode materials for supercapacitors. On one hand, the 3D interconnected nanostructure of N-C offers an easy access for electrolyte ions and result in good capacitive behaviors; on the other hand, CS in the precursor functions as the nitrogen source for the doping of N-C, and therefore the specific capacitance of N-C is combined with electrochemical double layer contribution and pseudocapacitance contribution. The as-prepared N-C also exhibits excellent cyclic stability, which could be attributed to the presence of GQD nanofillers that function as a rigid support and maintain the 3D interconnected frameworks of N-C during the cycling.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ac0005" view="all">
+               <ce:section-title id="st0080">Acknowledgements</ce:section-title>
+               <ce:para id="p0115" view="all">The authors are grateful to the financial supports from <ce:grant-sponsor id="gts0005" sponsor-id="https://doi.org/10.13039/501100004608" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Natural Science Foundation of Jiangsu Province</ce:grant-sponsor> (<ce:grant-number id="gtn0005" refid="gts0005">BK20171194</ce:grant-number>, <ce:grant-number id="gtn0010" refid="gts0005">BK20150269</ce:grant-number>), Future Research Project of <ce:grant-sponsor id="gts0010" sponsor-id="https://doi.org/10.13039/501100002949" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Jiangsu Province</ce:grant-sponsor> (<ce:grant-number id="gtn0015" refid="gts0010">BE2017088</ce:grant-number>), <ce:grant-sponsor id="gts0015" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Changzhou high-tech Key Laboratory</ce:grant-sponsor> (<ce:grant-number id="gtn0020" refid="gts0015">CM20153001</ce:grant-number>) and <ce:grant-sponsor id="gts0020" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Priority Academic Program Development of Jiangsu Higher Education Institutions</ce:grant-sponsor> (PAPD).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0085">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.S.</ce:given-name>
+                                 <ce:surname>Chai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.E.</ce:given-name>
+                                 <ce:surname>Sung</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ordered porous carbons with tunable pore sizes as catalyst supports in direct methanol fuel cell</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>108</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7074</sb:first-page>
+                              <sb:last-page>7079</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Sohn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hyeon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabrication of new nanoporous carbons through silica templates and their application to the adsorption of bulky dyes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3337</sb:first-page>
+                              <sb:last-page>3341</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kabbour</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.F.</ce:given-name>
+                                 <ce:surname>Baumann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Satcher</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Saulnier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.C.</ce:given-name>
+                                 <ce:surname>Ahn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Toward new candidates for hydrogen storage: high-surface-area carbon aerogels</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6085</sb:first-page>
+                              <sb:last-page>6087</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.S.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.X.</ce:given-name>
+                                 <ce:surname>Tao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Smartly designed 3D N-doped mesoporous graphene for high-performance supercapacitor electrodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>241</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>9</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Laine</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Calafat</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Factors affecting the preparation of activated carbons from coconut shell catalized by potassium</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>949</sb:first-page>
+                              <sb:last-page>953</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Balci</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Dogu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yucel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Characterization of activated carbon produced from almond shell and hazelnut shell</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Technol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>419</sb:first-page>
+                              <sb:last-page>426</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Rodriguez-Mirasol</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Cordero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Rodriguez</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Preparation and characterization of activated carbons from eucalyptus kraft lignin</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>87</sb:first-page>
+                              <sb:last-page>95</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Advances in chitosan-based drug delivery vehicles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3103</sb:first-page>
+                              <sb:last-page>3111</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.N.V.</ce:given-name>
+                                 <ce:surname>Ravi Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.A.</ce:given-name>
+                                 <ce:surname>Muzzarelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Muzzarelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Sashiwa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Domb</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chitosan chemistry and pharmaceutical perspectives</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6017</sb:first-page>
+                              <sb:last-page>6084</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Varma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Deshpande</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Kennedy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Metal complexation by chitosan and its derivatives: a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbohydr. Polym.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>77</sb:first-page>
+                              <sb:last-page>93</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Lota</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Acznik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sierczynska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lota</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The capacitance properties of activated carbon obtained from chitosan as the electrode material for electrochemical capacitors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>173</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>72</sb:first-page>
+                              <sb:last-page>75</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sliwak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Diez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Miniach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Gryglewicz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nitrogen-containing chitosan-based carbon as an electrode material for high-performance supercapacitors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Electrochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>667</sb:first-page>
+                              <sb:last-page>677</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemically derived, ultrasmooth graphene nanoribbon semiconductors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>319</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1229</sb:first-page>
+                              <sb:last-page>1232</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.X.</ce:given-name>
+                                 <ce:surname>Tao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.H.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical enantiorecognition of tryptophan enantiomers based on graphene quantum dots-chitosan composite film</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5</sb:first-page>
+                              <sb:last-page>9</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Tao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Well-dispersed chitosan-graphene quantum dots nanocomposites for electrochemical sensing platform</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>H884</sb:first-page>
+                              <sb:last-page>H889</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.Y.</ce:given-name>
+                                 <ce:surname>Lv</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.X.</ce:given-name>
+                                 <ce:surname>Tao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.H.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Highly fluorescent and morphology-controllable graphene quantum dots-chitosan hybrid xerogels for in vivo imaging and pH-sensitive drug carrier</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>478</sb:first-page>
+                              <sb:last-page>485</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Q.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Q.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.W.</ce:given-name>
+                                 <ce:surname>Chi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.M.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.N.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Blue luminescent graphene quantum dots and graphene oxide prepared by tuning the carbonization degree of citric acid</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4738</sb:first-page>
+                              <sb:last-page>4743</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>De Adhikari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Oraon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Tiwari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.C.</ce:given-name>
+                                 <ce:surname>Nayak</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of waste cellulose fibres on the charge storage capacity of polypyrrole and graphene/polypyrrole electrodes for supercapacitor application</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>RSC Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>27347</sb:first-page>
+                              <sb:last-page>27355</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.F.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.G.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oil-water interfacial synthesis of grapheme-polyaniline-MnO<ce:inf loc="post">2</ce:inf> hybrids using binary oxidant for high performance supercapacitor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Synth. Met.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>209</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>555</sb:first-page>
+                              <sb:last-page>560</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.X.</ce:given-name>
+                                 <ce:surname>Tao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Zinc ions doped poly(aniline-co-m-aminophenol) for high-performance supercapacitor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Synth. Met.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>199</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>169</sb:first-page>
+                              <sb:last-page>173</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Samuels</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solid state characterization of the structure of chitosan films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Polym. Sci. Polym. Phys. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1081</sb:first-page>
+                              <sb:last-page>1105</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Focusing on luminescent graphene quantum dots: current status and future perspectives</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4015</sb:first-page>
+                              <sb:last-page>4039</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical synthesis of small-sized red fluorescent graphene quantum dots as a bioimaging platform</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2544</sb:first-page>
+                              <sb:last-page>2546</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="rf0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Hou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An electrochemical avenue to green-luminescent graphene quantum dots as potential electron-acceptors for photovoltaics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>776</sb:first-page>
+                              <sb:last-page>780</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="rf0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Sahu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Grover</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Tulachan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sharma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Srivastava</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Roy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Saxena</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Sethy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Bhargava</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Philip</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Das</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Sharma</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Heavily nitrsen doped, graphene supercapacitor from silk cocoon</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>160</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>244</sb:first-page>
+                              <sb:last-page>253</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="rf0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.S.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.X.</ce:given-name>
+                                 <ce:surname>Tao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis of efficient electrocatalyst for oxygen reduction reaction by using poly(m-phenylenediamine) as the interlayer spacer and the sources of N-doped carbon and MnO</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Synth. Met.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>224</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>92</sb:first-page>
+                              <sb:last-page>98</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="rf0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Wyrzykowski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Hebanowska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Nowak-Wiczk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Makowski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chmurzynski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal behaviour of citric acid and isomeric aconitic acids</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Therm. Anal. Calorim.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>731</sb:first-page>
+                              <sb:last-page>735</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="rf0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.X.</ce:given-name>
+                                 <ce:surname>Yin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.X.</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>N-doped graphene as a bifunctional electrocatalyst for oxygen reduction and oxygen evolution reactions in an alkaline electrolyte</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrog. Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15913</sb:first-page>
+                              <sb:last-page>15919</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="rf0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.R.</ce:given-name>
+                                 <ce:surname>Salunkhe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kamachi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Nakato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yamauchi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Asymmetric supercapacitors using 3D nanoporous carbon and cobalt oxide electrodes synthesized from a single metal-organic framework</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Nano</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6288</sb:first-page>
+                              <sb:last-page>6296</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0150">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="rf0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Daems</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Sheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.F.J.</ce:given-name>
+                                 <ce:surname>Vankelecom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.P.</ce:given-name>
+                                 <ce:surname>Pescarmona</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Metal-free doped carbon materials as electrocatalysts for the oxygen reduction reaction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4085</sb:first-page>
+                              <sb:last-page>4110</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0155">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="rf0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Jurewicz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Babel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Pietrzak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Delpeux</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wachowska</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Capacitance properties of multi-walled carbon nanotubes modified by activation and ammoxidation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2368</sb:first-page>
+                              <sb:last-page>2375</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0160">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="rf0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Qie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Xiong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Zou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis of functionalized 3D hierarchical porous carbon for high-performance supercapacitors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Environ. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2497</sb:first-page>
+                              <sb:last-page>2504</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0165">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="rf0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.P.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.M.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nitrogen-doped porous carbons as electrode materials for high-performance supercapacitor and dye-sensitized solar cell</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>20234</sb:first-page>
+                              <sb:last-page>20244</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0170">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference id="rf0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Qian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Preparation of graphene nanosheet/carbon nanotube/polyaniline composite as electrode material for supercapacitors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>195</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3041</sb:first-page>
+                              <sb:last-page>3045</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

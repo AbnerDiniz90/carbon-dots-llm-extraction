@@ -1,0 +1,65 @@
+{
+  "input_source": "artigo75.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "Graphene quantum dots (GQDs) as part of a Graphene quantum dots-polyaniline/zinc oxide nanocomposites (GQDs-PANI/ZnO-NCs) to construct an electrochemical sensor of anticancer drugs",
+        "iupac_name": null,
+        "alternative_names": [
+          "GQDs",
+          "Graphene quantum dots"
+        ]
+      },
+      "synthesis": {
+        "method": {
+          "type": "Hydrothermal",
+          "conditions": "A mixture of glucose (1.0g), ethylene diamine (400μL), and HCl (37%, w/w) (200μL) added to 15mL deionized water under stirring for 30min then heated at 200 °C for 6 h in an autoclave",
+          "catalysts": "[MISSING]"
+        },
+        "precursors": {
+          "source": [
+            "glucose (1.0g)",
+            "ethylene diamine (400μL)",
+            "HCl (37%, w/w) (200μL)"
+          ],
+          "dopants": "[MISSING]"
+        },
+        "post_treatment": [
+          "Centrifugation (10,000 rpm)",
+          "Dialysis to remove large tracts of GO"
+        ]
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": "[MISSING]",
+            "reference_material": "[MISSING]"
+          },
+          "excitation_max": "[MISSING]",
+          "emission_max": "[MISSING]",
+          "fluorescence_lifetime": "[MISSING]"
+        },
+        "structural": {
+          "size": {
+            "avg": "[MISSING]",
+            "distribution": "[MISSING]"
+          },
+          "morphology": "uniform spherical shape",
+          "crystallinity": "[MISSING]"
+        }
+      },
+      "applications": [
+        {
+          "domain": "Electrochemical Sensing",
+          "performance": "Used as a modifier in GQDs-PANI/ZnO-NCs composite on a glassy carbon electrode (GCE) for simultaneous determination of Irinotecan (CPT-11) and 5-Fluorouracil (5-FU). Achieved linear ranges of 0.1-25.0 μM (CPT-11) and 0.1-50.0 μM (5-FU) with detection limits of 0.011 μM and 0.023 μM for CPT-11 and 5-FU, respectively.",
+          "comparative_advantage": "This sensor for the first time offered a facile technique for simultaneous determination of CPT-11 and 5-FU with a short analysis time coupled with excellent anti-interference ability, repeatability, reproducibility, long-term stability and cost-effectiveness.."
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Bad",
+    "score": 1.0,
+    "expert_comment": "Omission Error: The field 'carbon_dots -> properties -> structural -> size -> avg' contained '~5nm' in the source text, but it was extracted as null/missing. | Incomplete Structure: The entire section 'carbon_dots -> properties -> chemical' was incorrectly omitted. The JSON is missing a mandatory structural block."
+  }
+}

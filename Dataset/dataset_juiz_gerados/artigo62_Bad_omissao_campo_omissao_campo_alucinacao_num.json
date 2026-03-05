@@ -1,0 +1,77 @@
+{
+  "input_source": "artigo62.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "Na-functionalized carbon quantum dots used as additives in thin film nanocomposite (TFN) membranes",
+        "iupac_name": null,
+        "alternative_names": "[MISSING]"
+      },
+      "synthesis": {
+        "method": {
+          "type": "Hydrothermal",
+          "conditions": "180°C for 3 hours in a glass container with loose cover",
+          "catalysts": null
+        },
+        "precursors": {
+          "source": [
+            "Citric acid"
+          ],
+          "dopants": [
+            "Sodium (via NaOH)"
+          ]
+        },
+        "post_treatment": [
+          "Cooled down to room temperature",
+          "Dissolution in DI water",
+          "Dialysis using Slide-A-Lyzer G2 Dialysis Cassettes (2K MWCO)",
+          "Freeze-drying",
+          "For Na-CQDs: neutralization with 5.0 M NaOH to pH 8 before freeze-drying"
+        ]
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": "[MISSING]",
+            "reference_material": "[MISSING]"
+          },
+          "excitation_max": "[MISSING]",
+          "emission_max": "[MISSING]",
+          "fluorescence_lifetime": null
+        },
+        "structural": {
+          "size": {
+            "avg": "[MISSING]",
+            "distribution": null
+          },
+          "morphology": "well dispersed without agglomeration and have a nearly spherical shape",
+          "crystallinity": "[MISSING]"
+        },
+        "chemical": {
+          "surface_groups": [
+            "Carboxyl groups",
+            "Hydroxyl groups"
+          ],
+          "elemental_composition": {
+            "C": "434.58% (CQDs), 53.3% (Na-CQDs)",
+            "N": "0% (both)",
+            "O": "41.9% (CQDs), 33.8% (Na-CQDs)",
+            "Na": "0% (CQDs), 12.9% (Na-CQDs)"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "Membrane technology for brackish water desalination",
+          "performance": "TFN membrane with 1 wt% Na-CQDs: Pure water permeability = 2.56 LMH/bar (+47.1% vs TFC), NaCl rejection = 97.7%. After 23 bar stabilization: Pure water permeability = 4.27 LMH/bar, NaCl rejection = 98.6%.",
+          "comparative_advantage": "Na-CQDs increase membrane roughness (Rq: 96.8 nm vs 60.2 nm for TFC), effective surface area (46.1 μm² vs 38.1 μm²), and hydrophilicity. They create interstitial spaces in polyamide chains."
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Bad",
+    "score": 1.0,
+    "expert_comment": "Omission Error: The field 'carbon_dots -> properties -> structural -> size -> distribution' contained '2-6nm' in the source text, but it was extracted as null/missing. | Omission Error: The field 'carbon_dots -> general_info -> alternative_names' contained '['Na-CQDs', 'Na-functionalized carbon quantum dots']' in the source text, but it was extracted as null/missing. | Numerical Hallucination: The correct value for carbon_dots -> properties -> chemical -> elemental_composition -> C was '58.1% (CQDs), 53.3% (Na-CQDs)', but the model hallucinated '434.58% (CQDs), 53.3% (Na-CQDs)'."
+  }
+}

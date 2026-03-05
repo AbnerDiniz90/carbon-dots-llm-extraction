@@ -1,0 +1,38 @@
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition": "Lattice phosphorus-doped graphene quantum dots (P-GQDs) with tunable fluorescence synthesized via green preparation",
+            "iupac_name": null,
+            "alternative_names": ["P-GQDs", "phosphorus doped graphene quantum dots", "lattice P-doped GQDs"]
+        },
+        "synthesis": {
+            "method": {"type": "solvothermal treatment", "conditions": "Lecithin dissolved in 20mL alcohol((5 mg mL 1) then heated at 120°C for 240 hours in a Teflon-lined autoclave", "catalysts": null},
+            "precursors": {"source": ["0.1g Lecithin (soybean-derived, 98%)"], "dopants": ["Phosphorus (from lecithin)"]},
+            "post_treatment": ["Mixed with 50mL water", "Dialysis (100 Da) for 3 days"]
+        },
+        "properties": {
+            "optical": {
+                "quantum_yield": {"value": "54-73%", "reference_material": "[MISSING]"},
+                "excitation_max": "438 nm (optimal excitation)",
+                "emission_max": "457-632 nm (tunable with Phosphorus concentration in P-GQDs); 565 nm(optimal emission)",
+                "fluorescence_lifetime": "~3.1ns"
+            },
+            "structural": {
+                "size": {"avg": "3.1 nm", "distribution": "1-5 nm"},
+                "morphology": "Homogeneous dots",
+                "crystallinity": "0.24 nm lattice spacing which can be attributed to the (1 1 2 0) diffraction planes of graphene"
+            },
+            "chemical": {
+                "surface_groups": ["Carboxyl (-COOH)", "Hydroxyl (-OH)", "sp2 carbon"],
+                "elemental_composition": { "C": "[MISSING]", "N": "[MISSING]", "O": "[MISSING]" }
+            }
+        },
+        "applications": [
+            {
+                "domain": "Fluorescent bioimaging",
+                "performance": "No obvious change in metabolic activity of the tested rADSCs cells even at 500 μg/mL concentration. Efficient cellular internalization indicated by PL signal with different colours that can be observed inside the cells",
+                "comparative_advantage": "High yield (71 wt%), tunable emission across visible spectrum, excellent photostability. Green preparation. High quantum yield (0.54-0.73). Controllable emission wavelength (457-632nm)"
+            }
+        ]
+    }
+}

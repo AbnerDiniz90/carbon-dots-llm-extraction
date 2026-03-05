@@ -1,0 +1,38 @@
+{
+    "carbon_dots": {
+        "general_info": {
+            "definition": "Carbon nanoparticles for the detection of dopamine based on the fluorescent enhancement",
+            "iupac_name": null,
+            "alternative_names": ["CDs", "Carbon nanodots"]
+        },
+        "synthesis": {
+            "method": {"type": "pyrolysis", "conditions": "Hot alkali solution(sodium hydroxide) for 5 min", "catalysts": null},
+            "precursors": {"source": ["Lactose"], "dopants": null},
+            "post_treatment": null
+        },
+        "properties": {
+            "optical": {
+                "quantum_yield": {"value": null, "reference_material": null},
+                "excitation_max": "414nm",
+                "emission_max": "470nm",
+                "fluorescence_lifetime": "[MISSING]"
+            },
+            "structural": {
+                "size": {"avg": "3nm", "distribution": "[MISSING]"},
+                "morphology": "spherical and monodisperse shape",
+                "crystallinity": "lattice fringes with interplanar distance around 0.20nm. Disordered structure in crystalline of the sp2 cluster and the plane graphite sp3"
+            },
+            "chemical": {
+                "surface_groups": ["C-C/C=C", "C-O", "C=O", "COOH"],
+                "elemental_composition": {"C": "[MISSING]", "N": "[MISSING]", "O": "[MISSING]"}
+            }
+        },
+        "applications": [
+            {
+                "domain": "Chemical Sensing (Dopamine Detection)",
+                "performance": "Linear range 1.0-10.0 µM; Lower Detection limit 0.22 µM",
+                "comparative_advantage": "Fast response, is inexpensive and highly selective.)"
+            }
+        ]
+    }
+}

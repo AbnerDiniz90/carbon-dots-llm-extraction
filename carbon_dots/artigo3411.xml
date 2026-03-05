@@ -1,0 +1,2622 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0003267017310875</prism:url><dc:identifier>doi:10.1016/j.aca.2017.09.038</dc:identifier><eid>1-s2.0-S0003267017310875</eid><prism:doi>10.1016/j.aca.2017.09.038</prism:doi><pii>S0003-2670(17)31087-5</pii><dc:title>Functionalized carbon quantum dots with dopamine for tyrosinase activity analysis </dc:title><prism:publicationName>Analytica Chimica Acta</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00032670</prism:issn><prism:volume>995</prism:volume><prism:startingPage>99</prism:startingPage><prism:endingPage>105</prism:endingPage><prism:pageRange>99-105</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2017-12-01</prism:coverDate><prism:coverDisplayDate>1 December 2017</prism:coverDisplayDate><prism:copyright>© 2017 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Hu, Jin-Jie</dc:creator><dc:creator>Bai, Xiao-Lin</dc:creator><dc:creator>Liu, Yi-Ming</dc:creator><dc:creator>Liao, Xun</dc:creator><dc:description>
+                  Tyrosinase (TYR) is a key enzyme in melanin biosynthesis and its activity is an important biomarker for dermatological disorders, such as vitiligo, melanoma and actinic damages. Sensitive assay for TYR activity is significant for basic and clinical research. In this work, a facile fluorescent assay for TYR activity based on dopamine functionalized carbon quantum dots (CQDs-Dopa) has been developed. Dopamine (Dopa) was covalently bond to CQDs through a simple one-pot hydrothermal method, and the prepared CQDs-Dopa exhibited a fluorescence emission at 499 nm under exciting wavelength at 310 nm with a quantum yield of approximately 2.1%. When TYR was mixed with CODs-Dopa, the dopamine moiety in CQDs-Dopa conjugate was oxidized to O-dopaquinone, and an intra-particle photo-induced electron transfer (PET) process consequently occurred between CQDs and O-dopaquinone to quench the fluorescence of CQDs-Dopa. TYR activity can be determined based on the fluorescence quenching degree of CQDs-Dopa. This assay covered two broad linear ranges: 44.4–711.1 U L−1 and 711.1–2925.4 U L−1, with detection limit of 17.7 U L−1. The proposed fluorescent assay was applied to TYR activity measurement in human serum samples. It showed promising potential for TYR activity assay in clinical applications.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Tyrosinase</dcterms:subject><dcterms:subject>Carbon quantum dots</dcterms:subject><dcterms:subject>Fluorescence assay</dcterms:subject><dcterms:subject>Photo-induced electron transfer</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0003267017310875" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0003267017310875" rel="scidir"/></coredata><objects><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="89" size="12389">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="210" height="164" size="17289">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="217" height="164" size="13433">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="93" size="8482">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="88" size="10523">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="90" size="9537">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="494" height="200" size="37646">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="800" height="623" size="122668">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="355" height="268" size="34440">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="711" height="300" size="34681">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="756" height="305" size="61570">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="756" height="310" size="38542">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2188" height="886" size="199628">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3543" height="2761" size="845657">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1575" height="1190" size="130765">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3150" height="1331" size="161852">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3346" height="1351" size="348735">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3346" height="1370" size="183954">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="62871">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="169" height="33" size="742">https://api.elsevier.com/content/object/eid/1-s2.0-S0003267017310875-si1.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>85030751779</scopus-id><scopus-eid>2-s2.0-85030751779</scopus-eid><pubmed-id>29126486</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85030751779" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271374</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291685</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291792</xocs:ssid>
+         <xocs:ssid type="subj">291847</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Analytica Chimica Acta</xocs:srctitle>
+      <xocs:normalized-srctitle>ANALYTICACHIMICAACTA</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170928">2017-09-28</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170928">2017-09-28</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20171107">2017-11-07</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20171107">2017-11-07</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-11-28T10:32:09</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0003267017310875</xocs:eid>
+      <xocs:pii-formatted>S0003-2670(17)31087-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0003267017310875</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.aca.2017.09.038</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0003267017X00433</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20210331">2021-03-31T12:21:28.082848Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20171201</xocs:date-search-begin>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1506583586">2017-09-28T07:26:26.782743Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body mmlmath acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst orcid otherkwds primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0003-2670</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00032670</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>995</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>995</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 995</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>12</xocs:sort-order>
+      <xocs:first-fp>99</xocs:first-fp>
+      <xocs:last-lp>105</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>99</xocs:first-page>
+         <xocs:last-page>105</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20171201</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 December 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-12-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Sensors and Bioselective Reagents</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>FUNCTIONALIZEDCARBONQUANTUMDOTSDOPAMINEFORTYROSINASEACTIVITYANALYSIS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>HU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials and reagents</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Apparatus</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of CQDs-Dopa</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Optimization for enzyme activity detection conditions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Specificity and interference of the TYR assay</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Measurement of TYR activity in human serums</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization of CQDs-Dopa</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Optimization of detection conditions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Detection assays for TYR activity</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Selectivity and interference studies</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Detection of TYR in human serum samples</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2825</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2828</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>ICHIKAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>195</xocs:ref-first-fp>
+            <xocs:ref-last-lp>201</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>823</xocs:ref-first-fp>
+            <xocs:ref-last-lp>825</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>SLOMINSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1155</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1228</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>ANGELETTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>33</xocs:ref-first-fp>
+            <xocs:ref-last-lp>37</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>LUBBE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>HAINING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3356</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3363</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>BOYER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>585</xocs:ref-first-fp>
+            <xocs:ref-last-lp>586</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8904</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8909</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>GILL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15376</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15377</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>862</xocs:ref-first-fp>
+            <xocs:ref-last-lp>870</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>309</xocs:ref-first-fp>
+            <xocs:ref-last-lp>314</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>FANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>400</xocs:ref-first-fp>
+            <xocs:ref-last-lp>409</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>380</xocs:ref-first-fp>
+            <xocs:ref-last-lp>382</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>147</xocs:ref-first-fp>
+            <xocs:ref-last-lp>151</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>WEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5116</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5118</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1046</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1056</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1231</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1238</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>QIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>64</xocs:ref-first-fp>
+            <xocs:ref-last-lp>70</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>NOH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4438</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4445</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6836</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6842</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>QIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>675</xocs:ref-first-fp>
+            <xocs:ref-last-lp>680</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>CHAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>23564</xocs:ref-first-fp>
+            <xocs:ref-last-lp>23574</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>QIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2966</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2973</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>NEABO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10144</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10146</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref27">
+            <xocs:ref-normalized-surname>BAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5801</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5806</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref28">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>380</xocs:ref-first-fp>
+            <xocs:ref-last-lp>382</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref29">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>583</xocs:ref-first-fp>
+            <xocs:ref-last-lp>589</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref30">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5207</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5212</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref31">
+            <xocs:ref-normalized-surname>BOURLINOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>455</xocs:ref-first-fp>
+            <xocs:ref-last-lp>458</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref32">
+            <xocs:ref-normalized-surname>QU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7243</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7249</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref33">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>87</xocs:ref-first-fp>
+            <xocs:ref-last-lp>92</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref34">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4108</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4112</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref35">
+            <xocs:ref-normalized-surname>TENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4897</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4902</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref36">
+            <xocs:ref-normalized-surname>AO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>542</xocs:ref-first-fp>
+            <xocs:ref-last-lp>547</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>HUX2017X99</xocs:refkey3>
+         <xocs:refkey4lp>HUX2017X99X105</xocs:refkey4lp>
+         <xocs:refkey4ai>HUX2017X99XJ</xocs:refkey4ai>
+         <xocs:refkey5>HUX2017X99X105XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2019-11-07T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2019-03-02T01:21:36.986Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+         <xocs:funding-source-document source-document-type="pii">S0003267017310875</xocs:funding-source-document>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>State Key Laboratory of Phytochemistry and Plant Resources in West China</xocs:funding-agency-matched-string>
+            <xocs:funding-agency>State Key Laboratory of Phytochemistry and Plant Resources in West China</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100011238</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>West Light Foundation of the Chinese Academy of Sciences</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding-text>This work is supported by the West Light Foundation of the Chinese Academy of Sciences , the State Key Laboratory of Phytochemistry and Plant Resources in West China (No. P2015-KF12 ).  Appendix A </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0003-2670(17)31087-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0003267017310875</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0003267017310875</xocs:eid>
+         <xocs:doi>10.1016/j.aca.2017.09.038</xocs:doi>
+         <xocs:cid>271374</xocs:cid>
+         <xocs:timestamp>2019-11-28T11:56:09.946307Z</xocs:timestamp>
+         <xocs:cover-date-start>2017-12-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/MAIN/application/pdf/920e087b2d79bffd35df9abea5aceba3/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1290341</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0003267017310875-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/PREVIEW/image/png/f2606ca2ed28f2311b7af9adf481ca0c/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>43117</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/fx1/THUMBNAIL/image/gif/5f2ac128c605ada31e0d10b1789d49cd/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12389</xocs:filesize>
+               <xocs:pixel-height>89</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/gr1/THUMBNAIL/image/gif/a3dccc4dd91b74218e9d055b7059aca9/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17289</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>210</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/gr2/THUMBNAIL/image/gif/b1411365948024b66bfc1c9cda2b0df7/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13433</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>217</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/gr3/THUMBNAIL/image/gif/825c84f2eee4f886603c9b22c1e6e367/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8482</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/gr4/THUMBNAIL/image/gif/e27816cd851638f47b969008fddf56e5/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10523</xocs:filesize>
+               <xocs:pixel-height>88</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/gr5/THUMBNAIL/image/gif/f9bc0d909327ed9551af1ef807515281/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9537</xocs:filesize>
+               <xocs:pixel-height>90</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/fx1/DOWNSAMPLED/image/jpeg/ef1e0dc9aaf58e130dd56bfef4a0e093/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>37646</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>494</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/gr1/DOWNSAMPLED/image/jpeg/b30359442df4ca3840f2b8bf03a9c0ae/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>122668</xocs:filesize>
+               <xocs:pixel-height>623</xocs:pixel-height>
+               <xocs:pixel-width>800</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/gr2/DOWNSAMPLED/image/jpeg/3e96a50ab3ebef3f967ce2465bb908b6/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34440</xocs:filesize>
+               <xocs:pixel-height>268</xocs:pixel-height>
+               <xocs:pixel-width>355</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/gr3/DOWNSAMPLED/image/jpeg/dcf622edcc9a063aa61bad8097262c45/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34681</xocs:filesize>
+               <xocs:pixel-height>300</xocs:pixel-height>
+               <xocs:pixel-width>711</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/gr4/DOWNSAMPLED/image/jpeg/69932dc393e893a423f0adb3ec1610b3/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>61570</xocs:filesize>
+               <xocs:pixel-height>305</xocs:pixel-height>
+               <xocs:pixel-width>756</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/gr5/DOWNSAMPLED/image/jpeg/8f00b25e2770fa33b71213d5e6bab74c/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>38542</xocs:filesize>
+               <xocs:pixel-height>310</xocs:pixel-height>
+               <xocs:pixel-width>756</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/fx1/HIGHRES/image/jpeg/5e9e1c2e5b876314559000a0838651c8/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>199628</xocs:filesize>
+               <xocs:pixel-height>886</xocs:pixel-height>
+               <xocs:pixel-width>2188</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/gr1/HIGHRES/image/jpeg/0de485a6c19151f0aea26d64722ee850/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>845657</xocs:filesize>
+               <xocs:pixel-height>2761</xocs:pixel-height>
+               <xocs:pixel-width>3543</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/gr2/HIGHRES/image/jpeg/356c858e9372f182d20d9f0d9032b007/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>130765</xocs:filesize>
+               <xocs:pixel-height>1190</xocs:pixel-height>
+               <xocs:pixel-width>1575</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/gr3/HIGHRES/image/jpeg/0c95b0f319608c6f17f9724389c1705d/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>161852</xocs:filesize>
+               <xocs:pixel-height>1331</xocs:pixel-height>
+               <xocs:pixel-width>3150</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/gr4/HIGHRES/image/jpeg/1994ef81416d0f0eebd8bc5519065148/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>348735</xocs:filesize>
+               <xocs:pixel-height>1351</xocs:pixel-height>
+               <xocs:pixel-width>3346</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/gr5/HIGHRES/image/jpeg/d65f43f69af052fd69a1c5c918994cf8/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>183954</xocs:filesize>
+               <xocs:pixel-height>1370</xocs:pixel-height>
+               <xocs:pixel-width>3346</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/dac67a4ecd49ad8df00f5a9c5c0735f7/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>62871</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0003267017310875-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0003267017310875/STRIPIN/image/gif/2dd52c6a0c7f284278544ec3a7156cc2/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>742</xocs:filesize>
+               <xocs:pixel-height>33</xocs:pixel-height>
+               <xocs:pixel-width>169</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>ACA</jid>
+            <aid>235463</aid>
+            <ce:pii>S0003-2670(17)31087-5</ce:pii>
+            <ce:doi>10.1016/j.aca.2017.09.038</ce:doi>
+            <ce:copyright type="full-transfer" year="2017">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">(A) UV–Visible absorption spectra of CQDs-Dopa, Dopamine and Citric acid. (B) Fluorescence spectrum of CQDs-Dopa from 290 to 600 nm excited at 280 nm and 310 nm light. (C) HR-TEM image of CQDs-Dopa. (D) Stability of CQDs-Dopa (10 μg mL<ce:sup loc="post">−1</ce:sup>) after storage of 1, 2, 5, 15, 30 and 60 days at 4 °C.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0020">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0003267017310875/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">FT-IR spectra of CQDs-Dopa.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0003267017310875/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">(A) Influence of pH values (2.0, 4.0, 6.0, 6.2, 6.4 and 6.5) on the Quenching efficiency (QE) of CQDs-Dopa in presence of TYR after 4 h of incubation time. (B) Influence of incubation time (0, 5, 10, 15, 30, 45 and 90 min) on the QE of CQDs-Dopa in the presence of TYR under the PBS buffer solution (0.01 M, pH 6.0).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0030">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0003267017310875/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">(A) Fluorescence intensity of CQDs-Dopa versus TYR activity range from 0 to 5015 U L<ce:sup loc="post">−1</ce:sup>. (B) The fitting curve and regression equation between fluorescence quenching intensity of CQDs-Dopa and TYR activity over two linear ranges: 44.4–711.1 U L<ce:sup loc="post">−1</ce:sup> and 711.1–2925.4 U L<ce:sup loc="post">−1</ce:sup>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0035">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0003267017310875/gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">(A) QE of CQDs-Dopa in the presence of TYR, AchE, GOX, PPL and HSA, respectively. (B) Interference of biological metal ions (0.1 M) on the QE of CQDs-Dopa in the presence of TYR.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0040">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0003267017310875/gr5"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="tspara0010" view="all">A comparison with several previously reported TYR detection assays.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0045">Table 1</ce:alt-text>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Analytical materials</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Analytical time (min)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Detection limit (U L<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Linear range (U L<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">References</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Dopa-CQDs</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">23.2–793.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <cross-ref refid="bib24" id="crosref0200">[24]</cross-ref>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">AuNCs@Tyr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">240</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">80.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">500.0–20000.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <cross-ref refid="bib33" id="crosref0205">[33]</cross-ref>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">AuNCs</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.0–3600.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <cross-ref refid="bib35" id="crosref0210">[35]</cross-ref>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Dopa-Au/Ag NCs</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">45.0–319.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <cross-ref refid="bib36" id="crosref0215">[36]</cross-ref>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">CQDs-Dopa</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">17.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">44.4–711.1<br/>711.1–2925.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">This work</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="tspara0015" view="all">Comparison of detection of TYR in human serum samples by the colorimetric method and the proposed fluorescent assay.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0050">Table 2</ce:alt-text>
+               <tgroup cols="6">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Samples</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Colorimetric method (U L<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Confidence Intervals (95%) (U L<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Fluorescence method (U L<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Confidence Intervals (95%) (U L<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">t-value calculated</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Serum 1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">400.0 ± 10.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">361.6–438.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">389.0 ± 25.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">350.6–427.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.56</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Serum 2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">444.4 ± 11.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">411.3–478.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">458.2 ± 21.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">424.9–491.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.81</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Serum 3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">865.1 ± 22.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">838.2–892.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">854.3 ± 17.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">827.4–881.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.39</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Serum 4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1111.1 ± 28.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1030.3–1191.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1157.2 ± 37.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1076.4–1237.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.21</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Serum 5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1222.2 ± 31.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1170.2–1274.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1265.8 ± 32.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1213.9–1317.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.14</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="tspara0020" view="all">At a confidence level of 95% and degree of freedom of 4 (i.e. 3+3−2), the tabulated value of t equals 2.776.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Functionalized carbon quantum dots with dopamine for tyrosinase activity analysis</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S0003267017310875-1023fc9a2981b44b273b9d5887a34d70">
+                  <ce:given-name>Jin-Jie</ce:given-name>
+                  <ce:surname>Hu</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff3" id="crosref0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au2" author-id="S0003267017310875-aab77437a87fde9812636e8bab934f90">
+                  <ce:given-name>Xiao-Lin</ce:given-name>
+                  <ce:surname>Bai</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au3" author-id="S0003267017310875-70c661d818bd6b5554c6fd91e58f0910">
+                  <ce:given-name>Yi-Ming</ce:given-name>
+                  <ce:surname>Liu</ce:surname>
+                  <ce:cross-ref refid="aff2" id="crosref0025">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="crosref0030">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au4" orcid="0000-0001-9814-9716" author-id="S0003267017310875-0d724d50d83aa8258f41dd3a8e742998">
+                  <ce:given-name>Xun</ce:given-name>
+                  <ce:surname>Liao</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0035">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor2" id="crosref0040">
+                     <ce:sup loc="post">∗∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S0003267017310875-95e51ff774a2c93bb85b3ceb677595f0">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu 610041, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Chengdu Institute of Biology</sa:organization>
+                     <sa:organization>Chinese Academy of Sciences</sa:organization>
+                     <sa:city>Chengdu</sa:city>
+                     <sa:postal-code>610041</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S0003267017310875-bbe0f6c7c16fb6ec7a57fc2930ae9be6">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Chemistry and Biochemistry, Jackson State University, 1400 Lynch St., Jackson, MS 39217, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemistry and Biochemistry</sa:organization>
+                     <sa:organization>Jackson State University</sa:organization>
+                     <sa:address-line>1400 Lynch St.</sa:address-line>
+                     <sa:city>Jackson</sa:city>
+                     <sa:state>MS</sa:state>
+                     <sa:postal-code>39217</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff3" affiliation-id="S0003267017310875-211f68de21a03e3ac29ba11672433b3a">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>University of Chinese Academy of Sciences, Beijing, 100049, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>University of Chinese Academy of Sciences</sa:organization>
+                     <sa:city>Beijing</sa:city>
+                     <sa:postal-code>100049</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+               <ce:correspondence id="cor2">
+                  <ce:label>∗∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="26" month="1" year="2017"/>
+            <ce:date-revised day="17" month="9" year="2017"/>
+            <ce:date-accepted day="18" month="9" year="2017"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">Tyrosinase (TYR) is a key enzyme in melanin biosynthesis and its activity is an important biomarker for dermatological disorders, such as vitiligo, melanoma and actinic damages. Sensitive assay for TYR activity is significant for basic and clinical research. In this work, a facile fluorescent assay for TYR activity based on dopamine functionalized carbon quantum dots (CQDs-Dopa) has been developed. Dopamine (Dopa) was covalently bond to CQDs through a simple one-pot hydrothermal method, and the prepared CQDs-Dopa exhibited a fluorescence emission at 499 nm under exciting wavelength at 310 nm with a quantum yield of approximately 2.1%. When TYR was mixed with CODs-Dopa, the dopamine moiety in CQDs-Dopa conjugate was oxidized to <ce:italic>O</ce:italic>-dopaquinone, and an intra-particle photo-induced electron transfer (PET) process consequently occurred between CQDs and <ce:italic>O</ce:italic>-dopaquinone to quench the fluorescence of CQDs-Dopa. TYR activity can be determined based on the fluorescence quenching degree of CQDs-Dopa. This assay covered two broad linear ranges: 44.4–711.1 U L<ce:sup loc="post">−1</ce:sup> and 711.1–2925.4 U L<ce:sup loc="post">−1</ce:sup>, with detection limit of 17.7 U L<ce:sup loc="post">−1</ce:sup>. The proposed fluorescent assay was applied to TYR activity measurement in human serum samples. It showed promising potential for TYR activity assay in clinical applications.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract class="graphical" id="abs0015" view="all">
+               <ce:section-title id="sectitle0015">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="abssec0015" view="all">
+                  <ce:simple-para id="abspara0015" view="all">
+                     <ce:display>
+                        <ce:figure id="undfig1">
+                           <ce:alt-text role="short" id="alttext0010">Image 1</ce:alt-text>
+                           <ce:link locator="fx1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0003267017310875/fx1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0025">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Tyrosinase</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Carbon quantum dots</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Fluorescence assay</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Photo-induced electron transfer</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:keywords xml:lang="en" class="abr" id="kwrds0015" view="all">
+               <ce:section-title id="sectitle0030">Abbreviations</ce:section-title>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>TYR</ce:text>
+                  <ce:keyword id="kwrd0035">
+                     <ce:text>Tyrosinase</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="kwrd0040">
+                  <ce:text>CQDs-Dopa</ce:text>
+                  <ce:keyword id="kwrd0045">
+                     <ce:text>Dopamine functionalized carbon quantum dots</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="kwrd0050">
+                  <ce:text>Dopa</ce:text>
+                  <ce:keyword id="kwrd0055">
+                     <ce:text>Dopamine</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="kwrd0060">
+                  <ce:text>PET</ce:text>
+                  <ce:keyword id="kwrd0065">
+                     <ce:text>Photo-induced electron transfer</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="kwrd0070">
+                  <ce:text>CQDs</ce:text>
+                  <ce:keyword id="kwrd0075">
+                     <ce:text>Carbon quantum dots</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="kwrd0080">
+                  <ce:text>QDs</ce:text>
+                  <ce:keyword id="kwrd0085">
+                     <ce:text>Quantum dots</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="kwrd0090">
+                  <ce:text>HR-TEM</ce:text>
+                  <ce:keyword id="kwrd0095">
+                     <ce:text>High resolution transmission electron microscopy</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="kwrd0100">
+                  <ce:text>FT-IR</ce:text>
+                  <ce:keyword id="kwrd0105">
+                     <ce:text>Flourier transform infrared spectra</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="kwrd0110">
+                  <ce:text>MWCO</ce:text>
+                  <ce:keyword id="kwrd0115">
+                     <ce:text>Molecular weight cut-off</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="kwrd0120">
+                  <ce:text>AchE</ce:text>
+                  <ce:keyword id="kwrd0125">
+                     <ce:text>Acetylcholine esterase</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="kwrd0130">
+                  <ce:text>GOX</ce:text>
+                  <ce:keyword id="kwrd0135">
+                     <ce:text>Glucose oxidase</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="kwrd0140">
+                  <ce:text>PPL</ce:text>
+                  <ce:keyword id="kwrd0145">
+                     <ce:text>Porcine pancreatic lipase</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="kwrd0150">
+                  <ce:text>PBS</ce:text>
+                  <ce:keyword id="kwrd0155">
+                     <ce:text>Phosphate buffered saline</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="kwrd0160">
+                  <ce:text>QE</ce:text>
+                  <ce:keyword id="kwrd0165">
+                     <ce:text>Quenching efficiency</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0035">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">Tyrosinase (TYR, EC 1.14.18.1) is a copper-containing polyphenol oxidase widely existed in microorganisms, plants and animals <ce:cross-ref refid="bib1" id="crosref0045">[1]</ce:cross-ref>. It plays pivotal roles in biosynthesis of melanin <ce:cross-refs refid="bib2 bib3" id="crosrefs0010">[2,3]</ce:cross-refs>, which is involved in color determination of mammalian skin and hair. Abnormal elevated level of TYR can cause excessive production of melanin pigmentation that is one of the serious esthetic problems in human beings <ce:cross-ref refid="bib4" id="crosref0050">[4]</ce:cross-ref>. Inhibitors of TYR have been explored to develop whitening products in cosmetic industry. The TYR activity is considered as one of the important biomarkers for melanoma cancer because the enzyme is usually over-expressed in melanoma cancer cells <ce:cross-ref refid="bib5" id="crosref0055">[5]</ce:cross-ref>. Furthermore, as the rate-limiting enzyme for the production of neuromelanin, TYR has been reported to be associated with Parkinson disease <ce:cross-refs refid="bib6 bib7" id="crosrefs0015">[6,7]</ce:cross-refs>. Therefore, development of highly sensitive assay for TYR activity is of great importance for both basic research and practical application in clinical diagnosis.</ce:para>
+                  <ce:para id="p0030" view="all">Various methods based on colorimetric, electrochemical, and fluorescent assays have been developed to measure TYR activity. Among them, traditional colorimetric assays can directly and quantitatively measure the TYR activity based on the characteristic absorbance of dopaquinone intermediates <ce:cross-ref refid="bib8" id="crosref0060">[8]</ce:cross-ref>. However, the accuracy and sensitivity are hindered by the instability of intermediate products. Fluorescent assays based on inorganic semiconductor quantum dots or noble metal nanoclusters generally possess higher sensitivity <ce:cross-ref refid="bib9" id="crosref0065">[9]</ce:cross-ref>. But there are concerns about the toxicity for inorganic semiconductor quantum dots (QDs) <ce:cross-refs refid="bib10 bib11" id="crosrefs0020">[10,11]</ce:cross-refs>, and the inconvenience of using stabilizing agents for noble metal nanoclusters in aqueous solution <ce:cross-refs refid="bib9 bib12" id="crosrefs0025">[9,12]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0035" view="all">In recent years, carbon quantum dots (CQDs) have attracted considerable interests due to the good stability, easiness to prepare <ce:cross-refs refid="bib13 bib14 bib15 bib16" id="crosrefs0030">[13–16]</ce:cross-refs> and low biological toxicity <ce:cross-refs refid="bib17 bib18 bib19" id="crosrefs0035">[17–19]</ce:cross-refs>, therefore they have been widely applied in biological analytical chemistry to detect biomolecules such as DNA, micro RNA, trypsin, thrombin, hyaluronidase, and alkaline phosphatase <ce:cross-refs refid="bib20 bib21 bib22 bib23" id="crosrefs0040">[20–23]</ce:cross-refs>. Up till now, there is few report on the application of CQDs towards in the measurement of TYR activity except for Chai et al. <ce:cross-ref refid="bib24" id="crosref0070">[24]</ce:cross-ref>. The CQDs was prepared with concentrated acid treatment method, which is not environmental friendly and dangerous to carry out. In addition to concentrated acid treatment, there have been various synthetic methods for preparation of CQDs including ultrasonic treatment of active carbon <ce:cross-refs refid="bib15 bib23 bib25" id="crosrefs0045">[15,23,25]</ce:cross-refs>, UV irradiation of organic precursors <ce:cross-ref refid="bib26" id="crosref0075">[26]</ce:cross-ref>, electrochemical oxidation of carbon fiber and thermal treatment of organic precursors <ce:cross-ref refid="bib27" id="crosref0080">[27]</ce:cross-ref>. Among all those methods, thermal treatment of organic precursors is appealing due to their simplicity, versatility, and low cost of raw materials <ce:cross-refs refid="bib28 bib29 bib30" id="crosrefs0050">[28–30]</ce:cross-refs>. Hydrothermal method is the most commonly used one for its environmental friendliness, while CQDs prepared in this way possess advantages of uniform particles, good water solubility and dispersibility <ce:cross-ref refid="bib30" id="crosref0085">[30]</ce:cross-ref>. Therefore, CQDs prepared in this way possess great potential for TYR analysis.</ce:para>
+                  <ce:para id="p0040" view="all">In this study, we prepared dopamine functionalized carbon quantum dots (CQDs-Dopa) by one step hydrothermal method for the first time to develop a simple and sensitive fluorescent assay for TYR. UV–Vis absorption, fluorescence spectroscopy, high resolution transmission electron microscopy (HR-TEM) and flourier transform infrared spectroscopy (FT-IR) were used to characterize the prepared CQDs-Dopa. When mixed with solutions containing TYR, the dopamine moiety in CQDs-Dopa conjugate was catalyzed to dopaquinone, which could introduce an intra-particle photo-induced electron transfer (PET) process with CQDs to quench the fluorescence of the original CQDs-Dopa. Quantitative assessment of TYR activity was established based on the fluorescence signal readout. Furthermore, we studied the specificity of this method by comparing the response of some other proteins to CQDs-Dopa, including acetylcholinesterase (AchE), glucose oxidase (GOX), porcine pancreatic lipase (PPL), and human serum album (HSA). Influence of the biological metal ions on fluorescence quenching of the CQDs-Dopa by TYR was also investigated.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0040">Experimental</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sectitle0045">Materials and reagents</ce:section-title>
+                     <ce:para id="p0045" view="all">Dopamine hydrochloride was purchased from J&amp;K scientific Ltd (Beijing, China). Mushroom TYR (330 U mg<ce:sup loc="post">−1</ce:sup>) was purchased from Solarbio Technology Co., Ltd (Beijing, China). Quinine sulfate was purchased from Aladdin Company (Shanghai, China). Glucose oxidase (GOX) was purchased from Beijing Zhijie Square Technology Co., Ltd. (Beijing, China), levodopa, acetylcholine esterase (AchE), porcine pancreatic lipase (PPL) and human serums were purchased from Sigma-Aldrich Chemical Co. (St. Louis, MO, USA). Human serum albumin (HSA) was purchased from Shuangliu Zhenglong biochemical products research center (Sichuan, China). Citric acid, potassium dihydrogen phosphate (KH<ce:inf loc="post">2</ce:inf>PO<ce:inf loc="post">4</ce:inf>), dipotassium hydrogen phosphate trihydrate (K<ce:inf loc="post">2</ce:inf>HPO<ce:inf loc="post">4</ce:inf> 3H<ce:inf loc="post">2</ce:inf>O), calcium chloride (CaCl<ce:inf loc="post">2</ce:inf>), sodium chloride (NaCl), potassium chloride (KCl), and barium chloride (BaCl<ce:inf loc="post">2</ce:inf>) were purchased from Guangdong Guanghua Sci-Tech. Co., Ltd (Guangdong, China). Magnesium chloride (MgCl<ce:inf loc="post">2</ce:inf>), ferric chloride (FeCl<ce:inf loc="post">3</ce:inf> 6H<ce:inf loc="post">2</ce:inf>0), hydrochloric acid (HCl) and sodium hydroxide (NaOH) were purchased from Tianjin Kemiou Chemical Reagent Co., Ltd. (Tianjin, China), HPLC grade water was produced by a Milli-Q (18.2 MΩ) system (Millipore, Bedford, MA, USA). The details about preparation of solutions were described in the <ce:cross-ref refid="appsec1" id="crosref0090">supplementary information</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sectitle0050">Apparatus</ce:section-title>
+                     <ce:para id="p0050" view="all">The Ultraviolet spectrums were recorded on an UV-1800 spectrophotometer (Shimadzu, Japan). Fourier transform infrared spectra (FT-IR) were recorded in KBr by a Perkin-Elmer FT-IR spectroscopy. The pH values were measured with a pHS-3 digital pH meter (Shanghai LeiCi Device Works, China). Fluorescence spectra were recorded on an RF-5301 fluorescence spectrometer equipped with a 150-W xenon lamp and 1.0-cm quartz cell (Shimadzu, Japan). High resolution transmission electron microscopy (HR-TEM) images obtained by JEM2100 (JEOL Co., Japan). Enzymatic reactions were incubated in a ZHWY-200H constant temperature shaking table (Shanghai Zhicheng Analytical Instrument Manufacturing Co., Ltd, China). Mixture was centrifuged by a D3024R centrifuge (SCILOGEX, America), and then freeze-dried by a MODULYOD-230 vacuum freeze drier (Thermo, America).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.3" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sectitle0055">Preparation of CQDs-Dopa</ce:section-title>
+                     <ce:para id="p0055" view="all">The CQDs were prepared according to hydrothermal method with minor modification <ce:cross-refs refid="bib31 bib32" id="crosrefs0055">[31,32]</ce:cross-refs>. Briefly, 2.1 g of citric acid and 1.9 g of dopamine hydrochloride were dissolved in 20 mL of deionized water to be heated at 200 °C for 5 h. After reaction, the mixture was cooled to room temperature, and the supernatant was then transferred to a 1000 molecular weight cut-off (MWCO) of dialysis bag to be dialyzed in the deionized water for 24 h for removal of the un-reacted species, and then the mixture was centrifuged at 13700 g at 4 °C for 2 min to remove the quantum dots which have been oxidized. Finally, the purified CQDs were collected and freeze-dried before further characterization and application.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.4" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sectitle0060">Optimization for enzyme activity detection conditions</ce:section-title>
+                     <ce:para id="p0060" view="all">Phosphate buffer has a strong buffering capacity in a broad range of pHs since it has a triple pKa, so we chose it in our experiment. To obtain high sensitivity for TYR detection, pH value of phosphate buffered saline (PBS) and incubation time were investigated. To optimize the pH value of the buffer, the fluorescence spectra of CQDs-Dopa were recorded in the absence and presence of TYR under different pH value of 2.0, 4.0, 6.0, 6.2, 6.4, and 6.5, respectively. The incubation time was then optimized under the optimal buffer pH value. The fluorescence spectra of CQDs-Dopa were recorded in the presence of TYR after incubation time of 0, 5, 10, 15, 30, 45, 60, and 90 min, respectively. The fluorescence spectra of the mixtures containing 31.0 μg CQDs-Dopa and different amounts of TYR were monitored by fluorescence spectrometer. The activity of TYR used in optimization, selectivity and interference experiments were 14444 U L<ce:sup loc="post">−1</ce:sup>.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.5" view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title id="sectitle0065">Specificity and interference of the TYR assay</ce:section-title>
+                     <ce:para id="p0065" view="all">To investigate the specificity of the developed fluorescent assay, interactions between TYR, AchE, GOX, PPL and HSA to the CQD-Dopa were compared. TYR, AchE, GOX, PPL and HSA were incubated with CQDs-Dopa, respectively, and then monitored by fluorescence spectrometer. All these experiments were repeated for three times.</ce:para>
+                     <ce:para id="p0070" view="all">As a metal-containing enzyme, TYR can possibly be influenced by metals <ce:cross-ref refid="bib33" id="crosref0095">[33]</ce:cross-ref>. Therefore, further interference experiments were performed to investigate the effects of several kinds of biologically significant metal ions (Ca<ce:sup loc="post">2+</ce:sup>, Ba<ce:sup loc="post">2+</ce:sup>, K<ce:sup loc="post">+</ce:sup>, Mg<ce:sup loc="post">2+</ce:sup>, Na<ce:sup loc="post">+</ce:sup>, and Fe<ce:sup loc="post">3+</ce:sup>) on the activity of TYR. The concentrations for all the metal ions were 0.1 M. The fluorescence spectra of the mixtures containing metal ions, 31.0 μg CQDs-Dopa and TYR were monitored by fluorescence spectrometer.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.6" view="all">
+                     <ce:label>2.6</ce:label>
+                     <ce:section-title id="sectitle0070">Measurement of TYR activity in human serums</ce:section-title>
+                     <ce:para id="p0075" view="all">TYR activity was determined according to the increase of absorbance at 475 nm accompanying the consumption of the substrate Levodopa. One unit of the enzymatic activity was defined as the amount of TYR which causes increase of 0.001 in A475 per minute at pH 7.2 at 30 °C, in a 3 mL reaction mix containing Levodopa. Under the optimized pH value and mixing time, the CQDs-Dopa was incubated with human serum samples spiked with various amounts of TYR (1.4, 1.5, 2.9, 3.8, and 4.1 μg), and the fluorescence of the supernatants was recorded. Quenching of CQDs-Dopa's fluorescence is proportional to TYR activity, thus TYR activities could be obtained by directly readout from the calibration curve. In the meantime, since colorimetric method has been widely used to measure the TYR activity, we performed colorimetric measurement of the TYR in this work to compare the performance of our method <ce:cross-ref refid="bib34" id="crosref0100">[34]</ce:cross-ref>. Briefly, 5.0 mM of levodopa was prepared in 0.01 M Tris-HCl buffer and placed in a series of 5.0 mL centrifuge tubes, 2.8 mL of which were incubated at 30 °C for 5 min, and then 0.2 mL of TYR of various concentrations were quickly added into the solution. Absorbance of the mixture at 475 nm was measured once a minute. TYR activity was obtained by calculating the slope of the time line through measuring the optical density at 475 nm.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0075">Results and discussion</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sectitle0080">Characterization of CQDs-Dopa</ce:section-title>
+                     <ce:para id="p0080" view="all">UV–visible absorption and fluorescence spectra of CQDs-Dopa measured with a UV–visible and a fluorescence spectrometer were shown in <ce:cross-ref refid="fig1" id="crosref0105">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>A and B. The CQDs-Dopa showed the maximum UV absorption at 280 nm and 310 nm. The CQDs-Dopa showed the maximum UV absorptions at 280 nm and 310 nm. The absorption at 280 nm is probably ascribable to dopamine moiety in CQDs-Dopa, which can be concluded from the comparison of dopamine, CQDs-Dopa and citric acid as shown in <ce:cross-ref refid="fig1" id="crosref0110">Fig. 1</ce:cross-ref>A. We examined the fluorescence behaviors of CQDs-Dopa under 280 and 310 nm, and found that CQDs-dopa exhibited fluorescence only under the excitation wavelength at 310 nm (<ce:cross-ref refid="fig1" id="crosref0115">Fig. 1</ce:cross-ref>B). Therefore, excitation wavelength was set at 310 nm, and a fluorescence emission at 499 nm under this exciting wavelength at 310 nm. The morphology of CQDs-Dopa was characterized by a HR-TEM and it was found that they were spherical particles with diameter ranging from 1.0 to 3.0 nm (2.7 ± 0.5 nm) as seen in <ce:cross-ref refid="fig1" id="crosref0120">Fig. 1</ce:cross-ref>C. Additionally, freeze-dried CQDs-Dopa was dissolved into PBS buffer (0.01 M, pH 6.0) to prepare 10.1 μg mL<ce:sup loc="post">−1</ce:sup> CQDs-Dopa solution after storage of 1, 2, 5, 15, 30 and 60 days at 4 °C, and then analyzed by fluorescence spectrometer. CQDs-Dopa was found stable even after 60 days of stock as reflected by the little change in the fluorescence intensity (<ce:cross-ref refid="fig1" id="crosref0125">Fig. 1</ce:cross-ref>D).</ce:para>
+                     <ce:para id="p0085" view="all">The formation of CQDs-Dopa was characterized by FT-IR as shown in <ce:cross-ref refid="fig2" id="crosref0130">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/>. The broad absorption at 3195 cm<ce:sup loc="post">−1</ce:sup> was ascribed to O-H stretching absorption. Absorption at 812 cm<ce:sup loc="post">−1</ce:sup>, 871 cm<ce:sup loc="post">−1</ce:sup> and 954 cm<ce:sup loc="post">−1</ce:sup> were ascribed to bending vibration of benzene ring. The absorption at 1120 cm<ce:sup loc="post">−1</ce:sup> was ascribed to the C-N vibration. The absorption at 1646 cm<ce:sup loc="post">−1</ce:sup>, 1568 cm<ce:sup loc="post">−1</ce:sup> and 1403 cm<ce:sup loc="post">−1</ce:sup> were ascribed to C=O stretching vibration, N-H deformation and C-N stretching, respectively, all of which were arising from amide, suggesting that the CQDs-Dopa was synthesized via amide bond <ce:cross-ref refid="bib31" id="crosref0135">[31]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sectitle0085">Optimization of detection conditions</ce:section-title>
+                     <ce:para id="p0090" view="all">To optimize the detection condition, a series of experiments regarding the pH of buffer and reaction time were carried out. Enzymes' activities are mostly influenced by pH values, so we first investigate the effects of different pH values on the TYR activity. TYR and CQDs-Dopa were mixed in 0.01 M of phosphate buffer at pH values of 2.0, 4.0, 6.0, 6.2, 6.4, and 6.5, respectively, to have the enzymatic reaction lasting for 4 h. The fluorescence quenching efficiency (QE) was calculated using the following equation:<ce:display>
+                           <ce:formula id="ufd1">
+                              <mml:math altimg="si1.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mtext> QE </mml:mtext>
+                                    <mml:mrow>
+                                       <mml:mo>(</mml:mo>
+                                       <mml:mtext>%</mml:mtext>
+                                       <mml:mo>)</mml:mo>
+                                    </mml:mrow>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mtext>F</mml:mtext>
+                                             <mml:mn>0</mml:mn>
+                                          </mml:msub>
+                                          <mml:mo>−</mml:mo>
+                                          <mml:mtext>F</mml:mtext>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mtext>F</mml:mtext>
+                                             <mml:mn>0</mml:mn>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:mo>×</mml:mo>
+                                    <mml:mtext> </mml:mtext>
+                                    <mml:mn>100</mml:mn>
+                                    <mml:mtext>%</mml:mtext>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="p0095" view="all">F<ce:inf loc="post">0</ce:inf> and F stand for the fluorescence intensity of CQDs-Dopa in the absence and presence of quenchers, respectively. The value of QE reached to the highest when pH was 6.0, suggesting that phosphate buffer at pH 6.0 is the mostly appropriate one for TYR activity measurement in this method (<ce:cross-ref refid="fig3" id="crosref0140">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/>A).</ce:para>
+                     <ce:para id="p0100" view="all">Different enzymatic reaction usually needs different period of time. To obtain the best incubation period in this method, the fluorescence of the enzymatic mixture of CQDs-Dopa and TYR were recorded at different time points of 0, 5, 10, 15, 30, 45, 60, and 90 min, respectively. The fluorescence quenching degree increased abruptly within 20 min, while reaching to the platform after 30 min as shown in <ce:cross-ref refid="fig3" id="crosref0145">Fig. 3</ce:cross-ref>B, suggesting that the enzymatic reaction completed in 30 min. Therefore, the phosphate buffer of pH 6.0 and incubation time of 30 min were decided to be the optimal condition for the enzymatic reaction.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.3" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sectitle0090">Detection assays for TYR activity</ce:section-title>
+                     <ce:para id="p0105" view="all">The fluorescence intensity of CQDs-Dopa varied with the amounts of TYR added to the solution, therefore, TYR activity can be quantitatively analyzed with the proposed method. It is worth noting that the process of this enzymatic reaction is easily visualized, for the color of the reaction solution quickly changed from light yellow to brown with the addition of TYR. As shown in <ce:cross-ref refid="fig4" id="crosref0150">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/>, the fluorescence intensity at 499 nm continuously decreased with the increase of the amount of TYR added to CQDs-Dopa solution. Since all the assays have the same reaction time, we described the reaction rate in y-axis by the fluorescence quenching degree (F<ce:inf loc="post">0</ce:inf> − F). TYR activities used in the experiments have already been known and described in x-axis. Linear relationship of the fluorescence quenching degree versus TYR activities can be fitted to obtain the calibration. In particular, the fluorescent intensity decrease (F<ce:inf loc="post">0</ce:inf> − F) versus various amounts of TYR displayed two linear ranges, i.e. 44.4–711.1 U L<ce:sup loc="post">−1</ce:sup> and 711.1–2925.4 U L<ce:sup loc="post">−1</ce:sup>. The regression equations were (F<ce:inf loc="post">0</ce:inf> − F) = 0.861 + 0.079 [TYR] (R<ce:sup loc="post">2</ce:sup> = 0.996) and (F<ce:inf loc="post">0</ce:inf> − F) = 27.33 + 0.042 [TYR] (R<ce:sup loc="post">2</ce:sup> = 0.999), respectively. In that similar previous report, carbon nanoparticles (CNPs) were prepared by hydrothermal method at 180 °C for 6 h <ce:cross-ref refid="bib32" id="crosref0155">[32]</ce:cross-ref>, while we just modified that with a little more higher temperature at 200 °C and shorter processing time of 5 h. As a matter of fact, hydrothermal method has been the easiest and most efficient method as far as preparation of carbon dots is concerned. Meanwhile, the limit of detection (LOD) of TYR was determined as three times the standard deviation of the mean blank signal based on the calibration curve of y = 0.079 x + 0.861, which was calculated to be 17.7 U L<ce:sup loc="post">−1</ce:sup>. Meanwhile, when using colorimetric method to analyze TYR, the linear range was found to be from 297.3 to 16324.3 U L<ce:sup loc="post">−1</ce:sup>, and the LOD was 126.8 U L<ce:sup loc="post">−1</ce:sup>. The whole analytical time for TYR activity was around twenty minutes, which is approximately the same with our method (<ce:cross-ref refid="appsec1" id="crosref0160">Supplementary Material</ce:cross-ref>). Although colorimetric method possesses a broader linear range, it is much less sensitive than our method. Furthermore, a comparison of our method with several previously reported TYR detection assays based on fluorescent detection is shown in <ce:cross-ref refid="tbl1" id="crosref0165">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl1"/>.</ce:para>
+                     <ce:para id="p0110" view="all">Preparation of the sensors involved in those assays most likely requires complex pre-treatments, tedious procedures, too much time and/or dangerous reagents. Hydrothermal method provides more facile means to overcome these drawbacks. To the best of our knowledge, this is the first application of CQDs-Dopa synthesized with hydrothermal method to TYR analysis. It is noted that a similar CQDs was prepared with the same method to detect dopamine and iron ion <ce:cross-ref refid="bib32" id="crosref0170">[32]</ce:cross-ref>, in which dopamine was used as both carbon source and CQDs surface modifier. However, our synthetic strategy is different in that citric acid was used as the carbon source to produce CQDs, and dopamine was bond to the CQDs' surfaces while they formed. Because of the difference in synthesis strategy, reaction conditions used for the synthesis were also modified to achieve an optimal result.</ce:para>
+                     <ce:para id="p0115" view="all">Based on the proposed CQDs-Dopa, our analytical method offers advantages of shorter analytical time, good sensitivity and broad ranges. The proposed fluorescence assay for TYR provides a good performance.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.4" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="sectitle0095">Selectivity and interference studies</ce:section-title>
+                     <ce:para id="p0120" view="all">Selectivity is a very important indicator to evaluate the performance of the analytical method. Since our fluorescent assay is for the TYR present in the serum, it is necessary to evaluate the influence of other proteins on this CQD-Dopa based method. The following proteins were incubated with CQD-Dopa respectively, namely AchE, GOX, PPL and HSA, and the results were compared with that of TYR as shown in <ce:cross-ref refid="fig5" id="crosref0175">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/>A. There was almost no QE observed for those proteins, suggesting that CQDs-Dopa possess high specificity against TYR.</ce:para>
+                     <ce:para id="p0125" view="all">The activity of TYR is possibly affected by metals for it is a metal containing enzyme. The coexisting metal ions interference experiments were performed in the presence of TYR. As shown in <ce:cross-ref refid="fig5" id="crosref0180">Fig. 5</ce:cross-ref>B, all those metal ions except for iron ions exhibited little effects on the QE of the CQDs-Dopa by TYR. When iron ions were added into the reaction system, the quenching degree is enhanced, which could be ascribed to the quenching effect of iron ions <ce:cross-ref refid="bib32" id="crosref0185">[32]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.5" view="all">
+                     <ce:label>3.5</ce:label>
+                     <ce:section-title id="sectitle0100">Detection of TYR in human serum samples</ce:section-title>
+                     <ce:para id="p0130" view="all">The proposed fluorescent assay was applied for the measurement of TYR activity in five human serum samples. At the same time, the human serum samples were analyzed by the colorimetric method for comparing the performance of our method. The TYR activities in all human serum samples were calculated from the standard curves and regression equations. The analytical results are listed in <ce:cross-ref refid="tbl2" id="crosref0190">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl2"/>, together with the t-values calculated from comparing these results by <ce:italic>t</ce:italic>-test. When confidence is set at 95% and degree of freedom equals 4 (i.e. 3+3−2), the tabulated value of t equals 2.776. As shown in <ce:cross-ref refid="tbl2" id="crosref0195">Table 2</ce:cross-ref>, the values of t calculated are all less than 2.776, which indicates that the proposed fluorescence method is statistically comparable with the widely accepted colorimetric method in terms of assay accuracy. The results from both methods were in agreement with each other in two linear ranges, which suggested that the proposed fluorescent assay possess accuracy in analyzing TYR activity. Therefore, this proposed fluorescent assay has potential for broadening avenues of detecting TYR activity in actual human serum samples.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0105">Conclusions</ce:section-title>
+                  <ce:para id="p0135" view="all">In conclusion, we have developed a simple, practical and sensitive fluorescent method for TYR detection. The CQDs-Dopa was synthesized through a simple one-pot hydrothermal method without any stabilizing agents, which formed through amide bond between citric acid and dopamine. The dopamine moiety in CQDs-Dopa conjugate was catalyzed into dopaquinone, and an intra-particle PET process consequently occurs between the latter and CQDs. As a result, the fluorescence for the original CQDs-Dopa was quenched, and it is easily visualized that the color of the reaction solution changed from light yellow to brown after addition of TYR into the CQDs-Dopa solution. The proposed fluorescent assay can quantify TYR in two wide linear ranges, i.e. 44.4 to 711.1 and 711.1–2925.4 U L<ce:sup loc="post">−1</ce:sup> with a low detection limit of 17.7 U L<ce:sup loc="post">−1</ce:sup>. The performance of this fluorescent assay matches that obtained from the colorimetric method in human serum samples, indicating that this method is practical and can be reliable. This fluorescent assay possesses promising potential in TYR activity measurement in actual samples for its good linear relationship and sensitivity.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0110">Acknowledgements</ce:section-title>
+               <ce:para id="p0140" view="all">This work is supported by the <ce:grant-sponsor id="gs1" sponsor-id="https://doi.org/10.13039/501100002367" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">West Light Foundation of the Chinese Academy of Sciences</ce:grant-sponsor>, the <ce:grant-sponsor id="gs2" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">State Key Laboratory of Phytochemistry and Plant Resources in West China</ce:grant-sponsor> (No.<ce:grant-number refid="gs2">P2015-KF12</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="appsec1" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0115">Supplementary data</ce:section-title>
+                  <ce:para id="p0145" view="all">The following is the supplementary data related to this article:<ce:display>
+                        <ce:e-component id="mmc1">
+                           <ce:label>Supplementary material</ce:label>
+                           <ce:alt-text role="short" id="alttext0015">Supplementary material</ce:alt-text>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S0003267017310875/mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="appsec2" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0120">Supplementary data</ce:section-title>
+                  <ce:para id="p0150" view="all">Supplementary data related to this article can be found at <ce:inter-ref xlink:href="doi:10.1016/j.aca.2017.09.038" id="intref0010" xlink:type="simple">https://doi.org/10.1016/j.aca.2017.09.038</ce:inter-ref>.</ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0125">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A turn-on fluorescent probe for detection of tyrosinase activity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Analyst</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>138</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2825</sb:first-page>
+                              <sb:last-page>2828</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ichikawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Takagi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Suda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>New methodological approach for the rapid and sensitive detection of melanocytes and melanocytic tumours</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Dermatology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>219</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>195</sb:first-page>
+                              <sb:last-page>201</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.Y.</ce:given-name>
+                                 <ce:surname>Mao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Tian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Spectrophotometric detection of tyrosinase activity based on boronic acid-functionalized gold nanoparticles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Analyst</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>137</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>823</sb:first-page>
+                              <sb:last-page>825</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Slominski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Tobin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Shibahara</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Melanin pigmentation in mammalian skin and its hormonal regulation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physiol. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1155</sb:first-page>
+                              <sb:last-page>1228</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Angeletti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Khomitch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Halaban</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Novel tyramide-based tyrosinase assay for the detection of melanoma cells in cytological preparations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Diagn. Cytopathol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>33</sb:first-page>
+                              <sb:last-page>37</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Lubbe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Escott-Price</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Brice</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Rare variants analysis of cutaneous malignant melanoma genes in parkinson's disease</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Neurobiol. Aging</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>222 e221–222 e227</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.L.</ce:given-name>
+                                 <ce:surname>Haining</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.M.</ce:given-name>
+                                 <ce:surname>Jones</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hernandez</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Saturation binding of nicotine to synthetic neuromelanin demonstrated by fluorescence spectroscopy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Neurochem. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3356</sb:first-page>
+                              <sb:last-page>3363</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.F.</ce:given-name>
+                                 <ce:surname>Boyer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Spectrophotometric assay of polyphenoloxidase activity - special project in enzyme characterization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Educ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>585</sb:first-page>
+                              <sb:last-page>586</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Visual and fluorescent detection of tyrosinase activity by using a dual-emission ratiometric fluorescence probe</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8904</sb:first-page>
+                              <sb:last-page>8909</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Gill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Freeman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Probing biocatalytic transformations with cdse-zns qds</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>128</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15376</sb:first-page>
+                              <sb:last-page>15377</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.L.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.H.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Kinetic and sensitive analysis of tyrosinase activity using electron transfer complexes: in vitro and intracellular study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Small</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>862</sb:first-page>
+                              <sb:last-page>870</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.Q.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Niazov-Elkan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Probing biocatalytic transformations with luminescent DNA/silver nanoclusters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>309</sb:first-page>
+                              <sb:last-page>314</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Easy synthesis and imaging applications of cross-linked green fluorescent hollow carbon nanoparticles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acs Nano</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>400</sb:first-page>
+                              <sb:last-page>409</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>One-step synthesis of amino-functionalized fluorescent carbon nanoparticles by hydrothermal carbonization of chitosan</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Com.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>380</sb:first-page>
+                              <sb:last-page>382</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis of fluorescent carbon nanoparticles directly from active carbon via a one-step ultrasonic treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Res. Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>147</sb:first-page>
+                              <sb:last-page>151</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Non-enzymatic-browning-reaction: a versatile route for production of nitrogen-doped carbon dots with tunable multicolor luminescent display</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Rep.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.-L.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.-L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.-H.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Facile preparation of low cytotoxicity fluorescent carbon nanocrystals by electrooxidation of graphite</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Com.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5116</sb:first-page>
+                              <sb:last-page>5118</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.-H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-T.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.-X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fluorescent carbon dots and nanodiamonds for biological imaging: preparation, application, pharmacokinetics and toxicity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Drug Metab.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1046</sb:first-page>
+                              <sb:last-page>1056</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Anilkumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Cao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon dots of different composition and surface functionalization: cytotoxicity issues relevant to fluorescence cell imaging</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Exp. Biol. Med.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>236</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1231</sb:first-page>
+                              <sb:last-page>1238</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.S.</ce:given-name>
+                                 <ce:surname>Qian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Shan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Chai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>DNA nanosensor based on biocompatible graphene quantum dots and carbon nanotubes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>64</sb:first-page>
+                              <sb:last-page>70</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.H.</ce:given-name>
+                                 <ce:surname>Noh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Ko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon nanodot-based self-delivering microrna sensor to visualize microrna124a expression during neurogenesis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4438</sb:first-page>
+                              <sb:last-page>4445</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Amino-functionalized green fluorescent carbon dots as surface energy transfer biosensors for hyaluronidase</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6836</sb:first-page>
+                              <sb:last-page>6842</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.S.</ce:given-name>
+                                 <ce:surname>Qian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Chai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A real-time fluorescent assay for the detection of alkaline phosphatase activity based on carbon quantum dots</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>68</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>675</sb:first-page>
+                              <sb:last-page>680</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Functionalized carbon quantum dots with dopamine for tyrosinase activity monitoring and inhibitor screening: in vitro and intracellular investigation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>23564</sb:first-page>
+                              <sb:last-page>23574</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Qian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon quantum dots-based recyclable real-time fluorescence assay for alkaline phosphatase with adenosine triphosphate as substrate</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2966</sb:first-page>
+                              <sb:last-page>2973</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Neabo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Vigier-Carriere</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Rondeau-Gagne</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Room-temperature synthesis of soluble, fluorescent carbon nanoparticles from organogel precursors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Com.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10144</sb:first-page>
+                              <sb:last-page>10146</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Bao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.-L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.-Q.</ce:given-name>
+                                 <ce:surname>Tian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical tuning of luminescent carbon nanodots: from preparation to luminescence mechanism</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5801</sb:first-page>
+                              <sb:last-page>5806</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.T.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>One-step synthesis of amino-functionalized fluorescent carbon nanoparticles by hydrothermal carbonization of chitosan</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Com.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>380</sb:first-page>
+                              <sb:last-page>382</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sref29">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.M.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.W.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrothermal synthesis of highly fluorescent carbon nanoparticles from sodium citrate and their use for the detection of mercury ions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>583</sb:first-page>
+                              <sb:last-page>589</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.C.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Intrinsically fluorescent nitrogen-containing carbon nanoparticles synthesized by a hydrothermal process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5207</sb:first-page>
+                              <sb:last-page>5212</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="sref31">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Bourlinos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Stassinopoulos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Anglos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Surface functionalized carbogenic quantum dots</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Small</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>455</sb:first-page>
+                              <sb:last-page>458</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="sref32">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon dots prepared by hydrothermal treatment of dopamine as an effective fluorescent sensing platform for the label-free detection of iron(iii) ions and dopamine</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. A Eur. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7243</sb:first-page>
+                              <sb:last-page>7249</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib33">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="sref33">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhuo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Novel synthesis of gold nanoclusters templated with l-tyrosine for selective analyzing tyrosinase</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>840</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>87</sb:first-page>
+                              <sb:last-page>92</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib34">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference id="sref34">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Kubo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Kinetics of mushroom tyrosinase inhibition by quercetin</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Agric. Food Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4108</sb:first-page>
+                              <sb:last-page>4112</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib35">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference id="sref35">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Teng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Jia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ratiometric fluorescence detection of tyrosinase activity and dopamine using thiolate-protected gold nanoclusters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ana. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4897</sb:first-page>
+                              <sb:last-page>4902</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib36">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference id="sref36">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Qian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A fluorometric biosensor based on functional au/ag nanoclusters for real-time monitoring of tyrosinase activity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>542</sb:first-page>
+                              <sb:last-page>547</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

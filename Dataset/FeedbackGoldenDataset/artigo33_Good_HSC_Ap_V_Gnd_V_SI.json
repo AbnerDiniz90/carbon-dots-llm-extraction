@@ -1,0 +1,74 @@
+{
+  "input_source": "artigo33.json",
+  "text_content": {
+    "carbon_dots": {
+      "general_info": {
+        "definition": "Carbon quantum dots (CQDs) used as precursor material for synthesizing honeycomb hard carbon anodes for potassium-ion batteries.",
+        "iupac_name": null,
+        "alternative_names": [
+          "CQDs"
+        ]
+      },
+      "synthesis": {
+        "method": {
+          "type": "Chemical reaction",
+          "conditions": "Stirring for 1h, then standing in ambient environment for 72h",
+          "catalysts": null
+        },
+        "precursors": {
+          "source": [
+            "sodium hydroxide (NaOH, 8g)",
+            "acetaldehyde (CH₃CHO, 40%, 40mL)"
+          ],
+          "dopants": null
+        },
+        "post_treatment": [
+          "Ultrasonic dispersion in HCl (1 mol L-1) to remove redundant NaOH",
+          "Centrifugation and washing with deionized water until neutral pH",
+          "Drying at 60°C for 12h"
+        ]
+      },
+      "properties": {
+        "optical": {
+          "quantum_yield": {
+            "value": "[MISSING]",
+            "reference_material": "[MISSING]"
+          },
+          "excitation_max": "[MISSING]",
+          "emission_max": "[MISSING]",
+          "fluorescence_lifetime": null
+        },
+        "structural": {
+          "size": {
+            "avg": "[MISSING]",
+            "distribution": "diameters 3.0-5.0 nm"
+          },
+          "morphology": "[MISSING]",
+          "crystallinity": "[MISSING]"
+        },
+        "chemical": {
+          "surface_groups": [
+            "rich oxygenic functional"
+          ],
+          "elemental_composition": {
+            "C": "[MISSING]",
+            "N": "[MISSING]",
+            "O": "[MISSING]"
+          }
+        }
+      },
+      "applications": [
+        {
+          "domain": "Potassium-ion battery anode precursor",
+          "performance": "Derived honeycomb hard carbon (HHC) anode exhibits 195.3 mAh g⁻¹ at 0.1 A g⁻¹ with 67.43% capacity retention after 150 cycles",
+          "comparative_advantage": "HHC derived from CQDs shows superior cycling stability"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "label": "Good",
+    "score": 5.0,
+    "expert_comment": "High Scientific Context: Scientific data relative to Carbon Dots was extracted with high precision. The model successfully preserved scientific context (e.g., general information and synthesis) and handled nomenclature and experimental details as requested in the 'Data Quality' section. | Applicability Verified: The extracted aplication domains align perfectly with those mentioned in the source text. The model accurately identified, listed and described all relevant application areas for the Carbon Dots used in the article. | Grounded Verification: All extracted content is fully supported by the source text. The model correctly returned 'null' or '[MISSING]' for fields absent in the document, avoiding unsupported inferences or hallucinations. | Structural Integrity: The output matches the required JSON schema perfectly. Complex nested arrays (such as precursors/dopants and application domains) were populated correctly without truncating list items or breaking the syntax."
+  }
+}

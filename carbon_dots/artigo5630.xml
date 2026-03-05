@@ -1,0 +1,2628 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0956566323005493</prism:url><dc:identifier>doi:10.1016/j.bios.2023.115607</dc:identifier><eid>1-s2.0-S0956566323005493</eid><prism:doi>10.1016/j.bios.2023.115607</prism:doi><pii>S0956-5663(23)00549-3</pii><dc:title>Selenium and nitrogen co-doped carbon dots with highly efficient electrochemiluminescence for ultrasensitive detection of microRNA </dc:title><prism:publicationName>Biosensors and Bioelectronics</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09565663</prism:issn><prism:volume>240</prism:volume><prism:startingPage>115607</prism:startingPage><prism:pageRange>115607</prism:pageRange><articleNumber>115607</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2023-11-15</prism:coverDate><prism:coverDisplayDate>15 November 2023</prism:coverDisplayDate><prism:copyright>© 2023 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Liu, Jie</dc:creator><dc:creator>Chen, Jie</dc:creator><dc:creator>Zhang, Yue</dc:creator><dc:creator>Liu, Linlei</dc:creator><dc:creator>Guo, YuZhuo</dc:creator><dc:creator>Yuan, Ruo</dc:creator><dc:creator>Chai, Yaqin</dc:creator><dc:description>
+                  In this work, selenium and nitrogen co-doped carbon dots (SeN-CDs) possessing highly efficient electrochemiluminescence (ECL) and excellent biocompatibility were synthesized as a new emitter with S2O8
+                     2− as a coreactant for constructing a biosensor to detect microRNA-221 (miRNA-221) sensitively. Notably, the SeN-CDs exhibited superior ECL performance compared with the N-doped CDs, in which selenium with excellent redox activity served as a coreaction accelerator for facilitating the electroreduction of S2O8
+                     2− to significantly improve ECL efficiency. Furthermore, target-induced T7 exonuclease (T7 Exo)-assisted double cycle amplification strategy could convert traces of target miRNA-221 into large amounts of output DNA to capture three-dimensional (3D) nanostructures (DTN-Au NPs-DOX-Fc) loaded with large amounts of ECL signal quencher. The constructed biosensor could realize ultrasensitive detection of miRNA-221 and has a low detection limit reaching 2.3 aM, with a successful application to detect miRNA-221 in lysate of Hela and MHCC97-L cancer cell. This work explored a novel method to strengthen the ECL performance of CDs to construct an ECL biosensing platform with sensitive detecting of biomarkers and disease diagnosis.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Electrochemiluminescence</dcterms:subject><dcterms:subject>Biosensor</dcterms:subject><dcterms:subject>Carbon dots</dcterms:subject><dcterms:subject>DNA amplification strategy</dcterms:subject><dcterms:subject>Trace detection</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0956566323005493" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0956566323005493" rel="scidir"/></coredata><objects><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="535" height="220" size="110691">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="691" height="524" size="179104">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="691" height="550" size="162765">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="691" height="598" size="172036">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="691" height="602" size="178731">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="691" height="656" size="239072">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-sc1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="90" size="73825">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="216" height="164" size="82190">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="206" height="164" size="79544">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="189" height="164" size="79487">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="188" height="164" size="84890">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="sc1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="172" height="163" size="84868">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-sc1.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2371" height="977" size="375320">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3059" height="2320" size="804736">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3059" height="2436" size="766293">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3060" height="2649" size="792795">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3059" height="2663" size="937934">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3060" height="2906" size="1232358">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-sc1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="10820883">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="1166391">https://api.elsevier.com/content/object/eid/1-s2.0-S0956566323005493-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85169576177</scopus-id><scopus-eid>2-s2.0-85169576177</scopus-eid><pubmed-id>37660459</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85169576177" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271399</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291685</xocs:ssid>
+         <xocs:ssid type="subj">291850</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291880</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Biosensors and Bioelectronics</xocs:srctitle>
+      <xocs:normalized-srctitle>BIOSENSORSBIOELECTRONICS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20230816">2023-08-16</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20230816">2023-08-16</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20230901">2023-09-01</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20230901">2023-09-01</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2023-09-11T22:58:43</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0956566323005493</xocs:eid>
+      <xocs:pii-formatted>S0956-5663(23)00549-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0956566323005493</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.bios.2023.115607</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0956566323X00189</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240102">2024-01-02T08:56:08.237254Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20231115</xocs:date-search-begin>
+      <xocs:year-nav>2023</xocs:year-nav>
+      <xocs:indexeddate epoch="1692197553">2023-08-16T14:52:33.592709Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast footnotes grantnumber grantsponsor orcid primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0956-5663</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09565663</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>240</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>240</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 240</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>13</xocs:sort-order>
+      <xocs:first-fp>115607</xocs:first-fp>
+      <xocs:article-number>115607</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>115607</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20231115</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 November 2023</xocs:cover-date-text>
+      <xocs:cover-date-start>2023-11-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2023</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Full Papers</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2023 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>SELENIUMNITROGENCODOPEDCARBONDOTSHIGHLYEFFICIENTELECTROCHEMILUMINESCENCEFORULTRASENSITIVEDETECTIONMICRORNA</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>LIU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental section</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of SeN-CDs</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of DOX-FcCOOH-DTN-Au NPs</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of output DNA</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Construction of ECL biosensors</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Morphological characterization of SeN-CDs</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Optical performances of the SeN-CDs</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>ECL mechanism for SeN-CDs</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Feasibility of the designed ECL biosensor</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Determination of miRNA-221</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Stability and selectivity of ECL biosensor</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.7</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Application</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Notes</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>AI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>839</xocs:ref-first-fp>
+            <xocs:ref-last-lp>856</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>BAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1663</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1667</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>CALLEGARI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>239</xocs:ref-first-fp>
+            <xocs:ref-last-lp>250</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>CHAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12444</xocs:ref-first-fp>
+            <xocs:ref-last-lp>12451</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1379</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1385</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>CI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>CONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6695</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6702</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>GHOSH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2934</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2947</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7601</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7608</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>HOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>136906</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>HUA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>21479</xocs:ref-first-fp>
+            <xocs:ref-last-lp>21485</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>111826</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9910</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9914</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1732</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1748</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5298</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5305</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>20056</xocs:ref-first-fp>
+            <xocs:ref-last-lp>20063</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>MIAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>100879</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>MONDAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15413</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15422</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>NEPOMNYASHCHII</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1844</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1853</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>QU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4988</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4992</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>TAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>100567</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>TANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>17787</xocs:ref-first-fp>
+            <xocs:ref-last-lp>17794</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4250</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4254</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2765</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2773</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>16510</xocs:ref-first-fp>
+            <xocs:ref-last-lp>16518</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>YIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>114699</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref27">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-article-number>2207621</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref28">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>592</xocs:ref-first-fp>
+            <xocs:ref-last-lp>600</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref29">
+            <xocs:ref-normalized-surname>ZHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4564</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4565</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref30">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1280</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1286</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref31">
+            <xocs:ref-normalized-surname>ZOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1985</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1994</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>LIUX2023X115607</xocs:refkey3>
+         <xocs:refkey4ai>LIUX2023X115607XJ</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2025-09-01T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2025-09-01T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2023 Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2023-09-07T08:05:37.361Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework>
+         <xocs:asf-license>https://doi.org/10.15223/policy-017</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-037</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-012</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-029</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-004</xocs:asf-license>
+      </xocs:article-sharing-framework>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0956-5663(23)00549-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0956566323005493</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0956566323005493</xocs:eid>
+         <xocs:doi>10.1016/j.bios.2023.115607</xocs:doi>
+         <xocs:cid>271399</xocs:cid>
+         <xocs:timestamp>2024-01-02T08:56:08.237254Z</xocs:timestamp>
+         <xocs:cover-date-start>2023-11-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/MAIN/application/pdf/a2ee620dffab679a170f79061ab02c6c/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>6008370</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0956566323005493-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/PREVIEW/image/png/d92c3403689d3324e75f2af204337641/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>60051</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/gr4/DOWNSAMPLED/image/jpeg/ed76286f04d25ecdec73a8f047e958f2/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>110691</xocs:filesize>
+               <xocs:pixel-height>220</xocs:pixel-height>
+               <xocs:pixel-width>535</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/gr5/DOWNSAMPLED/image/jpeg/75b1a729ae7209ba171b08a9019f080f/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>179104</xocs:filesize>
+               <xocs:pixel-height>524</xocs:pixel-height>
+               <xocs:pixel-width>691</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/gr2/DOWNSAMPLED/image/jpeg/98b82ca625b1e1c400c65fd8c621bef9/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>162765</xocs:filesize>
+               <xocs:pixel-height>550</xocs:pixel-height>
+               <xocs:pixel-width>691</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/gr3/DOWNSAMPLED/image/jpeg/ce2e809b7eb7c5e477267afca58b238b/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>172036</xocs:filesize>
+               <xocs:pixel-height>598</xocs:pixel-height>
+               <xocs:pixel-width>691</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/gr1/DOWNSAMPLED/image/jpeg/8b817d0c9251457e3af8b4d117f868b7/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>178731</xocs:filesize>
+               <xocs:pixel-height>602</xocs:pixel-height>
+               <xocs:pixel-width>691</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-sc1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/sc1/DOWNSAMPLED/image/jpeg/d5428275cf34c8d7c325153032b9f6ed/sc1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>239072</xocs:filesize>
+               <xocs:pixel-height>656</xocs:pixel-height>
+               <xocs:pixel-width>691</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/gr4/THUMBNAIL/image/gif/b8d7b6b61308cc20c376a96d0e73b234/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>73825</xocs:filesize>
+               <xocs:pixel-height>90</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/gr5/THUMBNAIL/image/gif/9d7e8d1a6f14cba97bda48cd0b017639/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>82190</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>216</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/gr2/THUMBNAIL/image/gif/c6deb99ff55c2c7df383a17b15aa9c18/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>79544</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>206</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/gr3/THUMBNAIL/image/gif/2b31dcd516be640966b389828897e15b/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>79487</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>189</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/gr1/THUMBNAIL/image/gif/ecdf0ed0156fad77b8a83a75843da2e8/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>84890</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>188</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-sc1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/sc1/THUMBNAIL/image/gif/c1958c9629ff042945c20b0708c5b1e9/sc1.sml</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>84868</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>172</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/HIGHRES/image/jpeg/e8ff8f5fca9f1efe81157f88f1c6708e/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>375320</xocs:filesize>
+               <xocs:pixel-height>977</xocs:pixel-height>
+               <xocs:pixel-width>2371</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/HIGHRES/image/jpeg/d72d50e43850eb10e8a4b2b97282d3af/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>804736</xocs:filesize>
+               <xocs:pixel-height>2320</xocs:pixel-height>
+               <xocs:pixel-width>3059</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/HIGHRES/image/jpeg/b9f7dcb8c133fce13bc27e8ee7fc1455/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>766293</xocs:filesize>
+               <xocs:pixel-height>2436</xocs:pixel-height>
+               <xocs:pixel-width>3059</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/HIGHRES/image/jpeg/9df8be01f16668206bc29473f0f3009b/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>792795</xocs:filesize>
+               <xocs:pixel-height>2649</xocs:pixel-height>
+               <xocs:pixel-width>3060</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/HIGHRES/image/jpeg/2b60ef1a36d80cdacd16ebeaf068ac4b/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>937934</xocs:filesize>
+               <xocs:pixel-height>2663</xocs:pixel-height>
+               <xocs:pixel-width>3059</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-sc1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/HIGHRES/image/jpeg/8d0c5fbfe079acbd029016e158efe0a0/sc1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1232358</xocs:filesize>
+               <xocs:pixel-height>2906</xocs:pixel-height>
+               <xocs:pixel-width>3060</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956566323005493/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/82746d283860a832670e29f2dcfe17f5/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>10820883</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956566323005493-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>1166391</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10LZ07ZKG6T/MAIN/application/pdf/0a5e51bc55e45711101746b7b689c864/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>BIOS</jid>
+            <aid>115607</aid>
+            <ce:article-number>115607</ce:article-number>
+            <ce:pii>S0956-5663(23)00549-3</ce:pii>
+            <ce:doi>10.1016/j.bios.2023.115607</ce:doi>
+            <ce:copyright type="unknown" year="2023"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">TEM image (A), corresponding particle size distribution image (B), AFM image (C) and height profile (D) of the SeN-CDs.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0015">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0956566323005493/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">XPS survey spectrum of SeN-CDs (A). (B) C1s spectrum, (C) N1s spectrum, and (D) Se3d spectrum of SeN-CDs.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0020">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0956566323005493/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">FTIR spectrum (A), UV–vis absorption <ce:bold>spectrum</ce:bold> (B), FL spectrum (C) and ECL spectrum of the SeN-CDs (D).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0956566323005493/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">(A) CV and (B) EIS characterization for biosensor in [Fe(CN)<ce:inf loc="post">6</ce:inf>]<ce:sup loc="post">3−/4−</ce:sup>solution (5 mM). a. unmodified GCE, b. SeN-CDs/GCE, c. Au NPs/SeN-CDs/GCE, d. Output DNA/Au NPs/SeN-CDs/GCE, e. HT/Output DNA/AuNPs/SeN-CDs/GCE, f. 3D namostructures/HT/Output DNA/AuNPs/SeN-CDs/GCE.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0030">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0956566323005493/gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">(A) ECL responses for different miRNA-221 concentrations from the ECL biosensor (a: 10 aM, b: 100 aM, c: 1 fM, d: 10 fM, e: 100 fM, f: 1 pM, g: 10 pM, h: 100 pM.). (B) Calibration curve of miRNA-221 determination. The ECL biosensor performance: (C) Selectivity for different targets, (D) Stability after 20 cycles of continuous scanning.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0035">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0956566323005493/gr5"/>
+            </ce:figure>
+            <ce:figure id="sch1">
+               <ce:label>Scheme 1</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">(A) Synthesis of SeN-CDs. (B) Preparation of 3D nanostructures assembled by Au NPs and DNA tetrahedron nanostructures loaded with large amounts of DOX-Fc. (C) Fabrication of ECL biosensor for detection of miRNA-221 and its ECL response. (D) Target miRNA-221-induced T7 Exo-assisted double cycle amplification strategy.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0040">Scheme 1</ce:alt-text>
+               <ce:link locator="sc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0956566323005493/sc1"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Selenium and nitrogen co-doped carbon dots with highly efficient electrochemiluminescence for ultrasensitive detection of microRNA</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S0956566323005493-28be95b297f26e32f00f0784d8e0fd3a">
+                  <ce:given-name>Jie</ce:given-name>
+                  <ce:surname>Liu</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="fn1" id="crosref0015">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au2" author-id="S0956566323005493-d97bd689ffc1b4118c132ffb048ccdf0">
+                  <ce:given-name>Jie</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:cross-ref refid="aff2" id="crosref0020">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="fn1" id="crosref0025">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au3" author-id="S0956566323005493-056f87fab80549eb03e7fd315b23a98a">
+                  <ce:given-name>Yue</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0030">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au4" author-id="S0956566323005493-d15019ad763e7a214a3f69d52c870693">
+                  <ce:given-name>Linlei</ce:given-name>
+                  <ce:surname>Liu</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0035">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au5" author-id="S0956566323005493-34490b851a0ca51478eca71d1c23f430">
+                  <ce:given-name>YuZhuo</ce:given-name>
+                  <ce:surname>Guo</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0040">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au6" orcid="0000-0003-3664-6236" author-id="S0956566323005493-70be6071fd8da871b1e6e5f304ddd1fe">
+                  <ce:given-name>Ruo</ce:given-name>
+                  <ce:surname>Yuan</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0045">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="crosref0050">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au7" orcid="0000-0003-4392-9592" author-id="S0956566323005493-e0643d94f277f2152318d93f8f6d33ed">
+                  <ce:given-name>Yaqin</ce:given-name>
+                  <ce:surname>Chai</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0055">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor2" id="crosref0060">
+                     <ce:sup loc="post">∗∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S0956566323005493-3713bce2329ff5c8a6caafa6959dea49">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Key Laboratory of Luminescence Analysis and Molecular Sensing (Southwest University), Ministry of Education, College of Chemistry and Chemical Engineering, Southwest University, Chongqing, 400715, PR China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Key Laboratory of Luminescence Analysis and Molecular Sensing (Southwest University)</sa:organization>
+                     <sa:organization>Ministry of Education</sa:organization>
+                     <sa:organization>College of Chemistry and Chemical Engineering</sa:organization>
+                     <sa:organization>Southwest University</sa:organization>
+                     <sa:city>Chongqing</sa:city>
+                     <sa:postal-code>400715</sa:postal-code>
+                     <sa:country>PR China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">Key Laboratory of Luminescence Analysis and Molecular Sensing (Southwest University), Ministry of Education, College of Chemistry and Chemical Engineering, Southwest University, Chongqing, 400715, PR China</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S0956566323005493-ea371fac9d6278a59540547bfaff42c8">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Endocrinology, 9 th People's Hospital of Chongqing, Chongqing, 400700, PR China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Endocrinology</sa:organization>
+                     <sa:organization>9 th People's Hospital of Chongqing</sa:organization>
+                     <sa:city>Chongqing</sa:city>
+                     <sa:postal-code>400700</sa:postal-code>
+                     <sa:country>PR China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0015">Department of Endocrinology, 9 th People's Hospital of Chongqing, Chongqing, 400700, PR China</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+               <ce:correspondence id="cor2">
+                  <ce:label>∗∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+               <ce:footnote id="fn1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para id="ntpara0010" view="all">These authors contributed equally to this work.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="1" month="6" year="2023"/>
+            <ce:date-revised day="13" month="8" year="2023"/>
+            <ce:date-accepted day="15" month="8" year="2023"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">In this work, selenium and nitrogen co-doped carbon dots (SeN-CDs) possessing highly efficient electrochemiluminescence (ECL) and excellent biocompatibility were synthesized as a new emitter with S<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">8</ce:inf>
+                     <ce:sup loc="post">2−</ce:sup> as a coreactant for constructing a biosensor to detect microRNA-221 (miRNA-221) sensitively. Notably, the SeN-CDs exhibited superior ECL performance compared with the N-doped CDs, in which selenium with excellent redox activity served as a coreaction accelerator for facilitating the electroreduction of S<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">8</ce:inf>
+                     <ce:sup loc="post">2−</ce:sup> to significantly improve ECL efficiency. Furthermore, target-induced T7 exonuclease (T7 Exo)-assisted double cycle amplification strategy could convert traces of target miRNA-221 into large amounts of output DNA to capture three-dimensional (3D) nanostructures (DTN-Au NPs-DOX-Fc) loaded with large amounts of ECL signal quencher. The constructed biosensor could realize ultrasensitive detection of miRNA-221 and has a low detection limit reaching 2.3 aM, with a successful application to detect miRNA-221 in lysate of Hela and MHCC97-L cancer cell. This work explored a novel method to strengthen the ECL performance of CDs to construct an ECL biosensing platform with sensitive detecting of biomarkers and disease diagnosis.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0015">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Electrochemiluminescence</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Biosensor</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Carbon dots</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>DNA amplification strategy</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>Trace detection</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:data-availability id="da0010" view="all">
+               <ce:section-title id="sectitle0020">Data availability</ce:section-title>
+               <ce:para id="p0010" view="all">No data was used for the research described in the article.</ce:para>
+            </ce:data-availability>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0025">Introduction</ce:section-title>
+                  <ce:para id="p0015" view="all">Carbon dots (CDs) have been developed as a novel nanomaterial with great potential in applications such as optoelectronic devices, biosensing, imaging and catalysis due to their excellent optics, stable chemistry and low toxicity (<ce:cross-ref refid="bib1" id="crosref0065">Ai et al., 2021</ce:cross-ref>; <ce:cross-ref refid="bib6" id="crosref0070">Ci et al., 2023</ce:cross-ref>; <ce:cross-ref refid="bib18" id="crosref0075">Mondal et al., 2019</ce:cross-ref>; <ce:cross-ref refid="bib22" id="crosref0080">Tang et al., 2022</ce:cross-ref>; <ce:cross-ref refid="bib24" id="crosref0085">Wang et al., 2022</ce:cross-ref>; <ce:cross-ref refid="bib31" id="crosref0090">Zou et al., 2022</ce:cross-ref>). However, the weak electrochemiluminescence (ECL) emission of traditional CDs limits their application in ECL. Therefore, numerous efforts have been devoted to improve the ECL of CDs through heteroatom doping (<ce:cross-ref refid="bib5" id="crosref0095">Chen et al., 2020</ce:cross-ref>), introduction of carbon-related dangling bonds (<ce:cross-ref refid="bib23" id="crosref0100">Wang et al., n.d.</ce:cross-ref>), modulation of surface oxidation (<ce:cross-ref refid="bib2" id="crosref0105">Bao et al., 2015</ce:cross-ref>) and so on. Among them, heteroatom doping is a widespread and effective method to enhance the ECL of CDs, which benefited from the modulation of electronic and chemical properties (<ce:cross-ref refid="bib14" id="crosref0110">Li et al., 2019</ce:cross-ref>; <ce:cross-ref refid="bib17" id="crosref0115">Miao et al., 2020</ce:cross-ref>; <ce:cross-ref refid="bib27" id="crosref0120">Yu et al., 2023</ce:cross-ref>). By introducing heteroatoms (such as nitrogen(<ce:cross-ref refid="bib7" id="crosref0125">Cong et al., 2022</ce:cross-ref>), boron(<ce:cross-ref refid="bib9" id="crosref0130">Guo et al., 2022</ce:cross-ref>), sulfur(<ce:cross-ref refid="bib10" id="crosref0135">Hou et al., 2022</ce:cross-ref>), phosphorus (<ce:cross-ref refid="bib25" id="crosref0140">Yang et al., 2022</ce:cross-ref>), and so on) into CDs, the electronic structure of the CDs can be changed resulting in enhanced ECL emission. Nevertheless, limited by the low active site reactivity, the ECL efficiency is still unsatisfactory. Herein, selenium and nitrogen co-doped carbon dots (SeN-CDs) with excellent ECL performance was synthesized under mild conditions, in which selenium with excellent redox activity introduced new efficient redox active sites (<ce:cross-ref refid="bib11" id="crosref0145">Hua et al., 2021</ce:cross-ref>; <ce:cross-ref refid="bib16" id="crosref0150">Liu et al., 2019</ce:cross-ref>; <ce:cross-ref refid="bib20" id="crosref0155">Qu et al., 2017a</ce:cross-ref>) and could serve as a coreaction accelerator for accelerating the generation of abundant sulfate radicals (SO<ce:inf loc="post">4</ce:inf>
+                     <ce:sup loc="post">•–</ce:sup>) from the coreactant (S<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">8</ce:inf>
+                     <ce:sup loc="post">2−</ce:sup>) to markedly enhance the ECL efficiency (<ce:cross-ref refid="sch1" id="crosref0160">Scheme 1</ce:cross-ref>
+                     <ce:float-anchor refid="sch1"/>A).</ce:para>
+                  <ce:para id="p0020" view="all">Recently, enzyme-assisted target recovery (EATR) has proven to be a particularly effective method of amplifying target signals (<ce:cross-ref refid="bib4" id="crosref0165">Chai et al., 2022</ce:cross-ref>; <ce:cross-ref refid="bib30" id="crosref0170">Zhou et al., 2023</ce:cross-ref>). Usually, T7 endonuclease (Exo) was applied in single cycle for signal amplification, however, its low conversion rate generally results in unsatisfactory detection sensitivity of the biosensor (<ce:cross-ref refid="bib15" id="crosref0175">Liu et al., 2018</ce:cross-ref>; <ce:cross-ref refid="bib26" id="crosref0180">Yin et al., 2022</ce:cross-ref>). Therefore, in this work, the target microRNA-221 (miRNA-221)-induced T7 Exo-assisted double cycle amplification strategy was designed to convert traces of target into large amounts of output DNA to improve conversion efficiency. In addition, a large number of DNA tetrahedron nanostructures (DTN) and gold nanoparticles (Au NPs) were assembled into 3D nanostructures to accommodate a great deal of the ECL quencher, significantly quenching the ECL signal and further improving the sensitivity.</ce:para>
+                  <ce:para id="p0025" view="all">Herein, SeN-CDs was used as ECL emitter combined with T7 Exo-assisted double cycle amplification as a signal amplification to construct a “signal-off” ECL biosensor for ultrasensitive detection of miRNA-221. Initially, DTN was synthesized via four single-stranded DNAs and connected with the surface of Au NPs through Au–S bond to form 3D nanostructures (DTN-Au NPs-DOX-Fc) loading with large amounts of DOX-Fc as quencher (<ce:cross-ref refid="sch1" id="crosref0185">Scheme 1</ce:cross-ref>B), which could significantly quench the ECL signal to improve detection sensitivity. Furthermore, a target miRNA-221-induced T7 Exo-assisted double cycle amplification strategy was designed to convert the trace target miRNA-221 into a substantial amount of output DNA to capture 3D nanostructures served as quenching probe. As illustrated in <ce:cross-ref refid="sch1" id="crosref0190">Scheme 1</ce:cross-ref>D, when the trace target miRNA-221 was present, the complex of two single-stranded DNAs and magnetic beads (S1/S2-MB) captured target miRNA-221 to form a hybrid, and the above structure was digested by T7 Exo to release S1 and the target (cycle 1). Similarly, S1 could hybridize with hairpin H, and then S1 and the output DNA were released by assistance of T7 Exo (cycle 2), where S1 could trigger cycle 2 again to generate plenty of output DNA. Therefore, the constructed biosensor responded linearly to miRNA-221 within the range of 10 aM–100 pM concentrations along with a detection limit down to 2.3 aM, and with a successful application for the detection of miRNA-221 in Hela and MHCC97-L cancer cell lysates, which provided a promising path for biomarker detection and disease diagnosis.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0030">Experimental section</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sectitle0035">Preparation of SeN-CDs</ce:section-title>
+                     <ce:para id="p0030" view="all">With reference to the literature (<ce:cross-ref refid="bib13" id="crosref0195">Li et al., 2017</ce:cross-ref>), SeN-CDs was synthesized by a simple hydrothermal method with minor changes. First, citric acid (0.4 g) and selenocystine (0.2 g) were dispersed in 10 mL of distilled water. And then adjust the pH of the solution to alkaline by adding NaOH to promote the dissolution of selenocystine. Subsequently, the solution was warmed at 70 °C during 24 h, dialyzed and freeze-dried to obtain a black solid.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sectitle0040">Preparation of DOX-FcCOOH-DTN-Au NPs</ce:section-title>
+                     <ce:para id="p0035" view="all">Initially, four single-stranded DNAs (A, B, C, D) of the same volume and concentration (50 μL, 8 μM) were mixed well and then heated at 95 °C for 5 min, which was then quickly coolied to 4 °C for more than 10 h to form DTN. Subsequently, 200 μL of DTN and 400 μL of prepared Au NPs were then mixed and kept on a shaker at 4 °C for 12 h to ensure that DTN was attached to Au NPs. Afterwards, 40 μL of TE buffer containing 1 M NaCl was added. Finally, 200 μL of Dox-FcCOOH solution was added and the reaction was conducted on a shaker with 4 °C during 12 h. Centrifuge the resulting mixture and wash it twice with buffer to obtain DOX-FcCOOH-DTN-Au NPs complexes, which were then suspended in 400 μL of TE buffer and stored at 4 °C in refrigerator.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.3" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sectitle0045">Preparation of output DNA</ce:section-title>
+                     <ce:para id="p0040" view="all">Firstly, the pretreatment procedure for the magnetic beads (MBs) was as follows: 200 μL of MBs was added to PBS buffer, after mixed well, the supernatant was removed by magnetic separation, and the washing process was repeated twice. Then, the MBs was dissolved in PBS (1 mL) containing EDC (0.04 M) and NHS (0.01 M) and subsequently stirred under room temperature (1 h) for activating the carboxylic groups of MBs. Next, the MBs was washed with PBS for three times, magnetically separated and dispersed in 1 mL of TAE buffer. Secondly, well-mixed equal volume and concentration (40 μL, 2 μM) of single-stranded DNAs S1 and S2 were hybridized under 37 °C for 2 h. Afterwards, 200 μL of MBs was mixed and stirred at 4 °C overnight to obtain S1/S2-MB. Then 5 μL of hexanethiol (HT, 1 mM) was introduced and remained at room temperature to remove non-specific adsorption for 30 min. After magnetic separation, the S1/S2-MB was dispersed in 40 μL TAE buffer. Finally, 40 μL of 1 μM annealed H and 40 μL of miRNA-221 containing T7 Exo (0.6 U/μL) were added to the above S1/S2-MB solution, reacted at 25 °C for 1 h, and the inactivation of T7 Exo was achieved by a holding time of 10 min at 65 °C.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.4" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sectitle0050">Construction of ECL biosensors</ce:section-title>
+                     <ce:para id="p0045" view="all">First, 10 μL of 1 mg/mL SeN-CDs was added dropwise to a mirror-like glassy carbon electrode (GCE) and dried at 37 °C for 3 h. After that, 6 μL of Au NPs was added dropwise and kept under 37 °C for 2 h. Afterwards, 10 μL of output DNA was successfully anchored to the electrode surface by Au–S bonds after being left overnight at 4 °C. Subsequently, 10 μL of HT was employed to block the electrode for the removal of non-specific adsorption. Finally, 10 μL of DOX-FcCOOH-TDN-Au NPs were added dropwise to quench the ECL signal. ECL measurements were performed in PBS (2 mL) containing S<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">8</ce:inf>
+                        <ce:sup loc="post">2−</ce:sup> (30 mM) at a voltage range of 0 to −2 V, with the PMT voltage setting at 800 V and a scan rate of 300 mV/s.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0055">Results and discussion</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sectitle0060">Morphological characterization of SeN-CDs</ce:section-title>
+                     <ce:para id="p0050" view="all">Transmission electron microscopy (TEM) was selected to directly observe the morphology of SeN-CDs and to determine the particle size. As shown in <ce:cross-ref refid="fig1" id="crosref0200">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>A, TEM images of SeN-CDs showed spherical particles of approximately 2 nm in average diameter (<ce:cross-ref refid="fig1" id="crosref0205">Fig. 1</ce:cross-ref>B). Atomic force microscope (AFM) was chosen to investigate the three-dimensional morphology of SeN-CDs. AFM images (<ce:cross-ref refid="fig1" id="crosref0210">Fig. 1</ce:cross-ref>C) showed a height of about 3 nm, indicating a monolayer structure.</ce:para>
+                     <ce:para id="p0055" view="all">The elemental composition of SeN-CDs was analyzed by X-ray photoelectron spectroscopy (XPS). As illustrated in <ce:cross-ref refid="fig2" id="crosref0215">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/>A, the SeN-CDs was mainly composed of C, O, N and Se. In addition, the XPS spectrum of C1s exhibited three main peaks (<ce:cross-ref refid="fig2" id="crosref0220">Fig. 2</ce:cross-ref>B), where the one at 284.6 eV corresponded to C–C, the peak at 286.0 eV belonged to the C–Se, C–N and C–O, while the peak at 288.0 eV could be attributed to C<ce:glyph name="dbnd"/>O. In the XPS spectrum of N1s (<ce:cross-ref refid="fig2" id="crosref0225">Fig. 2</ce:cross-ref>C), pyridinic could be observed at 398.7 eV and the peak at 399.8 eV was attributed pyrrolic N. The spectrum of Se3d displayed two peaks around 54.3 and 55.1 eV, corresponding to Se3d<ce:inf loc="post">5/2</ce:inf> and Se3d<ce:inf loc="post">3/2</ce:inf> (<ce:cross-ref refid="bib13" id="crosref0230">Li et al., 2017</ce:cross-ref>; <ce:cross-ref refid="bib28" id="crosref0235">Zhang et al., 2015</ce:cross-ref>).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sectitle0065">Optical performances of the SeN-CDs</ce:section-title>
+                     <ce:para id="p0060" view="all">Fourier transform infrared (FTIR) spectrum (<ce:cross-ref refid="fig3" id="crosref0240">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/>A) showed the surface functional group information of SeN-CDs. An absorption bands recorded in 3430 cm<ce:sup loc="post">−1</ce:sup> was caused by the N–H bond and O–H bond stretching vibration, while the 1615 cm<ce:sup loc="post">−1</ce:sup> and 1405 cm<ce:sup loc="post">−1</ce:sup> absorption peaks belonged to the vibration of aromatic C<ce:glyph name="dbnd"/>C double bond and C–N, respectively (<ce:cross-ref refid="bib20" id="crosref0245">Qu et al., 2017b</ce:cross-ref>). As displayed in <ce:cross-ref refid="fig3" id="crosref0250">Fig. 3</ce:cross-ref>B, there is a peak of absorption located on 280 nm in UV–vis spectrum, which matched the π-π transition of the C<ce:glyph name="dbnd"/>C double bond. In addition, the fluorescence (FL) spectrum of SeN-CDs revealed the maximum fluorescence (FL) emission peak was positioned at 408 nm and the excitation peak appeared around 310 nm (<ce:cross-ref refid="fig3" id="crosref0255">Fig. 3</ce:cross-ref>C). Furthermore, the ECL emission peak of SeN-CDs was found at 486 nm in <ce:cross-ref refid="fig3" id="crosref0260">Fig. 3</ce:cross-ref>D and was redshifted by 78 nm compared to the fluorescence emission spectrum, which could be attributed to the difference ECL surface-state emission and fluorescence intrinsic-state emission. photoluminescence (PL) is luminescence arising from direct photoexcitation of the emitting species, while ECL is that luminescence produced by a chemical reaction between species generated by electrolysis at an electrode surface (<ce:cross-ref refid="bib19" id="crosref0265">Nepomnyashchii and Bard, 2012</ce:cross-ref>; <ce:cross-ref refid="bib29" id="crosref0270">Zheng et al., 2009</ce:cross-ref>).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.3" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sectitle0070">ECL mechanism for SeN-CDs</ce:section-title>
+                     <ce:para id="p0065" view="all">To explore possible reaction mechanisms, electron paramagnetic resonance (EPR) was chosen to detect radicals during the reaction, and the spin trapping reagent of choice was 5,5-dimethyl-1-pyrroline N-oxide (DMPO). As can be seen in <ce:cross-ref refid="appsec1" id="crosref0275">Fig. S5B</ce:cross-ref>, DMPO and S<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">8</ce:inf>
+                        <ce:sup loc="post">2−</ce:sup>solutions showed characteristics signals of DMPO-OH adduct (signal strength ratio 1:2:2:1) and DMPO-SO<ce:inf loc="post">4</ce:inf> adduct (signal strength ratio 1:1:1:1:1:1) (curve a), which was due to the fact that the SO<ce:inf loc="post">4</ce:inf>
+                        <ce:sup loc="post">•–</ce:sup> could be switched to the more reactive <ce:sup loc="post">•</ce:sup>OH, and therefore the EPR signal of the DMPO-SO<ce:inf loc="post">4</ce:inf> adduct and DMPO-OH adduct was present simultaneously. Notably, both signal intensities increased when SeN-CDs was introduced, indicating that SeN-CDs could effectively accelerate the generation of SO<ce:inf loc="post">4</ce:inf>
+                        <ce:sup loc="post">•–</ce:sup> from S<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">8</ce:inf>
+                        <ce:sup loc="post">2−</ce:sup>. Thus, the mechanism of high ECL emission from SeN-CDs in S<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">8</ce:inf>
+                        <ce:sup loc="post">2−</ce:sup> is as follows:<ce:display>
+                           <ce:formula id="ufd1">
+                              <ce:chem>SeN-CDs <ce:bold>+</ce:bold> e<ce:sup loc="post">–</ce:sup> 
+                                 <ce:bold>→</ce:bold> SeN-CDs<ce:sup loc="post">•–</ce:sup>
+                              </ce:chem>
+                           </ce:formula>
+                        </ce:display>
+                        <ce:display>
+                           <ce:formula id="ufd2">
+                              <ce:chem>S<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">8</ce:inf>
+                                 <ce:sup loc="post">2−</ce:sup> <ce:bold>+</ce:bold> e<ce:sup loc="post">–</ce:sup> 
+                                 <ce:bold>→</ce:bold> SO<ce:inf loc="post">4</ce:inf>
+                                 <ce:sup loc="post">2−</ce:sup> <ce:bold>+</ce:bold> SO<ce:inf loc="post">4</ce:inf>
+                                 <ce:sup loc="post">•–</ce:sup>
+                              </ce:chem>
+                           </ce:formula>
+                        </ce:display>
+                        <ce:display>
+                           <ce:formula id="ufd3">
+                              <ce:chem>SeN-CDs<ce:sup loc="post">•–</ce:sup> + S<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">8</ce:inf>
+                                 <ce:sup loc="post">2−</ce:sup> 
+                                 <ce:bold>→</ce:bold> SeN-CDs <ce:bold>+</ce:bold> SO<ce:inf loc="post">4</ce:inf>
+                                 <ce:sup loc="post">2−</ce:sup> <ce:bold>+</ce:bold> SO<ce:inf loc="post">4</ce:inf>
+                                 <ce:sup loc="post">•–</ce:sup>
+                              </ce:chem>
+                           </ce:formula>
+                        </ce:display>
+                        <ce:display>
+                           <ce:formula id="ufd4">
+                              <ce:chem>SeN-CDs<ce:sup loc="post">•–</ce:sup> + SO<ce:inf loc="post">4</ce:inf>
+                                 <ce:sup loc="post">•–</ce:sup> 
+                                 <ce:bold>→</ce:bold> SeN-CDs* + SO<ce:inf loc="post">4</ce:inf>
+                                 <ce:sup loc="post">2-</ce:sup>
+                              </ce:chem>
+                           </ce:formula>
+                        </ce:display>
+                        <ce:display>
+                           <ce:formula id="ufd5">
+                              <ce:chem>SeN-CDs* <ce:bold>→</ce:bold> SeN-CDs <ce:bold>+</ce:bold> <ce:italic>hv</ce:italic>
+                              </ce:chem>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.4" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="sectitle0075">Feasibility of the designed ECL biosensor</ce:section-title>
+                     <ce:para id="p0070" view="all">Cyclic voltammetry (CV) and electrochemical impedance spectroscopy (EIS) measurements were performed after each step of modifying the electrodes in order to verify the successful construction of the ECL biosensor. As demonstrated in <ce:cross-ref refid="fig4" id="crosref0280">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/>A, compared with the unmodified electrode (curve a), the peak current was significantly reduced with modifying the SeN-CDs on the electrode, owing to the SeN-CDs hindering the electron transport (curve b). Subsequently, after modification with Au NPs, the redox peak current increased because Au NPs have good electrical conductivity. (curve c). With the negatively charged output DNA was added dropwise to the electrode, a remarkably decreasing peak current appeared due to the charge transport hindrance of the output DNA (curve d). After the nonspecific adsorption sites was blocked by HT, the redox peak current continues to decrease (curve e). Finally, hybridization of the 3D namostructures with output DNA promoted electron transport so that a rise in the redox peak current was observed (curve f) (<ce:cross-ref refid="bib12" id="crosref0285">Li et al., 2020</ce:cross-ref>). These results were highly consistent with those gained from EIS (<ce:cross-ref refid="fig4" id="crosref0290">Fig. 4</ce:cross-ref>B). The construction of the ECL biosensor was successfully validated by the above results, and the feasibility of the strategy was also demonstrated by 16% polyacrylamide gel electrophoresis (PAGE) (<ce:cross-ref refid="appsec1" id="crosref0295">Fig. S1</ce:cross-ref>).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.5" view="all">
+                     <ce:label>3.5</ce:label>
+                     <ce:section-title id="sectitle0080">Determination of miRNA-221</ce:section-title>
+                     <ce:para id="p0075" view="all">After obtaining the optimum experimental conditions (<ce:cross-ref refid="appsec1" id="crosref0300">Fig. S2</ce:cross-ref>), the response of the ECL biosensor to different concentrations of the target miRNA-221 was recorded. As displayed in <ce:cross-ref refid="fig5" id="crosref0305">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/>A, ECL response diminished with increasing miRNA-221 concentration and showed good linearity from 10 aM to 100 pM with the linear expression <ce:italic>I</ce:italic> = 11400.95–1247.70 lg <ce:italic>c</ce:italic> and <ce:italic>R</ce:italic> = 0.998 (<ce:cross-ref refid="fig5" id="crosref0310">Fig. 5</ce:cross-ref>B), and a limit of detection down to 2.3 aM. Additionally, <ce:cross-ref refid="appsec1" id="crosref0315">Table S2</ce:cross-ref> shows that the proposed strategy has a higher detection sensitivity compared with existing methods for miRNA detection.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.6" view="all">
+                     <ce:label>3.6</ce:label>
+                     <ce:section-title id="sectitle0085">Stability and selectivity of ECL biosensor</ce:section-title>
+                     <ce:para id="p0080" view="all">Selectivity and stability are important indicators for the evaluation of ECL biosensor. As displayed in <ce:cross-ref refid="fig5" id="crosref0320">Fig. 5</ce:cross-ref>C, despite the concentration of the three interferents (miRNA-21, miRNA-144, miRNA-222) were 10 times (100 pM) concentration of target miRNA-221 (10 pM), the ECL biosensor showed a comparable ECL response to the blank group for the three interferents. While for the mixture of the target and the three interferents, the ECL response decreased significantly and was approximately the same as the ECL response for the target alone. Thus, it is evident that the proposed ECL biosensor has favorable selectivity towards the target. In addition, as could be observed in <ce:cross-ref refid="fig5" id="crosref0325">Fig. 5</ce:cross-ref>D, the ECL response showed no significant change after continuous scanning for 20 cycles (RSD = 1.81%), demonstrating the outstanding stability of the biosensor.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.7" view="all">
+                     <ce:label>3.7</ce:label>
+                     <ce:section-title id="sectitle0090">Application</ce:section-title>
+                     <ce:para id="p0085" view="all">The application potential of the prepared ECL biosensor was tested by applying it in real samples, lysates from Hela cells and MHCC97-L cells were selected to evaluate miRNA-221 expression. As shown in <ce:cross-ref refid="appsec1" id="crosref0330">Fig. S8</ce:cross-ref>, the ECL intensity decreased slightly as t the gradual increase in the number of Hela cells, while there was an obvious reduction in the ECL response when the number of MHCC97-L cells gradually increased. The different decreasing trends between the two cell lysates indicated that miRNA-221 was lowly expressed in Hela cells and highly expressed in MHCC97-L cells, which was consistent with previous reports (<ce:cross-ref refid="bib3" id="crosref0335">Callegari et al., 2019</ce:cross-ref>; <ce:cross-ref refid="bib8" id="crosref0340">Ghosh et al., 2020</ce:cross-ref>; <ce:cross-ref refid="bib21" id="crosref0345">Tan et al., 2022</ce:cross-ref>). In addition, to validate the accuracy of the method, the same samples were assayed using a commercial kit based on a real-time quantitative reverse transcription polymerase chain reaction (qRT-PCR) (<ce:cross-ref refid="appsec1" id="crosref0350">Fig. S7</ce:cross-ref>). The results obtained were consistent with those of the ECL biosensor, indicating that the biosensor has good potential for sensitive detection of miRNA-221.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0095">Conclusion</ce:section-title>
+                  <ce:para id="p0090" view="all">In summary, SeN-CDs was adopted as a novel ECL emitter in combination with a target miRNA-221-induced T7 Exo-assisted double cycle amplification strategy for fabrication an ultrasensitive ECL biosensor to detect miRNA-221. Notably, compared to the nitrogen-doped CDs, the SeN-CDs exhibited superior ECL performance, which was attributed to the fact that selenium served as the coreaction accelerator promoting the electroreduction of S<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">8</ce:inf>
+                     <ce:sup loc="post">2−</ce:sup>, thus markedly improving the ECL efficiency of SeN-CDs. In addition, the target miRNA-221-induced T7 Exo-assisted double cycle amplification strategy overcame the disadvantage of low conversion efficiency of single-cycle amplification and could transform the small amounts of target into abundant output DNA, which effectively improves the sensitivity of the prepared biosensor. The prepared biosensor has been applied successfully to detect miRNA-221 in real cell lysate samples successfully, providing a promising avenue for sensitive detection of biomarkers and disease diagnosis.</ce:para>
+               </ce:section>
+               <ce:section id="sec5" view="all">
+                  <ce:section-title id="sectitle0100">Notes</ce:section-title>
+                  <ce:para id="p0095" view="all">The authors declare no competing financial interest.</ce:para>
+               </ce:section>
+               <ce:section id="sec6" view="all">
+                  <ce:section-title id="sectitle0105">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p0100" view="all">
+                     <ce:bold>Jie Liu:</ce:bold> Conceptualization, Data curation, Formal analysis, Investigation, Writing – original draft, Writing – review &amp; editing. <ce:bold>Jie Chen:</ce:bold> Conceptualization, Data curation, Formal analysis, Investigation, Writing – original draft, Writing – review &amp; editing. <ce:bold>Yue Zhang:</ce:bold> Data curation, Investigation. <ce:bold>Linlei Liu:</ce:bold> Data curation, Investigation. <ce:bold>YuZhuo Guo:</ce:bold> Data curation, Investigation. <ce:bold>Ruo Yuan:</ce:bold> Modified, Funding acquisition. <ce:bold>Yaqin Chai:</ce:bold> Modified, Funding acquisition.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0010" view="all">
+               <ce:section-title id="sectitle0110">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0105" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0115">Acknowledgments</ce:section-title>
+               <ce:para id="p0120" view="all">This work was financially supported by the <ce:grant-sponsor id="gs1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Natural Science Foundation (NNSF) of China</ce:grant-sponsor> (<ce:grant-number refid="gs1">21974108</ce:grant-number>, <ce:grant-number refid="gs1">22176153</ce:grant-number> and <ce:grant-number refid="gs1">22174113</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="appsec1" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0120">Supplementary data</ce:section-title>
+                  <ce:para id="p0125" view="all">The following is the Supplementary data to this article:</ce:para>
+                  <ce:para id="p0130" view="all">Sequence information of the nucleic acids, synthesis of Au NPs and Dox-FcCOOH, characterization of Au NPs and DTN-Au NPs, the experimental procedure of PAGE, cell culture and lysis, optimization of the ECL biosensor, ECL characterization of the ECL biosensor, DPV curves and EPR spectra of SeN-CDs, calculation of LOD, ECL performance, quantitative real-time fluorescence detecting miRNA-221 in real sample, compared with other works in the detection of miRNA.<ce:display>
+                        <ce:e-component id="mmc1">
+                           <ce:label>Multimedia component 1</ce:label>
+                           <ce:alt-text role="short" id="alttext0010">Multimedia component 1</ce:alt-text>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S0956566323005493/mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="appsec2" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0125">Supplementary data</ce:section-title>
+                  <ce:para id="p0135" view="all">Supplementary data to this article can be found online at <ce:inter-ref xlink:href="https://doi.org/10.1016/j.bios.2023.115607" id="intref0010" xlink:type="simple">https://doi.org/10.1016/j.bios.2023.115607</ce:inter-ref>.</ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0130">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>Ai et al., 2021</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Ai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>839</sb:first-page>
+                              <sb:last-page>856</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0020">Ai, L., Yang, Y., Wang, B., Chang, J., Tang, Z., Yang, B., Lu, S., 2021. Sci. Bull. 66, 839-856.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>Bao et al., 2015</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Bao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Pang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1663</sb:first-page>
+                              <sb:last-page>1667</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0025">Bao, L., Liu, C., Zhang, Z., Pang, D., 2015. Adv. Mater. 27, 1663-1667.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>Callegari et al., 2019</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Callegari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Domenicali</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.C.</ce:given-name>
+                                 <ce:surname>Shankaraiah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>D'Abundo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Guerriero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Giannone</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Baldassarre</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bassi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.K.</ce:given-name>
+                                 <ce:surname>Elamin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Zagatti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ferracin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Fornari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Altavilla</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Blandamura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.M.</ce:given-name>
+                                 <ce:surname>Silini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Gramantieri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sabbioni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Negrini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Ther. Nucleic Acids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>239</sb:first-page>
+                              <sb:last-page>250</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">Callegari, E., Domenicali, M., Shankaraiah, R.C., D’Abundo, L., Guerriero, P., Giannone, F., Baldassarre, M., Bassi, C., Elamin, B.K., Zagatti, B., Ferracin, M., Fornari, F., Altavilla, G., Blandamura, S., Silini, E.M., Gramantieri, L., Sabbioni, S., Negrini, M., 2019. Mol. Ther. Nucleic Acids 14, 239-250.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>Chai et al., 2022</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12444</sb:first-page>
+                              <sb:last-page>12451</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0035">Chai, Y., Yuan, R., Liu, L., Zhu, Y., Wang, H., Zhang, Y., 2022. Anal. Chem. 94, 12444-12451.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>Chen et al., 2020</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhuo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1379</sb:first-page>
+                              <sb:last-page>1385</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0040">Chen, A., Liang, W., Wang, H., Zhuo, Y., Chai, Y., Yuan, R., 2020. Anal. Chem. 92, 1379-1385.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>Ci et al., 2023</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Ci</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Coy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J. jiao</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2206271</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0045">Ci, Q., Wang, Y., Wu, B., Coy, E., Li, J. jiao, Jiang, D., Zhang, P., Wang, G., 2023. Adv. Sci. 2206271.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>Cong et al., 2022</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Cong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lv</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6695</sb:first-page>
+                              <sb:last-page>6702</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0050">Cong, S., Jiang, Z., Zhang, R., Lv, H., Guo, J., Zhang, L., Lu, X., 2022. Anal. Chem. 94, 6695-6702</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>Ghosh et al., 2020</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ghosh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bhowmik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Majumdar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Goswami</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chakraborty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Gupta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Aggarwal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ray</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Chatterjee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bhattacharyya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Dutta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Datta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Chowdhury</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.K.</ce:given-name>
+                                 <ce:surname>Dhali</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Banerjee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Cancer</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>147</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2934</sb:first-page>
+                              <sb:last-page>2947</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0055">Ghosh, S., Bhowmik, S., Majumdar, S., Goswami, A., Chakraborty, J., Gupta, S., Aggarwal, S., Ray, S., Chatterjee, R., Bhattacharyya, S., Dutta, M., Datta, S., Chowdhury, A., Dhali, G.K., Banerjee, S., 2020. Int. J. Cancer 147, 2934-2947.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>Guo et al., 2022</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.-Z.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-F.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-Q.</ce:given-name>
+                                 <ce:surname>Chai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.-H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7601</sb:first-page>
+                              <sb:last-page>7608</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0060">Guo, Y.-Z., Liu, J.-L., Chen, Y.-F., Chai, Y.-Q., Li, Z.-H., Yuan, R., 2022. Anal. Chem. 94, 7601-7608.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>Hou et al., 2022</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Nie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>446</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>136906</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0065">Hou, S., Wang, P., Nie, Y., Guo, Y., Ma, Q., 2022. Chem. Eng. J. 446, 136906.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>Hua et al., 2021</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hua</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>21479</sb:first-page>
+                              <sb:last-page>21485</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0070">Hua, M., Song, J., Huang, X., Liu, H., Fan, H., Wang, W., He, Z., Liu, Z., Han, B., 2021. Angew. Chem. Int. Ed. 60, 21479-21485.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>Li et al., 2020</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>148</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>111826</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0075">Li, D., Xu, Y., Fan, L., Shen, B., Ding, X., Yuan, R., Li, X., Chen, W., 2020. Biosens. Bioelectron. 148, 111826.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>Li et al., 2017</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Jiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9910</sb:first-page>
+                              <sb:last-page>9914</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0080">Li, F., Li, T., Sun, C., Xia, J., Jiao, Y., Xu, H., 2017. Angew. Chem. Int. Ed. 56, 9910-9914.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>Li et al., 2019</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Gooding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Sens.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1732</sb:first-page>
+                              <sb:last-page>1748</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0085">Li, M., Chen, T., Gooding, J.J., Liu, J., 2019. ACS Sens. 4, 1732-1748.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>Liu et al., 2018</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.L.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Q.</ce:given-name>
+                                 <ce:surname>Chai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhuo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>90</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5298</sb:first-page>
+                              <sb:last-page>5305</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0090">Liu, J.L., Tang, Z.L., Zhang, J.Q., Chai, Y.Q., Zhuo, Y., Yuan, R., 2018. Anal. Chem. 90, 5298-5305.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>Liu et al., 2019</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Qian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>20056</sb:first-page>
+                              <sb:last-page>20063</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0095">Liu, S., Wang, M., Qian, T., Liu, J., Yan, C., 2019. ACS Appl. Mater. Interfaces. 11, 20056-20063.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>Miao et al., 2020</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Miao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Today</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>100879</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0100">Miao, S., Liang, K., Zhu, J., Yang, B., Zhao, D., Kong, B., 2020. Nano Today 33, 100879.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>Mondal et al., 2019</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Mondal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Yucknovsky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Akulov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Ghorai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Schwartz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.N.</ce:given-name>
+                                 <ce:surname>Ghosh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Amdursky</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>141</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15413</sb:first-page>
+                              <sb:last-page>15422</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0105">Mondal, S., Yucknovsky, A., Akulov, K., Ghorai, N., Schwartz, T., Ghosh, H.N., Amdursky, N., 2019. J. Am. Chem. Soc. 141, 15413-15422.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>Nepomnyashchii and Bard, 2012</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Nepomnyashchii</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Bard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acc. Chem. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1844</sb:first-page>
+                              <sb:last-page>1853</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0110">Nepomnyashchii, A.B., Bard, A.J., 2012. Acc. Chem. Res. 45, 1844-1853.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>Qu et al., 2017</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Miao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Nie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4988</sb:first-page>
+                              <sb:last-page>4992</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0115">Qu, D., Miao, X., Wang, X., Nie, C., Li, Y., Luo, L., Sun, Z., 2017. J. Mater. Chem. B 5, 4988-4992.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>Tan et al., 2022</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ann. Hepatol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>100567</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0120">Tan, W., Li, Z., Xia, W., Zhu, J., Fan, R., 2022. Ann. Hepatol. 27, 100567.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>Tang et al., 2022</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Zeng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>17787</sb:first-page>
+                              <sb:last-page>17794</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0125">Tang, Y., Chen, Y., Liu, Y., Xia, Y., Zhao, F., Zeng, B., 2022. Anal. Chem. 94, 17787-17794.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>Wang et al., 2018</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Hou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eur J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4250</sb:first-page>
+                              <sb:last-page>4254</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>n.d</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0130">Wang, M., Sun, R., Wang, Q., Chen, L., Hou, L., Chi, Y., n.d 2018. Chem. Eur.J. 24, 4250-4254.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>Wang et al., 2022</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>95</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2765</sb:first-page>
+                              <sb:last-page>2773</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0135">Wang, Y., Li, Z., Guo, G., Xia, Y., 2022. Anal. Chem. 95, 2765-2773.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>Yang et al., 2022</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Ning</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>16510</sb:first-page>
+                              <sb:last-page>16518</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0140">Yang, E., Yang, H., Ning, Z., Fang, Y., Chen, M., Zheng, Y., Xu, W., Wu, G., Zhang, Y., Shen, Y., 2022. Anal. Chem. 94, 16510-16518.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>Yin et al., 2022</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Jie</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>217</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>114699</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0145">Yin, T., Wu, D., Du, H., Jie, G., 2022. Biosens. Bioelectron. 217, 114699.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>Yu et al., 2023</ce:label>
+                     <sb:reference id="sref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Tao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Sci.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:article-number>2207621</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0150">Yu, Y., Zeng, Q., Tao, S., Xia, C., Liu, C., Liu, P., Yang, B., 2023. Adv. Sci. 2207621.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>Zhang et al., 2015</ce:label>
+                     <sb:reference id="sref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Qian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>592</sb:first-page>
+                              <sb:last-page>600</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0155">Zhang, J., Xu, Y., Fan, L., Zhu, Y., Liang, J., Qian, Y., 2015. Nano Energy 13, 592-600.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>Zheng et al., 2009</ce:label>
+                     <sb:reference id="sref29">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>131</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4564</sb:first-page>
+                              <sb:last-page>4565</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0160">Zheng, L., Chi, Y., Dong, Y., Lin, J., Wang, B., 2009. J. Am. Chem. Soc. 131, 4564-4565.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>Zhou et al., 2023</ce:label>
+                     <sb:reference id="sref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>95</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1280</sb:first-page>
+                              <sb:last-page>1286</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0165">Zhou, P., Pan, Y., Pan, W., Lu, S., Yin, J., Li, N., Tang, B., 2023. Anal. Chem. 95, 1280-1286.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>Zou et al., 2022</ce:label>
+                     <sb:reference id="sref31">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.S.</ce:given-name>
+                                 <ce:surname>Zou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Q.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>95</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1985</sb:first-page>
+                              <sb:last-page>1994</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0170">Zou, W.S., Xu, Y., Kong, W., Wang, Y., Zhang, J., Li, W., Yu, H.Q., 2022. Anal. Chem. 95, 1985-1994</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

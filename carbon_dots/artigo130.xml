@@ -1,0 +1,2438 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1369702118311933</prism:url><dc:identifier>doi:10.1016/j.mattod.2019.01.015</dc:identifier><eid>1-s2.0-S1369702118311933</eid><prism:doi>10.1016/j.mattod.2019.01.015</prism:doi><pii>S1369-7021(18)31193-3</pii><dc:title>Electron transfer and cascade relaxation dynamics of graphene quantum dots/MoS2 monolayer mixed-dimensional van der Waals heterostructures </dc:title><prism:publicationName>Materials Today</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>13697021</prism:issn><prism:volume>24</prism:volume><prism:startingPage>10</prism:startingPage><prism:endingPage>16</prism:endingPage><prism:pageRange>10-16</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2019-04-30</prism:coverDate><prism:coverDisplayDate>April 2019</prism:coverDisplayDate><prism:copyright>© 2019 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Shan, Hangyong</dc:creator><dc:creator>Yu, Ying</dc:creator><dc:creator>Zhang, Rui</dc:creator><dc:creator>Cheng, Runtan</dc:creator><dc:creator>Zhang, Dong</dc:creator><dc:creator>Luo, Yang</dc:creator><dc:creator>Wang, Xingli</dc:creator><dc:creator>Li, Bowen</dc:creator><dc:creator>Zu, Shuai</dc:creator><dc:creator>Lin, Feng</dc:creator><dc:creator>Liu, Zheng</dc:creator><dc:creator>Chang, Kai</dc:creator><dc:creator>Fang, Zheyu</dc:creator><dc:description>
+                  Van der Waals (VdW) heterostructures have emerged as promising materials for atomically thin optoelectronic and photovoltaic applications, where the efficient charge separation after photo-excitation is significant to enhance device performances. However, modulating the interfacial charge transfer is still challenging due to the weak interlayer VdW interaction. Revealing electron transfer and relaxation processes in heterostructures lays foundation to tune the interfacial dynamics and optoelectronic properties. Here, we realize the efficient modulation of relaxation channels in MoS2 monolayers and interfacial electron transfer by forming mixed-dimensional VdW heterostructures with graphene quantum dots (GQDs). With femtosecond pump–probe spectroscopy, the biphasic electron injection model and modified rate equations are employed to quantitatively solve interfacial transfer rates of mixed-dimensional VdW heterostructures. We find that the cascaded relaxation of hot electrons in GQDs that originates from the quantum confinement effect can intensively affect the interfacial dynamics. Our established model is instructive to optimize performances of future photon-harvesting devices based on mixed low-dimensional heterostructures.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S1369702118311933" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1369702118311933" rel="scidir"/></coredata><objects><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="209" height="164" size="19029">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="99" size="13089">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="78" size="9561">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="ga1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="188" height="164" size="23368">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-ga1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="211" height="164" size="30618">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="579" height="455" size="78316">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="534" height="242" size="42098">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="579" height="205" size="34856">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="281" height="245" size="36455">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-ga1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="579" height="449" size="102505">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2307" height="1813" size="371323">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2130" height="964" size="213052">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2307" height="817" size="150808">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="747" height="651" size="97993">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-ga1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2307" height="1790" size="568921">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="2199979">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="23" height="22" size="280">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="38" height="22" size="295">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="99" height="20" size="532">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="154" height="38" size="856">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="226" height="86" size="1713">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-si2.gif?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="1428991">https://api.elsevier.com/content/object/eid/1-s2.0-S1369702118311933-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85061965533</scopus-id><scopus-eid>2-s2.0-85061965533</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85061965533" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272281</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291681</xocs:ssid>
+         <xocs:ssid type="subj">291689</xocs:ssid>
+         <xocs:ssid type="subj">291711</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291785</xocs:ssid>
+         <xocs:ssid type="subj">291802</xocs:ssid>
+         <xocs:ssid type="subj">291886</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Materials Today</xocs:srctitle>
+      <xocs:normalized-srctitle>MATERIALSTODAY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20190225">2019-02-25</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20190225">2019-02-25</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20190330">2019-03-30</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20190330">2019-03-30</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-05-08T18:56:42</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1369702118311933</xocs:eid>
+      <xocs:pii-formatted>S1369-7021(18)31193-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1369702118311933</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.mattod.2019.01.015</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1369702119X00048</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190508">2019-05-08T20:33:38.783869Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20190401</xocs:date-search-begin>
+      <xocs:date-search-end>20190430</xocs:date-search-end>
+      <xocs:year-nav>2019</xocs:year-nav>
+      <xocs:indexeddate epoch="1551102684">2019-02-25T13:51:24.533926Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body mmlmath acknowledge affil appendices articletitle auth authfirstini authfull authlast footnotes grantnumber grantsponsor grantsponsorid orcid primabst pubtype ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1369-7021</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>13697021</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>24</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>24</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 24</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>20</xocs:sort-order>
+      <xocs:first-fp>10</xocs:first-fp>
+      <xocs:last-lp>16</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>10</xocs:first-page>
+         <xocs:last-page>16</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201904</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>April 2019</xocs:cover-date-text>
+      <xocs:cover-date-start>2019-04-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2019-04-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2019</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Research</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>© 2019 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ELECTRONTRANSFERCASCADERELAXATIONDYNAMICSGRAPHENEQUANTUMDOTSMOS2MONOLAYERMIXEDDIMENSIONALVANDERWAALSHETEROSTRUCTURES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SHAN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Characterizations of GQDs and MoS<ce:inf loc="post">2</ce:inf> monolayers</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Photo-excited electron relaxation dynamics of MoS<ce:inf loc="post">2</ce:inf> monolayers</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Differential reflection signals of GQDs/MoS<ce:inf loc="post">2</ce:inf> heterostructures</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Electron transfer and relaxation dynamics of heterostructures</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Sample preparations</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Absorption measurements</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Femtosecond pump–probe measurements</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Competing interests</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Data availability</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>NOVOSELOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>aac9439</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>BRITNELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1311</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>KOPPENS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>780</xocs:ref-first-fp>
+            <xocs:ref-last-lp>793</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>699</xocs:ref-first-fp>
+            <xocs:ref-last-lp>712</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>DENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>218</xocs:ref-first-fp>
+            <xocs:ref-last-lp>230</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>XIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>899</xocs:ref-first-fp>
+            <xocs:ref-last-lp>907</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>DUAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8859</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8876</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3766</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3798</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>GEIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>419</xocs:ref-first-fp>
+            <xocs:ref-last-lp>425</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>SCHAIBLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>16055</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>TONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>356</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>BARATI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1134</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1139</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>BAXTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>423</xocs:ref-first-fp>
+            <xocs:ref-last-lp>447</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>ANDERSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>491</xocs:ref-first-fp>
+            <xocs:ref-last-lp>519</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>TVRDY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>29</xocs:ref-first-fp>
+            <xocs:ref-last-lp>34</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>CHOI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5718</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5726</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>HONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>682</xocs:ref-first-fp>
+            <xocs:ref-last-lp>686</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0090">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12512</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>CEBALLOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12717</xocs:ref-first-fp>
+            <xocs:ref-last-lp>12724</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100">
+            <xocs:ref-normalized-surname>HE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5622</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>JARIWALA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>170</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0110">
+            <xocs:ref-normalized-surname>KONSTANTATOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>363</xocs:ref-first-fp>
+            <xocs:ref-last-lp>368</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0115">
+            <xocs:ref-normalized-surname>NOZIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>115</xocs:ref-first-fp>
+            <xocs:ref-last-lp>120</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1802015</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0125">
+            <xocs:ref-normalized-surname>YOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>477</xocs:ref-first-fp>
+            <xocs:ref-last-lp>481</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0130">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>339</xocs:ref-first-fp>
+            <xocs:ref-last-lp>345</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0135">
+            <xocs:ref-normalized-surname>SUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5625</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5629</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0140">
+            <xocs:ref-normalized-surname>KUMAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-article-number>125427</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0145">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-article-number>045406</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0150">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-article-number>201111</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0155">
+            <xocs:ref-normalized-surname>ASBURY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7376</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7386</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0160">
+            <xocs:ref-normalized-surname>BENKO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>489</xocs:ref-first-fp>
+            <xocs:ref-last-lp>493</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0165">
+            <xocs:ref-normalized-surname>MAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>207</xocs:ref-first-fp>
+            <xocs:ref-last-lp>211</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0170">
+            <xocs:ref-normalized-surname>NOZIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>193</xocs:ref-first-fp>
+            <xocs:ref-last-lp>231</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0175">
+            <xocs:ref-normalized-surname>MUELLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>56</xocs:ref-first-fp>
+            <xocs:ref-last-lp>60</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0180">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6057</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6063</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0185">
+            <xocs:ref-normalized-surname>DAWLATY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-article-number>042116</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0190">
+            <xocs:ref-normalized-surname>MARCUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1956</xocs:ref-pub-year>
+            <xocs:ref-first-fp>966</xocs:ref-first-fp>
+            <xocs:ref-last-lp>978</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0195">
+            <xocs:ref-normalized-surname>NAJMAEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>754</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0200">
+            <xocs:ref-normalized-surname>YE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2943</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0205">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6394</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6401</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SHANX2019X10</xocs:refkey3>
+         <xocs:refkey4lp>SHANX2019X10X16</xocs:refkey4lp>
+         <xocs:refkey4ai>SHANX2019X10XH</xocs:refkey4ai>
+         <xocs:refkey5>SHANX2019X10X16XH</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2021-03-30T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2021-03-30T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2019 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1369-7021(18)31193-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1369702118311933</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1369702118311933</xocs:eid>
+         <xocs:doi>10.1016/j.mattod.2019.01.015</xocs:doi>
+         <xocs:cid>272281</xocs:cid>
+         <xocs:timestamp>2019-05-08T20:33:38.783869Z</xocs:timestamp>
+         <xocs:cover-date-start>2019-04-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2019-04-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/MAIN/application/pdf/ee2222ec03e92561f7008648d7580da6/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1305394</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1369702118311933-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/PREVIEW/image/png/53920ca8cde3cdde4ac1c77715f2dc97/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>90367</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/gr2/THUMBNAIL/image/gif/59ea39c1a2e11470bc9e32e48e81991f/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>19029</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>209</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/gr3/THUMBNAIL/image/gif/59cf1d2c30e2aaee8fd2c52dfe2ca66c/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13089</xocs:filesize>
+               <xocs:pixel-height>99</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/gr4/THUMBNAIL/image/gif/8c4f60689817e8474122f911bf2813b4/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9561</xocs:filesize>
+               <xocs:pixel-height>78</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-ga1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/ga1/THUMBNAIL/image/gif/813bb90955cdabee9b3a02d0f97ae2b8/ga1.sml</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>23368</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>188</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/gr1/THUMBNAIL/image/gif/df2626873b350cbff3d259187b8c0c6a/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>30618</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>211</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/gr2/DOWNSAMPLED/image/jpeg/23dbcf1f66c086d02048431f843bf333/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>78316</xocs:filesize>
+               <xocs:pixel-height>455</xocs:pixel-height>
+               <xocs:pixel-width>579</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/gr3/DOWNSAMPLED/image/jpeg/1d2ac62dd7fc2fad32659eabdd65d5f3/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>42098</xocs:filesize>
+               <xocs:pixel-height>242</xocs:pixel-height>
+               <xocs:pixel-width>534</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/gr4/DOWNSAMPLED/image/jpeg/642314e0d437f77c4997d1f292e65fe2/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34856</xocs:filesize>
+               <xocs:pixel-height>205</xocs:pixel-height>
+               <xocs:pixel-width>579</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-ga1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/ga1/DOWNSAMPLED/image/jpeg/7345e97360c5e0666acf4cef751a5a3e/ga1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>36455</xocs:filesize>
+               <xocs:pixel-height>245</xocs:pixel-height>
+               <xocs:pixel-width>281</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/gr1/DOWNSAMPLED/image/jpeg/cda657fc266bcaa1809d51915ba47723/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>102505</xocs:filesize>
+               <xocs:pixel-height>449</xocs:pixel-height>
+               <xocs:pixel-width>579</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/gr2/HIGHRES/image/jpeg/a19206eae7cbb9f60a201134779658fe/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>371323</xocs:filesize>
+               <xocs:pixel-height>1813</xocs:pixel-height>
+               <xocs:pixel-width>2307</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/gr3/HIGHRES/image/jpeg/a7e045357f809d45e45f8423b396d9e6/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>213052</xocs:filesize>
+               <xocs:pixel-height>964</xocs:pixel-height>
+               <xocs:pixel-width>2130</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/gr4/HIGHRES/image/jpeg/b8c51230439503cc40e8328e13cf229c/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>150808</xocs:filesize>
+               <xocs:pixel-height>817</xocs:pixel-height>
+               <xocs:pixel-width>2307</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-ga1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/ga1/HIGHRES/image/jpeg/159cae033e842f89c3dc920564375665/ga1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>97993</xocs:filesize>
+               <xocs:pixel-height>651</xocs:pixel-height>
+               <xocs:pixel-width>747</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/gr1/HIGHRES/image/jpeg/1f0e7272167876e5324d876662ef8609/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>568921</xocs:filesize>
+               <xocs:pixel-height>1790</xocs:pixel-height>
+               <xocs:pixel-width>2307</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/a0e049de85f80bcc447b7062e3d807ca/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>2199979</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/STRIPIN/image/gif/255cb515537edb31b315e03ce785cd7d/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>280</xocs:filesize>
+               <xocs:pixel-height>22</xocs:pixel-height>
+               <xocs:pixel-width>23</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/STRIPIN/image/gif/665852ee66c60f94c135b1470e1d78da/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>295</xocs:filesize>
+               <xocs:pixel-height>22</xocs:pixel-height>
+               <xocs:pixel-width>38</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/STRIPIN/image/gif/7ed13dc53d31c37e9b6f28ec6d890b18/si5.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>532</xocs:filesize>
+               <xocs:pixel-height>20</xocs:pixel-height>
+               <xocs:pixel-width>99</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/STRIPIN/image/gif/b4581514bc789f3e4b886caa32b02603/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>856</xocs:filesize>
+               <xocs:pixel-height>38</xocs:pixel-height>
+               <xocs:pixel-width>154</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369702118311933/STRIPIN/image/gif/da4188b29d076895d4a058ec27201c25/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1713</xocs:filesize>
+               <xocs:pixel-height>86</xocs:pixel-height>
+               <xocs:pixel-width>226</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369702118311933-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10K86F62T2N/MAIN/application/pdf/e1dd51b472aa62cb46158bfa322bb0a6/am.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10K86F62T2N/MAIN/application/pdf/e1dd51b472aa62cb46158bfa322bb0a6/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>1428991</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="sco" xml:lang="en" version="5.5">
+         <item-info>
+            <jid>MATTOD</jid>
+            <aid>1327</aid>
+            <ce:pii>S1369-7021(18)31193-3</ce:pii>
+            <ce:doi>10.1016/j.mattod.2019.01.015</ce:doi>
+            <ce:copyright type="full-transfer" year="2019">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Figure 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0020" view="all">Characterizations of GQDs and MoS<ce:inf loc="post">2</ce:inf> monolayers. (a) Schematic of ultrafast pump–probe measurements in reflection configuration. The 400-nm pulse pumps GQDs/MoS<ce:inf loc="post">2</ce:inf> heterostructures, and the 650-nm probe arrives at the sample with a delay time of Δ<ce:italic>τ</ce:italic>. (b) The TEM image of GQDs, which shows an average diameter of 5 nm. The inset shows the size distribution of GQDs. (c) The reflection mapping of GQDs/MoS<ce:inf loc="post">2</ce:inf> heterostructures. The uniform green area demonstrates the homogenous distribution of GQDs on the MoS<ce:inf loc="post">2</ce:inf> monolayers. (d) Absorption spectra of MoS<ce:inf loc="post">2</ce:inf> monolayers and GQDs. The dashed line denotes the probe wavelength.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1369702118311933/gr1" id="lk00005"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Figure 2</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0025" view="all">Differential reflection signals of the MoS<ce:inf loc="post">2</ce:inf> monolayers and GQDs/MoS<ce:inf loc="post">2</ce:inf> heterostructures. The pump and probe wavelengths are fixed at 400 and 650 nm, respectively. (a) Differential reflection of the pristine MoS<ce:inf loc="post">2</ce:inf> monolayers and all-sized GQDs. The solid line is the fitting curve with the solution of Eq. <ce:cross-ref refid="e0005" id="c0005">(1)</ce:cross-ref>. (b) The rising edge and decay process of the MoS<ce:inf loc="post">2</ce:inf> monolayers on the first two picoseconds. Two decay steps with different rates are denoted as dashed lines. (c) Differential reflection signals of GQDs/MoS<ce:inf loc="post">2</ce:inf> heterostructures with the GQD size changed from 70 to 5 nm. The solid lines are fitting curves with the solution of Eq. <ce:cross-ref refid="e0010" id="c0010">(2)</ce:cross-ref>. (d) Relaxation dynamics of the GQDs/MoS<ce:inf loc="post">2</ce:inf> heterostructure with the dot size of 10 nm on the first ten picoseconds. The later intensity increase implies the appearance of a new channel that can inject electrons into the MoS<ce:inf loc="post">2</ce:inf> monolayers. The inset shows peak intensities of Δ<ce:italic>R</ce:italic>/<ce:italic>R</ce:italic>
+                     <ce:inf loc="post">0</ce:inf>(<ce:italic>t</ce:italic>) for the pristine MoS<ce:inf loc="post">2</ce:inf> monolayers and all heterostructures.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1369702118311933/gr2" id="lk00010"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Figure 3</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0030" view="all">The band diagram of GQDs/MoS<ce:inf loc="post">2</ce:inf> heterostructure. The electron transfer and relaxation channels are depicted based on the biphasic electron injection model. The left panel denotes the band diagram of MoS<ce:inf loc="post">2</ce:inf>, the middle and right panels show calculated eigen states and DOS for 5-nm GQDs, respectively.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1369702118311933/gr3" id="lk00015"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Figure 4</ce:label>
+               <ce:caption id="cn0020">
+                  <ce:simple-para id="sp0035" view="all">Fitting parameters for differential reflection signals of GQDs/MoS<ce:inf loc="post">2</ce:inf> heterostructures. (a) The lifetime of the hot electron cooling (<ce:italic>τ<ce:inf loc="post">cooling</ce:inf>
+                     </ce:italic>) for heterostructures with different sized GQDs. (b) The lifetimes of cold electron injection (<ce:italic>τ<ce:inf loc="post">cold</ce:inf>
+                     </ce:italic>) and back electron transfer (<ce:italic>τ<ce:inf loc="post">back</ce:inf>
+                     </ce:italic>) for heterostructures.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1369702118311933/gr4" id="lk00020"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:dochead id="dh005">
+               <ce:textfn>Short Communication</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tm005">Electron transfer and cascade relaxation dynamics of graphene quantum dots/MoS<ce:inf loc="post">2</ce:inf> monolayer mixed-dimensional van der Waals heterostructures</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005" author-id="S1369702118311933-85f01b22c6bffd9a67b780a56748dc89">
+                  <ce:given-name>Hangyong</ce:given-name>
+                  <ce:surname>Shan</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0015">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="fn1" id="c0020">
+                     <ce:sup loc="post">†</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au010" author-id="S1369702118311933-5243e56b6dc20dbdf7112bb84a08b115">
+                  <ce:given-name>Ying</ce:given-name>
+                  <ce:surname>Yu</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0025">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="fn1" id="c0030">
+                     <ce:sup loc="post">†</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au015" author-id="S1369702118311933-f7aa3cf5297431673958ba8822f54003">
+                  <ce:given-name>Rui</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0035">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="fn1" id="c0040">
+                     <ce:sup loc="post">†</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au020" author-id="S1369702118311933-f6b9c3f15bf32006b039589ab1ce52ec">
+                  <ce:given-name>Runtan</ce:given-name>
+                  <ce:surname>Cheng</ce:surname>
+                  <ce:cross-ref refid="af015" id="c0045">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au025" author-id="S1369702118311933-a1653f090c6c1182e1c6b24d09d615fa">
+                  <ce:given-name>Dong</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0050">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au030" author-id="S1369702118311933-dfbee63c379eb20483a8946701af6e92">
+                  <ce:given-name>Yang</ce:given-name>
+                  <ce:surname>Luo</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0055">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au035" author-id="S1369702118311933-9ccbd51db807a4888cdcbbc22ba587f7">
+                  <ce:given-name>Xingli</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:cross-ref refid="af020" id="c0060">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au040" author-id="S1369702118311933-bf1788edfe31405a3d37b7993e045a1f">
+                  <ce:given-name>Bowen</ce:given-name>
+                  <ce:surname>Li</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0065">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au045" author-id="S1369702118311933-606e3418194af3dc9272b150924edf0c">
+                  <ce:given-name>Shuai</ce:given-name>
+                  <ce:surname>Zu</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0070">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au065" author-id="S1369702118311933-c6eb6fb82826eb7cc516bdaed9f120bf">
+                  <ce:given-name>Feng</ce:given-name>
+                  <ce:surname>Lin</ce:surname>
+                  <ce:cross-ref refid="af005" id="c5824">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author orcid="0000-0002-8825-7198" id="au050" author-id="S1369702118311933-17a45b6d6d10d4a5acd3556935633cb6">
+                  <ce:given-name>Zheng</ce:given-name>
+                  <ce:surname>Liu</ce:surname>
+                  <ce:cross-ref refid="af020" id="c0075">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au055" author-id="S1369702118311933-058721853c7d05237228e186d1005da5">
+                  <ce:given-name>Kai</ce:given-name>
+                  <ce:surname>Chang</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0080">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c6485">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au060" author-id="S1369702118311933-cebaecbdbb88a0073ac22423182451d4">
+                  <ce:given-name>Zheyu</ce:given-name>
+                  <ce:surname>Fang</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0085">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0090">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af005" affiliation-id="S1369702118311933-b8361b37b42cb62167407ec6971480ab">
+                  <ce:label>1</ce:label>
+                  <ce:textfn>School of Physics, State Key Laboratory for Mesoscopic Physics, Academy for Advanced Interdisciplinary Studies, Collaborative Innovation Center of Quantum Matter, Peking University, Beijing 100871, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Physics</sa:organization>
+                     <sa:organization>State Key Laboratory for Mesoscopic Physics</sa:organization>
+                     <sa:organization>Academy for Advanced Interdisciplinary Studies</sa:organization>
+                     <sa:organization>Collaborative Innovation Center of Quantum Matter</sa:organization>
+                     <sa:organization>Peking University</sa:organization>
+                     <sa:city>Beijing</sa:city>
+                     <sa:postal-code>100871</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af010" affiliation-id="S1369702118311933-9d73a359cbb69f315327022e86dd1e74">
+                  <ce:label>2</ce:label>
+                  <ce:textfn>SKLSM, Institute of Semiconductors, Chinese Academy of Sciences, Beijing 100083, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>SKLSM</sa:organization>
+                     <sa:organization>Institute of Semiconductors</sa:organization>
+                     <sa:organization>Chinese Academy of Sciences</sa:organization>
+                     <sa:city>Beijing</sa:city>
+                     <sa:postal-code>100083</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af015" affiliation-id="S1369702118311933-71eabcad21f1385295dcf8fb68022890">
+                  <ce:label>3</ce:label>
+                  <ce:textfn>School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Life Sciences and Biotechnology</sa:organization>
+                     <sa:organization>Shanghai Jiao Tong University</sa:organization>
+                     <sa:city>Shanghai</sa:city>
+                     <sa:postal-code>200240</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af020" affiliation-id="S1369702118311933-36e4c499c0e182f18eb362802f720a24">
+                  <ce:label>4</ce:label>
+                  <ce:textfn>CNRS International-NTU-Thales Research Alliance (CINTRA), Nanyang Technological University, Singapore 637553, Singapore</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>CNRS International-NTU-Thales Research Alliance (CINTRA)</sa:organization>
+                     <sa:organization>Nanyang Technological University</sa:organization>
+                     <sa:city>Singapore</sa:city>
+                     <sa:postal-code>637553</sa:postal-code>
+                     <sa:country>Singapore</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding authors.</ce:text>
+               </ce:correspondence>
+               <ce:footnote id="fn1">
+                  <ce:label>†</ce:label>
+                  <ce:note-para id="np005" view="all">H.Y.S., Y.Y. and R.Z. contributed equally to this work. Z.Y.F. supervised the project. H.Y.S. and Y.Y. performed experiments and established the theoretical model. R.Z. carried out energy level and DOS calculations. All authors discussed the results and wrote the manuscript.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:abstract class="graphical" xml:lang="en" id="ab005" view="all">
+               <ce:section-title id="st005">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="as005" view="all">
+                  <ce:simple-para id="sp0005" view="all">We realize the efficient modulation of relaxation channels in MoS<ce:inf loc="post">2</ce:inf> monolayers and interfacial electron transfer by forming mixed-dimensional VdW heterostructures with graphene quantum dots (GQDs) and find that the cascaded relaxation of hot electrons in GQDs that originate from the quantum confinement effect is the ultimate reason. With femtosecond pump–probe spectroscopy, the biphasic electron injection model and modified rate equations are employed to quantitatively solve the interfacial dynamics.</ce:simple-para>
+                  <ce:simple-para id="sp0010" view="all">
+                     <ce:display>
+                        <ce:figure id="f0025">
+                           <ce:link locator="ga1" id="lk00025" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1369702118311933/ga1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:abstract class="author" xml:lang="en" id="ab010" view="all"><ce:abstract-sec id="as010" view="all">
+                  <ce:simple-para id="sp0015" view="all">Van der Waals (VdW) heterostructures have emerged as promising materials for atomically thin optoelectronic and photovoltaic applications, where the efficient charge separation after photo-excitation is significant to enhance device performances. However, modulating the interfacial charge transfer is still challenging due to the weak interlayer VdW interaction. Revealing electron transfer and relaxation processes in heterostructures lays foundation to tune the interfacial dynamics and optoelectronic properties. Here, we realize the efficient modulation of relaxation channels in MoS<ce:inf loc="post">2</ce:inf> monolayers and interfacial electron transfer by forming mixed-dimensional VdW heterostructures with graphene quantum dots (GQDs). With femtosecond pump–probe spectroscopy, the biphasic electron injection model and modified rate equations are employed to quantitatively solve interfacial transfer rates of mixed-dimensional VdW heterostructures. We find that the cascaded relaxation of hot electrons in GQDs that originates from the quantum confinement effect can intensively affect the interfacial dynamics. Our established model is instructive to optimize performances of future photon-harvesting devices based on mixed low-dimensional heterostructures.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:section-title id="st015">Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">Transition metal dichalcogenides (TMDs) monolayers have attracted increasing attention for applications of photovoltaics <ce:cross-refs refid="b0005 b0010" id="r0005">[1,2]</ce:cross-refs>, photodetection <ce:cross-refs refid="b0015 b0020" id="r0010">[3,4]</ce:cross-refs>,catalysis <ce:cross-ref refid="b0025" id="c0095">[5]</ce:cross-ref>, etc. Despite being atomically thin, many TMD monolayers are direct band-gap semiconductors with strong light–matter interactions, and their emission can cover a broad spectral range from visible to near-infrared <ce:cross-refs refid="b0010 b0030 b0035 b0040" id="r0015">[2,6–8]</ce:cross-refs>. Without conventional ‘lattice mismatch’ issues, it is easy to assemble different TMDs into vertical van der Waals (VdW) heterostructures <ce:cross-refs refid="b0005 b0045" id="r0020">[1,9]</ce:cross-refs>, which further opens an avenue for the fundamental material study and optoelectronic device applications <ce:cross-refs refid="b0005 b0010 b0015 b0050 b0055 b0060" id="r0025">[1–3,10–12]</ce:cross-refs>. Interesting physics phenomena based on these two-dimensional (2D) heterostructures were investigated, such as Moiré superlattices, long lifetime interlayer excitons, and gate tunable band-gaps, which have been used to generate unique device functionalities in comparison with conventional semiconductors. For devices based on 2D heterostructures, the external quantum efficiency is usually suppressed by the back electron transfer and the charge recombination at interface. Thus, to understand the interfacial process of 2D heterostructures is essential for the future optoelectronic device design and applications <ce:cross-refs refid="b0065 b0070 b0075 b0080 b0085 b0090 b0095 b0100" id="r0030">[13–20]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0010" view="all">On the other side, different dimensional materials can show various properties, e.g. quantum dots act as electron donors and sensitizers, while 2D crystals are potential active layers for the optoelectronic application <ce:cross-refs refid="b0015 b0105 b0110 b0115" id="r0035">[3,21–23]</ce:cross-refs>. Because the VdW interaction can exist at any passivated surfaces without dangling bonds, mixed-dimensional heterostructures can be obtained by stacking zero- and one-dimensional (0D and 1D) nanomaterials on TMD monolayers. The constructed 0D/2D and 1D/2D heterostructures can exhibit exceptional properties compared to 2D/2D VdW stackers <ce:cross-refs refid="b0105 b0110 b0120" id="r0040">[21,22,24]</ce:cross-refs>, where the doping efficiency, carrier concentration, and interfacial charge transfer processes may be modulated with the abrupt change of energy level and density of states (DOS) in mixed-dimensional heterostructures. It is expected that VdW heterostructures constituted by mixed-dimensional materials can fully utilize their original synergetic effects to achieve a superior performance.</ce:para>
+                  <ce:para id="p0015" view="all">In this work, we investigate the electron transfer and cascade relaxation dynamics of the mixed-dimensional heterostructures comprised of graphene quantum dots (GQDs) and MoS<ce:inf loc="post">2</ce:inf> monolayers. GQDs serve as electron donors, while the MoS<ce:inf loc="post">2</ce:inf> behaves like an acceptor. By decreasing the GQD size from 70 to 5 nm, the 2D/2D graphene flake-MoS<ce:inf loc="post">2</ce:inf> heterostructure gradually becomes a 0D/2D GQDs–MoS<ce:inf loc="post">2</ce:inf> stacker. The interfacial dynamics of different mixed-dimensional heterostructures is studied by employing femtosecond pump–probe measurements, and transient differential reflection signals are found dependent with the GQD size. The biphasic electron injection model is applied to elucidate the experimental observation, and different characteristic electron transfer rates at the 0D/2D interface are calculated and further explained by the Marcus theory.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:section-title id="st020">Results</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:section-title id="st025">Characterizations of GQDs and MoS<ce:inf loc="post">2</ce:inf> monolayers</ce:section-title>
+                     <ce:para id="p0020" view="all">
+                        <ce:cross-ref refid="f0005" id="c0100">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="f0005"/>a is the schematic of our femtosecond pump–probe measurements, where the 400-nm pump pulse is generated by focusing the femtosecond laser (800 nm) into a BBO crystal. A portion of fundamental pulse is concentrated into a photonic crystal fiber to generate a super-continuum white light source with the wavelength extending from 550 to 1400 nm. The 650-nm probe pulse is selected from the white light with a band-pass filter. Compared with the pump, the probe pulse arrives at the sample with a delay time of Δ<ce:italic>τ</ce:italic>, and the transient reflected probe light is recorded by the photomultiplier. Before arriving at the photomultiplier, the pump laser is filtered with a 450-nm-longpass filter (see more details in Materials and Methods).</ce:para>
+                     <ce:para id="p0025" view="all">The size of GQDs used in the experiments can be well characterized by the transmission electron microscopy (TEM) image, as shown in <ce:cross-ref refid="f0005" id="c0105">Fig. 1</ce:cross-ref>b. The inset shows the size distribution of GQDs, where an average diameter of 5 nm can be clearly distinguished. Other sized GQDs were imaged and are shown in <ce:cross-ref refid="s0080" id="c0110">Figs. S1a–S1c</ce:cross-ref>, with the corresponding size distributions exhibited in <ce:cross-ref refid="s0080" id="c0115">Figs. S1d–S1f</ce:cross-ref>. The monolayer property of MoS<ce:inf loc="post">2</ce:inf> was certified by Raman spectra shown in <ce:cross-ref refid="s0080" id="c0120">Fig. S1g</ce:cross-ref>. The reflection mapping of 70 nm GQDs/MoS<ce:inf loc="post">2</ce:inf> heterostructures is illustrated in <ce:cross-ref refid="f0005" id="c0125">Fig. 1</ce:cross-ref>c. The uniform green area indicates that GQDs are homogeneously deposited on top of MoS<ce:inf loc="post">2</ce:inf> monolayers. Furthermore, specific absorption spectra at representative locations are plotted in <ce:cross-ref refid="s0080" id="c0130">Figs. S1h and S1i</ce:cross-ref>, which are similar due to the homogeneous distribution of GQDs (see more details in <ce:cross-ref refid="s0080" id="c0135">Note. S1</ce:cross-ref>). To quantitatively characterize the density of GQDs on top of MoS<ce:inf loc="post">2</ce:inf>, heterostructures with varied GQD sizes were scanned by atomic force microscopy (AFM). The AFM images are shown in <ce:cross-ref refid="s0080" id="c0140">Figs. S1j and S1k</ce:cross-ref>, from which individual GQDs can be clearly distinguished. The number of GQDs was counted statistically and the density was then calculated (<ce:cross-ref refid="s0080" id="c0145">Fig. S1l</ce:cross-ref>). A similar density was obtained because the GQD concentration (0.1 mg/mL) was same for different sized GQDs. Absorption spectra of the MoS<ce:inf loc="post">2</ce:inf> monolayers and GQDs are shown in <ce:cross-ref refid="f0005" id="c0150">Fig. 1</ce:cross-ref>d, where the <ce:bold>
+                           <ce:italic>A</ce:italic>
+                        </ce:bold> and <ce:bold>
+                           <ce:italic>B</ce:italic>
+                        </ce:bold> excitons of MoS<ce:inf loc="post">2</ce:inf> monolayers are recorded at 1.84 and 1.98 eV, while the GQDs show a broad absorption spectrum. Absorption spectra of GQDs/MoS<ce:inf loc="post">2</ce:inf> heterostructures with different GQD sizes and concentrations can be found in <ce:cross-ref refid="s0080" id="c0155">Fig. S2</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:section-title id="st030">Photo-excited electron relaxation dynamics of MoS<ce:inf loc="post">2</ce:inf> monolayers</ce:section-title>
+                     <ce:para id="p0030" view="all">The measured differential reflection signals Δ<ce:italic>R</ce:italic>/<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>(<ce:italic>t</ce:italic>) of the MoS<ce:inf loc="post">2</ce:inf> monolayers and GQDs are shown in <ce:cross-ref refid="f0010" id="c0160">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/>a. Δ<ce:italic>R</ce:italic>/<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>(<ce:italic>t</ce:italic>) represents the transient relative reflection change of the probe pulse, equaling to (<ce:italic>R</ce:italic> − <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>)/<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>, where <ce:italic>R</ce:italic> and <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf> are reflections of the probe light with and without pump pulse. In our ultrafast measurements, in order to excite both the MoS<ce:inf loc="post">2</ce:inf> monolayers and the GQDs, the wavelength of pump pulse was fixed at 400 nm, while the probe was chosen as 650 nm. The pump and probe fluences were 7.5 and 0.75 μJ/cm<ce:sup loc="post">2</ce:sup>, respectively. In <ce:cross-ref refid="f0010" id="c0165">Fig. 2</ce:cross-ref>a, the transient reflection signals for all-sized GQDs are at the base line, which demonstrates that the recorded transient absorption signal is only from the MoS<ce:inf loc="post">2</ce:inf> monolayers, and the measured Δ<ce:italic>R</ce:italic>/<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>(<ce:italic>t</ce:italic>) is determined by the electron occupancy number at MoS<ce:inf loc="post">2</ce:inf> exciton level.</ce:para>
+                     <ce:para id="p0035" view="all">The relaxation dynamics of pristine MoS<ce:inf loc="post">2</ce:inf> monolayers is first analyzed from the differential reflection Δ<ce:italic>R</ce:italic>/<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>(<ce:italic>t</ce:italic>) in <ce:cross-ref refid="f0010" id="c0170">Fig. 2</ce:cross-ref>a. The relaxation of MoS<ce:inf loc="post">2</ce:inf> monolayers on the first two picoseconds is extended and shown in <ce:cross-ref refid="f0010" id="c0175">Fig. 2</ce:cross-ref>b, where two processes with different rates can be clearly observed and the dominant decay process converts at the delay time about 1 ps. With the pump pulse, electrons of the MoS<ce:inf loc="post">2</ce:inf> monolayers are excited and relaxed into the exciton level, which occurs on the rising edge of Δ<ce:italic>R</ce:italic>/<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>(<ce:italic>t</ce:italic>). These electrons that are accumulated at the exciton level then experience a fast decay process during the first hundreds of femtoseconds, which may be attributed to the annihilation of biexcitons or the thermalization of photo-excited carriers <ce:cross-refs refid="b0125 b0130" id="r0045">[25,26]</ce:cross-refs>. After this fast decay, the excited electrons undergo the exciton–exciton annihilation process.</ce:para>
+                     <ce:para id="p0040" view="all">In order to quantitatively study the electron relaxation dynamics, the relationship between the amplitude of measured Δ<ce:italic>R</ce:italic>/<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>(<ce:italic>t</ce:italic>) and the photo-excited electron density <ce:italic>N</ce:italic> should be established first. In the experiments, the peak amplitude of Δ<ce:italic>R</ce:italic>/<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>(<ce:italic>t</ce:italic>) for the pristine MoS<ce:inf loc="post">2</ce:inf> monolayers is found linearly changed with the pump fluence, as shown in <ce:cross-ref refid="s0080" id="c0180">Fig. S3</ce:cross-ref>. Since the photo-excited electron density <ce:italic>N</ce:italic> is directly proportional to the pump fluence, it is safe to assume that the amplitude of Δ<ce:italic>R</ce:italic>/<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>(<ce:italic>t</ce:italic>) also varies linearly with <ce:italic>N</ce:italic> when its maximal amplitude is lower than 0.65% (<ce:cross-ref refid="s0080" id="c0185">Fig. S3</ce:cross-ref>) <ce:cross-refs refid="b0135 b0140 b0145" id="r0050">[27–29]</ce:cross-refs>.</ce:para>
+                     <ce:para id="p0045" view="all">With this linear relationship, the rate equation for the electron relaxation that involves two decay processes can be presented as the following:<ce:display>
+                           <ce:formula id="e0005">
+                              <ce:label>(1)</ce:label>
+                              <mml:math altimg="si1.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="italic">dN</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="italic">dt</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mo>-</mml:mo>
+                                    <mml:mi>A</mml:mi>
+                                    <mml:msup>
+                                       <mml:mi>N</mml:mi>
+                                       <mml:mi>x</mml:mi>
+                                    </mml:msup>
+                                    <mml:mo>-</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mn>1</mml:mn>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:mfrac>
+                                    <mml:mi>γ</mml:mi>
+                                    <mml:msup>
+                                       <mml:mi>N</mml:mi>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:msup>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>A</ce:italic> and <ce:italic>x</ce:italic> are coefficients, and <ce:italic>γ</ce:italic>/2 is the exciton–exciton annihilation rate (see <ce:cross-ref refid="s0080" id="c0190">Fig. S4</ce:cross-ref> and <ce:cross-ref refid="s0080" id="c0195">Note. S2</ce:cross-ref> for detailed derivations). In Eq. <ce:cross-ref refid="e0005" id="c0200">(1)</ce:cross-ref>, the first item represents the fast decay process, while the second one corresponds to the exciton–exciton interaction. Based on the Monte Carlo method, these parameters can be obtained, where <ce:italic>A</ce:italic> is 0.41 × 10<ce:sup loc="post">−24</ce:sup> cm<ce:sup loc="post">6</ce:sup>/s, <ce:italic>x</ce:italic> is 4, and <ce:italic>γ</ce:italic>/2 equals to 0.076 cm<ce:sup loc="post">2</ce:sup>/s. The obtained exciton–exciton annihilation rate is almost the same as previous reports <ce:cross-refs refid="b0135 b0150" id="r0055">[27,30]</ce:cross-refs>. With these parameters, fitting curves in <ce:cross-ref refid="f0010" id="c0205">Fig. 2</ce:cross-ref>a and b are plotted, which have a good agreement with experimental results.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:section-title id="st035">Differential reflection signals of GQDs/MoS<ce:inf loc="post">2</ce:inf> heterostructures</ce:section-title>
+                     <ce:para id="p0050" view="all">The electron transfer and cascade relaxation dynamics of GQDs/MoS<ce:inf loc="post">2</ce:inf> mixed-dimensional heterostructures was further analyzed with the ultrafast pump–probe measurements. In the experiments, the concentration of GQDs was found to hardly affect the relaxation dynamics of heterostructures (<ce:cross-ref refid="s0080" id="c0210">Fig. S5</ce:cross-ref> and <ce:cross-ref refid="s0080" id="c0215">Note. S3</ce:cross-ref>), and it was fixed at 0.1 mg/mL following. In the measurements of heterostructures, the pump and probe wavelengths were fixed at 400 and 650 nm, respectively, with the same fluences as used for MoS<ce:inf loc="post">2</ce:inf> monolayers. <ce:cross-ref refid="f0010" id="c0220">Fig. 2</ce:cross-ref>c shows the size-dependent differential reflection signals of GQDs/MoS<ce:inf loc="post">2</ce:inf> heterostructures. Two-step relaxation processes can still be seen when the GQD size is larger than 40 nm. For the heterostructures with 70 nm GQDs, the effect of probe wavelength on the relaxation dynamics was studied and shown in <ce:cross-ref refid="s0080" id="c0225">Fig. S6</ce:cross-ref>. As the probe wavelength is gradually changed from 650 to 800 nm, the maximal intensity of Δ<ce:italic>R</ce:italic>/<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>(<ce:italic>t</ce:italic>) is decreased, while the relaxation curve still involves two distinct decay processes. This indicates that the change of probe wavelength can affect the amplitude of Δ<ce:italic>R</ce:italic>/<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>(<ce:italic>t</ce:italic>) but cannot dramatically influence the relaxation dynamics of heterostructures.</ce:para>
+                     <ce:para id="p0055" view="all">However, the differential reflection signal exhibits obvious distinctions when the GQD size decreases to 10 nm, as shown in <ce:cross-ref refid="f0010" id="c0230">Fig. 2</ce:cross-ref>c and d. The ultrafast signal promptly drops to the base line within the first hundreds of femtoseconds and then slightly increases with the delay time. Since the amplitude of Δ<ce:italic>R</ce:italic>/<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>(<ce:italic>t</ce:italic>) represents the photo-excited electron density, the dramatically reduced intensity implies the emergence of new channels that can dissipate photo-excited electrons in the MoS<ce:inf loc="post">2</ce:inf>. On the other side, the later intensity rising trend manifests the appearance of another channel that can inject electrons into the MoS<ce:inf loc="post">2</ce:inf>. When the GQD size reduces to 5 nm, the differential reflection also shows a single-step decay but without the later amplitude rising. These results demonstrate the relaxation dynamics of MoS<ce:inf loc="post">2</ce:inf> is intensely altered when the 2D/2D heterostructures change to 0D/2D ones.</ce:para>
+                     <ce:para id="p0060" view="all">The inset of <ce:cross-ref refid="f0010" id="c0235">Fig. 2</ce:cross-ref>d shows the peak values of Δ<ce:italic>R</ce:italic>/<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>(<ce:italic>t</ce:italic>) for heterostructures. All measured amplitudes of heterostructures are lower than that of the pristine MoS<ce:inf loc="post">2</ce:inf> monolayers. For heterostructures, the incident fluence is decreased when the pump pulse reaches the MoS<ce:inf loc="post">2</ce:inf>, because a portion of light is absorbed by the top GQDs. To estimate the influence of this effect, the absolute absorbance of different sized GQDs were measured as shown in <ce:cross-ref refid="s0080" id="c0240">Fig. S7</ce:cross-ref>, which exhibits a similar strength for different sized GQDs. However, it is interesting to note that the peak amplitudes of heterostructures are decreased with different extents for various sized GQDs. This result implies that the light absorption of top GQDs is not the exclusive reason that causes the reduction in peak amplitudes. These remarkable changes of Δ<ce:italic>R</ce:italic>/<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>(<ce:italic>t</ce:italic>) suggest a revised rate equation model is required to describe the dynamical behavior of mixed-dimensional heterostructures.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:section-title id="st040">Electron transfer and relaxation dynamics of heterostructures</ce:section-title>
+                     <ce:para id="p0065" view="all">
+                        <ce:cross-ref refid="f0015" id="c0245">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/> depicts the biphasic electron injection model <ce:cross-refs refid="b0070 b0155 b0160" id="r0060">[14,31,32]</ce:cross-refs> that is used to explain the GQD size-dependent relaxation dynamics of the heterostructures. The left panel shows the energy diagram of MoS<ce:inf loc="post">2</ce:inf> monolayers, and the middle one exhibits energy levels of 5-nm GQDs, which were calculated using the tight-binding approximation method (<ce:cross-ref refid="s0080" id="c0250">Note. S4</ce:cross-ref>). Four main processes involving the hot electron injection, hot electron cooling, cold electron injection, and back electron transfer are introduced in this model.</ce:para>
+                     <ce:para id="p0070" view="all">During the rising edge of differential reflection signals Δ<ce:italic>R</ce:italic>/<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>(<ce:italic>t</ce:italic>) for GQDs/MoS<ce:inf loc="post">2</ce:inf> heterostructures, electrons in the MoS<ce:inf loc="post">2</ce:inf> valence band are excited with the 400-nm pump laser and then rapidly decay into the exciton level, which is the same as the procedure occured in pristine MoS<ce:inf loc="post">2</ce:inf> monolayers. Simultaneously, GQDs are also pumped and a portion of photo-excited electrons can inject into the MoS<ce:inf loc="post">2</ce:inf>, corresponding to the process of hot electron injection, shown as the red arrow in <ce:cross-ref refid="f0015" id="c0255">Fig. 3</ce:cross-ref>. The injected electrons can participate in the generation of MoS<ce:inf loc="post">2</ce:inf> trions (comprised of two electrons and one hole) <ce:cross-ref refid="b0165" id="c0260">[33]</ce:cross-ref>, which decreases the electron density of MoS<ce:inf loc="post">2</ce:inf> at exciton level and further weakens the differential reflection amplitude (inset of <ce:cross-ref refid="f0010" id="c0265">Fig. 2</ce:cross-ref>d).</ce:para>
+                     <ce:para id="p0075" view="all">Other main processes are involved in the descent process of Δ<ce:italic>R</ce:italic>/<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>(<ce:italic>t</ce:italic>)<ce:italic>.</ce:italic> For those hot electrons retained in the GQDs, they can be non-radiatively cooled to lower states and become cold electrons, shown as black arrows in <ce:cross-ref refid="f0015" id="c0270">Fig. 3</ce:cross-ref>. The lifetime of this cooling process is seriously dependent on the GQD size. As the dot size decreased from 70 to 5 nm, the quantum confinement effect gradually emerges. To ascertain this quantum effect, DOS of different sized GQDs were calculated and are shown in <ce:cross-ref refid="s0080" id="c0275">Fig. S8</ce:cross-ref>. For large-sized GQDs, the calculated DOS is almost continuous, but apparent energy gaps appear when the GQD size decreases to 5 nm, as plotted in the right panel of <ce:cross-ref refid="f0015" id="c0280">Fig. 3</ce:cross-ref>. For small-sized GQDs, the spacing of discrete energy levels can even exceed the highest phonon energy of GQDs. The ‘phonon bottleneck’ indicates that multi phonons are requested to participate in the hot electron cooling process <ce:cross-ref refid="b0170" id="c0285">[34]</ce:cross-ref>, which can slow the cooling time even up to two orders <ce:cross-ref refid="b0175" id="c0290">[35]</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0080" view="all">With such a longer lifetime, cold electrons can occupy higher energy levels of the GQDs and gradually cascade to lower states rather than straightly jump to the lowest unoccupied molecular orbital (LUMO). When the occupied level of cold electrons is higher than the MoS<ce:inf loc="post">2</ce:inf> conduction band edge, the cold electron injection from GQDs to the MoS<ce:inf loc="post">2</ce:inf> can occur, shown as the blue arrow in <ce:cross-ref refid="f0015" id="c0295">Fig. 3</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0085" view="all">These injected electrons can further generate excitons in the MoS<ce:inf loc="post">2</ce:inf> with redundant holes that are left by the back electron transfer process, in which electrons are reversely migrated from the MoS<ce:inf loc="post">2</ce:inf> to top GQDs. This back transfer process can be inferred by comparing the descent procedures of differential reflection signals in <ce:cross-ref refid="f0010" id="c0300">Fig. 2</ce:cross-ref>, where the amplitude of mixed-dimensional heterostructures decreases more rapidly in comparison with the one of pristine MoS<ce:inf loc="post">2</ce:inf> monolayers. The more rapid decay of Δ<ce:italic>R</ce:italic>/<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>(<ce:italic>t</ce:italic>) for heterostructures implies the emergence of a new channel in the MoS<ce:inf loc="post">2</ce:inf> (the back electron transfer) that can dissipate the electron density at the exciton level.</ce:para>
+                     <ce:para id="p0090" view="all">A recent literature studied the interfacial electron transfer dynamics of MoS<ce:inf loc="post">2</ce:inf>/WSe<ce:inf loc="post">2</ce:inf> 2D VdW heterostructures theoretically with time-dependent density functional theory <ce:cross-ref refid="b0180" id="c0305">[36]</ce:cross-ref>. This work found an interfacial relaxation pathway of hot electrons, of which the electron transfer rate is much faster than the intralayer relaxation rate and also reported the appearance of hot electron back transfer. It can strongly support the biphasic electron injection model and provides evidences to indicate that this electron transfer model can be universal in VdW heterostructures with suitable energy band alignments.</ce:para>
+                     <ce:para id="p0095" view="all">With above discussions, we can see both the cold electron injection and back electron transfer processes should be considered in the revised rate equation for the heterostructures. Based on the relaxation equation of pristine MoS<ce:inf loc="post">2</ce:inf> monolayers (Eq. <ce:cross-ref refid="e0005" id="c0310">(1)</ce:cross-ref>), the modified rate equation set for heterostructures can be written as the following:<ce:display>
+                           <ce:formula id="e0010">
+                              <ce:label>(2)</ce:label>
+                              <mml:math altimg="si2.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mtable>
+                                       <mml:mtr>
+                                          <mml:mtd columnalign="left">
+                                             <mml:mrow>
+                                                <mml:mfrac>
+                                                   <mml:mrow>
+                                                      <mml:mi mathvariant="italic">dN</mml:mi>
+                                                   </mml:mrow>
+                                                   <mml:mrow>
+                                                      <mml:mi mathvariant="italic">dt</mml:mi>
+                                                   </mml:mrow>
+                                                </mml:mfrac>
+                                                <mml:mo>=</mml:mo>
+                                                <mml:mo>-</mml:mo>
+                                                <mml:mi>A</mml:mi>
+                                                <mml:msup>
+                                                   <mml:mi>N</mml:mi>
+                                                   <mml:mn>4</mml:mn>
+                                                </mml:msup>
+                                                <mml:mo>-</mml:mo>
+                                                <mml:mfrac>
+                                                   <mml:mn>1</mml:mn>
+                                                   <mml:mn>2</mml:mn>
+                                                </mml:mfrac>
+                                                <mml:mi>γ</mml:mi>
+                                                <mml:msup>
+                                                   <mml:mi>N</mml:mi>
+                                                   <mml:mn>2</mml:mn>
+                                                </mml:msup>
+                                                <mml:mo>-</mml:mo>
+                                                <mml:mfrac>
+                                                   <mml:mi>N</mml:mi>
+                                                   <mml:msub>
+                                                      <mml:mi>τ</mml:mi>
+                                                      <mml:mrow>
+                                                         <mml:mi mathvariant="italic">back</mml:mi>
+                                                      </mml:mrow>
+                                                   </mml:msub>
+                                                </mml:mfrac>
+                                                <mml:mo>+</mml:mo>
+                                                <mml:mfrac>
+                                                   <mml:mi>M</mml:mi>
+                                                   <mml:msub>
+                                                      <mml:mi>τ</mml:mi>
+                                                      <mml:mrow>
+                                                         <mml:mi mathvariant="italic">cold</mml:mi>
+                                                      </mml:mrow>
+                                                   </mml:msub>
+                                                </mml:mfrac>
+                                             </mml:mrow>
+                                          </mml:mtd>
+                                       </mml:mtr>
+                                       <mml:mtr>
+                                          <mml:mtd columnalign="left">
+                                             <mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mfrac>
+                                                      <mml:mrow>
+                                                         <mml:mi mathvariant="italic">dM</mml:mi>
+                                                      </mml:mrow>
+                                                      <mml:mrow>
+                                                         <mml:mi mathvariant="italic">dt</mml:mi>
+                                                      </mml:mrow>
+                                                   </mml:mfrac>
+                                                   <mml:mo>=</mml:mo>
+                                                   <mml:mo>-</mml:mo>
+                                                   <mml:mfrac>
+                                                      <mml:mi>M</mml:mi>
+                                                      <mml:msub>
+                                                         <mml:mi>τ</mml:mi>
+                                                         <mml:mrow>
+                                                            <mml:mi mathvariant="italic">cold</mml:mi>
+                                                         </mml:mrow>
+                                                      </mml:msub>
+                                                   </mml:mfrac>
+                                                   <mml:mo>+</mml:mo>
+                                                   <mml:mi>G</mml:mi>
+                                                </mml:mrow>
+                                             </mml:mrow>
+                                          </mml:mtd>
+                                       </mml:mtr>
+                                       <mml:mtr>
+                                          <mml:mtd columnalign="left">
+                                             <mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mi>G</mml:mi>
+                                                   <mml:mo>=</mml:mo>
+                                                   <mml:mfrac>
+                                                      <mml:msub>
+                                                         <mml:mi>M</mml:mi>
+                                                         <mml:mn>0</mml:mn>
+                                                      </mml:msub>
+                                                      <mml:msub>
+                                                         <mml:mi>τ</mml:mi>
+                                                         <mml:mrow>
+                                                            <mml:mi mathvariant="italic">cooling</mml:mi>
+                                                         </mml:mrow>
+                                                      </mml:msub>
+                                                   </mml:mfrac>
+                                                </mml:mrow>
+                                             </mml:mrow>
+                                          </mml:mtd>
+                                       </mml:mtr>
+                                    </mml:mtable>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>τ<ce:inf loc="post">back</ce:inf>, τ<ce:inf loc="post">cold</ce:inf>,</ce:italic> and <ce:italic>τ<ce:inf loc="post">cooling</ce:inf>
+                        </ce:italic> are lifetimes of back electron transfer, cold electron injection, and hot electron cooling, respectively; <ce:italic>N</ce:italic> is the electron density of MoS<ce:inf loc="post">2</ce:inf> at exciton level, <ce:italic>G</ce:italic> is the cold electron generation rate, <ce:italic>M</ce:italic>
+                        <ce:inf loc="post">0</ce:inf> represents the original density of retained hot electrons in GQDs, and <ce:italic>M</ce:italic> is the electron density at <ce:italic>M</ce:italic> level of GQDs. Because the cold electron injection rate is different at varied energy levels of GQDs and is seriously influenced by the electronic DOS distribution, an average rate at a single energy level (<ce:italic>M</ce:italic> level as shown in <ce:cross-ref refid="f0015" id="c0315">Fig. 3</ce:cross-ref>) is modeled to represent the whole process of cold electron injection from GQDs to the MoS<ce:inf loc="post">2</ce:inf>.</ce:para>
+                     <ce:para id="p0100" view="all">Because the cooling time for hot electrons is on the order of picosecond, which is much longer than the hot electron injection, it is safe to consider the hot electron cooling process starts after the hot electron injection. Hence, the initial quantity for <ce:italic>M</ce:italic> in Eq. <ce:cross-ref refid="e0010" id="c0320">(2)</ce:cross-ref> can be considered as zero. By settling initial conditions of <ce:italic>N</ce:italic> and <ce:italic>M</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>, the rate equation set can be fully solved using the Monte Carlo method (see Notes. S5 and S6 for more details).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0035" view="all">
+                  <ce:section-title id="st045">Discussion</ce:section-title>
+                  <ce:para id="p0105" view="all">The lifetime of different processes are fitted and plotted in <ce:cross-ref refid="f0020" id="c0325">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="f0020"/>. The <ce:italic>τ<ce:inf loc="post">cooling</ce:inf>
+                     </ce:italic> grows as the decrease in GQD size (<ce:cross-ref refid="f0020" id="c0330">Fig. 4</ce:cross-ref>a). This can be explained by the quantum confinement effect mentioned above, and the fitted cooling time is on the order of 10 ps, consisting well with previous literatures <ce:cross-refs refid="b0175 b0185" id="r0065">[35,37]</ce:cross-refs>. The result illustrated in the inset of <ce:cross-ref refid="f0010" id="c0335">Fig. 2</ce:cross-ref>d, which demonstrates the enhanced hot electron injection density for small-sized GQDs, can be also aroused by the quantum effect. The sum density of electrons that undergo the hot electron injection and hot electron cooling is fixed due to the same pump fluence, implying that these two channels are competitive. For small-sized GQDs, their cooling lifetimes are prolonged due to the phonon bottleneck. Therefore, the reduced hot electron cooling rate makes more hot electrons injecting into the MoS<ce:inf loc="post">2</ce:inf>.</ce:para>
+                  <ce:para id="p0110" view="all">
+                     <ce:cross-ref refid="f0020" id="c0340">Fig. 4</ce:cross-ref>b shows that both <ce:italic>τ<ce:inf loc="post">cold</ce:inf>
+                     </ce:italic> and <ce:italic>τ<ce:inf loc="post">back</ce:inf>
+                     </ce:italic> decrease with the reduction in GQD size. This can be explained by the Marcus theory, which indicates that the electron transfer rate is basically determined by the driving force, DOS in acceptor, electronic coupling, reorganization energy and Fermi occupancy factor <ce:cross-refs refid="b0070 b0155 b0190" id="r0070">[14,31,38]</ce:cross-refs>. The cold electron injection rate (reciprocal of the lifetime 1/<ce:italic>τ<ce:inf loc="post">cold</ce:inf>
+                     </ce:italic>) is dramatically reduced with the increment of GQD size and can be finally ignored when the 0D/2D GQDs–MoS<ce:inf loc="post">2</ce:inf> heterostructure changes to the 2D/2D type. For small-sized GQDs, because of the longer cooling time, cascaded cold electrons can occupy a higher energy level, where the larger DOS distribution in the corresponding MoS<ce:inf loc="post">2</ce:inf> monolayers makes the cold electron injection more easily.</ce:para>
+                  <ce:para id="p0115" view="all">For the back electron transfer, the calculated rate (1/<ce:italic>τ<ce:inf loc="post">back</ce:inf>
+                     </ce:italic>) is also decreased with the increase in GQD size, as shown in <ce:cross-ref refid="f0020" id="c0345">Fig. 4</ce:cross-ref>b. This is because the retained hot electrons in GQDs can faster cool to lower energy levels when the GQD has a large size and can be taken as a graphene flake. This electron jumping effect in relaxation procedure makes energy levels near the LUMO rapidly occupied, and thus the back electron transfer is less likely to occur.</ce:para>
+                  <ce:para id="p0120" view="all">With parameters illustrated in <ce:cross-ref refid="f0020" id="c0350">Fig. 4</ce:cross-ref>, the delay time-dependent photo-excited electron densities <ce:italic>N</ce:italic>(<ce:italic>t</ce:italic>) for all-sized GQDs/MoS<ce:inf loc="post">2</ce:inf> heterostructures can be numerically solved from Eq. <ce:cross-ref refid="e0010" id="c0355">(2)</ce:cross-ref>. Solid lines in <ce:cross-ref refid="f0010" id="c0360">Fig. 2</ce:cross-ref>c and d are fitting curves derived from <ce:italic>N</ce:italic>(<ce:italic>t</ce:italic>), which agree well with the experimental results. The Δ<ce:italic>R</ce:italic>/<ce:italic>R</ce:italic>
+                     <ce:inf loc="post">0</ce:inf>(<ce:italic>t</ce:italic>) signals of heterostructures in <ce:cross-ref refid="f0010" id="c0365">Fig. 2</ce:cross-ref>c are determined by the competition result between the channel that increases the electron density (cold electron injection <mml:math altimg="si3.gif" overflow="scroll">
+                        <mml:mfrac>
+                           <mml:mi>M</mml:mi>
+                           <mml:msub>
+                              <mml:mi>τ</mml:mi>
+                              <mml:mrow>
+                                 <mml:mi mathvariant="italic">cold</mml:mi>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:mfrac>
+                     </mml:math>) and channels that dissipate the density (back electron transfer <mml:math altimg="si4.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mfrac>
+                              <mml:mi>N</mml:mi>
+                              <mml:msub>
+                                 <mml:mi>τ</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="italic">back</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mfrac>
+                        </mml:mrow>
+                     </mml:math> and intrinsic relaxations <mml:math altimg="si5.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mi>A</mml:mi>
+                           <mml:msup>
+                              <mml:mi>N</mml:mi>
+                              <mml:mn>4</mml:mn>
+                           </mml:msup>
+                           <mml:mo>-</mml:mo>
+                           <mml:mfrac>
+                              <mml:mn>1</mml:mn>
+                              <mml:mn>2</mml:mn>
+                           </mml:mfrac>
+                           <mml:mi>γ</mml:mi>
+                           <mml:msup>
+                              <mml:mi>N</mml:mi>
+                              <mml:mn>2</mml:mn>
+                           </mml:msup>
+                        </mml:mrow>
+                     </mml:math>). The interfacial dynamics of 2D/2D heterostructures (GQD size larger than 40 nm) is almost the same as the pristine MoS<ce:inf loc="post">2</ce:inf> monolayers, because both the cold and back electron transfers act as perturbations compared to the intrinsic relaxation channels. The small deviation between the numerical solution and experimental data in <ce:cross-ref refid="f0010" id="c0370">Fig. 2</ce:cross-ref>c is attributed to fluctuations of intrinsic relaxations in MoS<ce:inf loc="post">2</ce:inf> monolayers (see more details in <ce:cross-ref refid="s0080" id="c0375">Note. S6</ce:cross-ref>). Although all items in Eq. <ce:cross-ref refid="e0010" id="c0380">(2)</ce:cross-ref> can affect transient signals due to the correlated <ce:italic>N</ce:italic> and <ce:italic>M</ce:italic>, the rising trend for 10-nm GQDs is induced by the dramatically increased cold electron injection rate. As to heterostructures with 5-nm GQDs, the absence of later amplitude rising trend is primarily ascribed to the enhanced back electron transfer rate.</ce:para>
+               </ce:section>
+               <ce:section id="s0040" view="all">
+                  <ce:section-title id="st050">Conclusion</ce:section-title>
+                  <ce:para id="p0125" view="all">In conclusion, the electron transfer and cascade relaxation dynamics of GQDs/MoS<ce:inf loc="post">2</ce:inf> VdW heterostructures was investigated with the femtosecond pump–probe spectroscopy. We revealed that the relaxation channels of photo-excited electrons in MoS<ce:inf loc="post">2</ce:inf> monolayers and interfacial transfer rates can be efficiently modulated by controlling the size of GQDs. With the biphasic electron injection model, modified relaxation rate equations were employed to quantitatively solve the dynamical behavior of mixed-dimensional heterostructures, where all of the rate parameters can be elucidated by the Marcus theory. Our proposed 0D/2D VdW heterostructures offer an effective method for tuning the relaxation dynamics of 2D materials. An ultrafast and efficient charge separation is a crucial step in collecting photo-excited charges for optoelectronic and photovoltaic devices. Our established electron transfer model is instructive to optimize interfacial processes and to improve performances of the future photon-conversion devices based on mixed-dimensional VdW heterostructures.</ce:para>
+               </ce:section>
+               <ce:section id="s0045" view="all">
+                  <ce:section-title id="st055">Materials and methods</ce:section-title>
+                  <ce:section id="s0050" view="all">
+                     <ce:section-title id="st060">Sample preparations</ce:section-title>
+                     <ce:para id="p0130" view="all">The MoS<ce:inf loc="post">2</ce:inf> monolayers were synthesized by the chemical vapor deposition method at 850 °C, with MoO<ce:inf loc="post">3</ce:inf> and pure sulfur as reactant materials <ce:cross-ref refid="b0195" id="c0385">[39]</ce:cross-ref>. The substrate was composed of Si/SiO<ce:inf loc="post">2</ce:inf> with SiO<ce:inf loc="post">2</ce:inf> thickness in 540 nm. GQDs were synthesized from anthracite (Fisher Scientific, catalog number S98806) and bituminous coal (Fisher Scientific, catalog number S98809). Detailed synthesis and filtration processes can be found in the reference <ce:cross-ref refid="b0200" id="c0390">[40]</ce:cross-ref>. Different sized GQDs solutions were first prepared by dissolving the powder of GQDs into DI water and then spin-coated onto the MoS<ce:inf loc="post">2</ce:inf> monolayers. The prepared sample was put on a 100 °C hot plate to evaporate the solvent and ensure intimate contact.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0055" view="all">
+                     <ce:section-title id="st065">Absorption measurements</ce:section-title>
+                     <ce:para id="p0135" view="all">The relative change of reflection was used to characterize sample absorption spectrum. The relative reflection was acquired by dividing the reflection of the sample to that of the substrate. Reflection spectra were measured with the hyperspectral imaging system (Cytoviva HIS V3) and were recorded by the spectrometer (Horiba iHR550) with a 40× objective lens (Olympus LUCPlanFL N, NA = 0.6).</ce:para>
+                  </ce:section>
+                  <ce:section id="s0060" view="all">
+                     <ce:section-title id="st070">Femtosecond pump–probe measurements</ce:section-title>
+                     <ce:para id="p0140" view="all">Ultrafast pump–probe measurements in reflection configuration were carried out. Detailed descriptions of our home-built apparatus can be found in a previous work <ce:cross-ref refid="b0205" id="c0395">[41]</ce:cross-ref>. The mode-locked oscillator (Tsunami 3941C-25XP) with a repetition rate 80 MHz and a pulse duration of ∼ 73 fs was used. The output 800-nm femtosecond pulse was split into two parts. One of them passed through a BBO crystal to produce the 400-nm pump, while the other one was focused into a photonic crystal fiber (Newport SCG-800) to generate the super-continuum white light. A mechanical chopper with 1500 Hz was utilized to modulate the pump. The delay time between pump and probe pulses was controlled by a steeper linear stage (Newport M-ILS150PP). The spot size of the focused probe was about 2 µm, and only those locations with similar homogeneously distributed GQDs were measured. The detailed analysis of pump and probe pulse durations is shown in <ce:cross-ref refid="s0080" id="c0400">Fig. S9</ce:cross-ref> and <ce:cross-ref refid="s0080" id="c0405">Note. S7</ce:cross-ref>.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0065" view="all">
+                  <ce:section-title id="st075">Competing interests</ce:section-title>
+                  <ce:para id="p0145" view="all">The authors declare no competing financial interests.</ce:para>
+               </ce:section>
+               <ce:section id="s0070" view="all">
+                  <ce:section-title id="st080">Data availability</ce:section-title>
+                  <ce:para id="p0150" view="all">The raw data required to reproduce these findings are available from the corresponding author on reasonable request.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st085">Acknowledgments</ce:section-title>
+               <ce:para id="p0155" view="all">This work is supported by the <ce:grant-sponsor xlink:type="simple" id="gp005" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Key Research and Development Program of China</ce:grant-sponsor> (grant no. <ce:grant-number refid="gp005">2017YFA0205700</ce:grant-number>), <ce:grant-sponsor xlink:type="simple" id="gp010" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Basic Research Program of China</ce:grant-sponsor> (grant no. <ce:grant-number refid="gp010">2015CB932403</ce:grant-number>, <ce:grant-number refid="gp010">2017YFA0206000</ce:grant-number>, <ce:grant-number refid="gp010">2017YFA0303400</ce:grant-number>), <ce:grant-sponsor sponsor-id="http://dx.doi.org/10.13039/501100001809" xlink:type="simple" id="gp015" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Science Foundation of China</ce:grant-sponsor> (grant nos. <ce:grant-number refid="gp015">11674012</ce:grant-number>, <ce:grant-number refid="gp015">61521004</ce:grant-number>, <ce:grant-number refid="gp015">21790364</ce:grant-number>, <ce:grant-number refid="gp015">61422501</ce:grant-number> and <ce:grant-number refid="gp015">11374023</ce:grant-number>), <ce:grant-sponsor xlink:type="simple" id="gp030" sponsor-id="https://doi.org/10.13039/501100004826" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Beijing Natural Science Foundation</ce:grant-sponsor> (grant nos. <ce:grant-number refid="gp030">Z180011</ce:grant-number> and <ce:grant-number refid="gp030">L140007</ce:grant-number>), Foundation for the Author of <ce:grant-sponsor sponsor-id="http://dx.doi.org/10.13039/501100003181" xlink:type="simple" id="gp020" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Excellent Doctoral Dissertation of PR China</ce:grant-sponsor> (grant no. <ce:grant-number refid="gp020">201420</ce:grant-number>), and National Program for Support of <ce:grant-sponsor xlink:type="simple" id="gp025" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Top-notch Young Professionals</ce:grant-sponsor> (grant no.<ce:grant-number refid="gp025">W02070003</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section view="compact-standard" id="s0075">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st090">Supplementary data</ce:section-title>
+                  <ce:para id="p0160" view="all">Supplementary data to this article can be found online at <ce:inter-ref xlink:href="https://doi.org/10.1016/j.mattod.2019.01.015" xlink:type="simple" id="ir005">https://doi.org/10.1016/j.mattod.2019.01.015</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section view="extended" id="s0080">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st095">Supplementary data</ce:section-title>
+                  <ce:para id="p0165" view="all">The following are the Supplementary data to this article:<ce:display>
+                        <ce:e-component id="m0005">
+                           <ce:label>Supplementary data 1</ce:label>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S1369702118311933/mmc1" id="lk00030"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st100">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Novoselov</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>353</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>aac9439</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Britnell</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>340</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1311</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.H.L.</ce:given-name>
+                                 <ce:surname>Koppens</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Nanotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>780</sb:first-page>
+                              <sb:last-page>793</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Nanotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>699</sb:first-page>
+                              <sb:last-page>712</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Nanotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>218</sb:first-page>
+                              <sb:last-page>230</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Photonics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>899</sb:first-page>
+                              <sb:last-page>907</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Duan</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Soc. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8859</sb:first-page>
+                              <sb:last-page>8876</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>113</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3766</sb:first-page>
+                              <sb:last-page>3798</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Geim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.V.</ce:given-name>
+                                 <ce:surname>Grigorieva</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>499</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>419</sb:first-page>
+                              <sb:last-page>425</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Schaibley</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Rev. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>16055</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Tong</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>356</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Barati</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Nanotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1134</sb:first-page>
+                              <sb:last-page>1139</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Baxter</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annu. Rev. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>423</sb:first-page>
+                              <sb:last-page>447</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.A.</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Lian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annu. Rev. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>491</sb:first-page>
+                              <sb:last-page>519</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tvrdy</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Natl. Acad. Sci. U.S.A.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>108</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>29</sb:first-page>
+                              <sb:last-page>34</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Nano</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5718</sb:first-page>
+                              <sb:last-page>5726</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Hong</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Nanotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>682</sb:first-page>
+                              <sb:last-page>686</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="h0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12512</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Ceballos</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Nano</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12717</sb:first-page>
+                              <sb:last-page>12724</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="h0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5622</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Jariwala</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>170</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="h0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Konstantatos</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Nanotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>363</sb:first-page>
+                              <sb:last-page>368</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="h0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Nozik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica E</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>115</sb:first-page>
+                              <sb:last-page>120</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Funct. Mater.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1802015</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="h0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>You</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>477</sb:first-page>
+                              <sb:last-page>481</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="h0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>339</sb:first-page>
+                              <sb:last-page>345</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="h0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5625</sb:first-page>
+                              <sb:last-page>5629</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="h0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:article-number>125427</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="h0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:article-number>045406</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0150">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="h0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:article-number>201111</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0155">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="h0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Asbury</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>107</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7376</sb:first-page>
+                              <sb:last-page>7386</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0160">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="h0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Benkö</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>124</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>489</sb:first-page>
+                              <sb:last-page>493</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0165">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="h0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.F.</ce:given-name>
+                                 <ce:surname>Mak</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>207</sb:first-page>
+                              <sb:last-page>211</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0170">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference id="h0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Nozik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annu. Rev. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>193</sb:first-page>
+                              <sb:last-page>231</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0175">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference id="h0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Mueller</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>56</sb:first-page>
+                              <sb:last-page>60</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0180">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference id="h0180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6057</sb:first-page>
+                              <sb:last-page>6063</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0185">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference id="h0185">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Dawlaty</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:article-number>042116</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0190">
+                     <ce:label>[38]</ce:label>
+                     <sb:reference id="h0190">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Marcus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1956</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>966</sb:first-page>
+                              <sb:last-page>978</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0195">
+                     <ce:label>[39]</ce:label>
+                     <sb:reference id="h0195">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Najmaei</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>754</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0200">
+                     <ce:label>[40]</ce:label>
+                     <sb:reference id="h0200">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2943</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0205">
+                     <ce:label>[41]</ce:label>
+                     <sb:reference id="h0205">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Funct. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6394</sb:first-page>
+                              <sb:last-page>6401</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>
